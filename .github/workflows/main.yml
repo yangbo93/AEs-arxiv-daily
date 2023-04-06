@@ -35,7 +35,7 @@ jobs:
       - name: Set up Python Env
         uses: actions/setup-python@v1
         with:
-          python-version: 3.7        
+          python-version: 3.9        
 
       - name: Install dependencies
         run: |
@@ -47,7 +47,7 @@ jobs:
         run: |
           python arxiv-report.py
           
-      - name: Push new nlp-arxiv-daily.md
+      - name: Push new AEs-arxiv-daily.md
         uses: github-actions-x/commit@v2.8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}

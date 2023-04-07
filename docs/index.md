@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.06
+## Updated on 2023.04.07
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-05**|**How to choose your best allies for a transferable attack?**|Thibault Maho et.al.|[2304.02312v1](http://arxiv.org/abs/2304.02312v1)|**[link](https://github.com/t-maho/transferability_measure_fit)**|
 |**2023-04-03**|**Model-Agnostic Reachability Analysis on Deep Neural Networks**|Chi Zhang et.al.|[2304.00813v1](http://arxiv.org/abs/2304.00813v1)|null|
-|**2023-04-01**|**Improving Fast Adversarial Training with Prior-Guided Knowledge**|Xiaojun Jia et.al.|[2304.00202v1](http://arxiv.org/abs/2304.00202v1)|null|
+|**2023-04-06**|**Improving Fast Adversarial Training with Prior-Guided Knowledge**|Xiaojun Jia et.al.|[2304.00202v2](http://arxiv.org/abs/2304.00202v2)|null|
 |**2023-03-25**|**AdvCheck: Characterizing Adversarial Examples via Local Gradient Checking**|Ruoxi Chen et.al.|[2303.18131v1](http://arxiv.org/abs/2303.18131v1)|null|
 |**2023-03-29**|**Beyond Empirical Risk Minimization: Local Structure Preserving Regularization for Improving Adversarial Robustness**|Wei Wei et.al.|[2303.16861v1](http://arxiv.org/abs/2303.16861v1)|null|
 |**2023-03-29**|**Latent Feature Relation Consistency for Adversarial Robustness**|Xingbin Liu et.al.|[2303.16697v1](http://arxiv.org/abs/2303.16697v1)|**[link](https://github.com/liuxingbin/lfrc)**|

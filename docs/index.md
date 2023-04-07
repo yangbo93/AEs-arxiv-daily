@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**Robust Neural Architecture Search**|Xunyu Zhu et.al.|[2304.02845v1](http://arxiv.org/abs/2304.02845v1)|null|
+|**2023-04-05**|**Going Further: Flatness at the Rescue of Early Stopping for Adversarial Example Transferability**|Martin Gubri et.al.|[2304.02688v1](http://arxiv.org/abs/2304.02688v1)|**[link](https://github.com/framartin/rfn-flatness-transferability)**|
 |**2023-04-05**|**How to choose your best allies for a transferable attack?**|Thibault Maho et.al.|[2304.02312v1](http://arxiv.org/abs/2304.02312v1)|**[link](https://github.com/t-maho/transferability_measure_fit)**|
 |**2023-04-03**|**Model-Agnostic Reachability Analysis on Deep Neural Networks**|Chi Zhang et.al.|[2304.00813v1](http://arxiv.org/abs/2304.00813v1)|null|
 |**2023-04-06**|**Improving Fast Adversarial Training with Prior-Guided Knowledge**|Xiaojun Jia et.al.|[2304.00202v2](http://arxiv.org/abs/2304.00202v2)|null|
@@ -23,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**Semantic Information in a model of Resource Gathering Agents**|Damian R Sowinski et.al.|[2304.03286v1](http://arxiv.org/abs/2304.03286v1)|null|
+|**2023-04-06**|**SegGPT: Segmenting Everything In Context**|Xinlong Wang et.al.|[2304.03284v1](http://arxiv.org/abs/2304.03284v1)|**[link](https://github.com/baaivision/painter)**|
+|**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|
+|**2023-04-06**|**Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention**|Mingyu Ding et.al.|[2304.03282v1](http://arxiv.org/abs/2304.03282v1)|**[link](https://github.com/dingmyu/dependencyvit)**|
+|**2023-04-06**|**Unraveling the Mysteries of Multipartite Entanglement: A Journey Through Geometry**|Songbo Xie et.al.|[2304.03281v1](http://arxiv.org/abs/2304.03281v1)|null|
+|**2023-04-06**|**LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis**|Akshay Krishnan et.al.|[2304.03280v1](http://arxiv.org/abs/2304.03280v1)|null|
+|**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|null|
+|**2023-04-06**|**How Do US Congress Members Advertise Climate Change: An Analysis Of Ads Run On Meta's Platforms**|Laurenz Aisenpreis et.al.|[2304.03278v1](http://arxiv.org/abs/2304.03278v1)|null|
+|**2023-04-06**|**Instruction Tuning with GPT-4**|Baolin Peng et.al.|[2304.03277v1](http://arxiv.org/abs/2304.03277v1)|null|
+|**2023-04-06**|**That's What I Said: Fully-Controllable Talking Face Generation**|Youngjoon Jang et.al.|[2304.03275v1](http://arxiv.org/abs/2304.03275v1)|null|
 |**2023-04-05**|**Segment Anything**|Alexander Kirillov et.al.|[2304.02643v1](http://arxiv.org/abs/2304.02643v1)|**[link](https://github.com/facebookresearch/segment-anything)**|
 |**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642v1](http://arxiv.org/abs/2304.02642v1)|null|
 |**2023-04-05**|**Self-Distillation for Gaussian Process Regression and Classification**|Kenneth Borup et.al.|[2304.02641v1](http://arxiv.org/abs/2304.02641v1)|**[link](https://github.com/kennethborup/gaussian_process_self_distillation)**|

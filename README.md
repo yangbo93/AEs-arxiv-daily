@@ -21,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**SparseFormer: Sparse Visual Recognition via Limited Latent Tokens**|Ziteng Gao et.al.|[2304.03768v1](http://arxiv.org/abs/2304.03768v1)|null|
+|**2023-04-07**|**Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following**|Mingyu Ding et.al.|[2304.03767v1](http://arxiv.org/abs/2304.03767v1)|null|
+|**2023-04-07**|**Test your samples jointly: Pseudo-reference for image quality evaluation**|Marcelin Tworski et.al.|[2304.03766v1](http://arxiv.org/abs/2304.03766v1)|null|
+|**2023-04-07**|**Markov Decision Process Design: A Novel Framework for Integrating Strategic and Operational Decisions**|Seth Brown et.al.|[2304.03765v1](http://arxiv.org/abs/2304.03765v1)|null|
+|**2023-04-07**|**Zero-shot CT Field-of-view Completion with Unconditional Generative Diffusion Prior**|Kaiwen Xu et.al.|[2304.03760v1](http://arxiv.org/abs/2304.03760v1)|null|
+|**2023-04-07**|**An unsupervised segmentation of vocal breath sounds**|Shivani Yadav et.al.|[2304.03758v1](http://arxiv.org/abs/2304.03758v1)|null|
+|**2023-04-07**|**Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering**|Hung-Ting Su et.al.|[2304.03754v1](http://arxiv.org/abs/2304.03754v1)|null|
+|**2023-04-07**|**Responsive Parallelism with Synchronization**|Stefan K. Muller et.al.|[2304.03753v1](http://arxiv.org/abs/2304.03753v1)|null|
+|**2023-04-07**|**V3Det: Vast Vocabulary Visual Detection Dataset**|Jiaqi Wang et.al.|[2304.03752v1](http://arxiv.org/abs/2304.03752v1)|null|
+|**2023-04-07**|**Did the Universe Reheat After Recombination?**|J. Colin Hill et.al.|[2304.03750v1](http://arxiv.org/abs/2304.03750v1)|null|
 |**2023-04-06**|**Semantic Information in a model of Resource Gathering Agents**|Damian R Sowinski et.al.|[2304.03286v1](http://arxiv.org/abs/2304.03286v1)|null|
 |**2023-04-06**|**SegGPT: Segmenting Everything In Context**|Xinlong Wang et.al.|[2304.03284v1](http://arxiv.org/abs/2304.03284v1)|**[link](https://github.com/baaivision/painter)**|
 |**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|

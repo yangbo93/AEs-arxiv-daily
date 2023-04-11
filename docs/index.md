@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**Certifiable Black-Box Attack: Ensuring Provably Successful Attack for Adversarial Examples**|Hanbin Hong et.al.|[2304.04343v1](http://arxiv.org/abs/2304.04343v1)|null|
+|**2023-04-08**|**RobCaps: Evaluating the Robustness of Capsule Networks against Affine Transformations and Adversarial Attacks**|Alberto Marchisio et.al.|[2304.03973v1](http://arxiv.org/abs/2304.03973v1)|null|
 |**2023-04-10**|**Robust Neural Architecture Search**|Xunyu Zhu et.al.|[2304.02845v2](http://arxiv.org/abs/2304.02845v2)|null|
 |**2023-04-05**|**Going Further: Flatness at the Rescue of Early Stopping for Adversarial Example Transferability**|Martin Gubri et.al.|[2304.02688v1](http://arxiv.org/abs/2304.02688v1)|**[link](https://github.com/framartin/rfn-flatness-transferability)**|
 |**2023-04-05**|**How to choose your best allies for a transferable attack?**|Thibault Maho et.al.|[2304.02312v1](http://arxiv.org/abs/2304.02312v1)|**[link](https://github.com/t-maho/transferability_measure_fit)**|
@@ -25,6 +27,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**Exploring Effective Factors for Improving Visual In-Context Learning**|Yanpeng Sun et.al.|[2304.04748v1](http://arxiv.org/abs/2304.04748v1)|**[link](https://github.com/syp2ysy/prompt-self)**|
+|**2023-04-10**|**Pseudomechanics of supersymmetric oscillators**|Akash Sinha et.al.|[2304.04747v1](http://arxiv.org/abs/2304.04747v1)|null|
+|**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746v1](http://arxiv.org/abs/2304.04746v1)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
+|**2023-04-10**|**Ambiguous Medical Image Segmentation using Diffusion Models**|Aimon Rahman et.al.|[2304.04745v1](http://arxiv.org/abs/2304.04745v1)|**[link](https://github.com/aimansnigdha/ambiguous-medical-image-segmentation-using-diffusion-models)**|
+|**2023-04-10**|**Reflected Diffusion Models**|Aaron Lou et.al.|[2304.04740v1](http://arxiv.org/abs/2304.04740v1)|null|
+|**2023-04-10**|**Generalized $n$-series and de Rham complexes**|Sanath K. Devalapurkar et.al.|[2304.04739v1](http://arxiv.org/abs/2304.04739v1)|null|
+|**2023-04-10**|**Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool**|Sovesh Mohapatra et.al.|[2304.04738v1](http://arxiv.org/abs/2304.04738v1)|null|
+|**2023-04-10**|**A Comparison of Outflow Properties in AGN Dwarfs vs. Star Forming Dwarfs**|Archana Aravindan et.al.|[2304.04737v1](http://arxiv.org/abs/2304.04737v1)|null|
+|**2023-04-10**|**On the Possibilities of AI-Generated Text Detection**|Souradip Chakraborty et.al.|[2304.04736v1](http://arxiv.org/abs/2304.04736v1)|null|
+|**2023-04-10**|**Modularizing and Assembling Cognitive Map Learners via Hyperdimensional Computing**|Nathan McDonald et.al.|[2304.04734v1](http://arxiv.org/abs/2304.04734v1)|null|
 |**2023-04-07**|**SparseFormer: Sparse Visual Recognition via Limited Latent Tokens**|Ziteng Gao et.al.|[2304.03768v1](http://arxiv.org/abs/2304.03768v1)|null|
 |**2023-04-07**|**Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following**|Mingyu Ding et.al.|[2304.03767v1](http://arxiv.org/abs/2304.03767v1)|null|
 |**2023-04-07**|**Test your samples jointly: Pseudo-reference for image quality evaluation**|Marcelin Tworski et.al.|[2304.03766v1](http://arxiv.org/abs/2304.03766v1)|null|

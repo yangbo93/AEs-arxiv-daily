@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Simultaneous Adversarial Attacks On Multiple Face Recognition System Components**|Inderjeet Singh et.al.|[2304.05048v1](http://arxiv.org/abs/2304.05048v1)|null|
 |**2023-04-10**|**Certifiable Black-Box Attack: Ensuring Provably Successful Attack for Adversarial Examples**|Hanbin Hong et.al.|[2304.04343v1](http://arxiv.org/abs/2304.04343v1)|null|
 |**2023-04-08**|**RobCaps: Evaluating the Robustness of Capsule Networks against Affine Transformations and Adversarial Attacks**|Alberto Marchisio et.al.|[2304.03973v1](http://arxiv.org/abs/2304.03973v1)|null|
 |**2023-04-10**|**Robust Neural Architecture Search**|Xunyu Zhu et.al.|[2304.02845v2](http://arxiv.org/abs/2304.02845v2)|null|
@@ -27,6 +28,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies**|Laura Gustafson et.al.|[2304.05391v1](http://arxiv.org/abs/2304.05391v1)|**[link](https://github.com/facebookresearch/dollarstreet_factors)**|
+|**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
+|**2023-04-11**|**Human-AI Co-Creation Approach to Find Forever Chemicals Replacements**|Juliana Jansen Ferreira et.al.|[2304.05389v1](http://arxiv.org/abs/2304.05389v1)|null|
+|**2023-04-11**|**Correlation measures of a quantum state and information characteristics of a quantum channel**|M. E. Shirokov et.al.|[2304.05388v1](http://arxiv.org/abs/2304.05388v1)|null|
+|**2023-04-11**|**MOST: Multiple Object localization with Self-supervised Transformers for object discovery**|Sai Saketh Rambhatla et.al.|[2304.05387v1](http://arxiv.org/abs/2304.05387v1)|null|
+|**2023-04-11**|**Bloom filters for molecules**|Jorge Medina et.al.|[2304.05386v1](http://arxiv.org/abs/2304.05386v1)|null|
+|**2023-04-11**|**CEERS: Diversity of Lyman-Alpha Emitters during the Epoch of Reionization**|Intae Jung et.al.|[2304.05385v1](http://arxiv.org/abs/2304.05385v1)|null|
+|**2023-04-11**|**Spherically symmetric black hole spacetimes on hyperboloidal slices**|Alex Vañó-Viñuales et.al.|[2304.05384v1](http://arxiv.org/abs/2304.05384v1)|null|
+|**2023-04-11**|**Photon Chiral Memory Effect Stored on Celestial Sphere**|Azadeh Maleknejad et.al.|[2304.05381v1](http://arxiv.org/abs/2304.05381v1)|null|
+|**2023-04-11**|**Quantum-enhanced symmetric cryptanalysis for S-AES**|Alexey Moiseevskiy et.al.|[2304.05380v1](http://arxiv.org/abs/2304.05380v1)|null|
 |**2023-04-10**|**Exploring Effective Factors for Improving Visual In-Context Learning**|Yanpeng Sun et.al.|[2304.04748v1](http://arxiv.org/abs/2304.04748v1)|**[link](https://github.com/syp2ysy/prompt-self)**|
 |**2023-04-10**|**Pseudomechanics of supersymmetric oscillators**|Akash Sinha et.al.|[2304.04747v1](http://arxiv.org/abs/2304.04747v1)|null|
 |**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746v1](http://arxiv.org/abs/2304.04746v1)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|

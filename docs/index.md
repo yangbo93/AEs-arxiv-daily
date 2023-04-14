@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-13**|**False Claims against Model Ownership Resolution**|Jian Liu et.al.|[2304.06607v1](http://arxiv.org/abs/2304.06607v1)|null|
+|**2023-04-13**|**Adversarial Examples from Dimensional Invariance**|Benjamin L. Badger et.al.|[2304.06575v1](http://arxiv.org/abs/2304.06575v1)|null|
 |**2023-04-12**|**Generative Adversarial Networks-Driven Cyber Threat Intelligence Detection Framework for Securing Internet of Things**|Mohamed Amine Ferrag et.al.|[2304.05644v1](http://arxiv.org/abs/2304.05644v1)|null|
 |**2023-04-11**|**Boosting Cross-task Transferability of Adversarial Patches with Visual Relations**|Tony Ma et.al.|[2304.05402v1](http://arxiv.org/abs/2304.05402v1)|null|
 |**2023-04-11**|**Simultaneous Adversarial Attacks On Multiple Face Recognition System Components**|Inderjeet Singh et.al.|[2304.05048v1](http://arxiv.org/abs/2304.05048v1)|null|
@@ -30,6 +32,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-13**|**Expressive Text-to-Image Generation with Rich Text**|Songwei Ge et.al.|[2304.06720v1](http://arxiv.org/abs/2304.06720v1)|null|
+|**2023-04-13**|**RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions**|Shaoyuan Xie et.al.|[2304.06719v1](http://arxiv.org/abs/2304.06719v1)|**[link](https://github.com/Daniel-xsy/RoboBEV)**|
+|**2023-04-13**|**Segment Everything Everywhere All at Once**|Xueyan Zou et.al.|[2304.06718v1](http://arxiv.org/abs/2304.06718v1)|**[link](https://github.com/ux-decoder/segment-everything-everywhere-all-at-once)**|
+|**2023-04-13**|**Representing Volumetric Videos as Dynamic MLP Maps**|Sida Peng et.al.|[2304.06717v1](http://arxiv.org/abs/2304.06717v1)|null|
+|**2023-04-13**|**STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training**|Ziyan Huang et.al.|[2304.06716v1](http://arxiv.org/abs/2304.06716v1)|**[link](https://github.com/ziyan-huang/stu-net)**|
+|**2023-04-13**|**Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715v1](http://arxiv.org/abs/2304.06715v1)|null|
+|**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
+|**2023-04-13**|**What does CLIP know about a red circle? Visual prompt engineering for VLMs**|Aleksandar Shtedritski et.al.|[2304.06712v1](http://arxiv.org/abs/2304.06712v1)|null|
+|**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711v1](http://arxiv.org/abs/2304.06711v1)|null|
+|**2023-04-13**|**Remote Sensing Change Detection With Transformers Trained from Scratch**|Mubashir Noman et.al.|[2304.06710v1](http://arxiv.org/abs/2304.06710v1)|**[link](https://github.com/mustansarfiaz/scratchformer)**|
 |**2023-04-12**|**Fluctuation based interpretable analysis scheme for quantum many-body snapshots**|Henning Schlömer et.al.|[2304.06029v1](http://arxiv.org/abs/2304.06029v1)|null|
 |**2023-04-12**|**RECLIP: Resource-efficient CLIP by Training with Small Images**|Runze Li et.al.|[2304.06028v1](http://arxiv.org/abs/2304.06028v1)|null|
 |**2023-04-12**|**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**|James Seale Smith et.al.|[2304.06027v1](http://arxiv.org/abs/2304.06027v1)|null|

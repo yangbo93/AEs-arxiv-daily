@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense**|Jingyuan Wang et.al.|[2304.06919v1](http://arxiv.org/abs/2304.06919v1)|null|
+|**2023-04-14**|**Generating Adversarial Examples with Better Transferability via Masking Unimportant Parameters of Surrogate Model**|Dingcheng Yang et.al.|[2304.06908v1](http://arxiv.org/abs/2304.06908v1)|null|
 |**2023-04-13**|**False Claims against Model Ownership Resolution**|Jian Liu et.al.|[2304.06607v1](http://arxiv.org/abs/2304.06607v1)|null|
 |**2023-04-13**|**Adversarial Examples from Dimensional Invariance**|Benjamin L. Badger et.al.|[2304.06575v1](http://arxiv.org/abs/2304.06575v1)|null|
 |**2023-04-12**|**Generative Adversarial Networks-Driven Cyber Threat Intelligence Detection Framework for Securing Internet of Things**|Mohamed Amine Ferrag et.al.|[2304.05644v1](http://arxiv.org/abs/2304.05644v1)|null|
@@ -32,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
+|**2023-04-14**|**Optimizing the Resolution of Hydrodynamic Simulations for MCRaT Radiative Transfer Calculations**|Jose Arita-Escalante et.al.|[2304.07287v1](http://arxiv.org/abs/2304.07287v1)|null|
+|**2023-04-14**|**Realizing Majorana zero modes in magnetic field-free InAs-Al nanowires with fewer growth constraints**|Benjamin D Woods et.al.|[2304.07286v1](http://arxiv.org/abs/2304.07286v1)|null|
+|**2023-04-14**|**Ideals in the convolution algebra of periodic distributions**|Amol Sasane et.al.|[2304.07285v1](http://arxiv.org/abs/2304.07285v1)|null|
+|**2023-04-14**|**Solving Unique Games over Globally Hypercontractive Graphs**|Mitali Bafna et.al.|[2304.07284v1](http://arxiv.org/abs/2304.07284v1)|null|
+|**2023-04-14**|**Exploring the Non-Gaussianity of the Cosmic Infrared Background and Its Weak Gravitational Lensing**|Jaemyoung Lee et.al.|[2304.07283v1](http://arxiv.org/abs/2304.07283v1)|null|
+|**2023-04-14**|**Effect of magnetic fields on the dynamics and gravitational wave emission of PPI-saturated self-gravitating accretion disks: simulations in full GR**|Erik Wessel et.al.|[2304.07282v1](http://arxiv.org/abs/2304.07282v1)|null|
+|**2023-04-14**|**Sweeping Horndeski Canvas: New Growth-Rate Parameterization for Modified-Gravity Theories**|Yuewei Wen et.al.|[2304.07281v1](http://arxiv.org/abs/2304.07281v1)|null|
+|**2023-04-14**|**Synthetically Generating Human-like Data for Sequential Decision Making Tasks via Reward-Shaped Imitation Learning**|Bryan Brandt et.al.|[2304.07280v1](http://arxiv.org/abs/2304.07280v1)|null|
+|**2023-04-14**|**Dynamic scaling of order parameter fluctuations in model B**|Chandrodoy Chattopadhyay et.al.|[2304.07279v1](http://arxiv.org/abs/2304.07279v1)|null|
 |**2023-04-13**|**Expressive Text-to-Image Generation with Rich Text**|Songwei Ge et.al.|[2304.06720v1](http://arxiv.org/abs/2304.06720v1)|null|
 |**2023-04-13**|**RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions**|Shaoyuan Xie et.al.|[2304.06719v1](http://arxiv.org/abs/2304.06719v1)|**[link](https://github.com/Daniel-xsy/RoboBEV)**|
 |**2023-04-13**|**Segment Everything Everywhere All at Once**|Xueyan Zou et.al.|[2304.06718v1](http://arxiv.org/abs/2304.06718v1)|**[link](https://github.com/ux-decoder/segment-everything-everywhere-all-at-once)**|

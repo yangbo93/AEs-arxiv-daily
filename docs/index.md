@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-16**|**JoB-VS: Joint Brain-Vessel Segmentation in TOF-MRA Images**|Natalia Valderrama et.al.|[2304.07744v1](http://arxiv.org/abs/2304.07744v1)|**[link](https://github.com/bcv-uniandes/job-vs)**|
+|**2023-04-14**|**Combining Generators of Adversarial Malware Examples to Increase Evasion Rate**|Matouš Kozák et.al.|[2304.07360v1](http://arxiv.org/abs/2304.07360v1)|null|
 |**2023-04-14**|**Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense**|Jingyuan Wang et.al.|[2304.06919v1](http://arxiv.org/abs/2304.06919v1)|null|
 |**2023-04-14**|**Generating Adversarial Examples with Better Transferability via Masking Unimportant Parameters of Surrogate Model**|Dingcheng Yang et.al.|[2304.06908v1](http://arxiv.org/abs/2304.06908v1)|null|
 |**2023-04-13**|**False Claims against Model Ownership Resolution**|Jian Liu et.al.|[2304.06607v1](http://arxiv.org/abs/2304.06607v1)|null|
@@ -34,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**Delving into Shape-aware Zero-shot Semantic Segmentation**|Xinyu Liu et.al.|[2304.08491v1](http://arxiv.org/abs/2304.08491v1)|**[link](https://github.com/liuxinyv/sazs)**|
+|**2023-04-17**|**Conditional Generation of Audio from Video via Foley Analogies**|Yuexi Du et.al.|[2304.08490v1](http://arxiv.org/abs/2304.08490v1)|**[link](https://github.com/XYPB/CondFoleyGen)**|
+|**2023-04-17**|**A statistical model of stellar variability. I. FENRIR: a physics-based model of stellar activity, and its fast Gaussian process approximation**|Nathan C. Hara et.al.|[2304.08489v1](http://arxiv.org/abs/2304.08489v1)|null|
+|**2023-04-17**|**Affordances from Human Videos as a Versatile Representation for Robotics**|Shikhar Bahl et.al.|[2304.08488v1](http://arxiv.org/abs/2304.08488v1)|null|
+|**2023-04-17**|**Hyper-Decision Transformer for Efficient Online Policy Adaptation**|Mengdi Xu et.al.|[2304.08487v1](http://arxiv.org/abs/2304.08487v1)|null|
+|**2023-04-17**|**BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors**|Kathryn Wantlin et.al.|[2304.08486v1](http://arxiv.org/abs/2304.08486v1)|**[link](https://github.com/rajpurkarlab/benchmd)**|
+|**2023-04-17**|**Visual Instruction Tuning**|Haotian Liu et.al.|[2304.08485v1](http://arxiv.org/abs/2304.08485v1)|null|
+|**2023-04-17**|**Critical lines and ordered phases in a Rydberg-blockade ladder**|Luisa Eck et.al.|[2304.08484v1](http://arxiv.org/abs/2304.08484v1)|null|
+|**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang et.al.|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
+|**2023-04-17**|**On Learning Time Series Summary DAGs: A Frequency Domain Approach**|Aramayis Dallakyan et.al.|[2304.08482v1](http://arxiv.org/abs/2304.08482v1)|null|
 |**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
 |**2023-04-14**|**Optimizing the Resolution of Hydrodynamic Simulations for MCRaT Radiative Transfer Calculations**|Jose Arita-Escalante et.al.|[2304.07287v1](http://arxiv.org/abs/2304.07287v1)|null|
 |**2023-04-14**|**Realizing Majorana zero modes in magnetic field-free InAs-Al nanowires with fewer growth constraints**|Benjamin D Woods et.al.|[2304.07286v1](http://arxiv.org/abs/2304.07286v1)|null|

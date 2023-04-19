@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT**|Xinyue Shen et.al.|[2304.08979v1](http://arxiv.org/abs/2304.08979v1)|null|
+|**2023-04-18**|**Towards the Transferable Audio Adversarial Attack via Ensemble Methods**|Feng Guo et.al.|[2304.08811v1](http://arxiv.org/abs/2304.08811v1)|null|
+|**2023-04-18**|**Masked Language Model Based Textual Adversarial Example Detection**|Xiaomei Zhang et.al.|[2304.08767v1](http://arxiv.org/abs/2304.08767v1)|null|
 |**2023-04-16**|**JoB-VS: Joint Brain-Vessel Segmentation in TOF-MRA Images**|Natalia Valderrama et.al.|[2304.07744v1](http://arxiv.org/abs/2304.07744v1)|**[link](https://github.com/bcv-uniandes/job-vs)**|
 |**2023-04-14**|**Combining Generators of Adversarial Malware Examples to Increase Evasion Rate**|Matouš Kozák et.al.|[2304.07360v1](http://arxiv.org/abs/2304.07360v1)|null|
 |**2023-04-14**|**Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense**|Jingyuan Wang et.al.|[2304.06919v1](http://arxiv.org/abs/2304.06919v1)|null|
@@ -36,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Hyperbolic Image-Text Representations**|Karan Desai et.al.|[2304.09172v1](http://arxiv.org/abs/2304.09172v1)|null|
+|**2023-04-18**|**A bilevel approach for compensation and routing decisions in last-mile delivery**|Martina Cerulli et.al.|[2304.09170v1](http://arxiv.org/abs/2304.09170v1)|null|
+|**2023-04-18**|**A practical guide to a moment approach for neutrino transport in numerical relativity**|Carlo Musolino et.al.|[2304.09168v1](http://arxiv.org/abs/2304.09168v1)|null|
+|**2023-04-18**|**Optimal PAC Bounds Without Uniform Convergence**|Ishaq Aden-Ali et.al.|[2304.09167v1](http://arxiv.org/abs/2304.09167v1)|null|
+|**2023-04-18**|**Structure Preserving Cycle-GAN for Unsupervised Medical Image Domain Adaptation**|Paolo Iacono et.al.|[2304.09164v1](http://arxiv.org/abs/2304.09164v1)|null|
+|**2023-04-18**|**Neural networks for geospatial data**|Wentao Zhan et.al.|[2304.09157v1](http://arxiv.org/abs/2304.09157v1)|null|
+|**2023-04-18**|**Using simulation to design an MPC policy for field navigation using GPS sensing**|Harry Zhang et.al.|[2304.09156v1](http://arxiv.org/abs/2304.09156v1)|null|
+|**2023-04-18**|**Sharp-SSL: Selective high-dimensional axis-aligned random projections for semi-supervised learning**|Tengyao Wang et.al.|[2304.09154v1](http://arxiv.org/abs/2304.09154v1)|null|
+|**2023-04-18**|**UniMax: Fairer and more Effective Language Sampling for Large-Scale Multilingual Pretraining**|Hyung Won Chung et.al.|[2304.09151v1](http://arxiv.org/abs/2304.09151v1)|null|
+|**2023-04-18**|**Constraints on Europa's water group torus from HST/COS observations**|Lorenz Roth et.al.|[2304.09150v1](http://arxiv.org/abs/2304.09150v1)|null|
 |**2023-04-17**|**Delving into Shape-aware Zero-shot Semantic Segmentation**|Xinyu Liu et.al.|[2304.08491v1](http://arxiv.org/abs/2304.08491v1)|**[link](https://github.com/liuxinyv/sazs)**|
 |**2023-04-17**|**Conditional Generation of Audio from Video via Foley Analogies**|Yuexi Du et.al.|[2304.08490v1](http://arxiv.org/abs/2304.08490v1)|**[link](https://github.com/XYPB/CondFoleyGen)**|
 |**2023-04-17**|**A statistical model of stellar variability. I. FENRIR: a physics-based model of stellar activity, and its fast Gaussian process approximation**|Nathan C. Hara et.al.|[2304.08489v1](http://arxiv.org/abs/2304.08489v1)|null|

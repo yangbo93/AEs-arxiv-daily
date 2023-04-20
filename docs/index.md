@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-18**|**In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT**|Xinyue Shen et.al.|[2304.08979v1](http://arxiv.org/abs/2304.08979v1)|null|
 |**2023-04-18**|**Towards the Transferable Audio Adversarial Attack via Ensemble Methods**|Feng Guo et.al.|[2304.08811v1](http://arxiv.org/abs/2304.08811v1)|null|
-|**2023-04-18**|**Masked Language Model Based Textual Adversarial Example Detection**|Xiaomei Zhang et.al.|[2304.08767v1](http://arxiv.org/abs/2304.08767v1)|null|
+|**2023-04-19**|**Masked Language Model Based Textual Adversarial Example Detection**|Xiaomei Zhang et.al.|[2304.08767v2](http://arxiv.org/abs/2304.08767v2)|**[link](https://github.com/mlmddetection/mlmddetection)**|
 |**2023-04-16**|**JoB-VS: Joint Brain-Vessel Segmentation in TOF-MRA Images**|Natalia Valderrama et.al.|[2304.07744v1](http://arxiv.org/abs/2304.07744v1)|**[link](https://github.com/bcv-uniandes/job-vs)**|
 |**2023-04-14**|**Combining Generators of Adversarial Malware Examples to Increase Evasion Rate**|Matouš Kozák et.al.|[2304.07360v1](http://arxiv.org/abs/2304.07360v1)|null|
 |**2023-04-14**|**Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense**|Jingyuan Wang et.al.|[2304.06919v1](http://arxiv.org/abs/2304.06919v1)|null|

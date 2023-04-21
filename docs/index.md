@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Diversifying the High-level Features for better Adversarial Transferability**|Zhiyuan Wang et.al.|[2304.10136v1](http://arxiv.org/abs/2304.10136v1)|null|
+|**2023-04-20**|**Towards the Universal Defense for Query-Based Audio Adversarial Attacks**|Feng Guo et.al.|[2304.10088v1](http://arxiv.org/abs/2304.10088v1)|null|
 |**2023-04-18**|**In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT**|Xinyue Shen et.al.|[2304.08979v1](http://arxiv.org/abs/2304.08979v1)|null|
 |**2023-04-18**|**Towards the Transferable Audio Adversarial Attack via Ensemble Methods**|Feng Guo et.al.|[2304.08811v1](http://arxiv.org/abs/2304.08811v1)|null|
 |**2023-04-19**|**Masked Language Model Based Textual Adversarial Example Detection**|Xiaomei Zhang et.al.|[2304.08767v2](http://arxiv.org/abs/2304.08767v2)|**[link](https://github.com/mlmddetection/mlmddetection)**|
@@ -39,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Compact Steep Spectrum Radio Sources with Enhanced Star Formation are Smaller than $10\,$kpc**|Yjan A. Gordon et.al.|[2304.10538v1](http://arxiv.org/abs/2304.10538v1)|null|
+|**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536v1](http://arxiv.org/abs/2304.10536v1)|null|
+|**2023-04-20**|**Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion**|Tomas Jakab et.al.|[2304.10535v1](http://arxiv.org/abs/2304.10535v1)|null|
+|**2023-04-20**|**The Whitham approach to Generalized Hydrodynamics**|Frederik Møller et.al.|[2304.10533v1](http://arxiv.org/abs/2304.10533v1)|null|
+|**2023-04-20**|**Collaborative Diffusion for Multi-Modal Face Generation and Editing**|Ziqi Huang et.al.|[2304.10530v1](http://arxiv.org/abs/2304.10530v1)|**[link](https://github.com/ziqihuangg/collaborative-diffusion)**|
+|**2023-04-20**|**Generalizing Neural Human Fitting to Unseen Poses With Articulated SE(3) Equivariance**|Haiwen Feng et.al.|[2304.10528v1](http://arxiv.org/abs/2304.10528v1)|null|
+|**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527v1](http://arxiv.org/abs/2304.10527v1)|null|
+|**2023-04-20**|**GenCorres: Consistent Shape Matching via Coupled Implicit-Explicit Shape Generative Models**|Haitao Yang et.al.|[2304.10523v1](http://arxiv.org/abs/2304.10523v1)|null|
+|**2023-04-20**|**On the pseudovariety of groups $\mathbf{U} = \displaystyle\bigvee_{p \in \mathbb{P}} {\bf Ab}(p) \ast {\bf Ab}(p-1)$**|Claude Marion et.al.|[2304.10522v1](http://arxiv.org/abs/2304.10522v1)|null|
+|**2023-04-20**|**A class of mesh-free algorithms for some problems arising in finance and machine learning**|Philippe G. LeFloch et.al.|[2304.10521v1](http://arxiv.org/abs/2304.10521v1)|null|
 |**2023-04-19**|**LipsFormer: Introducing Lipschitz Continuity to Vision Transformers**|Xianbiao Qi et.al.|[2304.09856v1](http://arxiv.org/abs/2304.09856v1)|**[link](https://github.com/idea-research/lipsformer)**|
 |**2023-04-19**|**Generalized Analytical Estimation of Sensitivity Matrices in Unbalanced Distribution Networks**|Salish Maharjan et.al.|[2304.09855v1](http://arxiv.org/abs/2304.09855v1)|null|
 |**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v1](http://arxiv.org/abs/2304.09854v1)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|

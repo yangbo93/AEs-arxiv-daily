@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.23
+## Updated on 2023.04.24
 
 ## Adversarial Examples
 
@@ -49,7 +49,7 @@ layout: default
 |**2023-04-20**|**Generalizing Neural Human Fitting to Unseen Poses With Articulated SE(3) Equivariance**|Haiwen Feng et.al.|[2304.10528v1](http://arxiv.org/abs/2304.10528v1)|null|
 |**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527v1](http://arxiv.org/abs/2304.10527v1)|null|
 |**2023-04-20**|**GenCorres: Consistent Shape Matching via Coupled Implicit-Explicit Shape Generative Models**|Haitao Yang et.al.|[2304.10523v1](http://arxiv.org/abs/2304.10523v1)|null|
-|**2023-04-20**|**On the pseudovariety of groups $\mathbf{U} = \displaystyle\bigvee_{p \in \mathbb{P}} {\bf Ab}(p) \ast {\bf Ab}(p-1)$**|Claude Marion et.al.|[2304.10522v1](http://arxiv.org/abs/2304.10522v1)|null|
+|**2023-04-21**|**On the pseudovariety of groups $\mathbf{U} = \displaystyle\bigvee_{p \in \mathbb{P}} {\bf Ab}(p) \ast {\bf Ab}(p-1)$**|Claude Marion et.al.|[2304.10522v2](http://arxiv.org/abs/2304.10522v2)|null|
 |**2023-04-20**|**A class of mesh-free algorithms for some problems arising in finance and machine learning**|Philippe G. LeFloch et.al.|[2304.10521v1](http://arxiv.org/abs/2304.10521v1)|null|
 |**2023-04-19**|**LipsFormer: Introducing Lipschitz Continuity to Vision Transformers**|Xianbiao Qi et.al.|[2304.09856v1](http://arxiv.org/abs/2304.09856v1)|**[link](https://github.com/idea-research/lipsformer)**|
 |**2023-04-19**|**Generalized Analytical Estimation of Sensitivity Matrices in Unbalanced Distribution Networks**|Salish Maharjan et.al.|[2304.09855v1](http://arxiv.org/abs/2304.09855v1)|null|

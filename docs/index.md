@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Can Perturbations Help Reduce Investment Risks? Risk-Aware Stock Recommendation via Split Variational Adversarial Training**|Jiezhu Cheng et.al.|[2304.11043v1](http://arxiv.org/abs/2304.11043v1)|null|
+|**2023-04-20**|**Using Z3 for Formal Modeling and Verification of FNN Global Robustness**|Yihao Zhang et.al.|[2304.10558v1](http://arxiv.org/abs/2304.10558v1)|**[link](https://github.com/weizeming/z3_for_verification_of_fnn_global_robustness)**|
 |**2023-04-20**|**Diversifying the High-level Features for better Adversarial Transferability**|Zhiyuan Wang et.al.|[2304.10136v1](http://arxiv.org/abs/2304.10136v1)|null|
 |**2023-04-20**|**Towards the Universal Defense for Query-Based Audio Adversarial Attacks**|Feng Guo et.al.|[2304.10088v1](http://arxiv.org/abs/2304.10088v1)|null|
 |**2023-04-18**|**In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT**|Xinyue Shen et.al.|[2304.08979v1](http://arxiv.org/abs/2304.08979v1)|null|
@@ -41,6 +43,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**The Isotonic Mechanism for Exponential Family Estimation**|Yuling Yan et.al.|[2304.11160v1](http://arxiv.org/abs/2304.11160v1)|null|
+|**2023-04-21**|**Exploring Ququart Computation on a Transmon using Optimal Control**|Lennart Maximilian Seifert et.al.|[2304.11159v1](http://arxiv.org/abs/2304.11159v1)|null|
+|**2023-04-21**|**Emergent and Predictable Memorization in Large Language Models**|Stella Biderman et.al.|[2304.11158v1](http://arxiv.org/abs/2304.11158v1)|null|
+|**2023-04-21**|**Running vacuum in the Universe: phenomenological status in light of the latest observations, and its impact on the $σ_8$ and $H_0$ tensions**|Joan Sola Peracaula et.al.|[2304.11157v1](http://arxiv.org/abs/2304.11157v1)|null|
+|**2023-04-21**|**Commutation relations and stability of switched systems: a personal history**|Daniel Liberzon et.al.|[2304.11155v1](http://arxiv.org/abs/2304.11155v1)|null|
+|**2023-04-21**|**Transition to the Haldane phase driven by electron-electron correlations**|A. Jażdżewska et.al.|[2304.11154v1](http://arxiv.org/abs/2304.11154v1)|null|
+|**2023-04-21**|**Detectability of Late-time Supernova Neutrinos with Fallback Accretion onto Protoneutron star**|Ryuichiro Akaho et.al.|[2304.11150v1](http://arxiv.org/abs/2304.11150v1)|null|
+|**2023-04-21**|**Monomodes in Tribonacci Chains**|Julius Krebbekx et.al.|[2304.11144v1](http://arxiv.org/abs/2304.11144v1)|null|
+|**2023-04-21**|**Latitudinal storm track shift in a reduced two-level model of the atmosphere**|Melanie Kobras et.al.|[2304.11143v1](http://arxiv.org/abs/2304.11143v1)|null|
+|**2023-04-21**|**Inclusive production of fully-charmed tetraquarks at LHC**|Feng Feng et.al.|[2304.11142v1](http://arxiv.org/abs/2304.11142v1)|null|
 |**2023-04-20**|**Compact Steep Spectrum Radio Sources with Enhanced Star Formation are Smaller than $10\,$kpc**|Yjan A. Gordon et.al.|[2304.10538v1](http://arxiv.org/abs/2304.10538v1)|null|
 |**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536v1](http://arxiv.org/abs/2304.10536v1)|null|
 |**2023-04-20**|**Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion**|Tomas Jakab et.al.|[2304.10535v1](http://arxiv.org/abs/2304.10535v1)|null|

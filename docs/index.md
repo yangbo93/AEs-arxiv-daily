@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-23**|**Evading DeepFake Detectors via Adversarial Statistical Consistency**|Yang Hou et.al.|[2304.11670v1](http://arxiv.org/abs/2304.11670v1)|null|
+|**2023-04-23**|**StyLess: Boosting the Transferability of Adversarial Examples**|Kaisheng Liang et.al.|[2304.11579v1](http://arxiv.org/abs/2304.11579v1)|null|
 |**2023-04-20**|**Can Perturbations Help Reduce Investment Risks? Risk-Aware Stock Recommendation via Split Variational Adversarial Training**|Jiezhu Cheng et.al.|[2304.11043v1](http://arxiv.org/abs/2304.11043v1)|null|
 |**2023-04-24**|**Using Z3 for Formal Modeling and Verification of FNN Global Robustness**|Yihao Zhang et.al.|[2304.10558v2](http://arxiv.org/abs/2304.10558v2)|**[link](https://github.com/weizeming/z3_for_verification_of_fnn_global_robustness)**|
 |**2023-04-20**|**Diversifying the High-level Features for better Adversarial Transferability**|Zhiyuan Wang et.al.|[2304.10136v1](http://arxiv.org/abs/2304.10136v1)|null|
@@ -43,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Constraining the onset density for the QCD phase transition with the neutrino signal from core-collapse supernovae**|Noshad Khosravi Largani et.al.|[2304.12316v1](http://arxiv.org/abs/2304.12316v1)|null|
+|**2023-04-24**|**Once Detected, Never Lost: Surpassing Human Performance in Offline LiDAR based 3D Object Detection**|Lue Fan et.al.|[2304.12315v1](http://arxiv.org/abs/2304.12315v1)|**[link](https://github.com/tusen-ai/sst)**|
+|**2023-04-24**|**Distilling from Similar Tasks for Transfer Learning on a Budget**|Kenneth Borup et.al.|[2304.12314v1](http://arxiv.org/abs/2304.12314v1)|null|
+|**2023-04-24**|**Non-linear optics at twist interfaces in h-BN/SiC heterostructures**|Abhijit Biswas et.al.|[2304.12312v1](http://arxiv.org/abs/2304.12312v1)|null|
+|**2023-04-24**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v1](http://arxiv.org/abs/2304.12308v1)|null|
+|**2023-04-24**|**Optimization of chemical mixers design via tensor trains and quantum computing**|Nikita Belokonev et.al.|[2304.12307v1](http://arxiv.org/abs/2304.12307v1)|null|
+|**2023-04-24**|**Segment Anything in Medical Images**|Jun Ma et.al.|[2304.12306v1](http://arxiv.org/abs/2304.12306v1)|**[link](https://github.com/bowang-lab/medsam)**|
+|**2023-04-24**|**Co-optimization of Operational Unit Commitment and Reserve Power Scheduling for Modern Grid**|Ramkrishna Mishan et.al.|[2304.12302v1](http://arxiv.org/abs/2304.12302v1)|null|
+|**2023-04-24**|**AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation**|Takehiko Ohkawa et.al.|[2304.12301v1](http://arxiv.org/abs/2304.12301v1)|null|
+|**2023-04-24**|**Large-capacity and Flexible Video Steganography via Invertible Neural Network**|Chong Mou et.al.|[2304.12300v1](http://arxiv.org/abs/2304.12300v1)|**[link](https://github.com/mc-e/lf-vsn)**|
 |**2023-04-21**|**The Isotonic Mechanism for Exponential Family Estimation**|Yuling Yan et.al.|[2304.11160v1](http://arxiv.org/abs/2304.11160v1)|null|
 |**2023-04-21**|**Exploring Ququart Computation on a Transmon using Optimal Control**|Lennart Maximilian Seifert et.al.|[2304.11159v1](http://arxiv.org/abs/2304.11159v1)|null|
 |**2023-04-21**|**Emergent and Predictable Memorization in Large Language Models**|Stella Biderman et.al.|[2304.11158v1](http://arxiv.org/abs/2304.11158v1)|null|

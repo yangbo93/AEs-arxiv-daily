@@ -45,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**|Huan-ang Gao et.al.|[2304.13031v1](http://arxiv.org/abs/2304.13031v1)|**[link](https://github.com/air-discover/dqs3d)**|
+|**2023-04-25**|**CompletionFormer: Depth Completion with Convolutions and Vision Transformers**|Zhang Youmin et.al.|[2304.13030v1](http://arxiv.org/abs/2304.13030v1)|**[link](https://github.com/youmi-zym/completionformer)**|
+|**2023-04-25**|**Unifying Emergent Hydrodynamics and Lindbladian Low Energy Spectra across Symmetries, Constraints, and Long-Range Interactions**|Olumakinde Ogunnaike et.al.|[2304.13028v1](http://arxiv.org/abs/2304.13028v1)|null|
+|**2023-04-25**|**A Strong and Reproducible Object Detector with Only Public Datasets**|Tianhe Ren et.al.|[2304.13027v1](http://arxiv.org/abs/2304.13027v1)|**[link](https://github.com/idea-research/stabledino)**|
+|**2023-04-25**|**The limiting distribution of Legendre paths**|Ayesha Hussain et.al.|[2304.13025v1](http://arxiv.org/abs/2304.13025v1)|null|
+|**2023-04-25**|**On the mechanism of polaritonic rate suppression from quantum transition paths**|Michelle C. Anderson et.al.|[2304.13024v1](http://arxiv.org/abs/2304.13024v1)|null|
+|**2023-04-25**|**Seeing is not always believing: A Quantitative Study on Human Perception of AI-Generated Images**|Zeyu Lu et.al.|[2304.13023v1](http://arxiv.org/abs/2304.13023v1)|null|
+|**2023-04-25**|**Certifying Ensembles: A General Certification Theory with S-Lipschitzness**|Aleksandar Petrov et.al.|[2304.13019v1](http://arxiv.org/abs/2304.13019v1)|null|
+|**2023-04-25**|**DuETT: Dual Event Time Transformer for Electronic Health Records**|Alex Labach et.al.|[2304.13017v1](http://arxiv.org/abs/2304.13017v1)|**[link](https://github.com/layer6ai-labs/duett)**|
+|**2023-04-25**|**Subsample Ridge Ensembles: Equivalences and Generalized Cross-Validation**|Jin-Hong Du et.al.|[2304.13016v1](http://arxiv.org/abs/2304.13016v1)|null|
 |**2023-04-24**|**Constraining the onset density for the QCD phase transition with the neutrino signal from core-collapse supernovae**|Noshad Khosravi Largani et.al.|[2304.12316v1](http://arxiv.org/abs/2304.12316v1)|null|
 |**2023-04-24**|**Once Detected, Never Lost: Surpassing Human Performance in Offline LiDAR based 3D Object Detection**|Lue Fan et.al.|[2304.12315v1](http://arxiv.org/abs/2304.12315v1)|**[link](https://github.com/tusen-ai/sst)**|
 |**2023-04-24**|**Distilling from Similar Tasks for Transfer Learning on a Budget**|Kenneth Borup et.al.|[2304.12314v1](http://arxiv.org/abs/2304.12314v1)|null|

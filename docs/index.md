@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-26**|**Improving Adversarial Transferability by Intermediate-level Perturbation Decay**|Qizhang Li et.al.|[2304.13410v1](http://arxiv.org/abs/2304.13410v1)|null|
+|**2023-04-26**|**Generating Adversarial Examples with Task Oriented Multi-Objective Optimization**|Anh Bui et.al.|[2304.13229v1](http://arxiv.org/abs/2304.13229v1)|null|
 |**2023-04-23**|**Evading DeepFake Detectors via Adversarial Statistical Consistency**|Yang Hou et.al.|[2304.11670v1](http://arxiv.org/abs/2304.11670v1)|null|
 |**2023-04-23**|**StyLess: Boosting the Transferability of Adversarial Examples**|Kaisheng Liang et.al.|[2304.11579v1](http://arxiv.org/abs/2304.11579v1)|**[link](https://github.com/uhiu/styless)**|
 |**2023-04-20**|**Can Perturbations Help Reduce Investment Risks? Risk-Aware Stock Recommendation via Split Variational Adversarial Training**|Jiezhu Cheng et.al.|[2304.11043v1](http://arxiv.org/abs/2304.11043v1)|null|
@@ -45,6 +47,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-26**|**A Control-Centric Benchmark for Video Prediction**|Stephen Tian et.al.|[2304.13723v1](http://arxiv.org/abs/2304.13723v1)|**[link](https://github.com/s-tian/vp2)**|
+|**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
+|**2023-04-26**|**A low-metallicity massive contact binary undergoing slow Case A mass transfer: A detailed spectroscopic and orbital analysis of SSN 7 in NGC 346 in the SMC**|M. J. Rickard et.al.|[2304.13720v1](http://arxiv.org/abs/2304.13720v1)|null|
+|**2023-04-26**|**Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models**|Dominik Honegger et.al.|[2304.13718v1](http://arxiv.org/abs/2304.13718v1)|null|
+|**2023-04-26**|**Fermionic skyrmions and bosonization for a Gross-Neveu transition**|Xiao Yan Xu et.al.|[2304.13716v1](http://arxiv.org/abs/2304.13716v1)|null|
+|**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
+|**2023-04-26**|**The slippery slope of dust attenuation curves: Correlation of dust attenuation laws with star-to-dust compactness up to z = 4**|M. Hamed et.al.|[2304.13713v1](http://arxiv.org/abs/2304.13713v1)|null|
+|**2023-04-26**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v1](http://arxiv.org/abs/2304.13712v1)|null|
+|**2023-04-26**|**Hopfield model with planted patterns: a teacher-student self-supervised learning model**|Francesco Alemanno et.al.|[2304.13710v1](http://arxiv.org/abs/2304.13710v1)|null|
+|**2023-04-26**|**Quantifying inner-outer interactions in non-canonical wall-bounded flows**|Mogeng Li et.al.|[2304.13707v1](http://arxiv.org/abs/2304.13707v1)|null|
 |**2023-04-25**|**DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**|Huan-ang Gao et.al.|[2304.13031v1](http://arxiv.org/abs/2304.13031v1)|**[link](https://github.com/air-discover/dqs3d)**|
 |**2023-04-25**|**CompletionFormer: Depth Completion with Convolutions and Vision Transformers**|Zhang Youmin et.al.|[2304.13030v1](http://arxiv.org/abs/2304.13030v1)|**[link](https://github.com/youmi-zym/completionformer)**|
 |**2023-04-25**|**Unifying Emergent Hydrodynamics and Lindbladian Low Energy Spectra across Symmetries, Constraints, and Long-Range Interactions**|Olumakinde Ogunnaike et.al.|[2304.13028v1](http://arxiv.org/abs/2304.13028v1)|null|

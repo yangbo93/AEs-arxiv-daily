@@ -47,6 +47,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**|Junke Wang et.al.|[2304.14407v1](http://arxiv.org/abs/2304.14407v1)|null|
+|**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|**[link](https://github.com/adobe-research/affordance-insertion)**|
+|**2023-04-27**|**ViMQ: A Vietnamese Medical Question Dataset for Healthcare Dialogue System Development**|Ta Duc Huy et.al.|[2304.14405v1](http://arxiv.org/abs/2304.14405v1)|**[link](https://github.com/tadeephuy/vimq)**|
+|**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404v1](http://arxiv.org/abs/2304.14404v1)|null|
+|**2023-04-27**|**LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions**|Minghao Wu et.al.|[2304.14402v1](http://arxiv.org/abs/2304.14402v1)|**[link](https://github.com/mbzuai-nlp/lamini-lm)**|
+|**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
+|**2023-04-27**|**IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers**|Ronghuan Wu et.al.|[2304.14400v1](http://arxiv.org/abs/2304.14400v1)|null|
+|**2023-04-27**|**We're Afraid Language Models Aren't Modeling Ambiguity**|Alisa Liu et.al.|[2304.14399v1](http://arxiv.org/abs/2304.14399v1)|**[link](https://github.com/alisawuffles/ambient)**|
+|**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398v1](http://arxiv.org/abs/2304.14398v1)|null|
+|**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos et.al.|[2304.14396v1](http://arxiv.org/abs/2304.14396v1)|null|
 |**2023-04-26**|**A Control-Centric Benchmark for Video Prediction**|Stephen Tian et.al.|[2304.13723v1](http://arxiv.org/abs/2304.13723v1)|**[link](https://github.com/s-tian/vp2)**|
 |**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
 |**2023-04-27**|**A low-metallicity massive contact binary undergoing slow Case A mass transfer: A detailed spectroscopic and orbital analysis of SSN 7 in NGC 346 in the SMC**|M. J. Rickard et.al.|[2304.13720v2](http://arxiv.org/abs/2304.13720v2)|null|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2304.14867v1](http://arxiv.org/abs/2304.14867v1)|null|
 |**2023-04-26**|**Improving Adversarial Transferability by Intermediate-level Perturbation Decay**|Qizhang Li et.al.|[2304.13410v1](http://arxiv.org/abs/2304.13410v1)|null|
 |**2023-04-26**|**Generating Adversarial Examples with Task Oriented Multi-Objective Optimization**|Anh Bui et.al.|[2304.13229v1](http://arxiv.org/abs/2304.13229v1)|null|
 |**2023-04-23**|**Evading DeepFake Detectors via Adversarial Statistical Consistency**|Yang Hou et.al.|[2304.11670v1](http://arxiv.org/abs/2304.11670v1)|null|
@@ -47,6 +48,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-04-28**|**The Cosmological Switchback Effect**|Stefano Baiguera et.al.|[2304.15008v1](http://arxiv.org/abs/2304.15008v1)|null|
+|**2023-04-28**|**Newton's second law as limit of variational problems**|Edoardo Mainini et.al.|[2304.15007v1](http://arxiv.org/abs/2304.15007v1)|null|
+|**2023-04-28**|**Are Emergent Abilities of Large Language Models a Mirage?**|Rylan Schaeffer et.al.|[2304.15004v1](http://arxiv.org/abs/2304.15004v1)|null|
+|**2023-04-28**|**Quantum Control Machine: The Limits of Quantum Programs as Data**|Charles Yuan et.al.|[2304.15000v1](http://arxiv.org/abs/2304.15000v1)|**[link](https://github.com/psg-mit/qcm-artifact)**|
+|**2023-04-28**|**Empirical Analysis of the Strengths and Weaknesses of PEFT Techniques for LLMs**|George Pu et.al.|[2304.14999v1](http://arxiv.org/abs/2304.14999v1)|null|
+|**2023-04-28**|**Towards Automated Circuit Discovery for Mechanistic Interpretability**|Arthur Conmy et.al.|[2304.14997v1](http://arxiv.org/abs/2304.14997v1)|null|
+|**2023-04-28**|**Maximizing Reachability Probabilities in Rectangular Automata with Random Clocks**|Joanna Delicaris et.al.|[2304.14996v1](http://arxiv.org/abs/2304.14996v1)|null|
+|**2023-04-28**|**A Stable and Scalable Method for Solving Initial Value PDEs with Neural Networks**|Marc Finzi et.al.|[2304.14994v1](http://arxiv.org/abs/2304.14994v1)|**[link](https://github.com/mfinzi/neural-ivp)**|
+|**2023-04-28**|**ChatGPT -- a Blessing or a Curse for Undergraduate Computer Science Students and Instructors?**|Ishika Joshi et.al.|[2304.14993v1](http://arxiv.org/abs/2304.14993v1)|null|
 |**2023-04-27**|**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**|Junke Wang et.al.|[2304.14407v1](http://arxiv.org/abs/2304.14407v1)|null|
 |**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|**[link](https://github.com/adobe-research/affordance-insertion)**|
 |**2023-04-27**|**ViMQ: A Vietnamese Medical Question Dataset for Healthcare Dialogue System Development**|Ta Duc Huy et.al.|[2304.14405v1](http://arxiv.org/abs/2304.14405v1)|**[link](https://github.com/tadeephuy/vimq)**|

@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.05.02
+## Updated on 2023.05.03
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-01**|**Attack-SAM: Towards Evaluating Adversarial Robustness of Segment Anything Model**|Chenshuang Zhang et.al.|[2305.00866v1](http://arxiv.org/abs/2305.00866v1)|null|
-|**2023-05-01**|**Revisiting Robustness in Graph Machine Learning**|Lukas Gosch et.al.|[2305.00851v1](http://arxiv.org/abs/2305.00851v1)|null|
+|**2023-05-02**|**Revisiting Robustness in Graph Machine Learning**|Lukas Gosch et.al.|[2305.00851v2](http://arxiv.org/abs/2305.00851v2)|null|
 |**2023-04-28**|**Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2304.14867v1](http://arxiv.org/abs/2304.14867v1)|null|
 |**2023-04-26**|**Improving Adversarial Transferability by Intermediate-level Perturbation Decay**|Qizhang Li et.al.|[2304.13410v1](http://arxiv.org/abs/2304.13410v1)|null|
 |**2023-04-26**|**Generating Adversarial Examples with Task Oriented Multi-Objective Optimization**|Anh Bui et.al.|[2304.13229v1](http://arxiv.org/abs/2304.13229v1)|null|

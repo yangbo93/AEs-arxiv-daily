@@ -50,6 +50,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Antiferromagnetic bosonic $t$-$J$ models and their quantum simulation in tweezer arrays**|Lukas Homeier et.al.|[2305.02322v1](http://arxiv.org/abs/2305.02322v1)|null|
+|**2023-05-03**|**Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden**|Karen Zhou et.al.|[2305.02321v1](http://arxiv.org/abs/2305.02321v1)|null|
+|**2023-05-03**|**Generating Synthetic Documents for Cross-Encoder Re-Rankers: A Comparative Study of ChatGPT and Human Experts**|Arian Askari et.al.|[2305.02320v1](http://arxiv.org/abs/2305.02320v1)|null|
+|**2023-05-03**|**Testing charge quantization with axion string-induced cosmic birefringence**|Weichen Winston Yin et.al.|[2305.02318v1](http://arxiv.org/abs/2305.02318v1)|null|
+|**2023-05-03**|**Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings**|Daniel Rose et.al.|[2305.02317v1](http://arxiv.org/abs/2305.02317v1)|null|
+|**2023-05-03**|**AG3D: Learning to Generate 3D Avatars from 2D Image Collections**|Zijian Dong et.al.|[2305.02312v1](http://arxiv.org/abs/2305.02312v1)|null|
+|**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310v1](http://arxiv.org/abs/2305.02310v1)|null|
+|**2023-05-03**|**CodeGen2: Lessons for Training LLMs on Programming and Natural Languages**|Erik Nijkamp et.al.|[2305.02309v1](http://arxiv.org/abs/2305.02309v1)|**[link](https://github.com/salesforce/codegen2)**|
+|**2023-05-03**|**Fashionpedia-Taste: A Dataset towards Explaining Human Fashion Taste**|Mengyun Shi et.al.|[2305.02307v1](http://arxiv.org/abs/2305.02307v1)|null|
+|**2023-05-03**|**Calibrated Explanations: with Uncertainty Information and Counterfactuals**|Helena Lofstrom et.al.|[2305.02305v1](http://arxiv.org/abs/2305.02305v1)|null|
 |**2023-05-02**|**Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection**|Ruoshi Liu et.al.|[2305.01652v1](http://arxiv.org/abs/2305.01652v1)|null|
 |**2023-05-02**|**Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge**|Yasumasa Onoe et.al.|[2305.01651v1](http://arxiv.org/abs/2305.01651v1)|null|
 |**2023-05-03**|**Probing critical states of matter on a digital quantum computer**|Reza Haghshenas et.al.|[2305.01650v2](http://arxiv.org/abs/2305.01650v2)|null|

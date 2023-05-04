@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.03
+## Updated on 2023.05.04
 
 ## Adversarial Examples
 
@@ -52,10 +52,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-02**|**Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection**|Ruoshi Liu et.al.|[2305.01652v1](http://arxiv.org/abs/2305.01652v1)|null|
 |**2023-05-02**|**Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge**|Yasumasa Onoe et.al.|[2305.01651v1](http://arxiv.org/abs/2305.01651v1)|null|
-|**2023-05-02**|**Probing critical states of matter on a digital quantum computer**|Reza Haghshenas et.al.|[2305.01650v1](http://arxiv.org/abs/2305.01650v1)|null|
+|**2023-05-03**|**Probing critical states of matter on a digital quantum computer**|Reza Haghshenas et.al.|[2305.01650v2](http://arxiv.org/abs/2305.01650v2)|null|
 |**2023-05-02**|**Generalizing Dataset Distillation via Deep Generative Prior**|George Cazenavette et.al.|[2305.01649v1](http://arxiv.org/abs/2305.01649v1)|**[link](https://github.com/georgecazenavette/glad)**|
 |**2023-05-02**|**Wilson loops and defect RG flows in ABJM**|Luigi Castiglioni et.al.|[2305.01647v1](http://arxiv.org/abs/2305.01647v1)|null|
-|**2023-05-02**|**Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models**|Junmo Kang et.al.|[2305.01645v1](http://arxiv.org/abs/2305.01645v1)|null|
+|**2023-05-03**|**Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models**|Junmo Kang et.al.|[2305.01645v2](http://arxiv.org/abs/2305.01645v2)|null|
 |**2023-05-02**|**Key-Locked Rank One Editing for Text-to-Image Personalization**|Yoad Tewel et.al.|[2305.01644v1](http://arxiv.org/abs/2305.01644v1)|null|
 |**2023-05-02**|**Neural LiDAR Fields for Novel View Synthesis**|Shengyu Huang et.al.|[2305.01643v1](http://arxiv.org/abs/2305.01643v1)|null|
 |**2023-05-02**|**Orbital Hall effect in mesoscopic devices**|Diego B. Fonseca et.al.|[2305.01640v1](http://arxiv.org/abs/2305.01640v1)|null|

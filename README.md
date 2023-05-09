@@ -1,4 +1,4 @@
-## Updated on 2023.05.08
+## Updated on 2023.05.09
 
 ## Adversarial Examples
 
@@ -7,7 +7,7 @@
 |**2023-05-03**|**New Adversarial Image Detection Based on Sentiment Analysis**|Yulong Wang et.al.|[2305.03173v1](http://arxiv.org/abs/2305.03173v1)|**[link](https://github.com/wangfrombupt/adversarial_detector)**|
 |**2023-05-04**|**Madvex: Instrumentation-based Adversarial Attacks on Machine Learning Malware Detection**|Nils Loose et.al.|[2305.02559v1](http://arxiv.org/abs/2305.02559v1)|null|
 |**2023-05-05**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v2](http://arxiv.org/abs/2305.01361v2)|null|
-|**2023-05-01**|**Attack-SAM: Towards Evaluating Adversarial Robustness of Segment Anything Model**|Chenshuang Zhang et.al.|[2305.00866v1](http://arxiv.org/abs/2305.00866v1)|null|
+|**2023-05-08**|**Attack-SAM: Towards Attacking Segment Anything Model With Adversarial Examples**|Chenshuang Zhang et.al.|[2305.00866v2](http://arxiv.org/abs/2305.00866v2)|null|
 |**2023-05-02**|**Revisiting Robustness in Graph Machine Learning**|Lukas Gosch et.al.|[2305.00851v2](http://arxiv.org/abs/2305.00851v2)|null|
 |**2023-04-28**|**Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2304.14867v1](http://arxiv.org/abs/2304.14867v1)|null|
 |**2023-04-26**|**Improving Adversarial Transferability by Intermediate-level Perturbation Decay**|Qizhang Li et.al.|[2304.13410v1](http://arxiv.org/abs/2304.13410v1)|null|

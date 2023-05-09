@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Toward Adversarial Training on Contextualized Language Representation**|Hongqiu Wu et.al.|[2305.04557v1](http://arxiv.org/abs/2305.04557v1)|**[link](https://github.com/gingasan/creat)**|
+|**2023-05-08**|**Adversarial Examples Detection with Enhanced Image Difference Features based on Local Histogram Equalization**|Zhaoxia Yin et.al.|[2305.04436v1](http://arxiv.org/abs/2305.04436v1)|null|
+|**2023-05-06**|**Reactive Perturbation Defocusing for Textual Adversarial Defense**|Heng Yang et.al.|[2305.04067v1](http://arxiv.org/abs/2305.04067v1)|null|
+|**2023-05-06**|**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**|Ye Sang et.al.|[2305.03963v1](http://arxiv.org/abs/2305.03963v1)|null|
 |**2023-05-03**|**New Adversarial Image Detection Based on Sentiment Analysis**|Yulong Wang et.al.|[2305.03173v1](http://arxiv.org/abs/2305.03173v1)|**[link](https://github.com/wangfrombupt/adversarial_detector)**|
 |**2023-05-04**|**Madvex: Instrumentation-based Adversarial Attacks on Machine Learning Malware Detection**|Nils Loose et.al.|[2305.02559v1](http://arxiv.org/abs/2305.02559v1)|null|
 |**2023-05-05**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v2](http://arxiv.org/abs/2305.01361v2)|null|
@@ -53,6 +57,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds**|Jinyu Li et.al.|[2305.04925v1](http://arxiv.org/abs/2305.04925v1)|**[link](https://github.com/qcraftai/pillarnext)**|
+|**2023-05-08**|**Learning to Evaluate the Artness of AI-generated Images**|Junyu Chen et.al.|[2305.04923v1](http://arxiv.org/abs/2305.04923v1)|null|
+|**2023-05-08**|**An unusually low-density super-Earth transiting the bright early-type M-dwarf GJ 1018 (TOI-244)**|A. Castro-González et.al.|[2305.04922v1](http://arxiv.org/abs/2305.04922v1)|null|
+|**2023-05-08**|**The semigroup of increasing functions on the rational numbers has a unique Polish topology**|Michael Pinsker et.al.|[2305.04921v1](http://arxiv.org/abs/2305.04921v1)|null|
+|**2023-05-08**|**Shedding Light on Microscopic Details: 2D Spectroscopy of 1D Quantum Ising Magnets**|GiBaik Sim et.al.|[2305.04920v1](http://arxiv.org/abs/2305.04920v1)|null|
+|**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919v1](http://arxiv.org/abs/2305.04919v1)|null|
+|**2023-05-08**|**The Computational Complexity of Equilibria with Strategic Constraints**|Bruce M. Kapron et.al.|[2305.04918v1](http://arxiv.org/abs/2305.04918v1)|null|
+|**2023-05-08**|**Gradient descent with a general cost**|Flavien Léger et.al.|[2305.04917v1](http://arxiv.org/abs/2305.04917v1)|null|
+|**2023-05-08**|**Information Mutation and Spread of Misinformation in Timely Gossip Networks**|Priyanka Kaswan et.al.|[2305.04913v1](http://arxiv.org/abs/2305.04913v1)|null|
+|**2023-05-08**|**Origins of Life on Exoplanets**|Paul B. Rimmer et.al.|[2305.04911v1](http://arxiv.org/abs/2305.04911v1)|null|
 |**2023-05-05**|**Otter: A Multi-Modal Model with In-Context Instruction Tuning**|Bo Li et.al.|[2305.03726v1](http://arxiv.org/abs/2305.03726v1)|null|
 |**2023-05-05**|**DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEV Perception**|Yunze Man et.al.|[2305.03724v1](http://arxiv.org/abs/2305.03724v1)|null|
 |**2023-05-05**|**Uniform convergence of Dyson Ferrari-Spohn diffusions to the Airy line ensemble**|Evgeni Dimitrov et.al.|[2305.03723v1](http://arxiv.org/abs/2305.03723v1)|null|

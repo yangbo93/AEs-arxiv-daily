@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**RNNS: Representation Nearest Neighbor Search Black-Box Attack on Code Models**|Jie Zhang et.al.|[2305.05896v1](http://arxiv.org/abs/2305.05896v1)|null|
+|**2023-05-10**|**Quantization Aware Attack: Enhancing the Transferability of Adversarial Attacks across Target Models with Different Quantization Bitwidths**|Yulong Yang et.al.|[2305.05875v1](http://arxiv.org/abs/2305.05875v1)|null|
 |**2023-05-09**|**Attack Named Entity Recognition by Entity Boundary Interference**|Yifei Yang et.al.|[2305.05253v1](http://arxiv.org/abs/2305.05253v1)|null|
 |**2023-05-08**|**Toward Adversarial Training on Contextualized Language Representation**|Hongqiu Wu et.al.|[2305.04557v1](http://arxiv.org/abs/2305.04557v1)|**[link](https://github.com/gingasan/creat)**|
 |**2023-05-08**|**Adversarial Examples Detection with Enhanced Image Difference Features based on Local Histogram Equalization**|Zhaoxia Yin et.al.|[2305.04436v1](http://arxiv.org/abs/2305.04436v1)|null|
@@ -54,6 +56,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**VideoChat: Chat-Centric Video Understanding**|KunChang Li et.al.|[2305.06355v1](http://arxiv.org/abs/2305.06355v1)|**[link](https://github.com/opengvlab/ask-anything)**|
+|**2023-05-10**|**An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference**|Joshua Agterberg et.al.|[2305.06353v1](http://arxiv.org/abs/2305.06353v1)|null|
+|**2023-05-10**|**Generalizations and Extensions to Lifting Constructions for Coded Caching**|V. R. Aravind et.al.|[2305.06352v1](http://arxiv.org/abs/2305.06352v1)|null|
+|**2023-05-10**|**Reconstructing Animatable Categories from Videos**|Gengshan Yang et.al.|[2305.06351v1](http://arxiv.org/abs/2305.06351v1)|null|
+|**2023-05-10**|**On the degeneracies between baryons, massive neutrinos and f(R) gravity in Stage IV cosmic shear analyses**|A. Spurio Mancini et.al.|[2305.06350v1](http://arxiv.org/abs/2305.06350v1)|null|
+|**2023-05-10**|**RECKONING: Reasoning through Dynamic Knowledge Encoding**|Zeming Chen et.al.|[2305.06349v1](http://arxiv.org/abs/2305.06349v1)|null|
+|**2023-05-10**|**Supervised learning with probabilistic morphisms and kernel mean embeddings**|Hông Vân Lê et.al.|[2305.06348v1](http://arxiv.org/abs/2305.06348v1)|null|
+|**2023-05-10**|**CosmoPower-JAX: high-dimensional Bayesian inference with differentiable cosmological emulators**|D. Piras et.al.|[2305.06347v1](http://arxiv.org/abs/2305.06347v1)|**[link](https://github.com/dpiras/cosmopower-jax)**|
+|**2023-05-10**|**Magnetic Catalysis in Holographic Model with Two Types of Anisotropy for Heavy Quarks**|Irina Ya. Aref'eva et.al.|[2305.06345v1](http://arxiv.org/abs/2305.06345v1)|null|
+|**2023-05-10**|**Frequency-Supported Neural Networks for Nonlinear Dynamical System Identification**|Krzysztof Zając et.al.|[2305.06344v1](http://arxiv.org/abs/2305.06344v1)|null|
 |**2023-05-09**|**New MGCAMB tests of gravity with CosmoMC and Cobaya**|Zhuangfei Wang et.al.|[2305.05667v1](http://arxiv.org/abs/2305.05667v1)|null|
 |**2023-05-09**|**Policy Gradient Methods in the Presence of Symmetries and State Abstractions**|Prakash Panangaden et.al.|[2305.05666v1](http://arxiv.org/abs/2305.05666v1)|null|
 |**2023-05-09**|**ImageBind: One Embedding Space To Bind Them All**|Rohit Girdhar et.al.|[2305.05665v1](http://arxiv.org/abs/2305.05665v1)|**[link](https://github.com/facebookresearch/imagebind)**|

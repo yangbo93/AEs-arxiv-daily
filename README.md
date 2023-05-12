@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Inter-frame Accelerate Attack against Video Interpolation Models**|Junpei Liao et.al.|[2305.06540v1](http://arxiv.org/abs/2305.06540v1)|null|
+|**2023-05-11**|**Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications**|Han Cheol Moon et.al.|[2305.06522v1](http://arxiv.org/abs/2305.06522v1)|null|
 |**2023-05-10**|**RNNS: Representation Nearest Neighbor Search Black-Box Attack on Code Models**|Jie Zhang et.al.|[2305.05896v1](http://arxiv.org/abs/2305.05896v1)|null|
 |**2023-05-10**|**Quantization Aware Attack: Enhancing the Transferability of Adversarial Attacks across Target Models with Different Quantization Bitwidths**|Yulong Yang et.al.|[2305.05875v1](http://arxiv.org/abs/2305.05875v1)|null|
 |**2023-05-09**|**Attack Named Entity Recognition by Entity Boundary Interference**|Yifei Yang et.al.|[2305.05253v1](http://arxiv.org/abs/2305.05253v1)|null|
@@ -56,6 +58,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**2D Hamiltonians with exotic bipartite and topological entanglement**|Shankar Balasubramanian et.al.|[2305.07028v1](http://arxiv.org/abs/2305.07028v1)|null|
+|**2023-05-11**|**EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention**|Xinyu Liu et.al.|[2305.07027v1](http://arxiv.org/abs/2305.07027v1)|**[link](https://github.com/microsoft/cream)**|
+|**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024v1](http://arxiv.org/abs/2305.07024v1)|**[link](https://github.com/xt4d/sparsegnv)**|
+|**2023-05-11**|**Measuring the Variance of the Macquart Relation in z-DM Modeling**|Jay Baptista et.al.|[2305.07022v1](http://arxiv.org/abs/2305.07022v1)|null|
+|**2023-05-11**|**Simple Token-Level Confidence Improves Caption Correctness**|Suzanne Petryk et.al.|[2305.07021v1](http://arxiv.org/abs/2305.07021v1)|null|
+|**2023-05-11**|**Using Pressure to Unravel the Structure-Dynamic-Disorder Relationship in Metal Halide Perovskites**|Kai Xu et.al.|[2305.07020v1](http://arxiv.org/abs/2305.07020v1)|null|
+|**2023-05-11**|**Musketeer (All for One, and One for All): A Generalist Vision-Language Model with Task Explanation Prompts**|Zhaoyang Zhang et.al.|[2305.07019v1](http://arxiv.org/abs/2305.07019v1)|null|
+|**2023-05-11**|**An Inverse Scaling Law for CLIP Training**|Xianhang Li et.al.|[2305.07017v1](http://arxiv.org/abs/2305.07017v1)|**[link](https://github.com/ucsc-vlaa/clipa)**|
+|**2023-05-11**|**A General-Purpose Multilingual Document Encoder**|Onur Galoğlu et.al.|[2305.07016v1](http://arxiv.org/abs/2305.07016v1)|**[link](https://github.com/ogaloglu/pre-training-multilingual-document-encoders)**|
+|**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
 |**2023-05-10**|**VideoChat: Chat-Centric Video Understanding**|KunChang Li et.al.|[2305.06355v1](http://arxiv.org/abs/2305.06355v1)|**[link](https://github.com/opengvlab/ask-anything)**|
 |**2023-05-10**|**An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference**|Joshua Agterberg et.al.|[2305.06353v1](http://arxiv.org/abs/2305.06353v1)|null|
 |**2023-05-10**|**Generalizations and Extensions to Lifting Constructions for Coded Caching**|V. R. Aravind et.al.|[2305.06352v1](http://arxiv.org/abs/2305.06352v1)|null|

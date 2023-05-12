@@ -1,4 +1,4 @@
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@
 |**2023-05-08**|**Toward Adversarial Training on Contextualized Language Representation**|Hongqiu Wu et.al.|[2305.04557v1](http://arxiv.org/abs/2305.04557v1)|**[link](https://github.com/gingasan/creat)**|
 |**2023-05-08**|**Adversarial Examples Detection with Enhanced Image Difference Features based on Local Histogram Equalization**|Zhaoxia Yin et.al.|[2305.04436v1](http://arxiv.org/abs/2305.04436v1)|null|
 |**2023-05-06**|**Reactive Perturbation Defocusing for Textual Adversarial Defense**|Heng Yang et.al.|[2305.04067v1](http://arxiv.org/abs/2305.04067v1)|null|
-|**2023-05-06**|**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**|Ye Sang et.al.|[2305.03963v1](http://arxiv.org/abs/2305.03963v1)|null|
+|**2023-05-11**|**Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps**|Ye Sang et.al.|[2305.03963v2](http://arxiv.org/abs/2305.03963v2)|null|
 |**2023-05-03**|**New Adversarial Image Detection Based on Sentiment Analysis**|Yulong Wang et.al.|[2305.03173v1](http://arxiv.org/abs/2305.03173v1)|**[link](https://github.com/wangfrombupt/adversarial_detector)**|
 |**2023-05-04**|**Madvex: Instrumentation-based Adversarial Attacks on Machine Learning Malware Detection**|Nils Loose et.al.|[2305.02559v1](http://arxiv.org/abs/2305.02559v1)|null|
 |**2023-05-05**|**Boosting Adversarial Transferability via Fusing Logits of Top-1 Decomposed Feature**|Juanjuan Weng et.al.|[2305.01361v2](http://arxiv.org/abs/2305.01361v2)|null|

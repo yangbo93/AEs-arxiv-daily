@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.05.14
+## Updated on 2023.05.15
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-11**|**Inter-frame Accelerate Attack against Video Interpolation Models**|Junpei Liao et.al.|[2305.06540v1](http://arxiv.org/abs/2305.06540v1)|null|
-|**2023-05-11**|**Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications**|Han Cheol Moon et.al.|[2305.06522v1](http://arxiv.org/abs/2305.06522v1)|null|
+|**2023-05-11**|**Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications**|Han Cheol Moon et.al.|[2305.06522v1](http://arxiv.org/abs/2305.06522v1)|**[link](https://github.com/han8931/rsmi_nlp)**|
 |**2023-05-10**|**RNNS: Representation Nearest Neighbor Search Black-Box Attack on Code Models**|Jie Zhang et.al.|[2305.05896v1](http://arxiv.org/abs/2305.05896v1)|null|
 |**2023-05-10**|**Quantization Aware Attack: Enhancing the Transferability of Adversarial Attacks across Target Models with Different Quantization Bitwidths**|Yulong Yang et.al.|[2305.05875v1](http://arxiv.org/abs/2305.05875v1)|null|
 |**2023-05-09**|**Attack Named Entity Recognition by Entity Boundary Interference**|Yifei Yang et.al.|[2305.05253v1](http://arxiv.org/abs/2305.05253v1)|null|

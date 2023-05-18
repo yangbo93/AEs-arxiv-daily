@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.05.17
+## Updated on 2023.05.18
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-16**|**Releasing Inequlity Phenomena in $L_{\infty}$-Adversarial Training via Input Gradient Distillation**|Junxi Chen et.al.|[2305.09305v1](http://arxiv.org/abs/2305.09305v1)|null|
+|**2023-05-17**|**Releasing Inequality Phenomena in $L_{\infty}$-Adversarial Training via Input Gradient Distillation**|Junxi Chen et.al.|[2305.09305v2](http://arxiv.org/abs/2305.09305v2)|null|
 |**2023-05-15**|**Attacking Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2305.08840v1](http://arxiv.org/abs/2305.08840v1)|null|
 |**2023-05-14**|**Diffusion Models for Imperceptible and Transferable Adversarial Attack**|Jianqi Chen et.al.|[2305.08192v1](http://arxiv.org/abs/2305.08192v1)|**[link](https://github.com/windvchen/diffattack)**|
 |**2023-05-11**|**Inter-frame Accelerate Attack against Video Interpolation Models**|Junpei Liao et.al.|[2305.06540v1](http://arxiv.org/abs/2305.06540v1)|null|
@@ -74,7 +74,7 @@ layout: default
 |**2023-05-16**|**Osteosarcoma Tumor Detection using Transfer Learning Models**|Raisa Fairooz Meem et.al.|[2305.09660v1](http://arxiv.org/abs/2305.09660v1)|null|
 |**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659v1](http://arxiv.org/abs/2305.09659v1)|null|
 |**2023-05-16**|**Newad: A register map automation tool for Verilog**|Vamsi K Vytla et.al.|[2305.09657v1](http://arxiv.org/abs/2305.09657v1)|null|
-|**2023-05-16**|**Satisfiability-Aided Language Models Using Declarative Prompting**|Xi Ye et.al.|[2305.09656v1](http://arxiv.org/abs/2305.09656v1)|**[link](https://github.com/xiye17/sat-lm)**|
+|**2023-05-17**|**Satisfiability-Aided Language Models Using Declarative Prompting**|Xi Ye et.al.|[2305.09656v2](http://arxiv.org/abs/2305.09656v2)|**[link](https://github.com/xiye17/sat-lm)**|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|null|
 |**2023-05-15**|**CQE: A Comprehensive Quantity Extractor**|Satya Almasian et.al.|[2305.08853v1](http://arxiv.org/abs/2305.08853v1)|**[link](https://github.com/vivkaz/cqe)**|
 |**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851v1](http://arxiv.org/abs/2305.08851v1)|**[link](https://github.com/ziyang-xie/mv-map)**|

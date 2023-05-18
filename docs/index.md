@@ -65,6 +65,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431v1](http://arxiv.org/abs/2305.10431v1)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
+|**2023-05-17**|**DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining**|Sang Michael Xie et.al.|[2305.10429v1](http://arxiv.org/abs/2305.10429v1)|null|
+|**2023-05-17**|**Field-level Lyman-alpha forest modelling in redshift space via augmented non-local Fluctuating Gunn-Peterson Approximation**|Francesco Sinigaglia et.al.|[2305.10428v1](http://arxiv.org/abs/2305.10428v1)|null|
+|**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427v1](http://arxiv.org/abs/2305.10427v1)|null|
+|**2023-05-17**|**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**|Yao Zhao et.al.|[2305.10425v1](http://arxiv.org/abs/2305.10425v1)|null|
+|**2023-05-17**|**ZeroFlow: Fast Zero Label Scene Flow via Distillation**|Kyle Vedder et.al.|[2305.10424v1](http://arxiv.org/abs/2305.10424v1)|null|
+|**2023-05-17**|**Online data-driven changepoint detection for high-dimensional dynamical systems**|Sen Lin et.al.|[2305.10423v1](http://arxiv.org/abs/2305.10423v1)|null|
+|**2023-05-17**|**Four-manifolds and Symmetry Categories of 2d CFTs**|Vladimir Bashmakov et.al.|[2305.10422v1](http://arxiv.org/abs/2305.10422v1)|null|
+|**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421v1](http://arxiv.org/abs/2305.10421v1)|null|
+|**2023-05-17**|**CLIP-GCD: Simple Language Guided Generalized Category Discovery**|Rabah Ouldnoughi et.al.|[2305.10420v1](http://arxiv.org/abs/2305.10420v1)|null|
 |**2023-05-16**|**Annotating 8,000 Abdominal CT Volumes for Multi-Organ Segmentation in Three Weeks**|Chongyu Qu et.al.|[2305.09666v1](http://arxiv.org/abs/2305.09666v1)|null|
 |**2023-05-16**|**Fluxbranes, Generalized Symmetries, and Verlinde's Metastable Monopole**|Mirjam Cvetič et.al.|[2305.09665v1](http://arxiv.org/abs/2305.09665v1)|null|
 |**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|null|

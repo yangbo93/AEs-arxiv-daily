@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**Latent Magic: An Investigation into Adversarial Examples Crafted in the Semantic Latent Space**|BoYang Zheng et.al.|[2305.12906v1](http://arxiv.org/abs/2305.12906v1)|null|
+|**2023-05-22**|**Uncertainty-based Detection of Adversarial Attacks in Semantic Segmentation**|Kira Maag et.al.|[2305.12825v1](http://arxiv.org/abs/2305.12825v1)|null|
+|**2023-05-22**|**Mist: Towards Improved Adversarial Examples for Diffusion Models**|Chumeng Liang et.al.|[2305.12683v1](http://arxiv.org/abs/2305.12683v1)|null|
 |**2023-05-18**|**Explaining V1 Properties with a Biologically Constrained Deep Learning Architecture**|Galen Pogoncheff et.al.|[2305.11275v1](http://arxiv.org/abs/2305.11275v1)|null|
 |**2023-05-18**|**How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses**|Joana C. Costa et.al.|[2305.10862v1](http://arxiv.org/abs/2305.10862v1)|null|
 |**2023-05-18**|**Towards an Accurate and Secure Detector against Adversarial Perturbations**|Chao Wang et.al.|[2305.10856v1](http://arxiv.org/abs/2305.10856v1)|null|
@@ -69,6 +72,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**Contextualising Implicit Representations for Semantic Tasks**|Theo W. Costain et.al.|[2305.13312v1](http://arxiv.org/abs/2305.13312v1)|null|
+|**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
+|**2023-05-22**|**Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching**|Yang Liu et.al.|[2305.13310v1](http://arxiv.org/abs/2305.13310v1)|**[link](https://github.com/aim-uofa/matcher)**|
+|**2023-05-22**|**Evaluating Factual Consistency of Texts with Semantic Role Labeling**|Jing Fan et.al.|[2305.13309v1](http://arxiv.org/abs/2305.13309v1)|**[link](https://github.com/heyjing/srlscore)**|
+|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|null|
+|**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
+|**2023-05-22**|**Growth of ultrawide-bandgap BN/diamond heterostructures by pulsed laser deposition**|Abhijit Biswas et.al.|[2305.13306v1](http://arxiv.org/abs/2305.13306v1)|null|
+|**2023-05-22**|**Type Ia Supernova Explosions in Binary Systems: A Review**|Zheng-Wei Liu et.al.|[2305.13305v1](http://arxiv.org/abs/2305.13305v1)|null|
+|**2023-05-22**|**RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text**|Wangchunshu Zhou et.al.|[2305.13304v1](http://arxiv.org/abs/2305.13304v1)|**[link](https://github.com/aiwaves-cn/recurrentgpt)**|
+|**2023-05-22**|**Towards Unsupervised Recognition of Semantic Differences in Related Documents**|Jannis Vamvas et.al.|[2305.13303v1](http://arxiv.org/abs/2305.13303v1)|**[link](https://github.com/zurichnlp/recognizing-semantic-differences)**|
 |**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
 |**2023-05-19**|**Adaptive identification of SISO linear infinite-dimensional systems**|Sudipta Chattopadhyay et.al.|[2305.11868v1](http://arxiv.org/abs/2305.11868v1)|null|
 |**2023-05-19**|**North Sámi Dialect Identification with Self-supervised Speech Models**|Sofoklis Kakouros et.al.|[2305.11864v1](http://arxiv.org/abs/2305.11864v1)|**[link](https://github.com/skakouros/sami_dialects)**|

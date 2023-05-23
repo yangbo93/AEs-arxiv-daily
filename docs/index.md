@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.22
+## Updated on 2023.05.23
 
 ## Adversarial Examples
 
@@ -17,7 +17,7 @@ layout: default
 |**2023-05-14**|**Diffusion Models for Imperceptible and Transferable Adversarial Attack**|Jianqi Chen et.al.|[2305.08192v1](http://arxiv.org/abs/2305.08192v1)|**[link](https://github.com/windvchen/diffattack)**|
 |**2023-05-11**|**Inter-frame Accelerate Attack against Video Interpolation Models**|Junpei Liao et.al.|[2305.06540v1](http://arxiv.org/abs/2305.06540v1)|null|
 |**2023-05-11**|**Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications**|Han Cheol Moon et.al.|[2305.06522v1](http://arxiv.org/abs/2305.06522v1)|**[link](https://github.com/han8931/rsmi_nlp)**|
-|**2023-05-10**|**RNNS: Representation Nearest Neighbor Search Black-Box Attack on Code Models**|Jie Zhang et.al.|[2305.05896v1](http://arxiv.org/abs/2305.05896v1)|null|
+|**2023-05-20**|**RNNS: Representation Nearest Neighbor Search Black-Box Attack on Code Models**|Jie Zhang et.al.|[2305.05896v2](http://arxiv.org/abs/2305.05896v2)|null|
 |**2023-05-10**|**Quantization Aware Attack: Enhancing the Transferability of Adversarial Attacks across Target Models with Different Quantization Bitwidths**|Yulong Yang et.al.|[2305.05875v1](http://arxiv.org/abs/2305.05875v1)|null|
 |**2023-05-09**|**Attack Named Entity Recognition by Entity Boundary Interference**|Yifei Yang et.al.|[2305.05253v1](http://arxiv.org/abs/2305.05253v1)|null|
 |**2023-05-08**|**Toward Adversarial Training on Contextualized Language Representation**|Hongqiu Wu et.al.|[2305.04557v1](http://arxiv.org/abs/2305.04557v1)|**[link](https://github.com/gingasan/creat)**|
@@ -71,8 +71,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
 |**2023-05-19**|**Adaptive identification of SISO linear infinite-dimensional systems**|Sudipta Chattopadhyay et.al.|[2305.11868v1](http://arxiv.org/abs/2305.11868v1)|null|
-|**2023-05-19**|**North Sámi Dialect Identification with Self-supervised Speech Models**|Sofoklis Kakouros et.al.|[2305.11864v1](http://arxiv.org/abs/2305.11864v1)|null|
-|**2023-05-19**|**Scaling laws for language encoding models in fMRI**|Richard Antonello et.al.|[2305.11863v1](http://arxiv.org/abs/2305.11863v1)|null|
+|**2023-05-19**|**North Sámi Dialect Identification with Self-supervised Speech Models**|Sofoklis Kakouros et.al.|[2305.11864v1](http://arxiv.org/abs/2305.11864v1)|**[link](https://github.com/skakouros/sami_dialects)**|
+|**2023-05-22**|**Scaling laws for language encoding models in fMRI**|Richard Antonello et.al.|[2305.11863v2](http://arxiv.org/abs/2305.11863v2)|null|
 |**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862v1](http://arxiv.org/abs/2305.11862v1)|null|
 |**2023-05-19**|**Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs**|Pranjal Aggarwal et.al.|[2305.11860v1](http://arxiv.org/abs/2305.11860v1)|null|
 |**2023-05-19**|**Complex Claim Verification with Evidence Retrieved in the Wild**|Jifan Chen et.al.|[2305.11859v1](http://arxiv.org/abs/2305.11859v1)|**[link](https://github.com/jifan-chen/fact-checking-via-raw-evidence)**|

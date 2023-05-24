@@ -4,8 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Enhancing Accuracy and Robustness through Adversarial Training in Class Incremental Continual Learning**|Minchan Kwon et.al.|[2305.13678v1](http://arxiv.org/abs/2305.13678v1)|null|
+|**2023-05-23**|**DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection**|Jiang Liu et.al.|[2305.13625v1](http://arxiv.org/abs/2305.13625v1)|null|
 |**2023-05-22**|**Latent Magic: An Investigation into Adversarial Examples Crafted in the Semantic Latent Space**|BoYang Zheng et.al.|[2305.12906v1](http://arxiv.org/abs/2305.12906v1)|null|
-|**2023-05-22**|**Uncertainty-based Detection of Adversarial Attacks in Semantic Segmentation**|Kira Maag et.al.|[2305.12825v1](http://arxiv.org/abs/2305.12825v1)|null|
+|**2023-05-22**|**Uncertainty-based Detection of Adversarial Attacks in Semantic Segmentation**|Kira Maag et.al.|[2305.12825v1](http://arxiv.org/abs/2305.12825v1)|**[link](https://github.com/kmaag/adversarial-attack-detection-uncertainty)**|
 |**2023-05-22**|**Mist: Towards Improved Adversarial Examples for Diffusion Models**|Chumeng Liang et.al.|[2305.12683v1](http://arxiv.org/abs/2305.12683v1)|null|
 |**2023-05-18**|**Explaining V1 Properties with a Biologically Constrained Deep Learning Architecture**|Galen Pogoncheff et.al.|[2305.11275v1](http://arxiv.org/abs/2305.11275v1)|null|
 |**2023-05-18**|**How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses**|Joana C. Costa et.al.|[2305.10862v1](http://arxiv.org/abs/2305.10862v1)|null|
@@ -68,6 +70,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**A generalized model of the noise spectrum of a two-level fluctuator in the presence of an electron subbath**|Robert E. Throckmorton et.al.|[2305.14348v1](http://arxiv.org/abs/2305.14348v1)|null|
+|**2023-05-23**|**Confronting the neutron star population with inverse cascades**|Nikhil Sarin et.al.|[2305.14347v1](http://arxiv.org/abs/2305.14347v1)|null|
+|**2023-05-23**|**NCHO: Unsupervised Learning for Neural 3D Composition of Humans and Objects**|Taeksoo Kim et.al.|[2305.14345v1](http://arxiv.org/abs/2305.14345v1)|null|
+|**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343v1](http://arxiv.org/abs/2305.14343v1)|null|
+|**2023-05-23**|**Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training**|Hong Liu et.al.|[2305.14342v1](http://arxiv.org/abs/2305.14342v1)|null|
+|**2023-05-23**|**APPLS: A Meta-evaluation Testbed for Plain Language Summarization**|Yue Guo et.al.|[2305.14341v1](http://arxiv.org/abs/2305.14341v1)|**[link](https://github.com/linguisticanomalies/appls)**|
+|**2023-05-23**|**Effect of speed fluctuations on the collective dynamics of active disks**|R. Kailasham et.al.|[2305.14340v1](http://arxiv.org/abs/2305.14340v1)|null|
+|**2023-05-23**|**Evolution of the Radial Size and Expansion of Coronal Mass Ejections Investigated by Combining Remote and In-Situ Observations**|Bin Zhuang et.al.|[2305.14339v1](http://arxiv.org/abs/2305.14339v1)|null|
+|**2023-05-23**|**A model of replicating coupled oscillators generates naturally occurring cell networks**|Matthew Smart et.al.|[2305.14338v1](http://arxiv.org/abs/2305.14338v1)|null|
+|**2023-05-23**|**Anchor Prediction: Automatic Refinement of Internet Links**|Nelson F. Liu et.al.|[2305.14337v1](http://arxiv.org/abs/2305.14337v1)|null|
 |**2023-05-22**|**Contextualising Implicit Representations for Semantic Tasks**|Theo W. Costain et.al.|[2305.13312v1](http://arxiv.org/abs/2305.13312v1)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
 |**2023-05-22**|**Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching**|Yang Liu et.al.|[2305.13310v1](http://arxiv.org/abs/2305.13310v1)|**[link](https://github.com/aim-uofa/matcher)**|

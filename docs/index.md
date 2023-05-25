@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|null|
+|**2023-05-24**|**Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models**|Natalie Shapira et.al.|[2305.14763v1](http://arxiv.org/abs/2305.14763v1)|null|
 |**2023-05-23**|**Enhancing Accuracy and Robustness through Adversarial Training in Class Incremental Continual Learning**|Minchan Kwon et.al.|[2305.13678v1](http://arxiv.org/abs/2305.13678v1)|null|
 |**2023-05-23**|**DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection**|Jiang Liu et.al.|[2305.13625v1](http://arxiv.org/abs/2305.13625v1)|null|
 |**2023-05-22**|**Latent Magic: An Investigation into Adversarial Examples Crafted in the Semantic Latent Space**|BoYang Zheng et.al.|[2305.12906v1](http://arxiv.org/abs/2305.12906v1)|null|
@@ -74,6 +76,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective**|Guhao Feng et.al.|[2305.15408v1](http://arxiv.org/abs/2305.15408v1)|null|
+|**2023-05-24**|**Balancing the Picture: Debiasing Vision-Language Datasets with Synthetic Contrast Sets**|Brandon Smith et.al.|[2305.15407v1](http://arxiv.org/abs/2305.15407v1)|null|
+|**2023-05-24**|**The Impact of Anisotropic Redshift Distributions on Angular Clustering**|Antón Baleato Lizancos et.al.|[2305.15406v1](http://arxiv.org/abs/2305.15406v1)|null|
+|**2023-05-24**|**Unit-based Speech-to-Speech Translation Without Parallel Data**|Anuj Diwan et.al.|[2305.15405v1](http://arxiv.org/abs/2305.15405v1)|null|
+|**2023-05-24**|**RoMa: Revisiting Robust Losses for Dense Feature Matching**|Johan Edstedt et.al.|[2305.15404v1](http://arxiv.org/abs/2305.15404v1)|null|
+|**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang et.al.|[2305.15403v1](http://arxiv.org/abs/2305.15403v1)|null|
+|**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399v1](http://arxiv.org/abs/2305.15399v1)|null|
+|**2023-05-24**|**Extraction of the $x$-dependence of generalized parton distributions from exclusive photoproduction**|Jian-Wei Qiu et.al.|[2305.15397v1](http://arxiv.org/abs/2305.15397v1)|null|
+|**2023-05-24**|**Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network**|Linwei Sang et.al.|[2305.15395v1](http://arxiv.org/abs/2305.15395v1)|null|
+|**2023-05-24**|**Differentially-Private Decision Trees with Probabilistic Robustness to Data Poisoning**|Daniël Vos et.al.|[2305.15394v1](http://arxiv.org/abs/2305.15394v1)|null|
 |**2023-05-23**|**A generalized model of the noise spectrum of a two-level fluctuator in the presence of an electron subbath**|Robert E. Throckmorton et.al.|[2305.14348v1](http://arxiv.org/abs/2305.14348v1)|null|
 |**2023-05-23**|**Confronting the neutron star population with inverse cascades**|Nikhil Sarin et.al.|[2305.14347v1](http://arxiv.org/abs/2305.14347v1)|null|
 |**2023-05-23**|**NCHO: Unsupervised Learning for Neural 3D Composition of Humans and Objects**|Taeksoo Kim et.al.|[2305.14345v1](http://arxiv.org/abs/2305.14345v1)|null|

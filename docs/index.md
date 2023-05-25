@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 
 ## Adversarial Examples
 
@@ -83,7 +83,7 @@ layout: default
 |**2023-05-23**|**Effect of speed fluctuations on the collective dynamics of active disks**|R. Kailasham et.al.|[2305.14340v1](http://arxiv.org/abs/2305.14340v1)|null|
 |**2023-05-23**|**Evolution of the Radial Size and Expansion of Coronal Mass Ejections Investigated by Combining Remote and In-Situ Observations**|Bin Zhuang et.al.|[2305.14339v1](http://arxiv.org/abs/2305.14339v1)|null|
 |**2023-05-23**|**A model of replicating coupled oscillators generates naturally occurring cell networks**|Matthew Smart et.al.|[2305.14338v1](http://arxiv.org/abs/2305.14338v1)|null|
-|**2023-05-23**|**Anchor Prediction: Automatic Refinement of Internet Links**|Nelson F. Liu et.al.|[2305.14337v1](http://arxiv.org/abs/2305.14337v1)|null|
+|**2023-05-24**|**Anchor Prediction: Automatic Refinement of Internet Links**|Nelson F. Liu et.al.|[2305.14337v2](http://arxiv.org/abs/2305.14337v2)|null|
 |**2023-05-22**|**Contextualising Implicit Representations for Semantic Tasks**|Theo W. Costain et.al.|[2305.13312v1](http://arxiv.org/abs/2305.13312v1)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
 |**2023-05-22**|**Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching**|Yang Liu et.al.|[2305.13310v1](http://arxiv.org/abs/2305.13310v1)|**[link](https://github.com/aim-uofa/matcher)**|

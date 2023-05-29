@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Leveraging characteristics of the output probability distribution for identifying adversarial audio examples**|Matías P. Pizarro B. et.al.|[2305.17000v1](http://arxiv.org/abs/2305.17000v1)|null|
+|**2023-05-26**|**On Evaluating Adversarial Robustness of Large Vision-Language Models**|Yunqing Zhao et.al.|[2305.16934v1](http://arxiv.org/abs/2305.16934v1)|**[link](https://github.com/yunqing-me/attackvlm)**|
 |**2023-05-25**|**IDEA: Invariant Causal Defense for Graph Adversarial Robustness**|Shuchang Tao et.al.|[2305.15792v1](http://arxiv.org/abs/2305.15792v1)|null|
 |**2023-05-24**|**How do humans perceive adversarial text? A reality check on the validity and naturalness of word-based adversarial attacks**|Salijona Dyrmishi et.al.|[2305.15587v1](http://arxiv.org/abs/2305.15587v1)|null|
 |**2023-05-24**|**Fantastic DNN Classifiers and How to Identify them without Data**|Nathaniel Dean et.al.|[2305.15563v1](http://arxiv.org/abs/2305.15563v1)|**[link](https://github.com/ummlearn/fantasticnetworksnodata)**|
@@ -79,6 +81,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support**|Xinyue Wei et.al.|[2305.17134v1](http://arxiv.org/abs/2305.17134v1)|null|
+|**2023-05-26**|**Beyond 3$\times$2-point cosmology: the integrated shear and galaxy 3-point correlation functions**|Anik Halder et.al.|[2305.17132v1](http://arxiv.org/abs/2305.17132v1)|null|
+|**2023-05-26**|**RAMP: Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation**|Gabriele Sarti et.al.|[2305.17131v1](http://arxiv.org/abs/2305.17131v1)|null|
+|**2023-05-26**|**Direct visualization of the charge transfer in Graphene/$α$-RuCl$_3$ heterostructure**|Antonio Rossi et.al.|[2305.17130v1](http://arxiv.org/abs/2305.17130v1)|null|
+|**2023-05-26**|**Rotating black holes embedded in a cosmological background for scalar-tensor theories**|Eugeny Babichev et.al.|[2305.17129v1](http://arxiv.org/abs/2305.17129v1)|null|
+|**2023-05-26**|**Ground state energy of twisted $AdS_{3}\times S^{3}\times T^{4}$ superstring and the TBA**|Sergey Frolov et.al.|[2305.17128v1](http://arxiv.org/abs/2305.17128v1)|null|
+|**2023-05-26**|**Characterizing and Measuring Linguistic Dataset Drift**|Tyler A. Chang et.al.|[2305.17127v1](http://arxiv.org/abs/2305.17127v1)|null|
+|**2023-05-26**|**Large Language Models as Tool Makers**|Tianle Cai et.al.|[2305.17126v1](http://arxiv.org/abs/2305.17126v1)|**[link](https://github.com/ctlllll/llm-toolmaker)**|
+|**2023-05-26**|**Interior a priori estimates for supersolutions of fully nonlinear subelliptic equations under geometric conditions**|Alessandro Goffi et.al.|[2305.17122v1](http://arxiv.org/abs/2305.17122v1)|null|
+|**2023-05-26**|**Manifold Regularization for Memory-Efficient Training of Deep Neural Networks**|Shadi Sartipi et.al.|[2305.17119v1](http://arxiv.org/abs/2305.17119v1)|null|
 |**2023-05-25**|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|Shihao Zhao et.al.|[2305.16322v1](http://arxiv.org/abs/2305.16322v1)|**[link](https://github.com/shihaozhaozsh/uni-controlnet)**|
 |**2023-05-25**|**Image is First-order Norm+Linear Autoregressive**|Yinpeng Chen et.al.|[2305.16319v1](http://arxiv.org/abs/2305.16319v1)|null|
 |**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317v1](http://arxiv.org/abs/2305.16317v1)|**[link](https://github.com/AndyShih12/paradigms)**|

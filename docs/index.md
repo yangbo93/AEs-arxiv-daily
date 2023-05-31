@@ -84,6 +84,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Concise Answers to Complex Questions: Summarization of Long-form Answers**|Abhilash Potluri et.al.|[2305.19271v1](http://arxiv.org/abs/2305.19271v1)|**[link](https://github.com/acpotluri/lfqa_summary)**|
+|**2023-05-30**|**Learning without Forgetting for Vision-Language Models**|Da-Wei Zhou et.al.|[2305.19270v1](http://arxiv.org/abs/2305.19270v1)|null|
+|**2023-05-30**|**Make-A-Voice: Unified Voice Synthesis With Discrete Representation**|Rongjie Huang et.al.|[2305.19269v1](http://arxiv.org/abs/2305.19269v1)|null|
+|**2023-05-30**|**Intriguing Properties of Quantization at Scale**|Arash Ahmadian et.al.|[2305.19268v1](http://arxiv.org/abs/2305.19268v1)|null|
+|**2023-05-30**|**Parallelized Acquisition for Active Learning using Monte Carlo Sampling**|Jesús Torrado et.al.|[2305.19267v1](http://arxiv.org/abs/2305.19267v1)|null|
+|**2023-05-30**|**Mid-circuit operations using the omg-architecture in neutral atom arrays**|Joanna W. Lis et.al.|[2305.19266v1](http://arxiv.org/abs/2305.19266v1)|null|
+|**2023-05-30**|**Probabilistic Computation with Emerging Covariance: towards efficient uncertainty quantification**|Hengyuan Ma et.al.|[2305.19265v1](http://arxiv.org/abs/2305.19265v1)|**[link](https://github.com/awakermhy/probabilistic-computing-mnn)**|
+|**2023-05-30**|**Stochastic Model Predictive Control with Dynamic Chance Constraints**|Maico Hendrikus Wilhelmus Engelaar et.al.|[2305.19262v1](http://arxiv.org/abs/2305.19262v1)|null|
+|**2023-05-30**|**Microfluidics Generation of Millimeter-sized Matrigel Droplets**|Cory Arnold et.al.|[2305.19261v1](http://arxiv.org/abs/2305.19261v1)|null|
+|**2023-05-30**|**Shuffle SGD is Always Better than SGD: Improved Analysis of SGD with Arbitrary Data Orders**|Anastasia Koloskova et.al.|[2305.19259v1](http://arxiv.org/abs/2305.19259v1)|null|
 |**2023-05-29**|**ICTP Lectures on (Non-)Invertible Generalized Symmetries**|Sakura Schafer-Nameki et.al.|[2305.18296v1](http://arxiv.org/abs/2305.18296v1)|null|
 |**2023-05-29**|**RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths**|Zeyue Xue et.al.|[2305.18295v1](http://arxiv.org/abs/2305.18295v1)|null|
 |**2023-05-29**|**Transformer Language Models Handle Word Frequency in Prediction Head**|Goro Kobayashi et.al.|[2305.18294v1](http://arxiv.org/abs/2305.18294v1)|null|

@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Breeding Machine Translations: Evolutionary approach to survive and thrive in the world of automated evaluation**|Josef Jon et.al.|[2305.19330v1](http://arxiv.org/abs/2305.19330v1)|null|
 |**2023-05-29**|**NaturalFinger: Generating Natural Fingerprint with Generative Adversarial Networks**|Kang Yang et.al.|[2305.17868v1](http://arxiv.org/abs/2305.17868v1)|null|
 |**2023-05-28**|**Amplification trojan network: Attack deep neural networks by amplifying their inherent weakness**|Zhanhao Hu et.al.|[2305.17688v1](http://arxiv.org/abs/2305.17688v1)|null|
 |**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667v1](http://arxiv.org/abs/2305.17667v1)|null|
@@ -80,6 +81,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Probing post-measurement entanglement without post-selection**|Samuel J. Garratt et.al.|[2305.20092v1](http://arxiv.org/abs/2305.20092v1)|null|
+|**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|null|
+|**2023-05-31**|**Interaction-enhanced many body localization in a generalized Aubry-Andre model**|Ke Huang et.al.|[2305.20090v1](http://arxiv.org/abs/2305.20090v1)|null|
+|**2023-05-31**|**Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images**|Junxing Hu et.al.|[2305.20089v1](http://arxiv.org/abs/2305.20089v1)|null|
+|**2023-05-31**|**Improving CLIP Training with Language Rewrites**|Lijie Fan et.al.|[2305.20088v1](http://arxiv.org/abs/2305.20088v1)|null|
+|**2023-05-31**|**Too Large; Data Reduction for Vision-Language Pre-Training**|Alex Jinpeng Wang et.al.|[2305.20087v1](http://arxiv.org/abs/2305.20087v1)|**[link](https://github.com/showlab/data-centric.vlp)**|
+|**2023-05-31**|**Understanding and Mitigating Copying in Diffusion Models**|Gowthami Somepalli et.al.|[2305.20086v1](http://arxiv.org/abs/2305.20086v1)|**[link](https://github.com/somepago/dcr)**|
+|**2023-05-31**|**Estimation of Multivariate Discrete Hawkes Processes: An Application to Incident Monitoring**|Trinnhallen Brisley et.al.|[2305.20085v1](http://arxiv.org/abs/2305.20085v1)|null|
+|**2023-05-31**|**State-dependent potentials for the $^1\text{S}_{0}$ and $^3\text{P}_{0}$ clock states of neutral ytterbium atoms**|Tim O. Höhn et.al.|[2305.20084v1](http://arxiv.org/abs/2305.20084v1)|null|
+|**2023-05-31**|**Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor**|Ruizhi Shao et.al.|[2305.20082v1](http://arxiv.org/abs/2305.20082v1)|null|
 |**2023-05-30**|**Concise Answers to Complex Questions: Summarization of Long-form Answers**|Abhilash Potluri et.al.|[2305.19271v1](http://arxiv.org/abs/2305.19271v1)|**[link](https://github.com/acpotluri/lfqa_summary)**|
 |**2023-05-30**|**Learning without Forgetting for Vision-Language Models**|Da-Wei Zhou et.al.|[2305.19270v1](http://arxiv.org/abs/2305.19270v1)|null|
 |**2023-05-30**|**Make-A-Voice: Unified Voice Synthesis With Discrete Representation**|Rongjie Huang et.al.|[2305.19269v1](http://arxiv.org/abs/2305.19269v1)|null|

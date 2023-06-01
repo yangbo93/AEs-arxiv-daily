@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.31
+## Updated on 2023.06.01
 
 ## Adversarial Examples
 
@@ -90,7 +90,7 @@ layout: default
 |**2023-05-30**|**Intriguing Properties of Quantization at Scale**|Arash Ahmadian et.al.|[2305.19268v1](http://arxiv.org/abs/2305.19268v1)|null|
 |**2023-05-30**|**Parallelized Acquisition for Active Learning using Monte Carlo Sampling**|Jesús Torrado et.al.|[2305.19267v1](http://arxiv.org/abs/2305.19267v1)|null|
 |**2023-05-30**|**Mid-circuit operations using the omg-architecture in neutral atom arrays**|Joanna W. Lis et.al.|[2305.19266v1](http://arxiv.org/abs/2305.19266v1)|null|
-|**2023-05-30**|**Probabilistic Computation with Emerging Covariance: towards efficient uncertainty quantification**|Hengyuan Ma et.al.|[2305.19265v1](http://arxiv.org/abs/2305.19265v1)|**[link](https://github.com/awakermhy/probabilistic-computing-mnn)**|
+|**2023-05-31**|**Probabilistic Computation with Emerging Covariance: Towards Efficient Uncertainty Quantification**|Hengyuan Ma et.al.|[2305.19265v2](http://arxiv.org/abs/2305.19265v2)|**[link](https://github.com/awakermhy/probabilistic-computing-mnn)**|
 |**2023-05-30**|**Stochastic Model Predictive Control with Dynamic Chance Constraints**|Maico Hendrikus Wilhelmus Engelaar et.al.|[2305.19262v1](http://arxiv.org/abs/2305.19262v1)|null|
 |**2023-05-30**|**Microfluidics Generation of Millimeter-sized Matrigel Droplets**|Cory Arnold et.al.|[2305.19261v1](http://arxiv.org/abs/2305.19261v1)|null|
 |**2023-05-30**|**Shuffle SGD is Always Better than SGD: Improved Analysis of SGD with Arbitrary Data Orders**|Anastasia Koloskova et.al.|[2305.19259v1](http://arxiv.org/abs/2305.19259v1)|null|

@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Constructing Semantics-Aware Adversarial Examples with Probabilistic Perspective**|Andi Zhang et.al.|[2306.00353v1](http://arxiv.org/abs/2306.00353v1)|null|
+|**2023-05-29**|**Explainability in Simplicial Map Neural Networks**|Eduardo Paluzo-Hidalgo et.al.|[2306.00010v1](http://arxiv.org/abs/2306.00010v1)|null|
 |**2023-05-30**|**Breeding Machine Translations: Evolutionary approach to survive and thrive in the world of automated evaluation**|Josef Jon et.al.|[2305.19330v1](http://arxiv.org/abs/2305.19330v1)|null|
 |**2023-05-29**|**NaturalFinger: Generating Natural Fingerprint with Generative Adversarial Networks**|Kang Yang et.al.|[2305.17868v1](http://arxiv.org/abs/2305.17868v1)|null|
 |**2023-05-28**|**Amplification trojan network: Attack deep neural networks by amplifying their inherent weakness**|Zhanhao Hu et.al.|[2305.17688v1](http://arxiv.org/abs/2305.17688v1)|null|
@@ -85,6 +87,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Finite Entanglement Entropy in String Theory**|Atish Dabholkar et.al.|[2306.00990v1](http://arxiv.org/abs/2306.00990v1)|null|
+|**2023-06-01**|**Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**|Chaitanya Ryali et.al.|[2306.00989v1](http://arxiv.org/abs/2306.00989v1)|**[link](https://github.com/facebookresearch/hiera)**|
+|**2023-06-01**|**Continual Learning for Abdominal Multi-Organ and Tumor Segmentation**|Yixiao Zhang et.al.|[2306.00988v1](http://arxiv.org/abs/2306.00988v1)|**[link](https://github.com/mrgiovanni/continuallearning)**|
+|**2023-06-01**|**StyleGAN knows Normal, Depth, Albedo, and More**|Anand Bhattad et.al.|[2306.00987v1](http://arxiv.org/abs/2306.00987v1)|null|
+|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986v1](http://arxiv.org/abs/2306.00986v1)|null|
+|**2023-06-01**|**Using generative AI to investigate medical imagery models and datasets**|Oran Lang et.al.|[2306.00985v1](http://arxiv.org/abs/2306.00985v1)|null|
+|**2023-06-01**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984v1](http://arxiv.org/abs/2306.00984v1)|null|
+|**2023-06-01**|**StyleDrop: Text-to-Image Generation in Any Style**|Kihyuk Sohn et.al.|[2306.00983v1](http://arxiv.org/abs/2306.00983v1)|null|
+|**2023-06-01**|**Looking forward to photon-coupled long-lived particles IV: neutralino-ALPino/gravitino**|Krzysztof Jodłowski et.al.|[2306.00982v1](http://arxiv.org/abs/2306.00982v1)|null|
+|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980v1](http://arxiv.org/abs/2306.00980v1)|null|
 |**2023-05-31**|**Probing post-measurement entanglement without post-selection**|Samuel J. Garratt et.al.|[2305.20092v1](http://arxiv.org/abs/2305.20092v1)|null|
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|null|
 |**2023-05-31**|**Interaction-enhanced many body localization in a generalized Aubry-Andre model**|Ke Huang et.al.|[2305.20090v1](http://arxiv.org/abs/2305.20090v1)|null|

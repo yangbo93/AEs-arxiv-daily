@@ -1,4 +1,4 @@
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 
 ## Adversarial Examples
 
@@ -86,7 +86,7 @@
 |**2023-05-31**|**Interaction-enhanced many body localization in a generalized Aubry-Andre model**|Ke Huang et.al.|[2305.20090v1](http://arxiv.org/abs/2305.20090v1)|null|
 |**2023-05-31**|**Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images**|Junxing Hu et.al.|[2305.20089v1](http://arxiv.org/abs/2305.20089v1)|null|
 |**2023-05-31**|**Improving CLIP Training with Language Rewrites**|Lijie Fan et.al.|[2305.20088v1](http://arxiv.org/abs/2305.20088v1)|null|
-|**2023-05-31**|**Too Large; Data Reduction for Vision-Language Pre-Training**|Alex Jinpeng Wang et.al.|[2305.20087v1](http://arxiv.org/abs/2305.20087v1)|**[link](https://github.com/showlab/data-centric.vlp)**|
+|**2023-06-01**|**Too Large; Data Reduction for Vision-Language Pre-Training**|Alex Jinpeng Wang et.al.|[2305.20087v2](http://arxiv.org/abs/2305.20087v2)|**[link](https://github.com/showlab/data-centric.vlp)**|
 |**2023-05-31**|**Understanding and Mitigating Copying in Diffusion Models**|Gowthami Somepalli et.al.|[2305.20086v1](http://arxiv.org/abs/2305.20086v1)|**[link](https://github.com/somepago/dcr)**|
 |**2023-05-31**|**Estimation of Multivariate Discrete Hawkes Processes: An Application to Incident Monitoring**|Trinnhallen Brisley et.al.|[2305.20085v1](http://arxiv.org/abs/2305.20085v1)|null|
 |**2023-05-31**|**State-dependent potentials for the $^1\text{S}_{0}$ and $^3\text{P}_{0}$ clock states of neutral ytterbium atoms**|Tim O. Höhn et.al.|[2305.20084v1](http://arxiv.org/abs/2305.20084v1)|null|

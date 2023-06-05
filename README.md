@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Why Clean Generalization and Robust Overfitting Both Happen in Adversarial Training**|Binghui Li et.al.|[2306.01271v1](http://arxiv.org/abs/2306.01271v1)|null|
+|**2023-06-01**|**Reconstruction Distortion of Learned Image Compression with Imperceptible Perturbations**|Yang Sui et.al.|[2306.01125v1](http://arxiv.org/abs/2306.01125v1)|null|
 |**2023-06-01**|**Constructing Semantics-Aware Adversarial Examples with Probabilistic Perspective**|Andi Zhang et.al.|[2306.00353v1](http://arxiv.org/abs/2306.00353v1)|null|
 |**2023-05-29**|**Explainability in Simplicial Map Neural Networks**|Eduardo Paluzo-Hidalgo et.al.|[2306.00010v1](http://arxiv.org/abs/2306.00010v1)|null|
 |**2023-05-30**|**Breeding Machine Translations: Evolutionary approach to survive and thrive in the world of automated evaluation**|Josef Jon et.al.|[2305.19330v1](http://arxiv.org/abs/2305.19330v1)|null|
@@ -83,6 +85,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection**|Zhangyang Qi et.al.|[2306.01738v1](http://arxiv.org/abs/2306.01738v1)|null|
+|**2023-06-02**|**DaTaSeg: Taming a Universal Multi-Dataset Multi-Task Segmentation Model**|Xiuye Gu et.al.|[2306.01736v1](http://arxiv.org/abs/2306.01736v1)|null|
+|**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735v1](http://arxiv.org/abs/2306.01735v1)|**[link](https://github.com/michaelsaxon/cococrola)**|
+|**2023-06-02**|**Constructible sets in lattice-valued models: A negative result**|Jose Moncayo et.al.|[2306.01734v1](http://arxiv.org/abs/2306.01734v1)|null|
+|**2023-06-02**|**DocFormerv2: Local Features for Document Understanding**|Srikar Appalaraju et.al.|[2306.01733v1](http://arxiv.org/abs/2306.01733v1)|null|
+|**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
+|**2023-06-02**|**Fast quantum state preparation and bath dynamics using non-Gaussian variational ansatz and quantum optimal control**|Liam J. Bond et.al.|[2306.01730v1](http://arxiv.org/abs/2306.01730v1)|null|
+|**2023-06-02**|**Improving Generalization in Task-oriented Dialogues with Workflows and Action Plans**|Stefania Raimondo et.al.|[2306.01729v1](http://arxiv.org/abs/2306.01729v1)|null|
+|**2023-06-02**|**Broadcasting in random recursive dags**|Simon Briend et.al.|[2306.01727v1](http://arxiv.org/abs/2306.01727v1)|null|
+|**2023-06-02**|**Efficient Quantum State Synthesis with One Query**|Gregory Rosenthal et.al.|[2306.01723v1](http://arxiv.org/abs/2306.01723v1)|null|
 |**2023-06-01**|**Finite Entanglement Entropy in String Theory**|Atish Dabholkar et.al.|[2306.00990v1](http://arxiv.org/abs/2306.00990v1)|null|
 |**2023-06-01**|**Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**|Chaitanya Ryali et.al.|[2306.00989v1](http://arxiv.org/abs/2306.00989v1)|**[link](https://github.com/facebookresearch/hiera)**|
 |**2023-06-01**|**Continual Learning for Abdominal Multi-Organ and Tumor Segmentation**|Yixiao Zhang et.al.|[2306.00988v1](http://arxiv.org/abs/2306.00988v1)|**[link](https://github.com/mrgiovanni/continuallearning)**|

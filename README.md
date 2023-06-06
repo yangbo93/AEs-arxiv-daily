@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Evading Black-box Classifiers Without Breaking Eggs**|Edoardo Debenedetti et.al.|[2306.02895v1](http://arxiv.org/abs/2306.02895v1)|null|
+|**2023-06-05**|**Evaluating robustness of support vector machines with the Lagrangian dual approach**|Yuting Liu et.al.|[2306.02639v1](http://arxiv.org/abs/2306.02639v1)|null|
+|**2023-06-03**|**Towards Black-box Adversarial Example Detection: A Data Reconstruction-based Method**|Yifei Gao et.al.|[2306.02021v1](http://arxiv.org/abs/2306.02021v1)|null|
+|**2023-06-02**|**Adversarial Attack Based on Prediction-Correction**|Chen Wan et.al.|[2306.01809v1](http://arxiv.org/abs/2306.01809v1)|null|
 |**2023-06-02**|**Why Clean Generalization and Robust Overfitting Both Happen in Adversarial Training**|Binghui Li et.al.|[2306.01271v1](http://arxiv.org/abs/2306.01271v1)|null|
 |**2023-06-01**|**Reconstruction Distortion of Learned Image Compression with Imperceptible Perturbations**|Yang Sui et.al.|[2306.01125v1](http://arxiv.org/abs/2306.01125v1)|null|
 |**2023-06-01**|**Constructing Semantics-Aware Adversarial Examples with Probabilistic Perspective**|Andi Zhang et.al.|[2306.00353v1](http://arxiv.org/abs/2306.00353v1)|null|
@@ -85,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems**|Tianyang Liu et.al.|[2306.03091v1](http://arxiv.org/abs/2306.03091v1)|**[link](https://github.com/Leolty/repobench)**|
+|**2023-06-05**|**Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**|Rose E. Wang et.al.|[2306.03090v1](http://arxiv.org/abs/2306.03090v1)|**[link](https://github.com/rosewang2008/zero-shot-teacher-feedback)**|
+|**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089v1](http://arxiv.org/abs/2306.03089v1)|null|
+|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088v1](http://arxiv.org/abs/2306.03088v1)|null|
+|**2023-06-05**|**Signatures of primordial black holes in gravitational wave clustering**|Sarah Libanore et.al.|[2306.03087v1](http://arxiv.org/abs/2306.03087v1)|null|
+|**2023-06-05**|**Dismantling Hate: Understanding Hate Speech Trends Against NBA Athletes**|Edinam Kofi Klutse et.al.|[2306.03086v1](http://arxiv.org/abs/2306.03086v1)|null|
+|**2023-06-05**|**The stellar mass of the Gaia-Sausage/Enceladus accretion remnant**|James Lane et.al.|[2306.03084v1](http://arxiv.org/abs/2306.03084v1)|null|
+|**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083v1](http://arxiv.org/abs/2306.03083v1)|null|
+|**2023-06-05**|**InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models**|Lichang Chen et.al.|[2306.03082v1](http://arxiv.org/abs/2306.03082v1)|**[link](https://github.com/lichang-chen/instructzero)**|
+|**2023-06-05**|**Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs**|Alexander K. Lew et.al.|[2306.03081v1](http://arxiv.org/abs/2306.03081v1)|**[link](https://github.com/probcomp/llamppl)**|
 |**2023-06-02**|**OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection**|Zhangyang Qi et.al.|[2306.01738v1](http://arxiv.org/abs/2306.01738v1)|null|
 |**2023-06-02**|**DaTaSeg: Taming a Universal Multi-Dataset Multi-Task Segmentation Model**|Xiuye Gu et.al.|[2306.01736v1](http://arxiv.org/abs/2306.01736v1)|null|
 |**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735v1](http://arxiv.org/abs/2306.01735v1)|**[link](https://github.com/michaelsaxon/cococrola)**|

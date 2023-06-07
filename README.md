@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Revisiting the Trade-off between Accuracy and Robustness via Weight Distribution of Filters**|Xingxing Wei et.al.|[2306.03430v1](http://arxiv.org/abs/2306.03430v1)|null|
 |**2023-06-05**|**Evading Black-box Classifiers Without Breaking Eggs**|Edoardo Debenedetti et.al.|[2306.02895v1](http://arxiv.org/abs/2306.02895v1)|**[link](https://github.com/ethz-privsec/realistic-adv-examples)**|
 |**2023-06-05**|**Evaluating robustness of support vector machines with the Lagrangian dual approach**|Yuting Liu et.al.|[2306.02639v1](http://arxiv.org/abs/2306.02639v1)|null|
 |**2023-06-03**|**Towards Black-box Adversarial Example Detection: A Data Reconstruction-based Method**|Yifei Gao et.al.|[2306.02021v1](http://arxiv.org/abs/2306.02021v1)|null|
@@ -89,6 +90,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**SAM3D: Segment Anything in 3D Scenes**|Yunhan Yang et.al.|[2306.03908v1](http://arxiv.org/abs/2306.03908v1)|**[link](https://github.com/pointcept/segmentanything3d)**|
+|**2023-06-06**|**CL-UZH at SemEval-2023 Task 10: Sexism Detection through Incremental Fine-Tuning and Multi-Task Learning with Label Descriptions**|Janis Goldzycher et.al.|[2306.03907v1](http://arxiv.org/abs/2306.03907v1)|null|
+|**2023-06-06**|**A search for inter-cluster filaments with LOFAR and eROSITA**|D. N. Hoang et.al.|[2306.03904v1](http://arxiv.org/abs/2306.03904v1)|null|
+|**2023-06-06**|**Observational Evidence for Primordial Black Holes: A Positivist Perspective**|Bernard Carr et.al.|[2306.03903v1](http://arxiv.org/abs/2306.03903v1)|null|
+|**2023-06-06**|**Utterance Classification with Logical Neural Network: Explainable AI for Mental Disorder Diagnosis**|Yeldar Toleubay et.al.|[2306.03902v1](http://arxiv.org/abs/2306.03902v1)|null|
+|**2023-06-06**|**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**|Chenxu Hu et.al.|[2306.03901v1](http://arxiv.org/abs/2306.03901v1)|null|
+|**2023-06-06**|**Model Spider: Learning to Rank Pre-Trained Models Efficiently**|Yi-Kai Zhang et.al.|[2306.03900v1](http://arxiv.org/abs/2306.03900v1)|null|
+|**2023-06-06**|**Towards Label-free Scene Understanding by Vision Foundation Models**|Runnan Chen et.al.|[2306.03899v1](http://arxiv.org/abs/2306.03899v1)|null|
+|**2023-06-06**|**Thermalization of Non-Fermi Liquid Electron-Phonon Systems: Hydrodynamic Relaxation of the Yukawa-SYK Model**|Hossein Hosseinabadi et.al.|[2306.03898v1](http://arxiv.org/abs/2306.03898v1)|null|
+|**2023-06-06**|**Potential Constraints to Neutrino-Nucleus Interactions Based on Electron Scattering Data**|V. Pandey et.al.|[2306.03896v1](http://arxiv.org/abs/2306.03896v1)|null|
 |**2023-06-05**|**RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems**|Tianyang Liu et.al.|[2306.03091v1](http://arxiv.org/abs/2306.03091v1)|**[link](https://github.com/Leolty/repobench)**|
 |**2023-06-05**|**Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**|Rose E. Wang et.al.|[2306.03090v1](http://arxiv.org/abs/2306.03090v1)|**[link](https://github.com/rosewang2008/zero-shot-teacher-feedback)**|
 |**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089v1](http://arxiv.org/abs/2306.03089v1)|null|

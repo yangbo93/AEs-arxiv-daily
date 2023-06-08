@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**PromptAttack: Probing Dialogue State Trackers with Adversarial Prompts**|Xiangjue Dong et.al.|[2306.04535v1](http://arxiv.org/abs/2306.04535v1)|**[link](https://github.com/dongxiangjue/promptattack)**|
+|**2023-06-07**|**Can current NLI systems handle German word order? Investigating language model performance on a new German challenge set of minimal pairs**|Ines Reinig et.al.|[2306.04523v1](http://arxiv.org/abs/2306.04523v1)|**[link](https://github.com/ireinig/wogli)**|
+|**2023-06-07**|**Extracting Cloud-based Model with Prior Knowledge**|Shiqian Zhao et.al.|[2306.04192v1](http://arxiv.org/abs/2306.04192v1)|null|
+|**2023-06-07**|**Optimal Transport Model Distributional Robustness**|Van-Anh Nguyen et.al.|[2306.04178v1](http://arxiv.org/abs/2306.04178v1)|null|
 |**2023-06-06**|**Revisiting the Trade-off between Accuracy and Robustness via Weight Distribution of Filters**|Xingxing Wei et.al.|[2306.03430v1](http://arxiv.org/abs/2306.03430v1)|null|
 |**2023-06-05**|**Evading Black-box Classifiers Without Breaking Eggs**|Edoardo Debenedetti et.al.|[2306.02895v1](http://arxiv.org/abs/2306.02895v1)|**[link](https://github.com/ethz-privsec/realistic-adv-examples)**|
 |**2023-06-05**|**Evaluating robustness of support vector machines with the Lagrangian dual approach**|Yuting Liu et.al.|[2306.02639v1](http://arxiv.org/abs/2306.02639v1)|null|
@@ -94,6 +98,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**ModuleFormer: Learning Modular Large Language Models From Uncurated Data**|Yikang Shen et.al.|[2306.04640v1](http://arxiv.org/abs/2306.04640v1)|null|
+|**2023-06-07**|**Sun's series via cyclotomic multiple zeta values**|Yajun Zhou et.al.|[2306.04638v1](http://arxiv.org/abs/2306.04638v1)|null|
+|**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637v1](http://arxiv.org/abs/2306.04637v1)|null|
+|**2023-06-07**|**GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation**|Shuai Yang et.al.|[2306.04636v1](http://arxiv.org/abs/2306.04636v1)|**[link](https://github.com/williamyang1991/gp-unit)**|
+|**2023-06-07**|**On the Reliability of Watermarks for Large Language Models**|John Kirchenbauer et.al.|[2306.04634v1](http://arxiv.org/abs/2306.04634v1)|**[link](https://github.com/jwkirchenbauer/lm-watermarking)**|
+|**2023-06-07**|**Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion**|Yash Bhalgat et.al.|[2306.04633v1](http://arxiv.org/abs/2306.04633v1)|null|
+|**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
+|**2023-06-07**|**One-loop Integrals from Volumes of Orthoschemes**|Lecheng Ren et.al.|[2306.04630v1](http://arxiv.org/abs/2306.04630v1)|null|
+|**2023-06-07**|**Inside the bubble: exploring the environments of reionisation-era Lyman-α emitting galaxies with JADES and FRESCO**|Joris Witstok et.al.|[2306.04627v1](http://arxiv.org/abs/2306.04627v1)|null|
+|**2023-06-07**|**Constraining nuclear parameters using f-modes from glitching pulsars**|Bikram Keshari Pradhan et.al.|[2306.04626v1](http://arxiv.org/abs/2306.04626v1)|null|
 |**2023-06-06**|**SAM3D: Segment Anything in 3D Scenes**|Yunhan Yang et.al.|[2306.03908v1](http://arxiv.org/abs/2306.03908v1)|**[link](https://github.com/pointcept/segmentanything3d)**|
 |**2023-06-06**|**CL-UZH at SemEval-2023 Task 10: Sexism Detection through Incremental Fine-Tuning and Multi-Task Learning with Label Descriptions**|Janis Goldzycher et.al.|[2306.03907v1](http://arxiv.org/abs/2306.03907v1)|null|
 |**2023-06-06**|**A search for inter-cluster filaments with LOFAR and eROSITA**|D. N. Hoang et.al.|[2306.03904v1](http://arxiv.org/abs/2306.03904v1)|null|

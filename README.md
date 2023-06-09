@@ -1,4 +1,4 @@
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 
 ## Adversarial Examples
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-06-07**|**PromptAttack: Probing Dialogue State Trackers with Adversarial Prompts**|Xiangjue Dong et.al.|[2306.04535v1](http://arxiv.org/abs/2306.04535v1)|**[link](https://github.com/dongxiangjue/promptattack)**|
 |**2023-06-07**|**Can current NLI systems handle German word order? Investigating language model performance on a new German challenge set of minimal pairs**|Ines Reinig et.al.|[2306.04523v1](http://arxiv.org/abs/2306.04523v1)|**[link](https://github.com/ireinig/wogli)**|
-|**2023-06-07**|**Extracting Cloud-based Model with Prior Knowledge**|Shiqian Zhao et.al.|[2306.04192v1](http://arxiv.org/abs/2306.04192v1)|null|
+|**2023-06-08**|**Extracting Cloud-based Model with Prior Knowledge**|Shiqian Zhao et.al.|[2306.04192v2](http://arxiv.org/abs/2306.04192v2)|null|
 |**2023-06-07**|**Optimal Transport Model Distributional Robustness**|Van-Anh Nguyen et.al.|[2306.04178v1](http://arxiv.org/abs/2306.04178v1)|null|
 |**2023-06-06**|**Revisiting the Trade-off between Accuracy and Robustness via Weight Distribution of Filters**|Xingxing Wei et.al.|[2306.03430v1](http://arxiv.org/abs/2306.03430v1)|null|
 |**2023-06-05**|**Evading Black-box Classifiers Without Breaking Eggs**|Edoardo Debenedetti et.al.|[2306.02895v1](http://arxiv.org/abs/2306.02895v1)|**[link](https://github.com/ethz-privsec/realistic-adv-examples)**|

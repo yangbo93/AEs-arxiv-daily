@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Boosting Adversarial Transferability by Achieving Flat Local Maxima**|Zhijin Ge et.al.|[2306.05225v1](http://arxiv.org/abs/2306.05225v1)|null|
+|**2023-06-08**|**Expanding Scope: Adapting English Adversarial Attacks to Chinese**|Hanyu Liu et.al.|[2306.04874v1](http://arxiv.org/abs/2306.04874v1)|null|
 |**2023-06-07**|**PromptAttack: Probing Dialogue State Trackers with Adversarial Prompts**|Xiangjue Dong et.al.|[2306.04535v1](http://arxiv.org/abs/2306.04535v1)|**[link](https://github.com/dongxiangjue/promptattack)**|
 |**2023-06-07**|**Can current NLI systems handle German word order? Investigating language model performance on a new German challenge set of minimal pairs**|Ines Reinig et.al.|[2306.04523v1](http://arxiv.org/abs/2306.04523v1)|**[link](https://github.com/ireinig/wogli)**|
 |**2023-06-08**|**Extracting Cloud-based Model with Prior Knowledge**|Shiqian Zhao et.al.|[2306.04192v2](http://arxiv.org/abs/2306.04192v2)|null|
@@ -98,6 +100,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Background Prompting for Improved Object Depth**|Manel Baradad et.al.|[2306.05428v1](http://arxiv.org/abs/2306.05428v1)|null|
+|**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427v1](http://arxiv.org/abs/2306.05427v1)|null|
+|**2023-06-08**|**SequenceMatch: Imitation Learning for Autoregressive Sequence Modelling with Backtracking**|Chris Cundy et.al.|[2306.05426v1](http://arxiv.org/abs/2306.05426v1)|null|
+|**2023-06-08**|**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**|Bo Li et.al.|[2306.05425v1](http://arxiv.org/abs/2306.05425v1)|**[link](https://github.com/luodian/otter)**|
+|**2023-06-08**|**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**|Muhammad Maaz et.al.|[2306.05424v1](http://arxiv.org/abs/2306.05424v1)|**[link](https://github.com/mbzuai-oryx/video-chatgpt)**|
+|**2023-06-08**|**ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process**|Changyao Tian et.al.|[2306.05423v1](http://arxiv.org/abs/2306.05423v1)|null|
+|**2023-06-08**|**Tracking Everything Everywhere All at Once**|Qianqian Wang et.al.|[2306.05422v1](http://arxiv.org/abs/2306.05422v1)|null|
+|**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421v1](http://arxiv.org/abs/2306.05421v1)|null|
+|**2023-06-08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420v1](http://arxiv.org/abs/2306.05420v1)|**[link](https://github.com/google-research/spherical-cnn)**|
+|**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
 |**2023-06-07**|**ModuleFormer: Learning Modular Large Language Models From Uncurated Data**|Yikang Shen et.al.|[2306.04640v1](http://arxiv.org/abs/2306.04640v1)|null|
 |**2023-06-07**|**Sun's series via cyclotomic multiple zeta values**|Yajun Zhou et.al.|[2306.04638v1](http://arxiv.org/abs/2306.04638v1)|null|
 |**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637v1](http://arxiv.org/abs/2306.04637v1)|null|

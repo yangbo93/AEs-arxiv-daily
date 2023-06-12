@@ -100,6 +100,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103v1](http://arxiv.org/abs/2306.06103v1)|null|
+|**2023-06-09**|**Backup Plan Constrained Model Predictive Control with Guaranteed Stability**|Ran Tao et.al.|[2306.06102v1](http://arxiv.org/abs/2306.06102v1)|null|
+|**2023-06-09**|**Rational $p$-adic Hodge theory for rigid-analytic varieties**|Guido Bosco et.al.|[2306.06100v1](http://arxiv.org/abs/2306.06100v1)|null|
+|**2023-06-09**|**NuCLR: Nuclear Co-Learned Representations**|Ouail Kitouni et.al.|[2306.06099v1](http://arxiv.org/abs/2306.06099v1)|null|
+|**2023-06-09**|**Error Feedback Can Accurately Compress Preconditioners**|Ionut-Vlad Modoranu et.al.|[2306.06098v1](http://arxiv.org/abs/2306.06098v1)|**[link](https://github.com/ist-daslab/efcp)**|
+|**2023-06-09**|**Shock Cooling and Possible Precursor Emission in the Early Light Curve of the Type II SN 2023ixf**|Griffin Hosseinzadeh et.al.|[2306.06097v1](http://arxiv.org/abs/2306.06097v1)|null|
+|**2023-06-09**|**Model Predictive Control for Integrated Lateral Stability**|Jad Yahya et.al.|[2306.06096v1](http://arxiv.org/abs/2306.06096v1)|null|
+|**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|null|
+|**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
+|**2023-06-09**|**Extended phase space quantization of a black hole interior model in Loop Quantum Cosmology**|Beatriz Elizaga Navascués et.al.|[2306.06090v1](http://arxiv.org/abs/2306.06090v1)|null|
 |**2023-06-08**|**Background Prompting for Improved Object Depth**|Manel Baradad et.al.|[2306.05428v1](http://arxiv.org/abs/2306.05428v1)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427v1](http://arxiv.org/abs/2306.05427v1)|null|
 |**2023-06-08**|**SequenceMatch: Imitation Learning for Autoregressive Sequence Modelling with Backtracking**|Chris Cundy et.al.|[2306.05426v1](http://arxiv.org/abs/2306.05426v1)|null|

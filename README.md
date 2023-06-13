@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**AROID: Improving Adversarial Robustness through Online Instance-wise Data Augmentation**|Lin Li et.al.|[2306.07197v1](http://arxiv.org/abs/2306.07197v1)|null|
+|**2023-06-12**|**When Vision Fails: Text Attacks Against ViT and OCR**|Nicholas Boucher et.al.|[2306.07033v1](http://arxiv.org/abs/2306.07033v1)|**[link](https://github.com/nickboucher/diacritics)**|
 |**2023-06-08**|**Boosting Adversarial Transferability by Achieving Flat Local Maxima**|Zhijin Ge et.al.|[2306.05225v1](http://arxiv.org/abs/2306.05225v1)|null|
 |**2023-06-08**|**Expanding Scope: Adapting English Adversarial Attacks to Chinese**|Hanyu Liu et.al.|[2306.04874v1](http://arxiv.org/abs/2306.04874v1)|null|
 |**2023-06-07**|**PromptAttack: Probing Dialogue State Trackers with Adversarial Prompts**|Xiangjue Dong et.al.|[2306.04535v1](http://arxiv.org/abs/2306.04535v1)|**[link](https://github.com/dongxiangjue/promptattack)**|
@@ -96,6 +98,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**No Free Lunch: The Hazards of Over-Expressive Representations in Anomaly Detection**|Tal Reiss et.al.|[2306.07284v1](http://arxiv.org/abs/2306.07284v1)|null|
+|**2023-06-12**|**Probing Exotic Phases Via Stochastic Gravitational Wave Spectra**|Joshua Berger et.al.|[2306.07283v1](http://arxiv.org/abs/2306.07283v1)|null|
+|**2023-06-12**|**Waffling around for Performance: Visual Classification with Random Words and Broad Concepts**|Karsten Roth et.al.|[2306.07282v1](http://arxiv.org/abs/2306.07282v1)|**[link](https://github.com/explainableml/waffleclip)**|
+|**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
+|**2023-06-12**|**Scalable 3D Captioning with Pretrained Models**|Tiange Luo et.al.|[2306.07279v1](http://arxiv.org/abs/2306.07279v1)|null|
+|**2023-06-12**|**The Cheltsov--Rubinstein problem for strongly asymptotically log del Pezzo surfaces**|Chenzi Jin et.al.|[2306.07278v1](http://arxiv.org/abs/2306.07278v1)|null|
+|**2023-06-12**|**Mathematical conjecture generation using machine intelligence**|Challenger Mishra et.al.|[2306.07277v1](http://arxiv.org/abs/2306.07277v1)|null|
+|**2023-06-12**|**Effective model and pairing tendency in bilayer Ni-based superconductor La$_3$Ni$_2$O$_7$**|Yuhao Gu et.al.|[2306.07275v1](http://arxiv.org/abs/2306.07275v1)|null|
+|**2023-06-12**|**Reconstructing Heterogeneous Cryo-EM Molecular Structures by Decomposing Them into Polymer Chains**|Bongjin Koo et.al.|[2306.07274v1](http://arxiv.org/abs/2306.07274v1)|null|
+|**2023-06-12**|**Gaussian Membership Inference Privacy**|Tobias Leemann et.al.|[2306.07273v1](http://arxiv.org/abs/2306.07273v1)|null|
 |**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103v1](http://arxiv.org/abs/2306.06103v1)|null|
 |**2023-06-09**|**Backup Plan Constrained Model Predictive Control with Guaranteed Stability**|Ran Tao et.al.|[2306.06102v1](http://arxiv.org/abs/2306.06102v1)|null|
 |**2023-06-09**|**Rational $p$-adic Hodge theory for rigid-analytic varieties**|Guido Bosco et.al.|[2306.06100v1](http://arxiv.org/abs/2306.06100v1)|null|

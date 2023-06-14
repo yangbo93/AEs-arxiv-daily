@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Area is all you need: repeatable elements make stronger adversarial attacks**|Dillon Niederhut et.al.|[2306.07768v1](http://arxiv.org/abs/2306.07768v1)|null|
+|**2023-06-13**|**Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis**|Yihan Ma et.al.|[2306.07754v1](http://arxiv.org/abs/2306.07754v1)|null|
+|**2023-06-13**|**Theoretical Foundations of Adversarially Robust Learning**|Omar Montasser et.al.|[2306.07723v1](http://arxiv.org/abs/2306.07723v1)|null|
+|**2023-06-13**|**I See Dead People: Gray-Box Adversarial Attack on Image-To-Text Models**|Raz Lapid et.al.|[2306.07591v1](http://arxiv.org/abs/2306.07591v1)|null|
 |**2023-06-12**|**AROID: Improving Adversarial Robustness through Online Instance-wise Data Augmentation**|Lin Li et.al.|[2306.07197v1](http://arxiv.org/abs/2306.07197v1)|null|
 |**2023-06-12**|**When Vision Fails: Text Attacks Against ViT and OCR**|Nicholas Boucher et.al.|[2306.07033v1](http://arxiv.org/abs/2306.07033v1)|**[link](https://github.com/nickboucher/diacritics)**|
 |**2023-06-08**|**Boosting Adversarial Transferability by Achieving Flat Local Maxima**|Zhijin Ge et.al.|[2306.05225v1](http://arxiv.org/abs/2306.05225v1)|null|
@@ -102,6 +106,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**|Omkar Thawkar et.al.|[2306.07971v1](http://arxiv.org/abs/2306.07971v1)|**[link](https://github.com/mbzuai-oryx/xraygpt)**|
+|**2023-06-13**|**Neural Scene Chronology**|Haotong Lin et.al.|[2306.07970v1](http://arxiv.org/abs/2306.07970v1)|null|
+|**2023-06-13**|**GeneCIS: A Benchmark for General Conditional Image Similarity**|Sagar Vaze et.al.|[2306.07969v1](http://arxiv.org/abs/2306.07969v1)|null|
+|**2023-06-13**|**arXiVeri: Automatic table verification with GPT**|Gyungin Shin et.al.|[2306.07968v1](http://arxiv.org/abs/2306.07968v1)|null|
+|**2023-06-13**|**One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning**|Arnav Chavan et.al.|[2306.07967v1](http://arxiv.org/abs/2306.07967v1)|**[link](https://github.com/arnav0400/vit-slim)**|
+|**2023-06-13**|**Heavy quark radiation in an anisotropic hot QCD medium**|Jai Prakash et.al.|[2306.07966v1](http://arxiv.org/abs/2306.07966v1)|null|
+|**2023-06-13**|**High resolution spectroscopy of SN~2023ixf's first week: Engulfing the Asymmetric Circumstellar Material**|Nathan Smith et.al.|[2306.07964v1](http://arxiv.org/abs/2306.07964v1)|null|
+|**2023-06-13**|**Differentiating Metropolis-Hastings to Optimize Intractable Densities**|Gaurav Arya et.al.|[2306.07961v1](http://arxiv.org/abs/2306.07961v1)|**[link](https://github.com/gaurav-arya/differentiable_mh)**|
+|**2023-06-13**|**Supervised-Contrastive Loss Learns Orthogonal Frames and Batching Matters**|Ganesh Ramachandra Kini et.al.|[2306.07960v1](http://arxiv.org/abs/2306.07960v1)|**[link](https://github.com/valavakilian/scl_geometry_and_batching)**|
+|**2023-06-13**|**Privacy Preserving Bayesian Federated Learning in Heterogeneous Settings**|Disha Makhija et.al.|[2306.07959v1](http://arxiv.org/abs/2306.07959v1)|null|
 |**2023-06-12**|**No Free Lunch: The Hazards of Over-Expressive Representations in Anomaly Detection**|Tal Reiss et.al.|[2306.07284v1](http://arxiv.org/abs/2306.07284v1)|null|
 |**2023-06-12**|**Probing Exotic Phases Via Stochastic Gravitational Wave Spectra**|Joshua Berger et.al.|[2306.07283v1](http://arxiv.org/abs/2306.07283v1)|null|
 |**2023-06-12**|**Waffling around for Performance: Visual Classification with Random Words and Broad Concepts**|Karsten Roth et.al.|[2306.07282v1](http://arxiv.org/abs/2306.07282v1)|**[link](https://github.com/explainableml/waffleclip)**|

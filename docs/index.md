@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925v1](http://arxiv.org/abs/2306.09925v1)|null|
 |**2023-06-14**|**Augment then Smooth: Reconciling Differential Privacy with Certified Robustness**|Jiapeng Wu et.al.|[2306.08656v1](http://arxiv.org/abs/2306.08656v1)|null|
 |**2023-06-14**|**Reliable Evaluation of Adversarial Transferability**|Wenqian Yu et.al.|[2306.08565v1](http://arxiv.org/abs/2306.08565v1)|null|
 |**2023-06-14**|**A Relaxed Optimization Approach for Adversarial Attacks against Neural Machine Translation Models**|Sahar Sadrizadeh et.al.|[2306.08492v1](http://arxiv.org/abs/2306.08492v1)|null|
@@ -110,6 +111,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Just One Byte (per gradient): A Note on Low-Bandwidth Decentralized Language Model Finetuning Using Shared Randomness**|Eric Zelikman et.al.|[2306.10015v1](http://arxiv.org/abs/2306.10015v1)|null|
+|**2023-06-16**|**Coaching a Teachable Student**|Jimuyang Zhang et.al.|[2306.10014v1](http://arxiv.org/abs/2306.10014v1)|null|
+|**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013v1](http://arxiv.org/abs/2306.10013v1)|null|
+|**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012v1](http://arxiv.org/abs/2306.10012v1)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
+|**2023-06-16**|**Damping of MHD Turbulence in A Partially Ionized Medium**|Yue Hu et.al.|[2306.10010v1](http://arxiv.org/abs/2306.10010v1)|null|
+|**2023-06-16**|**Fast Approximations of Quantifier Elimination**|Isabel Garcia-Contreras et.al.|[2306.10009v1](http://arxiv.org/abs/2306.10009v1)|null|
+|**2023-06-16**|**CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search**|Fahad Shamshad et.al.|[2306.10008v1](http://arxiv.org/abs/2306.10008v1)|**[link](https://github.com/fahadshamshad/clip2protect)**|
+|**2023-06-16**|**Robot Learning with Sensorimotor Pre-training**|Ilija Radosavovic et.al.|[2306.10007v1](http://arxiv.org/abs/2306.10007v1)|null|
+|**2023-06-16**|**Unsupervised Learning of Style-Aware Facial Animation from Real Acting Performances**|Wolfgang Paier et.al.|[2306.10006v1](http://arxiv.org/abs/2306.10006v1)|null|
+|**2023-06-16**|**Nature of Striation in 21 cm Channel Maps: Velocity Caustics**|Yue Hu et.al.|[2306.10005v1](http://arxiv.org/abs/2306.10005v1)|null|
 |**2023-06-16**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349v2](http://arxiv.org/abs/2306.09349v2)|null|
 |**2023-06-15**|**Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**|Youquan Liu et.al.|[2306.09347v1](http://arxiv.org/abs/2306.09347v1)|**[link](https://github.com/youquanl/segment-any-point-cloud)**|
 |**2023-06-16**|**Rosetta Neurons: Mining the Common Units in a Model Zoo**|Amil Dravid et.al.|[2306.09346v2](http://arxiv.org/abs/2306.09346v2)|null|

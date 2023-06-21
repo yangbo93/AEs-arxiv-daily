@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Reversible Adversarial Examples with Beam Search Attack and Grayscale Invariance**|Haodong Zhang et.al.|[2306.11322v1](http://arxiv.org/abs/2306.11322v1)|null|
+|**2023-06-17**|**Edge Learning for 6G-enabled Internet of Things: A Comprehensive Survey of Vulnerabilities, Datasets, and Defenses**|Mohamed Amine Ferrag et.al.|[2306.10309v1](http://arxiv.org/abs/2306.10309v1)|null|
 |**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925v1](http://arxiv.org/abs/2306.09925v1)|null|
 |**2023-06-14**|**Augment then Smooth: Reconciling Differential Privacy with Certified Robustness**|Jiapeng Wu et.al.|[2306.08656v1](http://arxiv.org/abs/2306.08656v1)|null|
 |**2023-06-14**|**Reliable Evaluation of Adversarial Transferability**|Wenqian Yu et.al.|[2306.08565v1](http://arxiv.org/abs/2306.08565v1)|null|
@@ -111,6 +113,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**|Huiguo He et.al.|[2306.11731v1](http://arxiv.org/abs/2306.11731v1)|null|
+|**2023-06-20**|**Segment Anything Model (SAM) for Radiation Oncology**|Lian Zhang et.al.|[2306.11730v1](http://arxiv.org/abs/2306.11730v1)|null|
+|**2023-06-20**|**Dense Video Object Captioning from Disjoint Supervision**|Xingyi Zhou et.al.|[2306.11729v1](http://arxiv.org/abs/2306.11729v1)|null|
+|**2023-06-20**|**Task-dependent semi-quantum secure communication in layered networks with OAM states of light**|Rajni Bala et.al.|[2306.11728v1](http://arxiv.org/abs/2306.11728v1)|null|
+|**2023-06-20**|**How can objects help action recognition?**|Xingyi Zhou et.al.|[2306.11726v1](http://arxiv.org/abs/2306.11726v1)|**[link](https://github.com/google-research/scenic)**|
+|**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724v1](http://arxiv.org/abs/2306.11724v1)|null|
+|**2023-06-20**|**Reconstructing the spatial structure of quantum correlations**|Allen Scheie et.al.|[2306.11723v1](http://arxiv.org/abs/2306.11723v1)|null|
+|**2023-06-20**|**Signatures of pressure-enhanced helimagnetic order in van der Waals multiferroic NiI$_2$**|Connor A. Occhialini et.al.|[2306.11720v1](http://arxiv.org/abs/2306.11720v1)|null|
+|**2023-06-20**|**Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision**|Ayush Tewari et.al.|[2306.11719v1](http://arxiv.org/abs/2306.11719v1)|null|
+|**2023-06-20**|**Equivalence of matter-type modified gravity theories to general relativity with nonminimal matter interaction**|Özgür Akarsu et.al.|[2306.11717v1](http://arxiv.org/abs/2306.11717v1)|null|
 |**2023-06-16**|**Just One Byte (per gradient): A Note on Low-Bandwidth Decentralized Language Model Finetuning Using Shared Randomness**|Eric Zelikman et.al.|[2306.10015v1](http://arxiv.org/abs/2306.10015v1)|**[link](https://github.com/ezelikman/justonebyte)**|
 |**2023-06-16**|**Coaching a Teachable Student**|Jimuyang Zhang et.al.|[2306.10014v1](http://arxiv.org/abs/2306.10014v1)|null|
 |**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013v1](http://arxiv.org/abs/2306.10013v1)|null|

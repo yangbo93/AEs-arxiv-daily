@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Evaluating Adversarial Robustness of Convolution-based Human Motion Prediction**|Chengxu Duan et.al.|[2306.11990v1](http://arxiv.org/abs/2306.11990v1)|null|
+|**2023-06-21**|**Universal adversarial perturbations for multiple classification tasks with quantum classifiers**|Yun-Zhong Qiu et.al.|[2306.11974v1](http://arxiv.org/abs/2306.11974v1)|null|
 |**2023-06-20**|**Reversible Adversarial Examples with Beam Search Attack and Grayscale Invariance**|Haodong Zhang et.al.|[2306.11322v1](http://arxiv.org/abs/2306.11322v1)|null|
 |**2023-06-17**|**Edge Learning for 6G-enabled Internet of Things: A Comprehensive Survey of Vulnerabilities, Datasets, and Defenses**|Mohamed Amine Ferrag et.al.|[2306.10309v1](http://arxiv.org/abs/2306.10309v1)|null|
 |**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925v1](http://arxiv.org/abs/2306.09925v1)|null|
@@ -109,6 +111,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**VisoGender: A dataset for benchmarking gender bias in image-text pronoun resolution**|Siobhan Mackenzie Hall et.al.|[2306.12424v1](http://arxiv.org/abs/2306.12424v1)|**[link](https://github.com/oxai/visogender)**|
+|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
+|**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|
+|**2023-06-21**|**Satellite Relayed Global Quantum Communication without Quantum Memory**|Sumit Goswami et.al.|[2306.12421v1](http://arxiv.org/abs/2306.12421v1)|null|
+|**2023-06-21**|**LMFlow: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models**|Shizhe Diao et.al.|[2306.12420v1](http://arxiv.org/abs/2306.12420v1)|**[link](https://github.com/optimalscale/lmflow)**|
+|**2023-06-21**|**A framework for statistical modelling of the extremes of longitudinal data, applied to elite swimming**|Harry Spearing et.al.|[2306.12419v1](http://arxiv.org/abs/2306.12419v1)|null|
+|**2023-06-21**|**Broken (super) conformal Ward identities at finite temperature**|Enrico Marchetto et.al.|[2306.12417v1](http://arxiv.org/abs/2306.12417v1)|null|
+|**2023-06-21**|**Quantum soft-covering lemma with applications to rate-distortion coding, resolvability and identification via quantum channels**|Touheed Anwar Atif et.al.|[2306.12416v1](http://arxiv.org/abs/2306.12416v1)|null|
+|**2023-06-21**|**Tracking the Multifield Dynamics with Cosmological Data: A Monte Carlo approach**|William Giarè et.al.|[2306.12414v1](http://arxiv.org/abs/2306.12414v1)|null|
+|**2023-06-21**|**Coqlex: Generating Formally Verified Lexers**|Wendlasida Ouedraogo et.al.|[2306.12411v1](http://arxiv.org/abs/2306.12411v1)|null|
 |**2023-06-20**|**Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**|Huiguo He et.al.|[2306.11731v1](http://arxiv.org/abs/2306.11731v1)|null|
 |**2023-06-20**|**Segment Anything Model (SAM) for Radiation Oncology**|Lian Zhang et.al.|[2306.11730v1](http://arxiv.org/abs/2306.11730v1)|null|
 |**2023-06-20**|**Dense Video Object Captioning from Disjoint Supervision**|Xingyi Zhou et.al.|[2306.11729v1](http://arxiv.org/abs/2306.11729v1)|**[link](https://github.com/google-research/scenic)**|

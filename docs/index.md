@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Towards quantum enhanced adversarial robustness in machine learning**|Maxwell T. West et.al.|[2306.12688v1](http://arxiv.org/abs/2306.12688v1)|null|
+|**2023-06-22**|**Rethinking the Backward Propagation for Adversarial Transferability**|Xiaosen Wang et.al.|[2306.12685v1](http://arxiv.org/abs/2306.12685v1)|null|
 |**2023-06-21**|**Evaluating Adversarial Robustness of Convolution-based Human Motion Prediction**|Chengxu Duan et.al.|[2306.11990v1](http://arxiv.org/abs/2306.11990v1)|null|
 |**2023-06-21**|**Universal adversarial perturbations for multiple classification tasks with quantum classifiers**|Yun-Zhong Qiu et.al.|[2306.11974v1](http://arxiv.org/abs/2306.11974v1)|null|
 |**2023-06-20**|**Reversible Adversarial Examples with Beam Search Attack and Grayscale Invariance**|Haodong Zhang et.al.|[2306.11322v1](http://arxiv.org/abs/2306.11322v1)|null|
@@ -115,6 +117,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective**|Zeyuan Yin et.al.|[2306.13092v1](http://arxiv.org/abs/2306.13092v1)|**[link](https://github.com/zeyuanyin/sre2l)**|
+|**2023-06-22**|**Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces**|Fahad Shamshad et.al.|[2306.13091v1](http://arxiv.org/abs/2306.13091v1)|**[link](https://github.com/koushiksrivats/face_attribute_attack)**|
+|**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090v1](http://arxiv.org/abs/2306.13090v1)|null|
+|**2023-06-22**|**Vector-like symmetries and parity conservation in gauge theories with Yukawa couplings**|Alessandro Valenti et.al.|[2306.13088v1](http://arxiv.org/abs/2306.13088v1)|null|
+|**2023-06-22**|**A Taxonomy of Snow Crystal Growth Behaviors: 2. Quantifying the Nakaya Diagram**|Kenneth G. Libbrecht et.al.|[2306.13087v1](http://arxiv.org/abs/2306.13087v1)|null|
+|**2023-06-22**|**Disorder-induced topological quantum phase transitions in Euler semimetals**|Wojciech J. Jankowski et.al.|[2306.13084v1](http://arxiv.org/abs/2306.13084v1)|null|
+|**2023-06-22**|**Improved Signal Detection for Ambient Backscatter Communications**|S. Zargari et.al.|[2306.13083v1](http://arxiv.org/abs/2306.13083v1)|null|
+|**2023-06-22**|**Profinite properties of residually free groups**|Ismael Morales et.al.|[2306.13082v1](http://arxiv.org/abs/2306.13082v1)|null|
+|**2023-06-22**|**Mapping the German Diamond Open Access Journal Landscape**|Niels Taubert et.al.|[2306.13080v1](http://arxiv.org/abs/2306.13080v1)|null|
+|**2023-06-22**|**Free Quantification in Four-Valued and Fuzzy Bilattice-Valued Logics**|Libor Behounek et.al.|[2306.13079v1](http://arxiv.org/abs/2306.13079v1)|null|
 |**2023-06-21**|**VisoGender: A dataset for benchmarking gender bias in image-text pronoun resolution**|Siobhan Mackenzie Hall et.al.|[2306.12424v1](http://arxiv.org/abs/2306.12424v1)|**[link](https://github.com/oxai/visogender)**|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|

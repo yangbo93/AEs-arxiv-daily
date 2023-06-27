@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**3D-Aware Adversarial Makeup Generation for Facial Privacy Protection**|Yueming Lyu et.al.|[2306.14640v1](http://arxiv.org/abs/2306.14640v1)|null|
+|**2023-06-25**|**RobuT: A Systematic Study of Table QA Robustness Against Human-Annotated Adversarial Perturbations**|Yilun Zhao et.al.|[2306.14321v1](http://arxiv.org/abs/2306.14321v1)|**[link](https://github.com/yilunzhao/robut)**|
+|**2023-06-25**|**On Evaluating the Adversarial Robustness of Semantic Segmentation Models**|Levente Halmosi et.al.|[2306.14217v1](http://arxiv.org/abs/2306.14217v1)|null|
+|**2023-06-25**|**Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training**|Fan Liu et.al.|[2306.14126v1](http://arxiv.org/abs/2306.14126v1)|**[link](https://github.com/usail-hkust/rdat)**|
+|**2023-06-24**|**Machine Learning needs its own Randomness Standard: Randomised Smoothing and PRNG-based attacks**|Pranav Dahiya et.al.|[2306.14043v1](http://arxiv.org/abs/2306.14043v1)|null|
+|**2023-06-24**|**Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**|Zeming Wei et.al.|[2306.14040v1](http://arxiv.org/abs/2306.14040v1)|null|
+|**2023-06-24**|**Boosting Model Inversion Attacks with Adversarial Examples**|Shuai Zhou et.al.|[2306.13965v1](http://arxiv.org/abs/2306.13965v1)|null|
 |**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587v1](http://arxiv.org/abs/2306.13587v1)|**[link](https://github.com/matouskozak/amg)**|
 |**2023-06-22**|**Document Image Cleaning using Budget-Aware Black-Box Approximation**|Ganesh Tata et.al.|[2306.13236v1](http://arxiv.org/abs/2306.13236v1)|**[link](https://github.com/tataganesh/query-efficient-approx-to-improve-ocr)**|
 |**2023-06-22**|**Visual Adversarial Examples Jailbreak Large Language Models**|Xiangyu Qi et.al.|[2306.13213v1](http://arxiv.org/abs/2306.13213v1)|null|
@@ -122,6 +129,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
+|**2023-06-26**|**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**|John Yang et.al.|[2306.14898v1](http://arxiv.org/abs/2306.14898v1)|null|
+|**2023-06-26**|**RVT: Robotic View Transformer for 3D Object Manipulation**|Ankit Goyal et.al.|[2306.14896v1](http://arxiv.org/abs/2306.14896v1)|null|
+|**2023-06-26**|**Large Multimodal Models: Notes on CVPR 2023 Tutorial**|Chunyuan Li et.al.|[2306.14895v1](http://arxiv.org/abs/2306.14895v1)|null|
+|**2023-06-26**|**Mapping out phase diagrams with generative classifiers**|Julian Arnold et.al.|[2306.14894v1](http://arxiv.org/abs/2306.14894v1)|null|
+|**2023-06-26**|**LongCoder: A Long-Range Pre-trained Language Model for Code Completion**|Daya Guo et.al.|[2306.14893v1](http://arxiv.org/abs/2306.14893v1)|**[link](https://github.com/microsoft/CodeBERT)**|
+|**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|null|
+|**2023-06-26**|**Igusa's map on modular forms vanishing on the hyperelliptic locus**|J Bernatska et.al.|[2306.14889v1](http://arxiv.org/abs/2306.14889v1)|null|
+|**2023-06-26**|**Percolation in lattice $k$-neighbor graphs**|Benedikt Jahnel et.al.|[2306.14888v1](http://arxiv.org/abs/2306.14888v1)|null|
+|**2023-06-26**|**Value of Information in Games with Multiple Strategic Information Providers**|Raj Kiriti Velicheti et.al.|[2306.14886v1](http://arxiv.org/abs/2306.14886v1)|null|
 |**2023-06-23**|**Quasiparticle spectroscopy in technologically-relevant niobium using London penetration depth measurements**|Sunil Ghimire et.al.|[2306.13654v1](http://arxiv.org/abs/2306.13654v1)|null|
 |**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653v1](http://arxiv.org/abs/2306.13653v1)|**[link](https://github.com/leonmakise/prores)**|
 |**2023-06-23**|**Classical time crystal Ginzburg-Landau study of coupled parametric oscillators**|Stuart N. Thomas et.al.|[2306.13652v1](http://arxiv.org/abs/2306.13652v1)|null|

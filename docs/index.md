@@ -2,12 +2,17 @@
 layout: default
 ---
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587v1](http://arxiv.org/abs/2306.13587v1)|**[link](https://github.com/matouskozak/amg)**|
+|**2023-06-22**|**Document Image Cleaning using Budget-Aware Black-Box Approximation**|Ganesh Tata et.al.|[2306.13236v1](http://arxiv.org/abs/2306.13236v1)|**[link](https://github.com/tataganesh/query-efficient-approx-to-improve-ocr)**|
+|**2023-06-22**|**Visual Adversarial Examples Jailbreak Large Language Models**|Xiangyu Qi et.al.|[2306.13213v1](http://arxiv.org/abs/2306.13213v1)|null|
+|**2023-06-22**|**Anticipatory Thinking Challenges in Open Worlds: Risk Management**|Adam Amos-Binks et.al.|[2306.13157v1](http://arxiv.org/abs/2306.13157v1)|null|
+|**2023-06-22**|**Adversarial Resilience in Sequential Prediction via Abstention**|Surbhi Goel et.al.|[2306.13119v1](http://arxiv.org/abs/2306.13119v1)|null|
 |**2023-06-22**|**Towards quantum enhanced adversarial robustness in machine learning**|Maxwell T. West et.al.|[2306.12688v1](http://arxiv.org/abs/2306.12688v1)|null|
 |**2023-06-22**|**Rethinking the Backward Propagation for Adversarial Transferability**|Xiaosen Wang et.al.|[2306.12685v1](http://arxiv.org/abs/2306.12685v1)|null|
 |**2023-06-21**|**Evaluating Adversarial Robustness of Convolution-based Human Motion Prediction**|Chengxu Duan et.al.|[2306.11990v1](http://arxiv.org/abs/2306.11990v1)|null|
@@ -117,6 +122,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**Quasiparticle spectroscopy in technologically-relevant niobium using London penetration depth measurements**|Sunil Ghimire et.al.|[2306.13654v1](http://arxiv.org/abs/2306.13654v1)|null|
+|**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653v1](http://arxiv.org/abs/2306.13653v1)|**[link](https://github.com/leonmakise/prores)**|
+|**2023-06-23**|**Classical time crystal Ginzburg-Landau study of coupled parametric oscillators**|Stuart N. Thomas et.al.|[2306.13652v1](http://arxiv.org/abs/2306.13652v1)|null|
+|**2023-06-23**|**Bring Your Own Data! Self-Supervised Evaluation for Large Language Models**|Neel Jain et.al.|[2306.13651v1](http://arxiv.org/abs/2306.13651v1)|**[link](https://github.com/neelsjain/byod)**|
+|**2023-06-23**|**Schwarzschild deformed supergravity background: possible geometry origin of fermion generations and mass hierarchy**|Boris Altshuler et.al.|[2306.13650v1](http://arxiv.org/abs/2306.13650v1)|null|
+|**2023-06-23**|**GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models**|Rishabh Agarwal et.al.|[2306.13649v1](http://arxiv.org/abs/2306.13649v1)|null|
+|**2023-06-23**|**Vorticity and level-set variations of invariant current bound steady-state dissipation**|Hao De et.al.|[2306.13647v1](http://arxiv.org/abs/2306.13647v1)|null|
+|**2023-06-23**|**Perfect single-photon sources**|Sana Khalid et.al.|[2306.13646v1](http://arxiv.org/abs/2306.13646v1)|null|
+|**2023-06-23**|**Characterising a World Within the Hot Neptune Desert: Transit Observations of LTT 9779 b with HST WFC3**|Billy Edwards et.al.|[2306.13645v1](http://arxiv.org/abs/2306.13645v1)|null|
+|**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643v1](http://arxiv.org/abs/2306.13643v1)|**[link](https://github.com/cvg/lightglue)**|
 |**2023-06-22**|**Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective**|Zeyuan Yin et.al.|[2306.13092v1](http://arxiv.org/abs/2306.13092v1)|**[link](https://github.com/zeyuanyin/sre2l)**|
 |**2023-06-22**|**Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces**|Fahad Shamshad et.al.|[2306.13091v1](http://arxiv.org/abs/2306.13091v1)|**[link](https://github.com/koushiksrivats/face_attribute_attack)**|
 |**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090v1](http://arxiv.org/abs/2306.13090v1)|**[link](https://github.com/va1shn9v/promptir)**|

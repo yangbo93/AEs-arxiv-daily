@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Are aligned neural networks adversarially aligned?**|Nicholas Carlini et.al.|[2306.15447v1](http://arxiv.org/abs/2306.15447v1)|null|
 |**2023-06-26**|**3D-Aware Adversarial Makeup Generation for Facial Privacy Protection**|Yueming Lyu et.al.|[2306.14640v1](http://arxiv.org/abs/2306.14640v1)|null|
 |**2023-06-25**|**RobuT: A Systematic Study of Table QA Robustness Against Human-Annotated Adversarial Perturbations**|Yilun Zhao et.al.|[2306.14321v1](http://arxiv.org/abs/2306.14321v1)|**[link](https://github.com/yilunzhao/robut)**|
 |**2023-06-25**|**On Evaluating the Adversarial Robustness of Semantic Segmentation Models**|Levente Halmosi et.al.|[2306.14217v1](http://arxiv.org/abs/2306.14217v1)|null|
@@ -129,6 +130,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Constraining braneworlds with entanglement entropy**|Hao Geng et.al.|[2306.15672v1](http://arxiv.org/abs/2306.15672v1)|null|
+|**2023-06-27**|**Entropy, Entanglement Islands and Swampland Bounds in the Karch-Randall Braneworld**|Hao Geng et.al.|[2306.15671v1](http://arxiv.org/abs/2306.15671v1)|null|
+|**2023-06-27**|**Symphonize 3D Semantic Scene Completion with Contextual Instance Queries**|Haoyi Jiang et.al.|[2306.15670v1](http://arxiv.org/abs/2306.15670v1)|**[link](https://github.com/hustvl/symphonies)**|
+|**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|null|
+|**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|null|
+|**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v1](http://arxiv.org/abs/2306.15667v1)|null|
+|**2023-06-27**|**Synthetic tensor gauge fields**|Shaoliang Zhang et.al.|[2306.15663v1](http://arxiv.org/abs/2306.15663v1)|null|
+|**2023-06-27**|**Flat-band induced local Hilbert space fragmentation**|Eulàlia Nicolau et.al.|[2306.15660v1](http://arxiv.org/abs/2306.15660v1)|null|
+|**2023-06-27**|**Electromagnetic Cascade Emission from Neutrino-Coincident Tidal Disruption Events**|Chengchao Yuan et.al.|[2306.15659v1](http://arxiv.org/abs/2306.15659v1)|null|
+|**2023-06-27**|**CLIPA-v2: Scaling CLIP Training with 81.1% Zero-shot ImageNet Accuracy within a \$10,000 Budget; An Extra \$4,000 Unlocks 81.8% Accuracy**|Xianhang Li et.al.|[2306.15658v1](http://arxiv.org/abs/2306.15658v1)|**[link](https://github.com/ucsc-vlaa/clipa)**|
 |**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
 |**2023-06-27**|**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**|John Yang et.al.|[2306.14898v2](http://arxiv.org/abs/2306.14898v2)|null|
 |**2023-06-26**|**RVT: Robotic View Transformer for 3D Object Manipulation**|Ankit Goyal et.al.|[2306.14896v1](http://arxiv.org/abs/2306.14896v1)|null|

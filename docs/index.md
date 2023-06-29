@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Mitigating the Accuracy-Robustness Trade-off via Multi-Teacher Adversarial Distillation**|Shiji Zhao et.al.|[2306.16170v1](http://arxiv.org/abs/2306.16170v1)|null|
+|**2023-06-28**|**Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound**|Xinfeng Li et.al.|[2306.16022v1](http://arxiv.org/abs/2306.16022v1)|null|
+|**2023-06-28**|**Boosting Adversarial Transferability with Learnable Patch-wise Masks**|Xingxing Wei et.al.|[2306.15931v1](http://arxiv.org/abs/2306.15931v1)|null|
 |**2023-06-26**|**Are aligned neural networks adversarially aligned?**|Nicholas Carlini et.al.|[2306.15447v1](http://arxiv.org/abs/2306.15447v1)|null|
 |**2023-06-26**|**3D-Aware Adversarial Makeup Generation for Facial Privacy Protection**|Yueming Lyu et.al.|[2306.14640v1](http://arxiv.org/abs/2306.14640v1)|null|
 |**2023-06-25**|**RobuT: A Systematic Study of Table QA Robustness Against Human-Annotated Adversarial Perturbations**|Yilun Zhao et.al.|[2306.14321v1](http://arxiv.org/abs/2306.14321v1)|**[link](https://github.com/yilunzhao/robut)**|
@@ -130,6 +133,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks**|Wenxiao Wang et.al.|[2306.16415v1](http://arxiv.org/abs/2306.16415v1)|null|
+|**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413v1](http://arxiv.org/abs/2306.16413v1)|**[link](https://github.com/pliang279/MultiBench)**|
+|**2023-06-28**|**Expansions and characterizations of sieved random walk polynomials**|Stefan Kahler et.al.|[2306.16411v1](http://arxiv.org/abs/2306.16411v1)|null|
+|**2023-06-28**|**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**|William Berrios et.al.|[2306.16410v1](http://arxiv.org/abs/2306.16410v1)|null|
+|**2023-06-28**|**Even order contributions to relative energies vanish for antisymmetric perturbations**|O. Anatole von Lilienfeld et.al.|[2306.16409v1](http://arxiv.org/abs/2306.16409v1)|null|
+|**2023-06-28**|**Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift**|Hongxiang Qiu et.al.|[2306.16406v1](http://arxiv.org/abs/2306.16406v1)|null|
+|**2023-06-28**|**Aspects of Categorical Symmetries from Branes: SymTFTs and Generalized Charges**|Fabio Apruzzi et.al.|[2306.16405v1](http://arxiv.org/abs/2306.16405v1)|null|
+|**2023-06-28**|**Constructing Lagrangians from triple grid diagrams**|Sarah Blackwell et.al.|[2306.16404v1](http://arxiv.org/abs/2306.16404v1)|null|
+|**2023-06-28**|**Guidance on Individualized Treatment Rule Estimation in High Dimensions**|Philippe Boileau et.al.|[2306.16402v1](http://arxiv.org/abs/2306.16402v1)|null|
+|**2023-06-28**|**Pumping with Symmetry**|Julio Andrés Iglesias Martínez et.al.|[2306.16401v1](http://arxiv.org/abs/2306.16401v1)|null|
 |**2023-06-27**|**Constraining braneworlds with entanglement entropy**|Hao Geng et.al.|[2306.15672v1](http://arxiv.org/abs/2306.15672v1)|null|
 |**2023-06-27**|**Entropy, Entanglement Islands and Swampland Bounds in the Karch-Randall Braneworld**|Hao Geng et.al.|[2306.15671v1](http://arxiv.org/abs/2306.15671v1)|null|
 |**2023-06-27**|**Symphonize 3D Semantic Scene Completion with Contextual Instance Queries**|Haoyi Jiang et.al.|[2306.15670v1](http://arxiv.org/abs/2306.15670v1)|**[link](https://github.com/hustvl/symphonies)**|

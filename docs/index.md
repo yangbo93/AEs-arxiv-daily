@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.28
+## Updated on 2023.06.29
 
 ## Adversarial Examples
 
@@ -135,7 +135,7 @@ layout: default
 |**2023-06-27**|**Symphonize 3D Semantic Scene Completion with Contextual Instance Queries**|Haoyi Jiang et.al.|[2306.15670v1](http://arxiv.org/abs/2306.15670v1)|**[link](https://github.com/hustvl/symphonies)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|null|
 |**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|null|
-|**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v1](http://arxiv.org/abs/2306.15667v1)|null|
+|**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
 |**2023-06-27**|**Synthetic tensor gauge fields**|Shaoliang Zhang et.al.|[2306.15663v1](http://arxiv.org/abs/2306.15663v1)|null|
 |**2023-06-27**|**Flat-band induced local Hilbert space fragmentation**|Eulàlia Nicolau et.al.|[2306.15660v1](http://arxiv.org/abs/2306.15660v1)|null|
 |**2023-06-27**|**Electromagnetic Cascade Emission from Neutrino-Coincident Tidal Disruption Events**|Chengchao Yuan et.al.|[2306.15659v1](http://arxiv.org/abs/2306.15659v1)|null|

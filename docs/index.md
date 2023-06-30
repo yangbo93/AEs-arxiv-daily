@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.06.29
+## Updated on 2023.06.30
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-28**|**Mitigating the Accuracy-Robustness Trade-off via Multi-Teacher Adversarial Distillation**|Shiji Zhao et.al.|[2306.16170v1](http://arxiv.org/abs/2306.16170v1)|null|
+|**2023-06-28**|**Mitigating the Accuracy-Robustness Trade-off via Multi-Teacher Adversarial Distillation**|Shiji Zhao et.al.|[2306.16170v1](http://arxiv.org/abs/2306.16170v1)|**[link](https://github.com/zhaoshiji123/mtard-extension)**|
 |**2023-06-28**|**Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound**|Xinfeng Li et.al.|[2306.16022v1](http://arxiv.org/abs/2306.16022v1)|null|
 |**2023-06-28**|**Boosting Adversarial Transferability with Learnable Patch-wise Masks**|Xingxing Wei et.al.|[2306.15931v1](http://arxiv.org/abs/2306.15931v1)|null|
 |**2023-06-26**|**Are aligned neural networks adversarially aligned?**|Nicholas Carlini et.al.|[2306.15447v1](http://arxiv.org/abs/2306.15447v1)|null|
@@ -137,8 +137,8 @@ layout: default
 |**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413v1](http://arxiv.org/abs/2306.16413v1)|**[link](https://github.com/pliang279/MultiBench)**|
 |**2023-06-28**|**Expansions and characterizations of sieved random walk polynomials**|Stefan Kahler et.al.|[2306.16411v1](http://arxiv.org/abs/2306.16411v1)|null|
 |**2023-06-28**|**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**|William Berrios et.al.|[2306.16410v1](http://arxiv.org/abs/2306.16410v1)|null|
-|**2023-06-28**|**Even order contributions to relative energies vanish for antisymmetric perturbations**|O. Anatole von Lilienfeld et.al.|[2306.16409v1](http://arxiv.org/abs/2306.16409v1)|null|
-|**2023-06-28**|**Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift**|Hongxiang Qiu et.al.|[2306.16406v1](http://arxiv.org/abs/2306.16406v1)|null|
+|**2023-06-29**|**Even order contributions to relative energies vanish for antisymmetric perturbations**|O. Anatole von Lilienfeld et.al.|[2306.16409v2](http://arxiv.org/abs/2306.16409v2)|null|
+|**2023-06-29**|**Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift**|Hongxiang Qiu et.al.|[2306.16406v2](http://arxiv.org/abs/2306.16406v2)|null|
 |**2023-06-28**|**Aspects of Categorical Symmetries from Branes: SymTFTs and Generalized Charges**|Fabio Apruzzi et.al.|[2306.16405v1](http://arxiv.org/abs/2306.16405v1)|null|
 |**2023-06-28**|**Constructing Lagrangians from triple grid diagrams**|Sarah Blackwell et.al.|[2306.16404v1](http://arxiv.org/abs/2306.16404v1)|null|
 |**2023-06-28**|**Guidance on Individualized Treatment Rule Estimation in High Dimensions**|Philippe Boileau et.al.|[2306.16402v1](http://arxiv.org/abs/2306.16402v1)|null|

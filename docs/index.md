@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Defending Black-box Classifiers by Bayesian Boundary Correction**|He Wang et.al.|[2306.16979v1](http://arxiv.org/abs/2306.16979v1)|null|
+|**2023-06-29**|**Towards Optimal Randomized Strategies in Adversarial Example Game**|Jiahao Xie et.al.|[2306.16738v1](http://arxiv.org/abs/2306.16738v1)|null|
+|**2023-06-28**|**Does Saliency-Based Training bring Robustness for Deep Neural Networks in Image Classification?**|Ali Karkehabadi et.al.|[2306.16581v1](http://arxiv.org/abs/2306.16581v1)|null|
 |**2023-06-28**|**Mitigating the Accuracy-Robustness Trade-off via Multi-Teacher Adversarial Distillation**|Shiji Zhao et.al.|[2306.16170v1](http://arxiv.org/abs/2306.16170v1)|**[link](https://github.com/zhaoshiji123/mtard-extension)**|
 |**2023-06-28**|**Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound**|Xinfeng Li et.al.|[2306.16022v1](http://arxiv.org/abs/2306.16022v1)|null|
 |**2023-06-28**|**Boosting Adversarial Transferability with Learnable Patch-wise Masks**|Xingxing Wei et.al.|[2306.15931v1](http://arxiv.org/abs/2306.15931v1)|null|
@@ -133,6 +136,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training**|Zitian Chen et.al.|[2306.17165v1](http://arxiv.org/abs/2306.17165v1)|null|
+|**2023-06-29**|**QCD-Collapsed Domain Walls: QCD Phase Transition and Gravitational Wave Spectroscopy**|Yang Bai et.al.|[2306.17160v1](http://arxiv.org/abs/2306.17160v1)|null|
+|**2023-06-29**|**Adaptive variational quantum algorithms on a noisy intermediate scale quantum computer**|César Feniou et.al.|[2306.17159v1](http://arxiv.org/abs/2306.17159v1)|null|
+|**2023-06-29**|**Probing the Dark Matter density with gravitational waves from super-massive binary black holes**|Anish Ghoshal et.al.|[2306.17158v1](http://arxiv.org/abs/2306.17158v1)|null|
+|**2023-06-29**|**Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors**|Tung Phung et.al.|[2306.17156v1](http://arxiv.org/abs/2306.17156v1)|null|
+|**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154v1](http://arxiv.org/abs/2306.17154v1)|null|
+|**2023-06-29**|**Broken-symmetry magnetic phases in two-dimensional triangulene crystals**|G. Catarina et.al.|[2306.17153v1](http://arxiv.org/abs/2306.17153v1)|null|
+|**2023-06-29**|**Boundedness, Ultracontractive Bounds and Optimal Evolution of the Support for Doubly Nonlinear Anisotropic Diffusion**|Simone Ciani et.al.|[2306.17152v1](http://arxiv.org/abs/2306.17152v1)|null|
+|**2023-06-29**|**The nanohertz stochastic gravitational-wave background from cosmic string Loops and the abundant high redshift massive galaxies**|Ziwei Wang et.al.|[2306.17150v1](http://arxiv.org/abs/2306.17150v1)|null|
+|**2023-06-29**|**The recent gravitational wave observation by pulsar timing arrays and primordial black holes: the importance of non-gaussianities**|Gabriele Franciolini et.al.|[2306.17149v1](http://arxiv.org/abs/2306.17149v1)|null|
 |**2023-06-28**|**On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks**|Wenxiao Wang et.al.|[2306.16415v1](http://arxiv.org/abs/2306.16415v1)|null|
 |**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413v1](http://arxiv.org/abs/2306.16413v1)|**[link](https://github.com/pliang279/MultiBench)**|
 |**2023-06-28**|**Expansions and characterizations of sieved random walk polynomials**|Stefan Kahler et.al.|[2306.16411v1](http://arxiv.org/abs/2306.16411v1)|null|

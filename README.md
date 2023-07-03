@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Defense against Adversarial Cloud Attack on Remote Sensing Salient Object Detection**|Huiming Sun et.al.|[2306.17431v1](http://arxiv.org/abs/2306.17431v1)|null|
 |**2023-06-29**|**Defending Black-box Classifiers by Bayesian Boundary Correction**|He Wang et.al.|[2306.16979v1](http://arxiv.org/abs/2306.16979v1)|null|
 |**2023-06-29**|**Towards Optimal Randomized Strategies in Adversarial Example Game**|Jiahao Xie et.al.|[2306.16738v1](http://arxiv.org/abs/2306.16738v1)|null|
 |**2023-06-28**|**Does Saliency-Based Training bring Robustness for Deep Neural Networks in Image Classification?**|Ali Karkehabadi et.al.|[2306.16581v1](http://arxiv.org/abs/2306.16581v1)|null|
@@ -132,6 +133,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848v1](http://arxiv.org/abs/2306.17848v1)|null|
+|**2023-06-30**|**Second-order perturbations of the Schwarzschild spacetime: practical, covariant and gauge-invariant formalisms**|Andrew Spiers et.al.|[2306.17847v1](http://arxiv.org/abs/2306.17847v1)|null|
+|**2023-06-30**|**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks**|Ziqian Zhong et.al.|[2306.17844v1](http://arxiv.org/abs/2306.17844v1)|null|
+|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|null|
+|**2023-06-30**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v1](http://arxiv.org/abs/2306.17842v1)|null|
+|**2023-06-30**|**Domain wall interpretation of the PTA signal confronting black hole overproduction**|Yann Gouttenoire et.al.|[2306.17841v1](http://arxiv.org/abs/2306.17841v1)|null|
+|**2023-06-30**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840v1](http://arxiv.org/abs/2306.17840v1)|null|
+|**2023-06-30**|**Gauging tensor networks with belief propagation**|Joseph Tindall et.al.|[2306.17837v1](http://arxiv.org/abs/2306.17837v1)|null|
+|**2023-06-30**|**Do pulsar timing arrays observe merging primordial black holes?**|Paul Frederik Depta et.al.|[2306.17836v1](http://arxiv.org/abs/2306.17836v1)|null|
+|**2023-06-30**|**The Detected Stochastic Gravitational Waves and Sub-Solar Primordial Black Holes**|Keisuke Inomata et.al.|[2306.17834v1](http://arxiv.org/abs/2306.17834v1)|null|
 |**2023-06-29**|**An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training**|Zitian Chen et.al.|[2306.17165v1](http://arxiv.org/abs/2306.17165v1)|null|
 |**2023-06-29**|**QCD-Collapsed Domain Walls: QCD Phase Transition and Gravitational Wave Spectroscopy**|Yang Bai et.al.|[2306.17160v1](http://arxiv.org/abs/2306.17160v1)|null|
 |**2023-06-29**|**Adaptive variational quantum algorithms on a noisy intermediate scale quantum computer**|César Feniou et.al.|[2306.17159v1](http://arxiv.org/abs/2306.17159v1)|null|

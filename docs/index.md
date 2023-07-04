@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.03
+## Updated on 2023.07.04
 
 ## Adversarial Examples
 
@@ -141,9 +141,9 @@ layout: default
 |**2023-06-30**|**Second-order perturbations of the Schwarzschild spacetime: practical, covariant and gauge-invariant formalisms**|Andrew Spiers et.al.|[2306.17847v1](http://arxiv.org/abs/2306.17847v1)|null|
 |**2023-06-30**|**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks**|Ziqian Zhong et.al.|[2306.17844v1](http://arxiv.org/abs/2306.17844v1)|null|
 |**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|null|
-|**2023-06-30**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v1](http://arxiv.org/abs/2306.17842v1)|null|
+|**2023-07-03**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v2](http://arxiv.org/abs/2306.17842v2)|null|
 |**2023-06-30**|**Domain wall interpretation of the PTA signal confronting black hole overproduction**|Yann Gouttenoire et.al.|[2306.17841v1](http://arxiv.org/abs/2306.17841v1)|null|
-|**2023-06-30**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840v1](http://arxiv.org/abs/2306.17840v1)|null|
+|**2023-07-03**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840v2](http://arxiv.org/abs/2306.17840v2)|null|
 |**2023-06-30**|**Gauging tensor networks with belief propagation**|Joseph Tindall et.al.|[2306.17837v1](http://arxiv.org/abs/2306.17837v1)|null|
 |**2023-06-30**|**Do pulsar timing arrays observe merging primordial black holes?**|Paul Frederik Depta et.al.|[2306.17836v1](http://arxiv.org/abs/2306.17836v1)|null|
 |**2023-06-30**|**The Detected Stochastic Gravitational Waves and Sub-Solar Primordial Black Holes**|Keisuke Inomata et.al.|[2306.17834v1](http://arxiv.org/abs/2306.17834v1)|null|

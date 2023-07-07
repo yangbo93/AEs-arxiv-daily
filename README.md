@@ -1,4 +1,4 @@
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 
 ## Adversarial Examples
 
@@ -147,7 +147,7 @@
 |**2023-07-05**|**Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks**|Zhaofeng Wu et.al.|[2307.02477v1](http://arxiv.org/abs/2307.02477v1)|null|
 |**2023-07-05**|**The Calissons Puzzle**|Jean-Marie Favreau et.al.|[2307.02475v1](http://arxiv.org/abs/2307.02475v1)|null|
 |**2023-07-05**|**Constraints on cosmologically coupled black holes from gravitational wave observations and minimal formation mass**|Luca Amendola et.al.|[2307.02474v1](http://arxiv.org/abs/2307.02474v1)|null|
-|**2023-07-05**|**Natural Language Deduction with Incomplete Information**|Zayne Sprague et.al.|[2307.02472v1](http://arxiv.org/abs/2307.02472v1)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
+|**2023-07-06**|**Deductive Additivity for Planning of Natural Language Proofs**|Zayne Sprague et.al.|[2307.02472v2](http://arxiv.org/abs/2307.02472v2)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
 |**2023-07-03**|**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**|Yuxiang Zhang et.al.|[2307.01200v1](http://arxiv.org/abs/2307.01200v1)|null|
 |**2023-07-03**|**NeuBTF: Neural fields for BTF encoding and transfer**|Carlos Rodriguez-Pardo et.al.|[2307.01199v1](http://arxiv.org/abs/2307.01199v1)|null|
 |**2023-07-03**|**Improved sampling via learned diffusions**|Lorenz Richter et.al.|[2307.01198v1](http://arxiv.org/abs/2307.01198v1)|null|

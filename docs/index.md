@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.11
+## Updated on 2023.07.12
 
 ## Adversarial Examples
 
@@ -156,7 +156,7 @@ layout: default
 |**2023-07-10**|**Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback**|Jaskirat Singh et.al.|[2307.04749v1](http://arxiv.org/abs/2307.04749v1)|null|
 |**2023-07-10**|**Covariant Action for Self-Dual p-Form Gauge Fields in General Spacetimes**|C. M. Hull et.al.|[2307.04748v1](http://arxiv.org/abs/2307.04748v1)|null|
 |**2023-07-10**|**Classical Observables from the Exponential Representation of the Gravitational S-Matrix**|Poul H. Damgaard et.al.|[2307.04746v1](http://arxiv.org/abs/2307.04746v1)|null|
-|**2023-07-10**|**Geometric post-Newtonian description of massive spin-half particles in curved spacetime**|Ashkan Alibabei et.al.|[2307.04743v1](http://arxiv.org/abs/2307.04743v1)|null|
+|**2023-07-11**|**Geometric post-Newtonian description of massive spin-half particles in curved spacetime**|Ashkan Alibabaei et.al.|[2307.04743v2](http://arxiv.org/abs/2307.04743v2)|null|
 |**2023-07-07**|**When does the ID algorithm fail?**|Ilya Shpitser et.al.|[2307.03750v1](http://arxiv.org/abs/2307.03750v1)|null|
 |**2023-07-07**|**On the Efficacy of Sampling Adapters**|Clara Meister et.al.|[2307.03749v1](http://arxiv.org/abs/2307.03749v1)|null|
 |**2023-07-07**|**The backreaction effect of the sound speed resonance in DBI inflation**|Bichu Li et.al.|[2307.03747v1](http://arxiv.org/abs/2307.03747v1)|null|

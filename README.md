@@ -1,9 +1,10 @@
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 
 ## Adversarial Examples
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**ATWM: Defense against adversarial malware based on adversarial training**|Kun Li et.al.|[2307.05095v1](http://arxiv.org/abs/2307.05095v1)|null|
 |**2023-07-10**|**Practical Trustworthiness Model for DNN in Dedicated 6G Application**|Anouar Nechi et.al.|[2307.04677v1](http://arxiv.org/abs/2307.04677v1)|null|
 |**2023-07-09**|**GNP Attack: Transferable Adversarial Examples via Gradient Norm Penalty**|Tao Wu et.al.|[2307.04099v1](http://arxiv.org/abs/2307.04099v1)|null|
 |**2023-07-06**|**Quantification of Uncertainty with Adversarial Models**|Kajetan Schweighofer et.al.|[2307.03217v1](http://arxiv.org/abs/2307.03217v1)|**[link](https://github.com/ml-jku/quam)**|
@@ -143,6 +144,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Chemistry of multiple stellar populations in the mono-metallic, in situ, bulge globular cluster NGC 6388**|Eugenio Carretta et.al.|[2307.05478v1](http://arxiv.org/abs/2307.05478v1)|null|
+|**2023-07-11**|**Wiedemann-Franz law in graphene in the presence of a weak magnetic field**|Yi-Ting Tu et.al.|[2307.05477v1](http://arxiv.org/abs/2307.05477v1)|null|
+|**2023-07-11**|**Fractonic Higher-Order Topological Phases in Open Quantum Systems**|Jian-Hao Zhang et.al.|[2307.05474v1](http://arxiv.org/abs/2307.05474v1)|null|
+|**2023-07-11**|**Differentiable Blocks World: Qualitative 3D Decomposition by Rendering Primitives**|Tom Monnier et.al.|[2307.05473v1](http://arxiv.org/abs/2307.05473v1)|null|
+|**2023-07-11**|**Scale Alone Does not Improve Mechanistic Interpretability in Vision Models**|Roland S. Zimmermann et.al.|[2307.05471v1](http://arxiv.org/abs/2307.05471v1)|null|
+|**2023-07-12**|**My3DGen: Building Lightweight Personalized 3D Generative Model**|Luchao Qi et.al.|[2307.05468v2](http://arxiv.org/abs/2307.05468v2)|null|
+|**2023-07-11**|**Is Kaniadakis $κ$-generalized statistical mechanics general?**|T. F. A. Alves et.al.|[2307.05467v1](http://arxiv.org/abs/2307.05467v1)|null|
+|**2023-07-11**|**Dynamic Tolling in Arc-based Traffic Assignment Models**|Chih-Yuan Chiu et.al.|[2307.05466v1](http://arxiv.org/abs/2307.05466v1)|null|
+|**2023-07-11**|**Quantum noise dynamics in nonlinear pulse propagation**|Edwin Ng et.al.|[2307.05464v1](http://arxiv.org/abs/2307.05464v1)|null|
+|**2023-07-11**|**EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone**|Shraman Pramanick et.al.|[2307.05463v1](http://arxiv.org/abs/2307.05463v1)|null|
 |**2023-07-10**|**Semantic-SAM: Segment and Recognize Anything at Any Granularity**|Feng Li et.al.|[2307.04767v1](http://arxiv.org/abs/2307.04767v1)|**[link](https://github.com/ux-decoder/semantic-sam)**|
 |**2023-07-10**|**On the total CR twist of transversal curves in the 3-sphere**|Emilio Musso et.al.|[2307.04763v1](http://arxiv.org/abs/2307.04763v1)|null|
 |**2023-07-10**|**Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos**|Sagnik Majumder et.al.|[2307.04760v1](http://arxiv.org/abs/2307.04760v1)|null|

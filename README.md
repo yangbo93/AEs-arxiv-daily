@@ -144,6 +144,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Analysis of Half-Duplex Two-Node Slotted ALOHA Network With Asynchronous Traffic**|Seyed Ali Hashemian et.al.|[2307.06334v1](http://arxiv.org/abs/2307.06334v1)|null|
+|**2023-07-12**|**Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation**|Andi Peng et.al.|[2307.06333v1](http://arxiv.org/abs/2307.06333v1)|null|
+|**2023-07-12**|**Influence of generic quantum coins on the spreading and entanglement in binary aperiodic quantum walks**|Tushar Kanti Bose et.al.|[2307.06332v1](http://arxiv.org/abs/2307.06332v1)|null|
+|**2023-07-12**|**Orbital Precession and Hidden Symmetries in Scalar-Tensor Theories**|Anne-Christine Davis et.al.|[2307.06331v1](http://arxiv.org/abs/2307.06331v1)|null|
+|**2023-07-12**|**Reconstruction of inflationary scenarios in non-conservative unimodular gravity**|M. P. Piccirilli et.al.|[2307.06329v1](http://arxiv.org/abs/2307.06329v1)|null|
+|**2023-07-12**|**A coupled rate-dependent/rate-independent system for adhesive contact in Kirchhoff-Love plates**|Giovanna Bonfanti et.al.|[2307.06327v1](http://arxiv.org/abs/2307.06327v1)|null|
+|**2023-07-12**|**Coupled environmental and demographic fluctuations shape the evolution of cooperative antimicrobial resistance**|Lluís Hernández-Navarro et.al.|[2307.06326v1](http://arxiv.org/abs/2307.06326v1)|null|
+|**2023-07-12**|**Information-Theoretically Private Federated Submodel Learning with Storage Constrained Databases**|Sajani Vithana et.al.|[2307.06323v1](http://arxiv.org/abs/2307.06323v1)|null|
+|**2023-07-12**|**Deep Learning of Crystalline Defects from TEM images: A Solution for the Problem of "Never Enough Training Data"**|Kishan Govind et.al.|[2307.06322v1](http://arxiv.org/abs/2307.06322v1)|null|
+|**2023-07-12**|**Bayesian analysis of Unified Dark Matter models with fast transition: can they alleviate the $H_{0}$ tension?**|Emmanuel Frion et.al.|[2307.06320v1](http://arxiv.org/abs/2307.06320v1)|null|
 |**2023-07-11**|**Chemistry of multiple stellar populations in the mono-metallic, in situ, bulge globular cluster NGC 6388**|Eugenio Carretta et.al.|[2307.05478v1](http://arxiv.org/abs/2307.05478v1)|null|
 |**2023-07-11**|**Wiedemann-Franz law in graphene in the presence of a weak magnetic field**|Yi-Ting Tu et.al.|[2307.05477v1](http://arxiv.org/abs/2307.05477v1)|null|
 |**2023-07-11**|**Fractonic Higher-Order Topological Phases in Open Quantum Systems**|Jian-Hao Zhang et.al.|[2307.05474v1](http://arxiv.org/abs/2307.05474v1)|null|

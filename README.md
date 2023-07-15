@@ -148,11 +148,11 @@
 |---|---|---|---|---|
 |**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949v1](http://arxiv.org/abs/2307.06949v1)|null|
 |**2023-07-13**|**Self-regulating Prompts: Foundational Model Adaptation without Forgetting**|Muhammad Uzair Khattak et.al.|[2307.06948v1](http://arxiv.org/abs/2307.06948v1)|**[link](https://github.com/muzairkhattak/promptsrc)**|
-|**2023-07-13**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v1](http://arxiv.org/abs/2307.06947v1)|null|
+|**2023-07-13**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v1](http://arxiv.org/abs/2307.06947v1)|**[link](https://github.com/talalwasim/video-focalnets)**|
 |**2023-07-13**|**Exact solution of an infinite-range, non-collective dissipative transverse-field Ising model**|David Roberts et.al.|[2307.06946v1](http://arxiv.org/abs/2307.06946v1)|null|
 |**2023-07-13**|**In-context Autoencoder for Context Compression in a Large Language Model**|Tao Ge et.al.|[2307.06945v1](http://arxiv.org/abs/2307.06945v1)|null|
 |**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942v1](http://arxiv.org/abs/2307.06942v1)|**[link](https://github.com/opengvlab/internvideo)**|
-|**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940v1](http://arxiv.org/abs/2307.06940v1)|null|
+|**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940v1](http://arxiv.org/abs/2307.06940v1)|**[link](https://github.com/videocrafter/animate-a-story)**|
 |**2023-07-13**|**Recoil momentum of an atom absorbing light in a gaseous medium and the Abraham-Minkowski debate**|João G. L. Condé et.al.|[2307.06938v1](http://arxiv.org/abs/2307.06938v1)|null|
 |**2023-07-13**|**Analyzing quantum machine learning using tensor network**|S. Shin et.al.|[2307.06937v1](http://arxiv.org/abs/2307.06937v1)|null|
 |**2023-07-13**|**An atomic boson sampler**|Aaron W. Young et.al.|[2307.06936v1](http://arxiv.org/abs/2307.06936v1)|null|

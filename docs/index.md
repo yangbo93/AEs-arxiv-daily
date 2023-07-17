@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Structured Pruning of Neural Networks for Constraints Learning**|Matteo Cacciola et.al.|[2307.07457v1](http://arxiv.org/abs/2307.07457v1)|null|
+|**2023-07-14**|**Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning**|Byung-Kwan Lee et.al.|[2307.07250v1](http://arxiv.org/abs/2307.07250v1)|null|
+|**2023-07-14**|**Vulnerability-Aware Instance Reweighting For Adversarial Training**|Olukorede Fakorede et.al.|[2307.07167v1](http://arxiv.org/abs/2307.07167v1)|null|
 |**2023-07-13**|**Multi-objective Evolutionary Search of Variable-length Composite Semantic Perturbations**|Jialiang Suna et.al.|[2307.06548v1](http://arxiv.org/abs/2307.06548v1)|null|
 |**2023-07-13**|**Microbial Genetic Algorithm-based Black-box Attack against Interpretable Deep Learning Systems**|Eldor Abdukhamidov et.al.|[2307.06496v1](http://arxiv.org/abs/2307.06496v1)|null|
 |**2023-07-11**|**ATWM: Defense against adversarial malware based on adversarial training**|Kun Li et.al.|[2307.05095v1](http://arxiv.org/abs/2307.05095v1)|null|
@@ -150,6 +153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511v1](http://arxiv.org/abs/2307.07511v1)|null|
+|**2023-07-14**|**Streaming CTR Prediction: Rethinking Recommendation Task for Real-World Streaming Data**|Qi-Wei Wang et.al.|[2307.07509v1](http://arxiv.org/abs/2307.07509v1)|null|
+|**2023-07-14**|**MGit: A Model Versioning and Management System**|Wei Hao et.al.|[2307.07507v1](http://arxiv.org/abs/2307.07507v1)|null|
+|**2023-07-14**|**A Poisson Decomposition for Information and the Information-Event Diagram**|Cheuk Ting Li et.al.|[2307.07506v1](http://arxiv.org/abs/2307.07506v1)|null|
+|**2023-07-14**|**Exhaustive Generation of Linear Orthogonal Cellular Automata**|Enrico Formenti et.al.|[2307.07505v1](http://arxiv.org/abs/2307.07505v1)|null|
+|**2023-07-14**|**Gravitational partial-wave absorption from scattering amplitudes**|Rafael Aoude et.al.|[2307.07504v1](http://arxiv.org/abs/2307.07504v1)|null|
+|**2023-07-14**|**Brain Tumor Detection using Convolutional Neural Networks with Skip Connections**|Aupam Hamran et.al.|[2307.07503v1](http://arxiv.org/abs/2307.07503v1)|null|
+|**2023-07-14**|**Inflationary cross-correlations of a non-minimal spectator and their soft limits**|P. Jishnu Sai et.al.|[2307.07502v1](http://arxiv.org/abs/2307.07502v1)|null|
+|**2023-07-14**|**TALL: Thumbnail Layout for Deepfake Video Detection**|Yuting Xu et.al.|[2307.07494v1](http://arxiv.org/abs/2307.07494v1)|null|
+|**2023-07-14**|**BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[2307.07493v1](http://arxiv.org/abs/2307.07493v1)|null|
 |**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949v1](http://arxiv.org/abs/2307.06949v1)|null|
 |**2023-07-13**|**Self-regulating Prompts: Foundational Model Adaptation without Forgetting**|Muhammad Uzair Khattak et.al.|[2307.06948v1](http://arxiv.org/abs/2307.06948v1)|**[link](https://github.com/muzairkhattak/promptsrc)**|
 |**2023-07-13**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v1](http://arxiv.org/abs/2307.06947v1)|**[link](https://github.com/talalwasim/video-focalnets)**|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 
 ## Adversarial Examples
 
@@ -11,7 +11,7 @@ layout: default
 |**2023-07-14**|**Structured Pruning of Neural Networks for Constraints Learning**|Matteo Cacciola et.al.|[2307.07457v1](http://arxiv.org/abs/2307.07457v1)|null|
 |**2023-07-14**|**Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning**|Byung-Kwan Lee et.al.|[2307.07250v1](http://arxiv.org/abs/2307.07250v1)|null|
 |**2023-07-14**|**Vulnerability-Aware Instance Reweighting For Adversarial Training**|Olukorede Fakorede et.al.|[2307.07167v1](http://arxiv.org/abs/2307.07167v1)|null|
-|**2023-07-13**|**Multi-objective Evolutionary Search of Variable-length Composite Semantic Perturbations**|Jialiang Suna et.al.|[2307.06548v1](http://arxiv.org/abs/2307.06548v1)|null|
+|**2023-07-16**|**Multi-objective Evolutionary Search of Variable-length Composite Semantic Perturbations**|Jialiang Sun et.al.|[2307.06548v2](http://arxiv.org/abs/2307.06548v2)|null|
 |**2023-07-13**|**Microbial Genetic Algorithm-based Black-box Attack against Interpretable Deep Learning Systems**|Eldor Abdukhamidov et.al.|[2307.06496v1](http://arxiv.org/abs/2307.06496v1)|null|
 |**2023-07-11**|**ATWM: Defense against adversarial malware based on adversarial training**|Kun Li et.al.|[2307.05095v1](http://arxiv.org/abs/2307.05095v1)|null|
 |**2023-07-10**|**Practical Trustworthiness Model for DNN in Dedicated 6G Application**|Anouar Nechi et.al.|[2307.04677v1](http://arxiv.org/abs/2307.04677v1)|null|

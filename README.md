@@ -156,7 +156,7 @@
 |**2023-07-18**|**Exact results for a boundary-driven double spin chain and resource-efficient remote entanglement stabilization**|Andrew Lingenfelter et.al.|[2307.09482v1](http://arxiv.org/abs/2307.09482v1)|null|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
 |**2023-07-18**|**FACTS: Facial Animation Creation using the Transfer of Styles**|Jack Saunders et.al.|[2307.09480v1](http://arxiv.org/abs/2307.09480v1)|null|
-|**2023-07-18**|**Overthinking the Truth: Understanding how Language Models Process False Demonstrations**|Danny Halawi et.al.|[2307.09476v1](http://arxiv.org/abs/2307.09476v1)|null|
+|**2023-07-18**|**Overthinking the Truth: Understanding how Language Models Process False Demonstrations**|Danny Halawi et.al.|[2307.09476v1](http://arxiv.org/abs/2307.09476v1)|**[link](https://github.com/dannyallover/overthinking_the_truth)**|
 |**2023-07-18**|**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**|Liang Zhao et.al.|[2307.09474v1](http://arxiv.org/abs/2307.09474v1)|null|
 |**2023-07-18**|**Making the leap I: Modelling the reconstructed lensing convergence PDF from cosmic shear with survey masks and systematics**|Alexandre Barthelemy et.al.|[2307.09468v1](http://arxiv.org/abs/2307.09468v1)|null|
 |**2023-07-18**|**Optimal Vehicle Trajectory Planning for Static Obstacle Avoidance using Nonlinear Optimization**|Yajia Zhang et.al.|[2307.09466v1](http://arxiv.org/abs/2307.09466v1)|null|

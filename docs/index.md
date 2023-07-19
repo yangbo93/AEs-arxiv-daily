@@ -2,17 +2,17 @@
 layout: default
 ---
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-17**|**Analyzing the Impact of Adversarial Examples on Explainable Machine Learning**|Prathyusha Devabhakthini et.al.|[2307.08327v1](http://arxiv.org/abs/2307.08327v1)|null|
-|**2023-07-16**|**On the Robustness of Split Learning against Adversarial Attacks**|Mingyuan Fan et.al.|[2307.07916v1](http://arxiv.org/abs/2307.07916v1)|null|
+|**2023-07-18**|**On the Robustness of Split Learning against Adversarial Attacks**|Mingyuan Fan et.al.|[2307.07916v2](http://arxiv.org/abs/2307.07916v2)|null|
 |**2023-07-15**|**Towards Understanding Adversarial Transferability From Surrogate Training**|Yechao Zhang et.al.|[2307.07873v1](http://arxiv.org/abs/2307.07873v1)|null|
 |**2023-07-14**|**Structured Pruning of Neural Networks for Constraints Learning**|Matteo Cacciola et.al.|[2307.07457v1](http://arxiv.org/abs/2307.07457v1)|null|
-|**2023-07-14**|**Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning**|Byung-Kwan Lee et.al.|[2307.07250v1](http://arxiv.org/abs/2307.07250v1)|**[link](https://github.com/ByungKwanLee/Double-Debiased-Adversary)**|
+|**2023-07-18**|**Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning**|Byung-Kwan Lee et.al.|[2307.07250v2](http://arxiv.org/abs/2307.07250v2)|**[link](https://github.com/ByungKwanLee/Double-Debiased-Adversary)**|
 |**2023-07-14**|**Vulnerability-Aware Instance Reweighting For Adversarial Training**|Olukorede Fakorede et.al.|[2307.07167v1](http://arxiv.org/abs/2307.07167v1)|null|
 |**2023-07-16**|**Multi-objective Evolutionary Search of Variable-length Composite Semantic Perturbations**|Jialiang Sun et.al.|[2307.06548v2](http://arxiv.org/abs/2307.06548v2)|null|
 |**2023-07-13**|**Microbial Genetic Algorithm-based Black-box Attack against Interpretable Deep Learning Systems**|Eldor Abdukhamidov et.al.|[2307.06496v1](http://arxiv.org/abs/2307.06496v1)|null|
@@ -156,6 +156,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Forecasting the steam mass flow in a powerplant using the parallel hybrid network**|Andrii Kurkin et.al.|[2307.09483v1](http://arxiv.org/abs/2307.09483v1)|null|
+|**2023-07-18**|**Exact results for a boundary-driven double spin chain and resource-efficient remote entanglement stabilization**|Andrew Lingenfelter et.al.|[2307.09482v1](http://arxiv.org/abs/2307.09482v1)|null|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
+|**2023-07-18**|**FACTS: Facial Animation Creation using the Transfer of Styles**|Jack Saunders et.al.|[2307.09480v1](http://arxiv.org/abs/2307.09480v1)|null|
+|**2023-07-18**|**Overthinking the Truth: Understanding how Language Models Process False Demonstrations**|Danny Halawi et.al.|[2307.09476v1](http://arxiv.org/abs/2307.09476v1)|null|
+|**2023-07-18**|**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**|Liang Zhao et.al.|[2307.09474v1](http://arxiv.org/abs/2307.09474v1)|null|
+|**2023-07-18**|**Making the leap I: Modelling the reconstructed lensing convergence PDF from cosmic shear with survey masks and systematics**|Alexandre Barthelemy et.al.|[2307.09468v1](http://arxiv.org/abs/2307.09468v1)|null|
+|**2023-07-18**|**Optimal Vehicle Trajectory Planning for Static Obstacle Avoidance using Nonlinear Optimization**|Yajia Zhang et.al.|[2307.09466v1](http://arxiv.org/abs/2307.09466v1)|null|
+|**2023-07-18**|**Occlusion Aware Student Emotion Recognition based on Facial Action Unit Detection**|Shrouk Wally et.al.|[2307.09465v1](http://arxiv.org/abs/2307.09465v1)|null|
+|**2023-07-18**|**Towards understanding the electronic structure of the simpler members of two-dimensional halide-perovskites**|Efstratios Manousakis et.al.|[2307.09464v1](http://arxiv.org/abs/2307.09464v1)|null|
 |**2023-07-17**|**Chemical footprints of giant planet formation. Role of planet accretion in shaping the C/O ratio of protoplanetary disks**|Haochang Jiang et.al.|[2307.08704v1](http://arxiv.org/abs/2307.08704v1)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
 |**2023-07-17**|**AlpaGasus: Training A Better Alpaca with Fewer Data**|Lichang Chen et.al.|[2307.08701v1](http://arxiv.org/abs/2307.08701v1)|null|

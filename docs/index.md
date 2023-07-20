@@ -156,6 +156,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Entanglement and replica symmetry breaking in a driven-dissipative quantum spin glass**|Brendan P. Marsh et.al.|[2307.10176v1](http://arxiv.org/abs/2307.10176v1)|null|
+|**2023-07-19**|**A New Dissociative Galaxy Cluster Merger: RM J150822.0+575515.2**|Rodrigo Stancioli et.al.|[2307.10174v1](http://arxiv.org/abs/2307.10174v1)|null|
+|**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173v1](http://arxiv.org/abs/2307.10173v1)|**[link](https://github.com/DNA-Rendering/DNA-Rendering)**|
+|**2023-07-19**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v1](http://arxiv.org/abs/2307.10172v1)|**[link](https://github.com/salesforce/DialogStudio)**|
+|**2023-07-19**|**Challenges and Applications of Large Language Models**|Jean Kaddour et.al.|[2307.10169v1](http://arxiv.org/abs/2307.10169v1)|null|
+|**2023-07-19**|**Adversarial Latent Autoencoder with Self-Attention for Structural Image Synthesis**|Jiajie Fan et.al.|[2307.10166v1](http://arxiv.org/abs/2307.10166v1)|null|
+|**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163v1](http://arxiv.org/abs/2307.10163v1)|null|
+|**2023-07-19**|**Variability estimation in a non-linear crack growth simulation model with controlled parameters using Designed Experiments testing**|Seungju Yeoa et.al.|[2307.10161v1](http://arxiv.org/abs/2307.10161v1)|null|
+|**2023-07-19**|**Robust Driving Policy Learning with Guided Meta Reinforcement Learning**|Kanghoon Lee et.al.|[2307.10160v1](http://arxiv.org/abs/2307.10160v1)|null|
+|**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159v1](http://arxiv.org/abs/2307.10159v1)|**[link](https://github.com/sd-fabric/fabric)**|
 |**2023-07-18**|**Forecasting the steam mass flow in a powerplant using the parallel hybrid network**|Andrii Kurkin et.al.|[2307.09483v1](http://arxiv.org/abs/2307.09483v1)|null|
 |**2023-07-18**|**Exact results for a boundary-driven double spin chain and resource-efficient remote entanglement stabilization**|Andrew Lingenfelter et.al.|[2307.09482v1](http://arxiv.org/abs/2307.09482v1)|null|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|

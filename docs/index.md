@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-17**|**Analyzing the Impact of Adversarial Examples on Explainable Machine Learning**|Prathyusha Devabhakthini et.al.|[2307.08327v1](http://arxiv.org/abs/2307.08327v1)|null|
 |**2023-07-18**|**On the Robustness of Split Learning against Adversarial Attacks**|Mingyuan Fan et.al.|[2307.07916v2](http://arxiv.org/abs/2307.07916v2)|null|
-|**2023-07-15**|**Towards Understanding Adversarial Transferability From Surrogate Training**|Yechao Zhang et.al.|[2307.07873v1](http://arxiv.org/abs/2307.07873v1)|null|
+|**2023-07-19**|**Why Does Little Robustness Help? Understanding Adversarial Transferability From Surrogate Training**|Yechao Zhang et.al.|[2307.07873v2](http://arxiv.org/abs/2307.07873v2)|null|
 |**2023-07-14**|**Structured Pruning of Neural Networks for Constraints Learning**|Matteo Cacciola et.al.|[2307.07457v1](http://arxiv.org/abs/2307.07457v1)|null|
 |**2023-07-18**|**Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning**|Byung-Kwan Lee et.al.|[2307.07250v2](http://arxiv.org/abs/2307.07250v2)|**[link](https://github.com/ByungKwanLee/Double-Debiased-Adversary)**|
 |**2023-07-14**|**Vulnerability-Aware Instance Reweighting For Adversarial Training**|Olukorede Fakorede et.al.|[2307.07167v1](http://arxiv.org/abs/2307.07167v1)|null|

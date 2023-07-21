@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 
 ## Adversarial Examples
 
@@ -159,7 +159,7 @@ layout: default
 |**2023-07-19**|**Entanglement and replica symmetry breaking in a driven-dissipative quantum spin glass**|Brendan P. Marsh et.al.|[2307.10176v1](http://arxiv.org/abs/2307.10176v1)|null|
 |**2023-07-19**|**A New Dissociative Galaxy Cluster Merger: RM J150822.0+575515.2**|Rodrigo Stancioli et.al.|[2307.10174v1](http://arxiv.org/abs/2307.10174v1)|null|
 |**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173v1](http://arxiv.org/abs/2307.10173v1)|**[link](https://github.com/DNA-Rendering/DNA-Rendering)**|
-|**2023-07-19**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v1](http://arxiv.org/abs/2307.10172v1)|**[link](https://github.com/salesforce/DialogStudio)**|
+|**2023-07-20**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v2](http://arxiv.org/abs/2307.10172v2)|**[link](https://github.com/salesforce/DialogStudio)**|
 |**2023-07-19**|**Challenges and Applications of Large Language Models**|Jean Kaddour et.al.|[2307.10169v1](http://arxiv.org/abs/2307.10169v1)|null|
 |**2023-07-19**|**Adversarial Latent Autoencoder with Self-Attention for Structural Image Synthesis**|Jiajie Fan et.al.|[2307.10166v1](http://arxiv.org/abs/2307.10166v1)|null|
 |**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163v1](http://arxiv.org/abs/2307.10163v1)|null|

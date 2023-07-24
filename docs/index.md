@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 
 ## Adversarial Examples
 

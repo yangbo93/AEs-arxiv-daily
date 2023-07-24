@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Fast Adaptive Test-Time Defense with Robust Features**|Anurag Singh et.al.|[2307.11672v1](http://arxiv.org/abs/2307.11672v1)|null|
+|**2023-07-21**|**Improving Transferability of Adversarial Examples via Bayesian Attacks**|Qizhang Li et.al.|[2307.11334v1](http://arxiv.org/abs/2307.11334v1)|null|
 |**2023-07-20**|**Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples**|Shaokui Wei et.al.|[2307.10562v1](http://arxiv.org/abs/2307.10562v1)|null|
 |**2023-07-14**|**Adversarial Training Over Long-Tailed Distribution**|Guanlin Li et.al.|[2307.10205v1](http://arxiv.org/abs/2307.10205v1)|**[link](https://github.com/guanlinlee/reat)**|
 |**2023-07-17**|**Analyzing the Impact of Adversarial Examples on Explainable Machine Learning**|Prathyusha Devabhakthini et.al.|[2307.08327v1](http://arxiv.org/abs/2307.08327v1)|null|
@@ -154,6 +156,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Electric Dipole Moments as Probes of $B$ Anomaly**|Syuhei Iguro et.al.|[2307.11751v1](http://arxiv.org/abs/2307.11751v1)|null|
+|**2023-07-21**|**Differentially Private Heavy Hitter Detection using Federated Analytics**|Karan Chadha et.al.|[2307.11749v1](http://arxiv.org/abs/2307.11749v1)|null|
+|**2023-07-21**|**Evidence for Pseudogap Phase in Cerium Superhydrides: CeH$_{10}$ and CeH$_9$**|Dmitrii Semenok et.al.|[2307.11742v1](http://arxiv.org/abs/2307.11742v1)|null|
+|**2023-07-21**|**Exorcizing Ghosts from the Vacuum Spectra in String-Inspired Nonlocal Tachyon Condensation**|Florian Nortier et.al.|[2307.11741v1](http://arxiv.org/abs/2307.11741v1)|null|
+|**2023-07-21**|**Entanglement of weighted graphs uncovers transitions in variable-range interacting models**|Debkanta Ghosh et.al.|[2307.11739v1](http://arxiv.org/abs/2307.11739v1)|null|
+|**2023-07-21**|**A continuum dimensional algebra of nowhere differentiable functions**|Jan-Christoph Schlage-Puchta et.al.|[2307.11738v1](http://arxiv.org/abs/2307.11738v1)|null|
+|**2023-07-21**|**A modular theoretical framework for learning through structural plasticity**|Gianmarco Tiddia et.al.|[2307.11735v1](http://arxiv.org/abs/2307.11735v1)|null|
+|**2023-07-21**|**Advancing Ad Auction Realism: Practical Insights & Modeling Implications**|Ming Chen et.al.|[2307.11732v1](http://arxiv.org/abs/2307.11732v1)|null|
+|**2023-07-21**|**Mitigating Communications Threats in Decentralized Federated Learning through Moving Target Defense**|Enrique Tomás Martínez Beltrán et.al.|[2307.11730v1](http://arxiv.org/abs/2307.11730v1)|null|
+|**2023-07-21**|**OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples**|Ryuto Koike et.al.|[2307.11729v1](http://arxiv.org/abs/2307.11729v1)|null|
 |**2023-07-20**|**Data-driven criteria for quantum correlations**|Mateusz Krawczyk et.al.|[2307.11091v1](http://arxiv.org/abs/2307.11091v1)|null|
 |**2023-07-20**|**Testing the assumptions of the Effective Field Theory of Large-Scale Structure**|Mandar Karandikar et.al.|[2307.11090v1](http://arxiv.org/abs/2307.11090v1)|null|
 |**2023-07-20**|**Glauber Phases in Non-Global LHC Observables: Resummation for Quark-Initiated Processes**|Philipp Böer et.al.|[2307.11089v1](http://arxiv.org/abs/2307.11089v1)|null|

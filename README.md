@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Lost In Translation: Generating Adversarial Examples Robust to Round-Trip Translation**|Neel Bhandari et.al.|[2307.12520v1](http://arxiv.org/abs/2307.12520v1)|**[link](https://github.com/neelbhandari6/nmt_text_attack)**|
+|**2023-07-24**|**AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models**|Xuelong Dai et.al.|[2307.12499v1](http://arxiv.org/abs/2307.12499v1)|null|
+|**2023-07-24**|**Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training**|Gege Qi et.al.|[2307.12498v1](http://arxiv.org/abs/2307.12498v1)|null|
+|**2023-07-23**|**Towards Generic and Controllable Attacks Against Object Detection**|Guopeng Li et.al.|[2307.12342v1](http://arxiv.org/abs/2307.12342v1)|**[link](https://github.com/liguopeng0923/LGP)**|
+|**2023-07-23**|**Downstream-agnostic Adversarial Examples**|Ziqi Zhou et.al.|[2307.12280v1](http://arxiv.org/abs/2307.12280v1)|null|
+|**2023-07-21**|**Unveiling Vulnerabilities in Interpretable Deep Learning Systems with Query-Efficient Black-box Attacks**|Eldor Abdukhamidov et.al.|[2307.11906v1](http://arxiv.org/abs/2307.11906v1)|null|
 |**2023-07-21**|**Fast Adaptive Test-Time Defense with Robust Features**|Anurag Singh et.al.|[2307.11672v1](http://arxiv.org/abs/2307.11672v1)|null|
 |**2023-07-21**|**Improving Transferability of Adversarial Examples via Bayesian Attacks**|Qizhang Li et.al.|[2307.11334v1](http://arxiv.org/abs/2307.11334v1)|null|
 |**2023-07-20**|**Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples**|Shaokui Wei et.al.|[2307.10562v1](http://arxiv.org/abs/2307.10562v1)|null|
@@ -156,6 +162,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Negative binomial count splitting for single-cell RNA sequencing data**|Anna Neufeld et.al.|[2307.12985v1](http://arxiv.org/abs/2307.12985v1)|null|
+|**2023-07-24**|**Multipoint fishnet Feynman diagrams: sequential splitting**|Francesco Aprile et.al.|[2307.12984v1](http://arxiv.org/abs/2307.12984v1)|null|
+|**2023-07-24**|**Consistent model selection in the spiked Wigner model via AIC-type criteria**|Soumendu Sundar Mukherjee et.al.|[2307.12982v1](http://arxiv.org/abs/2307.12982v1)|null|
+|**2023-07-24**|**3D-LLM: Injecting the 3D World into Large Language Models**|Yining Hong et.al.|[2307.12981v1](http://arxiv.org/abs/2307.12981v1)|null|
+|**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980v1](http://arxiv.org/abs/2307.12980v1)|null|
+|**2023-07-24**|**Scalable Quantum Spin Networks from Unitary Construction**|Abdulsalam H. Alsulami et.al.|[2307.12978v1](http://arxiv.org/abs/2307.12978v1)|null|
+|**2023-07-24**|**On ordinary differentially large fields**|Omar León Sánchez et.al.|[2307.12977v1](http://arxiv.org/abs/2307.12977v1)|null|
+|**2023-07-24**|**Evaluating the Ripple Effects of Knowledge Editing in Language Models**|Roi Cohen et.al.|[2307.12976v1](http://arxiv.org/abs/2307.12976v1)|null|
+|**2023-07-24**|**Provable Benefits of Policy Learning from Human Preferences in Contextual Bandit Problems**|Xiang Ji et.al.|[2307.12975v1](http://arxiv.org/abs/2307.12975v1)|null|
+|**2023-07-24**|**Leveraging Label Variation in Large Language Models for Zero-Shot Text Classification**|Flor Miriam Plaza-del-Arco et.al.|[2307.12973v1](http://arxiv.org/abs/2307.12973v1)|null|
 |**2023-07-21**|**Electric Dipole Moments as Probes of $B$ Anomaly**|Syuhei Iguro et.al.|[2307.11751v1](http://arxiv.org/abs/2307.11751v1)|null|
 |**2023-07-21**|**Differentially Private Heavy Hitter Detection using Federated Analytics**|Karan Chadha et.al.|[2307.11749v1](http://arxiv.org/abs/2307.11749v1)|null|
 |**2023-07-21**|**Evidence for Pseudogap Phase in Cerium Superhydrides: CeH$_{10}$ and CeH$_9$**|Dmitrii Semenok et.al.|[2307.11742v1](http://arxiv.org/abs/2307.11742v1)|null|

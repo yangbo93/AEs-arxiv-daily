@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations**|Yi Han et.al.|[2307.13131v1](http://arxiv.org/abs/2307.13131v1)|null|
 |**2023-07-24**|**Lost In Translation: Generating Adversarial Examples Robust to Round-Trip Translation**|Neel Bhandari et.al.|[2307.12520v1](http://arxiv.org/abs/2307.12520v1)|**[link](https://github.com/neelbhandari6/nmt_text_attack)**|
 |**2023-07-24**|**AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models**|Xuelong Dai et.al.|[2307.12499v1](http://arxiv.org/abs/2307.12499v1)|null|
 |**2023-07-24**|**Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training**|Gege Qi et.al.|[2307.12498v1](http://arxiv.org/abs/2307.12498v1)|null|
@@ -166,6 +167,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Benchmarking and Analyzing Generative Data for Visual Recognition**|Bo Li et.al.|[2307.13697v1](http://arxiv.org/abs/2307.13697v1)|null|
+|**2023-07-25**|**The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae**|H. Qu et.al.|[2307.13696v1](http://arxiv.org/abs/2307.13696v1)|null|
+|**2023-07-25**|**A Compact DAG for Storing and Searching Maximal Common Subsequences**|Alessio Conte et.al.|[2307.13695v1](http://arxiv.org/abs/2307.13695v1)|null|
+|**2023-07-25**|**Evaluating Large Language Models for Radiology Natural Language Processing**|Zhengliang Liu et.al.|[2307.13693v1](http://arxiv.org/abs/2307.13693v1)|null|
+|**2023-07-25**|**ARB: Advanced Reasoning Benchmark for Large Language Models**|Tomohiro Sawada et.al.|[2307.13692v1](http://arxiv.org/abs/2307.13692v1)|null|
+|**2023-07-25**|**A Comprehensive Review of Recent Research Trends on UAVs**|Kaled Telli et.al.|[2307.13691v1](http://arxiv.org/abs/2307.13691v1)|null|
+|**2023-07-25**|**Single reference treatment of strongly correlated H$_4$ and H$_{10}$ isomers with Richardson-Gaudin states**|Paul A. Johnson et.al.|[2307.13690v1](http://arxiv.org/abs/2307.13690v1)|null|
+|**2023-07-25**|**All-optical GeV electron bunch generation in a laser-plasma accelerator via truncated-channel injection**|A. Picksley et.al.|[2307.13689v1](http://arxiv.org/abs/2307.13689v1)|null|
+|**2023-07-25**|**Score-based Diffusion Models for Generating Liquid Argon Time Projection Chamber Images**|Zeviel Imani et.al.|[2307.13687v1](http://arxiv.org/abs/2307.13687v1)|null|
+|**2023-07-25**|**Characteristics and Predictive Modeling of Short-term Impacts of Hurricanes on the US Employment**|Gan Zhang et.al.|[2307.13686v1](http://arxiv.org/abs/2307.13686v1)|null|
 |**2023-07-24**|**Negative binomial count splitting for single-cell RNA sequencing data**|Anna Neufeld et.al.|[2307.12985v1](http://arxiv.org/abs/2307.12985v1)|null|
 |**2023-07-24**|**Multipoint fishnet Feynman diagrams: sequential splitting**|Francesco Aprile et.al.|[2307.12984v1](http://arxiv.org/abs/2307.12984v1)|null|
 |**2023-07-24**|**Consistent model selection in the spiked Wigner model via AIC-type criteria**|Soumendu Sundar Mukherjee et.al.|[2307.12982v1](http://arxiv.org/abs/2307.12982v1)|null|

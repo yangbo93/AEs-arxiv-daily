@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Defending Adversarial Patches via Joint Region Localizing and Inpainting**|Junwen Chen et.al.|[2307.14242v1](http://arxiv.org/abs/2307.14242v1)|null|
+|**2023-07-26**|**Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models**|Dong Lu et.al.|[2307.14061v1](http://arxiv.org/abs/2307.14061v1)|null|
+|**2023-07-26**|**Enhanced Security against Adversarial Examples Using a Random Ensemble of Encrypted Vision Transformer Models**|Ryota Iijima et.al.|[2307.13985v1](http://arxiv.org/abs/2307.13985v1)|null|
 |**2023-07-24**|**Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations**|Yi Han et.al.|[2307.13131v1](http://arxiv.org/abs/2307.13131v1)|null|
 |**2023-07-24**|**Lost In Translation: Generating Adversarial Examples Robust to Round-Trip Translation**|Neel Bhandari et.al.|[2307.12520v1](http://arxiv.org/abs/2307.12520v1)|**[link](https://github.com/neelbhandari6/nmt_text_attack)**|
 |**2023-07-24**|**AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models**|Xuelong Dai et.al.|[2307.12499v1](http://arxiv.org/abs/2307.12499v1)|null|
@@ -167,6 +170,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Non-Hermitian tearing by dissipation**|Qian Du et.al.|[2307.14340v1](http://arxiv.org/abs/2307.14340v1)|null|
+|**2023-07-26**|**TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning**|Yury Gorishniy et.al.|[2307.14338v1](http://arxiv.org/abs/2307.14338v1)|**[link](https://github.com/yandex-research/tabular-dl-tabr)**|
+|**2023-07-26**|**MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation**|Rajeev Yasarla et.al.|[2307.14336v1](http://arxiv.org/abs/2307.14336v1)|null|
+|**2023-07-26**|**WavJourney: Compositional Audio Creation with Large Language Models**|Xubo Liu et.al.|[2307.14335v1](http://arxiv.org/abs/2307.14335v1)|**[link](https://github.com/audio-agi/wavjourney)**|
+|**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
+|**2023-07-26**|**Consideration Set Sampling to Analyze Undecided Respondents**|Dominik Kreiss et.al.|[2307.14333v1](http://arxiv.org/abs/2307.14333v1)|null|
+|**2023-07-26**|**Event-based Vision for Early Prediction of Manipulation Actions**|Daniel Deniz et.al.|[2307.14332v1](http://arxiv.org/abs/2307.14332v1)|null|
+|**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331v1](http://arxiv.org/abs/2307.14331v1)|null|
+|**2023-07-26**|**Effective-Hamiltonian theory: An approximation to the equilibrium state of open quantum systems**|Nicholas Anto-Sztrikacs et.al.|[2307.14330v1](http://arxiv.org/abs/2307.14330v1)|null|
+|**2023-07-26**|**Generation and Life Cycle of Solar Spicules**|Hamid Saleem et.al.|[2307.14328v1](http://arxiv.org/abs/2307.14328v1)|null|
 |**2023-07-25**|**Benchmarking and Analyzing Generative Data for Visual Recognition**|Bo Li et.al.|[2307.13697v1](http://arxiv.org/abs/2307.13697v1)|null|
 |**2023-07-25**|**The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae**|H. Qu et.al.|[2307.13696v1](http://arxiv.org/abs/2307.13696v1)|null|
 |**2023-07-25**|**A Compact DAG for Storing and Searching Maximal Common Subsequences**|Alessio Conte et.al.|[2307.13695v1](http://arxiv.org/abs/2307.13695v1)|null|

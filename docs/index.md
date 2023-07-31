@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.30
+## Updated on 2023.07.31
 
 ## Adversarial Examples
 
@@ -12,7 +12,7 @@ layout: default
 |**2023-07-26**|**Defending Adversarial Patches via Joint Region Localizing and Inpainting**|Junwen Chen et.al.|[2307.14242v1](http://arxiv.org/abs/2307.14242v1)|null|
 |**2023-07-26**|**Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models**|Dong Lu et.al.|[2307.14061v1](http://arxiv.org/abs/2307.14061v1)|null|
 |**2023-07-26**|**Enhanced Security against Adversarial Examples Using a Random Ensemble of Encrypted Vision Transformer Models**|Ryota Iijima et.al.|[2307.13985v1](http://arxiv.org/abs/2307.13985v1)|null|
-|**2023-07-24**|**Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations**|Yi Han et.al.|[2307.13131v1](http://arxiv.org/abs/2307.13131v1)|null|
+|**2023-07-27**|**Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations**|Yi Han et.al.|[2307.13131v2](http://arxiv.org/abs/2307.13131v2)|null|
 |**2023-07-24**|**Lost In Translation: Generating Adversarial Examples Robust to Round-Trip Translation**|Neel Bhandari et.al.|[2307.12520v1](http://arxiv.org/abs/2307.12520v1)|**[link](https://github.com/neelbhandari6/nmt_text_attack)**|
 |**2023-07-24**|**AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models**|Xuelong Dai et.al.|[2307.12499v1](http://arxiv.org/abs/2307.12499v1)|null|
 |**2023-07-24**|**Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training**|Gege Qi et.al.|[2307.12498v1](http://arxiv.org/abs/2307.12498v1)|null|
@@ -180,7 +180,7 @@ layout: default
 |**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|null|
 |**2023-07-27**|**A Geometric Notion of Causal Probing**|Clément Guerner et.al.|[2307.15054v1](http://arxiv.org/abs/2307.15054v1)|null|
 |**2023-07-27**|**Learning Depth Estimation for Transparent and Mirror Surfaces**|Alex Costanzino et.al.|[2307.15052v1](http://arxiv.org/abs/2307.15052v1)|null|
-|**2023-07-27**|**Matching Patients to Clinical Trials with Large Language Models**|Qiao Jin et.al.|[2307.15051v1](http://arxiv.org/abs/2307.15051v1)|null|
+|**2023-07-28**|**Matching Patients to Clinical Trials with Large Language Models**|Qiao Jin et.al.|[2307.15051v2](http://arxiv.org/abs/2307.15051v2)|null|
 |**2023-07-26**|**Non-Hermitian tearing by dissipation**|Qian Du et.al.|[2307.14340v1](http://arxiv.org/abs/2307.14340v1)|null|
 |**2023-07-26**|**TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning**|Yury Gorishniy et.al.|[2307.14338v1](http://arxiv.org/abs/2307.14338v1)|**[link](https://github.com/yandex-research/tabular-dl-tabr)**|
 |**2023-07-26**|**MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation**|Rajeev Yasarla et.al.|[2307.14336v1](http://arxiv.org/abs/2307.14336v1)|null|

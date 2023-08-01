@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Transferable Attack for Semantic Segmentation**|Mengqi He et.al.|[2307.16572v1](http://arxiv.org/abs/2307.16572v1)|**[link](https://github.com/anucvers/tass)**|
+|**2023-07-31**|**Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples**|Qiufan Ji et.al.|[2307.16361v1](http://arxiv.org/abs/2307.16361v1)|**[link](https://github.com/qiufan319/benchmark_pc_attack)**|
+|**2023-07-30**|**Theoretically Principled Trade-off for Stateful Defenses against Query-Based Black-Box Attacks**|Ashish Hooda et.al.|[2307.16331v1](http://arxiv.org/abs/2307.16331v1)|null|
 |**2023-07-31**|**R-LPIPS: An Adversarially Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2307.15157v2](http://arxiv.org/abs/2307.15157v2)|**[link](https://github.com/saraghazanfari/r-lpips)**|
 |**2023-07-27**|**FLARE: Fingerprinting Deep Reinforcement Learning Agents using Universal Adversarial Masks**|Buse G. A. Tekgul et.al.|[2307.14751v1](http://arxiv.org/abs/2307.14751v1)|null|
 |**2023-07-26**|**Defending Adversarial Patches via Joint Region Localizing and Inpainting**|Junwen Chen et.al.|[2307.14242v1](http://arxiv.org/abs/2307.14242v1)|null|
@@ -168,6 +171,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Conformal PID Control for Time Series Prediction**|Anastasios N. Angelopoulos et.al.|[2307.16895v1](http://arxiv.org/abs/2307.16895v1)|**[link](https://github.com/aangelopoulos/conformal-time-series)**|
+|**2023-07-31**|**A reduced order model for geometrically parameterized two-scale simulations of elasto-plastic microstructures under large deformations**|Theron Guo et.al.|[2307.16894v1](http://arxiv.org/abs/2307.16894v1)|null|
+|**2023-07-31**|**A Quantized Interband Topological Index in Two-Dimensional Systems**|Tharindu Fernando et.al.|[2307.16893v1](http://arxiv.org/abs/2307.16893v1)|null|
+|**2023-07-31**|**Origin of correlated isolated flat bands in copper-substituted lead phosphate apatite**|Sinéad M. Griffin et.al.|[2307.16892v1](http://arxiv.org/abs/2307.16892v1)|null|
+|**2023-07-31**|**Foundational Models for Fault Diagnosis of Electrical Motors**|Sriram Anbalagan et.al.|[2307.16891v1](http://arxiv.org/abs/2307.16891v1)|null|
+|**2023-07-31**|**Discovering Adaptable Symbolic Algorithms from Scratch**|Stephen Kelly et.al.|[2307.16890v1](http://arxiv.org/abs/2307.16890v1)|null|
+|**2023-07-31**|**Virtual Prompt Injection for Instruction-Tuned Large Language Models**|Jun Yan et.al.|[2307.16888v1](http://arxiv.org/abs/2307.16888v1)|null|
+|**2023-07-31**|**Data-Based MHE for Agile Quadrotor Flight**|Wonoo Choo et.al.|[2307.16887v1](http://arxiv.org/abs/2307.16887v1)|null|
+|**2023-07-31**|**Irregularity scales for Gaussian processes: Hausdorff dimensions and hitting probabilities**|Youssef Hakiki et.al.|[2307.16886v1](http://arxiv.org/abs/2307.16886v1)|null|
+|**2023-07-31**|**LEONARDO: A Pan-European Pre-Exascale Supercomputer for HPC and AI Applications**|Matteo Turisini et.al.|[2307.16885v1](http://arxiv.org/abs/2307.16885v1)|null|
 |**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712v1](http://arxiv.org/abs/2307.15712v1)|null|
 |**2023-07-28**|**Density-polarity coupling in confined active polar films: asters, spirals, and biphasic orientational phases**|Mathieu Dedenon et.al.|[2307.15707v1](http://arxiv.org/abs/2307.15707v1)|null|
 |**2023-07-28**|**Type II t-J model and shared antiferromagnetic spin coupling from Hund's rule in superconducting La$_3$Ni$_2$O$_7$**|Hanbit Oh et.al.|[2307.15706v1](http://arxiv.org/abs/2307.15706v1)|null|

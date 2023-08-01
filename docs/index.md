@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-27**|**R-LPIPS: An Adversarially Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2307.15157v1](http://arxiv.org/abs/2307.15157v1)|**[link](https://github.com/saraghazanfari/r-lpips)**|
+|**2023-07-31**|**R-LPIPS: An Adversarially Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2307.15157v2](http://arxiv.org/abs/2307.15157v2)|**[link](https://github.com/saraghazanfari/r-lpips)**|
 |**2023-07-27**|**FLARE: Fingerprinting Deep Reinforcement Learning Agents using Universal Adversarial Masks**|Buse G. A. Tekgul et.al.|[2307.14751v1](http://arxiv.org/abs/2307.14751v1)|null|
 |**2023-07-26**|**Defending Adversarial Patches via Joint Region Localizing and Inpainting**|Junwen Chen et.al.|[2307.14242v1](http://arxiv.org/abs/2307.14242v1)|null|
 |**2023-07-26**|**Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models**|Dong Lu et.al.|[2307.14061v1](http://arxiv.org/abs/2307.14061v1)|null|
@@ -172,13 +172,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712v1](http://arxiv.org/abs/2307.15712v1)|**[link](https://github.com/mcmahon-lab/Single-Photon-Detection-Neural-Networks)**|
+|**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712v1](http://arxiv.org/abs/2307.15712v1)|null|
 |**2023-07-28**|**Density-polarity coupling in confined active polar films: asters, spirals, and biphasic orientational phases**|Mathieu Dedenon et.al.|[2307.15707v1](http://arxiv.org/abs/2307.15707v1)|null|
 |**2023-07-28**|**Type II t-J model and shared antiferromagnetic spin coupling from Hund's rule in superconducting La$_3$Ni$_2$O$_7$**|Hanbit Oh et.al.|[2307.15706v1](http://arxiv.org/abs/2307.15706v1)|null|
 |**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703v1](http://arxiv.org/abs/2307.15703v1)|null|
 |**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702v1](http://arxiv.org/abs/2307.15702v1)|null|
 |**2023-07-28**|**Prevalence of two-dimensional photonic topology**|Ali Ghorashi et.al.|[2307.15701v1](http://arxiv.org/abs/2307.15701v1)|null|
-|**2023-07-28**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700v1](http://arxiv.org/abs/2307.15700v1)|null|
+|**2023-07-31**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700v2](http://arxiv.org/abs/2307.15700v2)|null|
 |**2023-07-28**|**Three-phase grid-forming droop control for unbalanced systems and fault ride through**|Prajwal Bhagwat et.al.|[2307.15699v1](http://arxiv.org/abs/2307.15699v1)|null|
 |**2023-07-28**|**The spectrum of states of Ba~nados-Teitelboim-Zanelli black hole formed by a collapsing dust shell**|Alexander A. Andrianov et.al.|[2307.15698v1](http://arxiv.org/abs/2307.15698v1)|null|
 |**2023-07-28**|**Entangling interactions between artificial atoms mediated by a multimode left-handed superconducting ring resonator**|T. McBroom-Carroll et.al.|[2307.15695v1](http://arxiv.org/abs/2307.15695v1)|null|

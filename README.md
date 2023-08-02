@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Dynamic ensemble selection based on Deep Neural Network Uncertainty Estimation for Adversarial Robustness**|Ruoxi Qin et.al.|[2308.00346v1](http://arxiv.org/abs/2308.00346v1)|null|
+|**2023-08-01**|**LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack**|Hai Zhu et.al.|[2308.00319v1](http://arxiv.org/abs/2308.00319v1)|null|
 |**2023-07-31**|**Transferable Attack for Semantic Segmentation**|Mengqi He et.al.|[2307.16572v1](http://arxiv.org/abs/2307.16572v1)|**[link](https://github.com/anucvers/tass)**|
 |**2023-07-31**|**Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples**|Qiufan Ji et.al.|[2307.16361v1](http://arxiv.org/abs/2307.16361v1)|**[link](https://github.com/qiufan319/benchmark_pc_attack)**|
 |**2023-07-30**|**Theoretically Principled Trade-off for Stateful Defenses against Query-Based Black-Box Attacks**|Ashish Hooda et.al.|[2307.16331v1](http://arxiv.org/abs/2307.16331v1)|null|
@@ -171,6 +173,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Statistical methods for exoplanet detection with radial velocities**|Nathan C. Hara et.al.|[2308.00701v1](http://arxiv.org/abs/2308.00701v1)|null|
+|**2023-08-01**|**Validation of wall boundary conditions for simulating complex fluid flows via the Boltzmann--BGK equation: Momentum transport and skin friction**|Tarik Dzanic et.al.|[2308.00700v1](http://arxiv.org/abs/2308.00700v1)|null|
+|**2023-08-01**|**Efficient Quantum Counting and Quantum Content-Addressable Memory for DNA similarity**|Jan Balewski et.al.|[2308.00699v1](http://arxiv.org/abs/2308.00699v1)|null|
+|**2023-08-01**|**Pb-apatite framework as a generator of novel flat-band CuO based physics, including possible room temperature superconductivity**|Rafal Kurleto et.al.|[2308.00698v1](http://arxiv.org/abs/2308.00698v1)|null|
+|**2023-08-01**|**Debating the Reliability and Robustness of the Learned Hamiltonian in the Traversable Wormhole Experiment**|Galina Weinstein et.al.|[2308.00697v1](http://arxiv.org/abs/2308.00697v1)|null|
+|**2023-08-01**|**Single radius spherical cap discrepancy via gegenbadly approximable numbers**|Dmitriy Bilyk et.al.|[2308.00694v1](http://arxiv.org/abs/2308.00694v1)|null|
+|**2023-08-01**|**LISA: Reasoning Segmentation via Large Language Model**|Xin Lai et.al.|[2308.00692v1](http://arxiv.org/abs/2308.00692v1)|**[link](https://github.com/dvlab-research/lisa)**|
+|**2023-08-01**|**The current state of disk wind observations in BHLMXBs through X-ray absorption lines in the iron band**|M. Parra et.al.|[2308.00691v1](http://arxiv.org/abs/2308.00691v1)|null|
+|**2023-08-01**|**Solving Linear Equations Over Maxmin-$ω$ Systems**|Muhammad Syifa'ul Mufid et.al.|[2308.00690v1](http://arxiv.org/abs/2308.00690v1)|null|
+|**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v1](http://arxiv.org/abs/2308.00688v1)|null|
 |**2023-07-31**|**Conformal PID Control for Time Series Prediction**|Anastasios N. Angelopoulos et.al.|[2307.16895v1](http://arxiv.org/abs/2307.16895v1)|**[link](https://github.com/aangelopoulos/conformal-time-series)**|
 |**2023-07-31**|**A reduced order model for geometrically parameterized two-scale simulations of elasto-plastic microstructures under large deformations**|Theron Guo et.al.|[2307.16894v1](http://arxiv.org/abs/2307.16894v1)|null|
 |**2023-07-31**|**A Quantized Interband Topological Index in Two-Dimensional Systems**|Tharindu Fernando et.al.|[2307.16893v1](http://arxiv.org/abs/2307.16893v1)|null|

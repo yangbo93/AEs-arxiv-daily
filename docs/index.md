@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Tim**|Xinfeng Li et.al.|[2308.01040v1](http://arxiv.org/abs/2308.01040v1)|null|
 |**2023-08-01**|**Dynamic ensemble selection based on Deep Neural Network Uncertainty Estimation for Adversarial Robustness**|Ruoxi Qin et.al.|[2308.00346v1](http://arxiv.org/abs/2308.00346v1)|null|
 |**2023-08-01**|**LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack**|Hai Zhu et.al.|[2308.00319v1](http://arxiv.org/abs/2308.00319v1)|null|
 |**2023-07-31**|**Transferable Attack for Semantic Segmentation**|Mengqi He et.al.|[2307.16572v1](http://arxiv.org/abs/2307.16572v1)|**[link](https://github.com/anucvers/tass)**|
@@ -177,6 +178,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders**|Shawn Xu et.al.|[2308.01317v1](http://arxiv.org/abs/2308.01317v1)|null|
+|**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316v1](http://arxiv.org/abs/2308.01316v1)|null|
+|**2023-08-02**|**Minimal model for the flat bands in copper-substituted lead phosphate apatite**|Omid Tavakol et.al.|[2308.01315v1](http://arxiv.org/abs/2308.01315v1)|null|
+|**2023-08-02**|**More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**|Bang An et.al.|[2308.01313v1](http://arxiv.org/abs/2308.01313v1)|**[link](https://github.com/umd-huang-lab/perceptionclip)**|
+|**2023-08-02**|**TEASMA: A Practical Approach for the Test Assessment of Deep Neural Networks using Mutation Analysis**|Amin Abbasishahkoo et.al.|[2308.01311v1](http://arxiv.org/abs/2308.01311v1)|null|
+|**2023-08-02**|**Lorentzian Robin Universe**|Manishankar Ailiga et.al.|[2308.01310v1](http://arxiv.org/abs/2308.01310v1)|null|
+|**2023-08-02**|**Constraining the nature of dark compact objects with spin-induced octupole moment measurement**|Pankaj Saini et.al.|[2308.01309v1](http://arxiv.org/abs/2308.01309v1)|null|
+|**2023-08-02**|**Masked and Swapped Sequence Modeling for Next Novel Basket Recommendation in Grocery Shopping**|Ming Li et.al.|[2308.01308v1](http://arxiv.org/abs/2308.01308v1)|**[link](https://github.com/liming-7/mask-swap-nnbr)**|
+|**2023-08-02**|**Broad Band Mott Localization is all you need for Hot Superconductivity: Atom Mott Insulator Theory for Cu-Pb Apatite**|G. Baskaran et.al.|[2308.01307v1](http://arxiv.org/abs/2308.01307v1)|null|
+|**2023-08-02**|**Shadows near supermassive black holes: from a theoretical concept to GR test**|Alexander F. Zakharov et.al.|[2308.01301v1](http://arxiv.org/abs/2308.01301v1)|null|
 |**2023-08-01**|**Statistical methods for exoplanet detection with radial velocities**|Nathan C. Hara et.al.|[2308.00701v1](http://arxiv.org/abs/2308.00701v1)|null|
 |**2023-08-01**|**Validation of wall boundary conditions for simulating complex fluid flows via the Boltzmann--BGK equation: Momentum transport and skin friction**|Tarik Dzanic et.al.|[2308.00700v1](http://arxiv.org/abs/2308.00700v1)|null|
 |**2023-08-01**|**Efficient Quantum Counting and Quantum Content-Addressable Memory for DNA similarity**|Jan Balewski et.al.|[2308.00699v1](http://arxiv.org/abs/2308.00699v1)|null|

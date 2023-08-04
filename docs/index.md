@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.08.03
+## Updated on 2023.08.04
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-02**|**Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Tim**|Xinfeng Li et.al.|[2308.01040v1](http://arxiv.org/abs/2308.01040v1)|null|
+|**2023-08-03**|**Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time**|Xinfeng Li et.al.|[2308.01040v2](http://arxiv.org/abs/2308.01040v2)|null|
 |**2023-08-01**|**Dynamic ensemble selection based on Deep Neural Network Uncertainty Estimation for Adversarial Robustness**|Ruoxi Qin et.al.|[2308.00346v1](http://arxiv.org/abs/2308.00346v1)|null|
 |**2023-08-01**|**LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack**|Hai Zhu et.al.|[2308.00319v1](http://arxiv.org/abs/2308.00319v1)|null|
 |**2023-07-31**|**Transferable Attack for Semantic Segmentation**|Mengqi He et.al.|[2307.16572v1](http://arxiv.org/abs/2307.16572v1)|**[link](https://github.com/anucvers/tass)**|

@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**URET: Universal Robustness Evaluation Toolkit (for Evasion)**|Kevin Eykholt et.al.|[2308.01840v1](http://arxiv.org/abs/2308.01840v1)|null|
+|**2023-08-03**|**Hard Adversarial Example Mining for Improving Robust Fairness**|Chenhao Lin et.al.|[2308.01823v1](http://arxiv.org/abs/2308.01823v1)|null|
 |**2023-08-03**|**Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time**|Xinfeng Li et.al.|[2308.01040v2](http://arxiv.org/abs/2308.01040v2)|null|
 |**2023-08-01**|**Dynamic ensemble selection based on Deep Neural Network Uncertainty Estimation for Adversarial Robustness**|Ruoxi Qin et.al.|[2308.00346v1](http://arxiv.org/abs/2308.00346v1)|null|
 |**2023-08-01**|**LimeAttack: Local Explainable Method for Textual Hard-Label Adversarial Attack**|Hai Zhu et.al.|[2308.00319v1](http://arxiv.org/abs/2308.00319v1)|null|
@@ -178,6 +180,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World**|Weiyun Wang et.al.|[2308.01907v1](http://arxiv.org/abs/2308.01907v1)|**[link](https://github.com/opengvlab/all-seeing)**|
+|**2023-08-03**|**Reasoning in Large Language Models Through Symbolic Math Word Problems**|Vedant Gaur et.al.|[2308.01906v1](http://arxiv.org/abs/2308.01906v1)|null|
+|**2023-08-03**|**Revisiting Deformable Convolution for Depth Completion**|Xinglong Sun et.al.|[2308.01905v1](http://arxiv.org/abs/2308.01905v1)|null|
+|**2023-08-03**|**DETR Doesn't Need Multi-Scale or Locality Design**|Yutong Lin et.al.|[2308.01904v1](http://arxiv.org/abs/2308.01904v1)|**[link](https://github.com/impiga/plain-detr)**|
+|**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898v1](http://arxiv.org/abs/2308.01898v1)|null|
+|**2023-08-03**|**Strategies for optimizing plasmonic grating couplers with topology-based inverse design**|Michael Efseaff et.al.|[2308.01893v1](http://arxiv.org/abs/2308.01893v1)|null|
+|**2023-08-03**|**Hamiltonian structure of isomonodromic deformation dynamics in linear systems of PDE's**|J. Harnad et.al.|[2308.01892v1](http://arxiv.org/abs/2308.01892v1)|null|
+|**2023-08-03**|**Exact identification of nonlinear dynamical systems by Trimmed Lasso**|Shawn L. Kiser et.al.|[2308.01891v1](http://arxiv.org/abs/2308.01891v1)|null|
+|**2023-08-03**|**FROD: Robust Object Detection for Free**|Muhammad et.al.|[2308.01888v1](http://arxiv.org/abs/2308.01888v1)|null|
+|**2023-08-03**|**Athena 2.0: Discourse and User Modeling in Open Domain Dialogue**|Omkar Patil et.al.|[2308.01887v1](http://arxiv.org/abs/2308.01887v1)|null|
 |**2023-08-02**|**ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders**|Shawn Xu et.al.|[2308.01317v1](http://arxiv.org/abs/2308.01317v1)|null|
 |**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316v1](http://arxiv.org/abs/2308.01316v1)|null|
 |**2023-08-02**|**Minimal model for the flat bands in copper-substituted lead phosphate apatite**|Omid Tavakol et.al.|[2308.01315v1](http://arxiv.org/abs/2308.01315v1)|null|

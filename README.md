@@ -1,4 +1,4 @@
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 
 ## Adversarial Examples
 
@@ -182,7 +182,7 @@
 |**2023-08-03**|**DETR Doesn't Need Multi-Scale or Locality Design**|Yutong Lin et.al.|[2308.01904v1](http://arxiv.org/abs/2308.01904v1)|**[link](https://github.com/impiga/plain-detr)**|
 |**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898v1](http://arxiv.org/abs/2308.01898v1)|null|
 |**2023-08-03**|**Strategies for optimizing plasmonic grating couplers with topology-based inverse design**|Michael Efseaff et.al.|[2308.01893v1](http://arxiv.org/abs/2308.01893v1)|null|
-|**2023-08-03**|**Hamiltonian structure of isomonodromic deformation dynamics in linear systems of PDE's**|J. Harnad et.al.|[2308.01892v1](http://arxiv.org/abs/2308.01892v1)|null|
+|**2023-08-04**|**Hamiltonian structure of isomonodromic deformation dynamics in linear systems of PDE's**|J. Harnad et.al.|[2308.01892v2](http://arxiv.org/abs/2308.01892v2)|null|
 |**2023-08-03**|**Exact identification of nonlinear dynamical systems by Trimmed Lasso**|Shawn L. Kiser et.al.|[2308.01891v1](http://arxiv.org/abs/2308.01891v1)|null|
 |**2023-08-03**|**FROD: Robust Object Detection for Free**|Muhammad et.al.|[2308.01888v1](http://arxiv.org/abs/2308.01888v1)|null|
 |**2023-08-03**|**Athena 2.0: Discourse and User Modeling in Open Domain Dialogue**|Omkar Patil et.al.|[2308.01887v1](http://arxiv.org/abs/2308.01887v1)|null|

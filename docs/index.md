@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.07
+## Updated on 2023.08.08
 
 ## Adversarial Examples
 
@@ -182,7 +182,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-04**|**MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2308.02490v1](http://arxiv.org/abs/2308.02490v1)|**[link](https://github.com/yuweihao/mm-vet)**|
-|**2023-08-04**|**Why are Quasiperiodic Eruptions only Found in Low-Mass Galaxies?**|Andrew King et.al.|[2308.02489v1](http://arxiv.org/abs/2308.02489v1)|null|
+|**2023-08-07**|**Why are Quasiperiodic Eruptions only Found in Low-Mass Galaxies?**|Andrew King et.al.|[2308.02489v2](http://arxiv.org/abs/2308.02489v2)|null|
 |**2023-08-04**|**Recovering non-Maxwellian particle velocity distribution functions from collective Thomson-scattered spectra**|Bryan C. Foo et.al.|[2308.02488v1](http://arxiv.org/abs/2308.02488v1)|null|
 |**2023-08-04**|**Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP**|Qihang Yu et.al.|[2308.02487v1](http://arxiv.org/abs/2308.02487v1)|**[link](https://github.com/bytedance/fc-clip)**|
 |**2023-08-04**|**Discrete-Time Adaptive State Tracking Control Schemes Using Gradient Algorithms**|Gang Tao et.al.|[2308.02484v1](http://arxiv.org/abs/2308.02484v1)|null|

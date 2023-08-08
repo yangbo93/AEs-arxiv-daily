@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-06**|**CGBA: Curvature-aware Geometric Black-box Attack**|Md Farhamdur Reza et.al.|[2308.03163v1](http://arxiv.org/abs/2308.03163v1)|**[link](https://github.com/farhamdur/cgba)**|
+|**2023-08-05**|**An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability**|Bin Chen et.al.|[2308.02897v1](http://arxiv.org/abs/2308.02897v1)|null|
+|**2023-08-01**|**Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning**|Kaijie Zhu et.al.|[2308.02533v1](http://arxiv.org/abs/2308.02533v1)|null|
 |**2023-08-04**|**AdvFAS: A robust face anti-spoofing framework against adversarial examples**|Jiawei Chen et.al.|[2308.02116v1](http://arxiv.org/abs/2308.02116v1)|null|
 |**2023-08-03**|**URET: Universal Robustness Evaluation Toolkit (for Evasion)**|Kevin Eykholt et.al.|[2308.01840v1](http://arxiv.org/abs/2308.01840v1)|**[link](https://github.com/ibm/uret)**|
 |**2023-08-03**|**Hard Adversarial Example Mining for Improving Robust Fairness**|Chenhao Lin et.al.|[2308.01823v1](http://arxiv.org/abs/2308.01823v1)|null|
@@ -181,6 +184,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels**|Lue Fan et.al.|[2308.03755v1](http://arxiv.org/abs/2308.03755v1)|**[link](https://github.com/tusen-ai/sst)**|
+|**2023-08-07**|**Cosmology meets cohomology**|Shounak De et.al.|[2308.03753v1](http://arxiv.org/abs/2308.03753v1)|null|
+|**2023-08-07**|**Tight-binding models for SG 143 (P3) and application to recent DFT results on copper-doped lead apatite**|Moritz M. Hirschmann et.al.|[2308.03751v1](http://arxiv.org/abs/2308.03751v1)|null|
+|**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750v1](http://arxiv.org/abs/2308.03750v1)|null|
+|**2023-08-07**|**Rearrangement of Granular Surfaces on Asteroids due to Thermal Cycling**|Danielle Bovie et.al.|[2308.03749v1](http://arxiv.org/abs/2308.03749v1)|null|
+|**2023-08-07**|**Mask Frozen-DETR: High Quality Instance Segmentation with One GPU**|Zhanhao Liang et.al.|[2308.03747v1](http://arxiv.org/abs/2308.03747v1)|null|
+|**2023-08-07**|**UNCOVER: Illuminating the Early Universe -- JWST/NIRSpec Confirmation of $z > 12$ Galaxies**|Bingjie Wang et.al.|[2308.03745v1](http://arxiv.org/abs/2308.03745v1)|null|
+|**2023-08-07**|**The Copycat Perceptron: Smashing Barriers Through Collective Learning**|Giovanni Catania et.al.|[2308.03743v1](http://arxiv.org/abs/2308.03743v1)|null|
+|**2023-08-07**|**What about translation? New coding system for content analysis on the perception of literary translation around the political transformation in 1989 in Hungary as a classification problem on an unbalanced dataset**|Dalma Galambos et.al.|[2308.03742v1](http://arxiv.org/abs/2308.03742v1)|null|
+|**2023-08-07**|**A Cost Analysis of Generative Language Models and Influence Operations**|Micah Musser et.al.|[2308.03740v1](http://arxiv.org/abs/2308.03740v1)|null|
 |**2023-08-04**|**MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2308.02490v1](http://arxiv.org/abs/2308.02490v1)|**[link](https://github.com/yuweihao/mm-vet)**|
 |**2023-08-07**|**Why are Quasiperiodic Eruptions only Found in Low-Mass Galaxies?**|Andrew King et.al.|[2308.02489v2](http://arxiv.org/abs/2308.02489v2)|null|
 |**2023-08-04**|**Recovering non-Maxwellian particle velocity distribution functions from collective Thomson-scattered spectra**|Bryan C. Foo et.al.|[2308.02488v1](http://arxiv.org/abs/2308.02488v1)|null|

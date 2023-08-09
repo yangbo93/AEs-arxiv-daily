@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Pelta: Shielding Transformers to Mitigate Evasion Attacks in Federated Learning**|Simon Queyrut et.al.|[2308.04373v1](http://arxiv.org/abs/2308.04373v1)|null|
+|**2023-08-04**|**Multi-attacks: Many images $+$ the same adversarial attack $\to$ many target labels**|Stanislav Fort et.al.|[2308.03792v1](http://arxiv.org/abs/2308.03792v1)|**[link](https://github.com/stanislavfort/multi-attacks)**|
 |**2023-08-06**|**CGBA: Curvature-aware Geometric Black-box Attack**|Md Farhamdur Reza et.al.|[2308.03163v1](http://arxiv.org/abs/2308.03163v1)|**[link](https://github.com/farhamdur/cgba)**|
 |**2023-08-05**|**An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability**|Bin Chen et.al.|[2308.02897v1](http://arxiv.org/abs/2308.02897v1)|null|
 |**2023-08-01**|**Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning**|Kaijie Zhu et.al.|[2308.02533v1](http://arxiv.org/abs/2308.02533v1)|**[link](https://github.com/microsoft/robustlearn)**|
@@ -184,6 +186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**When More is Less: Incorporating Additional Datasets Can Hurt Performance By Introducing Spurious Correlations**|Rhys Compton et.al.|[2308.04431v1](http://arxiv.org/abs/2308.04431v1)|null|
+|**2023-08-08**|**SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore**|Sewon Min et.al.|[2308.04430v1](http://arxiv.org/abs/2308.04430v1)|**[link](https://github.com/kernelmachine/silo-lm)**|
+|**2023-08-08**|**Non steady-state thermometry with optical diffraction tomography**|Adarsh B Vasista et.al.|[2308.04429v1](http://arxiv.org/abs/2308.04429v1)|null|
+|**2023-08-08**|**Meta-Learning Operators to Optimality from Multi-Task Non-IID Data**|Thomas T. C. K. Zhang et.al.|[2308.04428v1](http://arxiv.org/abs/2308.04428v1)|null|
+|**2023-08-08**|**{Pb$_{10-x}$Cu$_x$(PO$_4$)$_6$O: a Mott or charge transfer insulator \\in need of further doping for (super)conductivity**|Liang Si et.al.|[2308.04427v1](http://arxiv.org/abs/2308.04427v1)|null|
+|**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|null|
+|**2023-08-08**|**Uniformly Movable Categories And Uniform Movability Of Topological Spaces**|Pavel S. Gevorgyan et.al.|[2308.04425v1](http://arxiv.org/abs/2308.04425v1)|null|
+|**2023-08-08**|**A Bi-directional Multi-hop Inference Model for Joint Dialog Sentiment Classification and Act Recognition**|Li Zheng et.al.|[2308.04424v1](http://arxiv.org/abs/2308.04424v1)|null|
+|**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423v1](http://arxiv.org/abs/2308.04423v1)|null|
+|**2023-08-08**|**How to harness high-dimensional temporal entanglement, using limited interferometry setups**|Alexandra Bergmayr et.al.|[2308.04422v1](http://arxiv.org/abs/2308.04422v1)|null|
 |**2023-08-07**|**FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels**|Lue Fan et.al.|[2308.03755v1](http://arxiv.org/abs/2308.03755v1)|**[link](https://github.com/tusen-ai/sst)**|
 |**2023-08-07**|**Cosmology meets cohomology**|Shounak De et.al.|[2308.03753v1](http://arxiv.org/abs/2308.03753v1)|null|
 |**2023-08-07**|**Tight-binding models for SG 143 (P3) and application to recent DFT results on copper-doped lead apatite**|Moritz M. Hirschmann et.al.|[2308.03751v1](http://arxiv.org/abs/2308.03751v1)|null|

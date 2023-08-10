@@ -186,6 +186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**The contribution of faint Lyman-$α$ emitters to extended Lyman-$α$ halos constrained by MUSE clustering measurements**|Yohana Herrero Alonso et.al.|[2308.05105v1](http://arxiv.org/abs/2308.05105v1)|null|
+|**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104v1](http://arxiv.org/abs/2308.05104v1)|null|
+|**2023-08-09**|**Two of a Kind: Comparing big and small black holes in binaries with gravitational waves**|Amanda M. Farah et.al.|[2308.05102v1](http://arxiv.org/abs/2308.05102v1)|null|
+|**2023-08-09**|**DOST -- Domain Obedient Self-supervised Training for Multi Label Classification with Noisy Labels**|Soumadeep Saha et.al.|[2308.05101v1](http://arxiv.org/abs/2308.05101v1)|null|
+|**2023-08-09**|**Inversion and Cubic Vectors for Permutrees**|Daniel Tamayo Jiménez et.al.|[2308.05099v1](http://arxiv.org/abs/2308.05099v1)|null|
+|**2023-08-09**|**Inferring spin tilts of binary black holes at formation with plus-era gravitational wave detectors**|Sumeet Kulkarni et.al.|[2308.05098v1](http://arxiv.org/abs/2308.05098v1)|null|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
+|**2023-08-09**|**On the Quantization of FLPR Model**|Ansha S Nair et.al.|[2308.05093v1](http://arxiv.org/abs/2308.05093v1)|null|
+|**2023-08-09**|**A degree of image identification at sub-human scales could be possible with more advanced clusters**|Prateek Y J et.al.|[2308.05092v1](http://arxiv.org/abs/2308.05092v1)|**[link](https://github.com/prateekjannu/imagescale2)**|
+|**2023-08-09**|**Impact of environmental constraints in hydrothermal energy planning**|Luís Felipe Bueno et.al.|[2308.05091v1](http://arxiv.org/abs/2308.05091v1)|null|
 |**2023-08-08**|**When More is Less: Incorporating Additional Datasets Can Hurt Performance By Introducing Spurious Correlations**|Rhys Compton et.al.|[2308.04431v1](http://arxiv.org/abs/2308.04431v1)|null|
 |**2023-08-08**|**SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore**|Sewon Min et.al.|[2308.04430v1](http://arxiv.org/abs/2308.04430v1)|**[link](https://github.com/kernelmachine/silo-lm)**|
 |**2023-08-08**|**Non steady-state thermometry with optical diffraction tomography**|Adarsh B Vasista et.al.|[2308.04429v1](http://arxiv.org/abs/2308.04429v1)|null|

@@ -182,6 +182,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs**|Wentao Hu et.al.|[2308.05744v1](http://arxiv.org/abs/2308.05744v1)|**[link](https://github.com/manycore-research/PlankAssembly)**|
+|**2023-08-10**|**Neural Progressive Meshes**|Yun-Chun Chen et.al.|[2308.05741v1](http://arxiv.org/abs/2308.05741v1)|null|
+|**2023-08-10**|**Zero Grads Ever Given: Learning Local Surrogate Losses for Non-Differentiable Graphics**|Michael Fischer et.al.|[2308.05739v1](http://arxiv.org/abs/2308.05739v1)|null|
+|**2023-08-10**|**Continuous and Atlas-free Analysis of Brain Structural Connectivity**|William Consagra et.al.|[2308.05738v1](http://arxiv.org/abs/2308.05738v1)|null|
+|**2023-08-10**|**Follow Anything: Open-set detection, tracking, and following in real-time**|Alaa Maalouf et.al.|[2308.05737v1](http://arxiv.org/abs/2308.05737v1)|null|
+|**2023-08-10**|**MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction**|Bencheng Liao et.al.|[2308.05736v1](http://arxiv.org/abs/2308.05736v1)|**[link](https://github.com/hustvl/maptr)**|
+|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|null|
+|**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
+|**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732v1](http://arxiv.org/abs/2308.05732v1)|null|
+|**2023-08-10**|**Rethinking Integration of Prediction and Planning in Deep Learning-Based Automated Driving Systems: A Review**|Steffen Hagedorn et.al.|[2308.05731v1](http://arxiv.org/abs/2308.05731v1)|null|
 |**2023-08-09**|**The contribution of faint Lyman-$α$ emitters to extended Lyman-$α$ halos constrained by MUSE clustering measurements**|Yohana Herrero Alonso et.al.|[2308.05105v1](http://arxiv.org/abs/2308.05105v1)|null|
 |**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104v1](http://arxiv.org/abs/2308.05104v1)|null|
 |**2023-08-09**|**Two of a Kind: Comparing big and small black holes in binaries with gravitational waves**|Amanda M. Farah et.al.|[2308.05102v1](http://arxiv.org/abs/2308.05102v1)|null|

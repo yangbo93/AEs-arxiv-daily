@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874v1](http://arxiv.org/abs/2308.07874v1)|**[link](https://github.com/razaimam45/seda)**|
+|**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847v1](http://arxiv.org/abs/2308.07847v1)|null|
+|**2023-08-15**|**Backpropagation Path Search On Adversarial Transferability**|Zhuoer Xu et.al.|[2308.07625v1](http://arxiv.org/abs/2308.07625v1)|null|
+|**2023-08-14**|**White-Box Adversarial Attacks on Deep Learning-Based Radio Frequency Fingerprint Identification**|Jie Ma et.al.|[2308.07433v1](http://arxiv.org/abs/2308.07433v1)|null|
 |**2023-08-14**|**AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning**|Ziqi Zhou et.al.|[2308.07026v1](http://arxiv.org/abs/2308.07026v1)|**[link](https://github.com/cgcl-codes/advclip)**|
 |**2023-08-13**|**SoK: Realistic Adversarial Attacks and Defenses for Intelligent Network Intrusion Detection**|João Vitorino et.al.|[2308.06819v1](http://arxiv.org/abs/2308.06819v1)|null|
 |**2023-08-11**|**Enhancing Generalization of Universal Adversarial Perturbation through Gradient Aggregation**|Xuannan Liu et.al.|[2308.06015v1](http://arxiv.org/abs/2308.06015v1)|**[link](https://github.com/liuxuannan/stochastic-gradient-aggregation)**|
@@ -185,6 +189,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Domain-Adaptive Device Fingerprints for Network Access Authentication Through Multifractal Dimension Representation**|Benjamin Johnson et.al.|[2308.07925v1](http://arxiv.org/abs/2308.07925v1)|null|
+|**2023-08-15**|**Enumerating Tarski fixed points on lattices of binary relations**|Julian Müller et.al.|[2308.07923v1](http://arxiv.org/abs/2308.07923v1)|null|
+|**2023-08-15**|**RAVEN: In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models**|Jie Huang et.al.|[2308.07922v1](http://arxiv.org/abs/2308.07922v1)|null|
+|**2023-08-15**|**Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**|Aojun Zhou et.al.|[2308.07921v1](http://arxiv.org/abs/2308.07921v1)|null|
+|**2023-08-15**|**A characterization of strong percolation via disconnection**|Hugo Duminil-Copin et.al.|[2308.07920v1](http://arxiv.org/abs/2308.07920v1)|null|
+|**2023-08-15**|**Helping Hands: An Object-Aware Ego-Centric Video Recognition Model**|Chuhan Zhang et.al.|[2308.07918v1](http://arxiv.org/abs/2308.07918v1)|**[link](https://github.com/chuhanxx/helping_hand_for_egocentric_videos)**|
+|**2023-08-15**|**High-threshold and low-overhead fault-tolerant quantum memory**|Sergey Bravyi et.al.|[2308.07915v1](http://arxiv.org/abs/2308.07915v1)|null|
+|**2023-08-15**|**Building a "trap model" of glassy dynamics from a local structural predictor of rearrangements**|Sean A. Ridout et.al.|[2308.07913v1](http://arxiv.org/abs/2308.07913v1)|null|
+|**2023-08-15**|**Ultra-low mass PBHs in the early universe can explain the PTA signal**|Nilanjandev Bhaumik et.al.|[2308.07912v1](http://arxiv.org/abs/2308.07912v1)|null|
+|**2023-08-15**|**Higher-dimensional Losev-Manin spaces and their geometry**|Patricio Gallardo et.al.|[2308.07911v1](http://arxiv.org/abs/2308.07911v1)|null|
 |**2023-08-14**|**Platypus: Quick, Cheap, and Powerful Refinement of LLMs**|Ariel N. Lee et.al.|[2308.07317v1](http://arxiv.org/abs/2308.07317v1)|**[link](https://github.com/arielnlee/Platypus)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Unboundedness above of the Hitchin functional on $\mathrm{G}_2$ 3-forms and associated collapsing results**|Laurence H. Mayther et.al.|[2308.07315v1](http://arxiv.org/abs/2308.07315v1)|null|

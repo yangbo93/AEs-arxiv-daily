@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 
 ## Adversarial Examples
 
@@ -195,7 +195,7 @@ layout: default
 |**2023-08-14**|**Geodesic trees in last passage percolation and some related problems**|Márton Balázs et.al.|[2308.07312v1](http://arxiv.org/abs/2308.07312v1)|null|
 |**2023-08-14**|**Deconfinement transition in the revolving bag model**|Kazuya Mameda et.al.|[2308.07310v1](http://arxiv.org/abs/2308.07310v1)|null|
 |**2023-08-14**|**Reinforcing Security and Usability of Crypto-Wallet with Post-Quantum Cryptography and Zero-Knowledge Proof**|Yathin Kethepalli et.al.|[2308.07309v1](http://arxiv.org/abs/2308.07309v1)|null|
-|**2023-08-14**|**LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**|Alec Helbling et.al.|[2308.07308v1](http://arxiv.org/abs/2308.07308v1)|null|
+|**2023-08-15**|**LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**|Alec Helbling et.al.|[2308.07308v2](http://arxiv.org/abs/2308.07308v2)|null|
 |**2023-08-14**|**Extend Wave Function Collapse to Large-Scale Content Generation**|Yuhe Nie et.al.|[2308.07307v1](http://arxiv.org/abs/2308.07307v1)|null|
 |**2023-08-14**|**A novel radio imaging method for physical spectral index modelling**|E. Ceccotti et.al.|[2308.07306v1](http://arxiv.org/abs/2308.07306v1)|null|
 |**2023-08-14**|**Neural Authorship Attribution: Stylometric Analysis on Large Language Models**|Tharindu Kumarage et.al.|[2308.07305v1](http://arxiv.org/abs/2308.07305v1)|null|

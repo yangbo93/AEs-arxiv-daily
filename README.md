@@ -189,6 +189,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training**|Xiaoyang Wu et.al.|[2308.09718v1](http://arxiv.org/abs/2308.09718v1)|**[link](https://github.com/Pointcept/Pointcept)**|
+|**2023-08-18**|**Smoothness Similarity Regularization for Few-Shot GAN Adaptation**|Vadim Sushko et.al.|[2308.09717v1](http://arxiv.org/abs/2308.09717v1)|null|
+|**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716v1](http://arxiv.org/abs/2308.09716v1)|**[link](https://github.com/soumik-kanad/diff2lip)**|
+|**2023-08-18**|**Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**|Jonathon Luiten et.al.|[2308.09713v1](http://arxiv.org/abs/2308.09713v1)|null|
+|**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712v1](http://arxiv.org/abs/2308.09712v1)|null|
+|**2023-08-18**|**Robust Monocular Depth Estimation under Challenging Conditions**|Stefano Gasperini et.al.|[2308.09711v1](http://arxiv.org/abs/2308.09711v1)|null|
+|**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|null|
+|**2023-08-18**|**Training with Product Digital Twins for AutoRetail Checkout**|Yue Yao et.al.|[2308.09708v1](http://arxiv.org/abs/2308.09708v1)|**[link](https://github.com/yorkeyao/automated-retail-checkout)**|
+|**2023-08-18**|**Majorana zero modes in twisted transition metal dichalcogenides homobilayers**|Xun-Jiang Luo et.al.|[2308.09707v1](http://arxiv.org/abs/2308.09707v1)|null|
+|**2023-08-18**|**Strong-coupling topological states and phase transitions in helical trilayer graphene**|Yves H. Kwan et.al.|[2308.09706v1](http://arxiv.org/abs/2308.09706v1)|null|
 |**2023-08-17**|**CFT reconstruction of local bulk operators in half-Minkowski space**|Arpan Bhattacharyya et.al.|[2308.08547v2](http://arxiv.org/abs/2308.08547v2)|null|
 |**2023-08-16**|**What is the source of the PTA GW signal?**|John Ellis et.al.|[2308.08546v1](http://arxiv.org/abs/2308.08546v1)|null|
 |**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545v1](http://arxiv.org/abs/2308.08545v1)|null|

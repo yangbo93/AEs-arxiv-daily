@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Boosting Adversarial Attack with Similar Target**|Shuo Zhang et.al.|[2308.10743v1](http://arxiv.org/abs/2308.10743v1)|null|
+|**2023-08-21**|**Improving the Transferability of Adversarial Examples with Arbitrary Style Transfer**|Zhijin Ge et.al.|[2308.10601v1](http://arxiv.org/abs/2308.10601v1)|**[link](https://github.com/zhijin-ge/stm)**|
+|**2023-08-20**|**Boosting Adversarial Transferability by Block Shuffle and Rotation**|Kunyu Wang et.al.|[2308.10299v1](http://arxiv.org/abs/2308.10299v1)|null|
 |**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874v1](http://arxiv.org/abs/2308.07874v1)|**[link](https://github.com/razaimam45/seda)**|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847v1](http://arxiv.org/abs/2308.07847v1)|null|
 |**2023-08-15**|**Backpropagation Path Search On Adversarial Transferability**|Zhuoer Xu et.al.|[2308.07625v1](http://arxiv.org/abs/2308.07625v1)|null|
@@ -193,6 +196,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v1](http://arxiv.org/abs/2308.10902v1)|null|
+|**2023-08-21**|**Structured World Models from Human Videos**|Russell Mendonca et.al.|[2308.10901v1](http://arxiv.org/abs/2308.10901v1)|null|
+|**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899v1](http://arxiv.org/abs/2308.10899v1)|null|
+|**2023-08-21**|**Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation**|Xueyi Liu et.al.|[2308.10898v1](http://arxiv.org/abs/2308.10898v1)|null|
+|**2023-08-21**|**Can Language Models Learn to Listen?**|Evonne Ng et.al.|[2308.10897v1](http://arxiv.org/abs/2308.10897v1)|null|
+|**2023-08-21**|**Differentiable Shadow Mapping for Efficient Inverse Graphics**|Markus Worchel et.al.|[2308.10896v1](http://arxiv.org/abs/2308.10896v1)|**[link](https://github.com/mworchel/differentiable-shadow-mapping)**|
+|**2023-08-21**|**Dynamics of supermassive black hole triples in the ROMULUS25 cosmological simulation**|Hauke Koehn et.al.|[2308.10894v1](http://arxiv.org/abs/2308.10894v1)|null|
+|**2023-08-21**|**Dust collapse in asymptotic safety: a path to regular black holes**|Alfio Bonanno et.al.|[2308.10890v1](http://arxiv.org/abs/2308.10890v1)|null|
+|**2023-08-21**|**Unlocking Accuracy and Fairness in Differentially Private Image Classification**|Leonard Berrada et.al.|[2308.10888v1](http://arxiv.org/abs/2308.10888v1)|null|
+|**2023-08-21**|**Binary black hole mergers in nuclear star clusters: eccentricities, spins, masses, and the growth of massive seeds**|Debatri Chattopadhyay et.al.|[2308.10884v1](http://arxiv.org/abs/2308.10884v1)|null|
 |**2023-08-18**|**Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training**|Xiaoyang Wu et.al.|[2308.09718v1](http://arxiv.org/abs/2308.09718v1)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2023-08-18**|**Smoothness Similarity Regularization for Few-Shot GAN Adaptation**|Vadim Sushko et.al.|[2308.09717v1](http://arxiv.org/abs/2308.09717v1)|null|
 |**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716v1](http://arxiv.org/abs/2308.09716v1)|**[link](https://github.com/soumik-kanad/diff2lip)**|

@@ -1,4 +1,4 @@
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 
 ## Adversarial Examples
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-08-21**|**Boosting Adversarial Attack with Similar Target**|Shuo Zhang et.al.|[2308.10743v1](http://arxiv.org/abs/2308.10743v1)|null|
 |**2023-08-21**|**Improving the Transferability of Adversarial Examples with Arbitrary Style Transfer**|Zhijin Ge et.al.|[2308.10601v1](http://arxiv.org/abs/2308.10601v1)|**[link](https://github.com/zhijin-ge/stm)**|
-|**2023-08-20**|**Boosting Adversarial Transferability by Block Shuffle and Rotation**|Kunyu Wang et.al.|[2308.10299v1](http://arxiv.org/abs/2308.10299v1)|null|
+|**2023-08-22**|**Boosting Adversarial Transferability by Block Shuffle and Rotation**|Kunyu Wang et.al.|[2308.10299v2](http://arxiv.org/abs/2308.10299v2)|null|
 |**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874v1](http://arxiv.org/abs/2308.07874v1)|**[link](https://github.com/razaimam45/seda)**|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847v1](http://arxiv.org/abs/2308.07847v1)|null|
 |**2023-08-15**|**Backpropagation Path Search On Adversarial Transferability**|Zhuoer Xu et.al.|[2308.07625v1](http://arxiv.org/abs/2308.07625v1)|null|

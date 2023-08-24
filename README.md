@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279v1](http://arxiv.org/abs/2308.12279v1)|null|
+|**2023-08-23**|**Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack**|Ningfei Wang et.al.|[2308.11894v1](http://arxiv.org/abs/2308.11894v1)|null|
+|**2023-08-23**|**SEA: Shareable and Explainable Attribution for Query-based Black-box Attacks**|Yue Gao et.al.|[2308.11845v1](http://arxiv.org/abs/2308.11845v1)|null|
 |**2023-08-21**|**Boosting Adversarial Attack with Similar Target**|Shuo Zhang et.al.|[2308.10743v1](http://arxiv.org/abs/2308.10743v1)|**[link](https://github.com/huanranchen/Similar-Target-Attacker)**|
 |**2023-08-21**|**Improving the Transferability of Adversarial Examples with Arbitrary Style Transfer**|Zhijin Ge et.al.|[2308.10601v1](http://arxiv.org/abs/2308.10601v1)|**[link](https://github.com/zhijin-ge/stm)**|
 |**2023-08-22**|**Boosting Adversarial Transferability by Block Shuffle and Rotation**|Kunyu Wang et.al.|[2308.10299v2](http://arxiv.org/abs/2308.10299v2)|null|
@@ -192,6 +195,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images**|Sookwan Han et.al.|[2308.12288v1](http://arxiv.org/abs/2308.12288v1)|null|
+|**2023-08-23**|**Devising and Detecting Phishing: large language models vs. Smaller Human Models**|Fredrik Heiding et.al.|[2308.12287v1](http://arxiv.org/abs/2308.12287v1)|null|
+|**2023-08-23**|**D4: Improving LLM Pretraining via Document De-Duplication and Diversification**|Kushal Tirumala et.al.|[2308.12284v1](http://arxiv.org/abs/2308.12284v1)|null|
+|**2023-08-23**|**Constraining Circumgalactic Turbulence with QSO Absorption-line Measurements**|Brad Koplitz et.al.|[2308.12283v1](http://arxiv.org/abs/2308.12283v1)|null|
+|**2023-08-23**|**Quantum bath augmented stochastic nonequilibrium atomistic simulations for molecular heat conduction**|Renai Chen et.al.|[2308.12282v1](http://arxiv.org/abs/2308.12282v1)|null|
+|**2023-08-23**|**Extended Linear Regression: A Kalman Filter Approach for Minimizing Loss via Area Under the Curve**|Gokulprasath R et.al.|[2308.12280v1](http://arxiv.org/abs/2308.12280v1)|null|
+|**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279v1](http://arxiv.org/abs/2308.12279v1)|null|
+|**2023-08-23**|**Predicting the Yields of $z$ > 6.5 Quasar Surveys in the Era of Roman and Rubin**|Wei Leong Tee et.al.|[2308.12278v1](http://arxiv.org/abs/2308.12278v1)|null|
+|**2023-08-23**|**A Model for Integrating Generative AI into Course Content Development**|Ethan Dickey et.al.|[2308.12276v1](http://arxiv.org/abs/2308.12276v1)|null|
+|**2023-08-23**|**Spatial clustering of temporal energy profiles with empirical orthogonal functions and max-p regionalization**|Claire Halloran et.al.|[2308.12274v1](http://arxiv.org/abs/2308.12274v1)|null|
 |**2023-08-22**|**The Panchromatic Hubble Andromeda Treasury: Triangulum Extended Region (PHATTER). V. The Structure of M33 in Resolved Stellar Populations**|Adam Smercina et.al.|[2308.11618v1](http://arxiv.org/abs/2308.11618v1)|null|
 |**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617v1](http://arxiv.org/abs/2308.11617v1)|null|
 |**2023-08-22**|**Phantom energy of a quenched, prethermal quantum many-body scar state**|Kangning Yang et.al.|[2308.11615v1](http://arxiv.org/abs/2308.11615v1)|null|

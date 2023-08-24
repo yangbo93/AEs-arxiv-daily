@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 
 ## Adversarial Examples
 
@@ -200,7 +200,7 @@ layout: default
 |**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617v1](http://arxiv.org/abs/2308.11617v1)|null|
 |**2023-08-22**|**Phantom energy of a quenched, prethermal quantum many-body scar state**|Kangning Yang et.al.|[2308.11615v1](http://arxiv.org/abs/2308.11615v1)|null|
 |**2023-08-22**|**Flavor physics beyond the Standard Model and the Kobayashi-Maskawa legacy**|Gino Isidori et.al.|[2308.11612v1](http://arxiv.org/abs/2308.11612v1)|null|
-|**2023-08-22**|**UNCOVER: A NIRSpec Identification of a Broad Line AGN at z = 8.50**|Vasily Kokorev et.al.|[2308.11610v1](http://arxiv.org/abs/2308.11610v1)|null|
+|**2023-08-23**|**UNCOVER: A NIRSpec Identification of a Broad Line AGN at z = 8.50**|Vasily Kokorev et.al.|[2308.11610v2](http://arxiv.org/abs/2308.11610v2)|null|
 |**2023-08-22**|**A Measurement of Gravitational Lensing of the Cosmic Microwave Background Using SPT-3G 2018 Data**|Z. Pan et.al.|[2308.11608v1](http://arxiv.org/abs/2308.11608v1)|null|
 |**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|null|
 |**2023-08-22**|**StoryBench: A Multifaceted Benchmark for Continuous Story Visualization**|Emanuele Bugliarello et.al.|[2308.11606v1](http://arxiv.org/abs/2308.11606v1)|**[link](https://github.com/google/storybench)**|

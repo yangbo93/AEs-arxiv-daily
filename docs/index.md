@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Evaluating the Vulnerabilities in ML systems in terms of adversarial attacks**|John Harshith et.al.|[2308.12918v1](http://arxiv.org/abs/2308.12918v1)|null|
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279v1](http://arxiv.org/abs/2308.12279v1)|null|
 |**2023-08-23**|**Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack**|Ningfei Wang et.al.|[2308.11894v1](http://arxiv.org/abs/2308.11894v1)|null|
 |**2023-08-23**|**SEA: Shareable and Explainable Attribution for Query-based Black-box Attacks**|Yue Gao et.al.|[2308.11845v1](http://arxiv.org/abs/2308.11845v1)|null|
@@ -199,6 +200,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**ROAM: Robust and Object-aware Motion Generation using Neural Pose Descriptors**|Wanyue Zhang et.al.|[2308.12969v1](http://arxiv.org/abs/2308.12969v1)|null|
+|**2023-08-24**|**Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation**|Yuxin Jiang et.al.|[2308.12968v1](http://arxiv.org/abs/2308.12968v1)|**[link](https://github.com/yuxinn-j/scenimefy)**|
+|**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|
+|**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|null|
+|**2023-08-24**|**Dense Text-to-Image Generation with Attention Modulation**|Yunji Kim et.al.|[2308.12964v1](http://arxiv.org/abs/2308.12964v1)|**[link](https://github.com/naver-ai/densediffusion)**|
+|**2023-08-24**|**MapPrior: Bird's-Eye View Map Layout Estimation with Generative Models**|Xiyue Zhu et.al.|[2308.12963v1](http://arxiv.org/abs/2308.12963v1)|null|
+|**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962v1](http://arxiv.org/abs/2308.12962v1)|null|
+|**2023-08-24**|**Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks**|Xiangyang Zhu et.al.|[2308.12961v1](http://arxiv.org/abs/2308.12961v1)|**[link](https://github.com/yangyangyang127/tfs3d)**|
+|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960v1](http://arxiv.org/abs/2308.12960v1)|null|
+|**2023-08-24**|**Semi-analytical Framework for Modeling Strong Coupling of Quantum Emitters in Electromagnetic Resonators**|Mohammad Abutoama et.al.|[2308.12957v1](http://arxiv.org/abs/2308.12957v1)|null|
 |**2023-08-23**|**CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images**|Sookwan Han et.al.|[2308.12288v1](http://arxiv.org/abs/2308.12288v1)|null|
 |**2023-08-23**|**Devising and Detecting Phishing: large language models vs. Smaller Human Models**|Fredrik Heiding et.al.|[2308.12287v1](http://arxiv.org/abs/2308.12287v1)|null|
 |**2023-08-23**|**D4: Improving LLM Pretraining via Document De-Duplication and Diversification**|Kushal Tirumala et.al.|[2308.12284v1](http://arxiv.org/abs/2308.12284v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 
 ## Adversarial Examples
 
@@ -203,7 +203,7 @@
 |**2023-08-23**|**Extended Linear Regression: A Kalman Filter Approach for Minimizing Loss via Area Under the Curve**|Gokulprasath R et.al.|[2308.12280v1](http://arxiv.org/abs/2308.12280v1)|null|
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279v1](http://arxiv.org/abs/2308.12279v1)|null|
 |**2023-08-23**|**Predicting the Yields of $z$ > 6.5 Quasar Surveys in the Era of Roman and Rubin**|Wei Leong Tee et.al.|[2308.12278v1](http://arxiv.org/abs/2308.12278v1)|null|
-|**2023-08-23**|**A Model for Integrating Generative AI into Course Content Development**|Ethan Dickey et.al.|[2308.12276v1](http://arxiv.org/abs/2308.12276v1)|null|
+|**2023-08-24**|**A Model for Integrating Generative AI into Course Content Development**|Ethan Dickey et.al.|[2308.12276v2](http://arxiv.org/abs/2308.12276v2)|null|
 |**2023-08-23**|**Spatial clustering of temporal energy profiles with empirical orthogonal functions and max-p regionalization**|Claire Halloran et.al.|[2308.12274v1](http://arxiv.org/abs/2308.12274v1)|null|
 |**2023-08-22**|**The Panchromatic Hubble Andromeda Treasury: Triangulum Extended Region (PHATTER). V. The Structure of M33 in Resolved Stellar Populations**|Adam Smercina et.al.|[2308.11618v1](http://arxiv.org/abs/2308.11618v1)|null|
 |**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617v1](http://arxiv.org/abs/2308.11617v1)|null|

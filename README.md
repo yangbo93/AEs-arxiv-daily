@@ -196,6 +196,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Spectral rigidity for infinitesimal generators of representations of twisted $S_νU(2)$**|Michael Stessin et.al.|[2308.13519v1](http://arxiv.org/abs/2308.13519v1)|null|
+|**2023-08-25**|**Holographic Euclidean thermal correlator**|Song He et.al.|[2308.13518v1](http://arxiv.org/abs/2308.13518v1)|null|
+|**2023-08-25**|**ChatGPT as Data Augmentation for Compositional Generalization: A Case Study in Open Intent Detection**|Yihao Fang et.al.|[2308.13517v1](http://arxiv.org/abs/2308.13517v1)|null|
+|**2023-08-25**|**Robust Core-Periphery Constrained Transformer for Domain Adaptation**|Xiaowei Yu et.al.|[2308.13515v1](http://arxiv.org/abs/2308.13515v1)|null|
+|**2023-08-25**|**Towards more scientific meta-analyses**|Lily H. Zhang et.al.|[2308.13514v1](http://arxiv.org/abs/2308.13514v1)|null|
+|**2023-08-25**|**Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs**|Tianyi Zhao et.al.|[2308.13513v1](http://arxiv.org/abs/2308.13513v1)|null|
+|**2023-08-25**|**A Poisson-Based Approximation Algorithm for Stochastic Bin Packing of Bernoulli Items**|Tomasz Kanas et.al.|[2308.13512v1](http://arxiv.org/abs/2308.13512v1)|null|
+|**2023-08-25**|**MOG as symmetry breaking in Scalar-Vector-Tensor gravity**|Shahin Rouhani et.al.|[2308.13511v1](http://arxiv.org/abs/2308.13511v1)|null|
+|**2023-08-25**|**Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models**|Jie JW Wu et.al.|[2308.13507v1](http://arxiv.org/abs/2308.13507v1)|null|
+|**2023-08-25**|**Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation**|Jiaming Zhang et.al.|[2308.13505v1](http://arxiv.org/abs/2308.13505v1)|null|
 |**2023-08-24**|**ROAM: Robust and Object-aware Motion Generation using Neural Pose Descriptors**|Wanyue Zhang et.al.|[2308.12969v1](http://arxiv.org/abs/2308.12969v1)|null|
 |**2023-08-24**|**Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation**|Yuxin Jiang et.al.|[2308.12968v1](http://arxiv.org/abs/2308.12968v1)|**[link](https://github.com/yuxinn-j/scenimefy)**|
 |**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|

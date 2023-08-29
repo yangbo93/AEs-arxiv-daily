@@ -200,6 +200,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Efficient Discovery and Effective Evaluation of Visual Perceptual Similarity: A Benchmark and Beyond**|Oren Barkan et.al.|[2308.14753v1](http://arxiv.org/abs/2308.14753v1)|**[link](https://github.com/vsd-benchmark/vsd)**|
+|**2023-08-28**|**AI Deception: A Survey of Examples, Risks, and Potential Solutions**|Peter S. Park et.al.|[2308.14752v1](http://arxiv.org/abs/2308.14752v1)|null|
+|**2023-08-28**|**MagicEdit: High-Fidelity and Temporally Coherent Video Editing**|Jun Hao Liew et.al.|[2308.14749v1](http://arxiv.org/abs/2308.14749v1)|null|
+|**2023-08-28**|**MagicAvatar: Multimodal Avatar Generation and Animation**|Jianfeng Zhang et.al.|[2308.14748v1](http://arxiv.org/abs/2308.14748v1)|null|
+|**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746v1](http://arxiv.org/abs/2308.14746v1)|**[link](https://github.com/lucas-ventura/CoVR)**|
+|**2023-08-28**|**Matheuristic for Vehicle Routing Problem with Multiple Synchronization Constraints and Variable Service Time**|Faisal Alkaabneh et.al.|[2308.14744v1](http://arxiv.org/abs/2308.14744v1)|null|
+|**2023-08-28**|**Domain Walls and Vector Solitons in the Coupled Nonlinear Schrödinger Equation**|David D. J. M. Snee et.al.|[2308.14743v1](http://arxiv.org/abs/2308.14743v1)|null|
+|**2023-08-28**|**Advancement on Security Applications of Private Intersection Sum Protocol**|Yuvaray Athur Raghuvir et.al.|[2308.14741v1](http://arxiv.org/abs/2308.14741v1)|null|
+|**2023-08-28**|**Total Selfie: Generating Full-Body Selfies**|Bowei Chen et.al.|[2308.14740v1](http://arxiv.org/abs/2308.14740v1)|null|
+|**2023-08-28**|**The Artin-Hasse series and Laguerre polynomials modulo a prime**|Marina Avitabile et.al.|[2308.14736v1](http://arxiv.org/abs/2308.14736v1)|null|
 |**2023-08-25**|**Spectral rigidity for infinitesimal generators of representations of twisted $S_νU(2)$**|Michael Stessin et.al.|[2308.13519v1](http://arxiv.org/abs/2308.13519v1)|null|
 |**2023-08-25**|**Holographic Euclidean thermal correlator**|Song He et.al.|[2308.13518v1](http://arxiv.org/abs/2308.13518v1)|null|
 |**2023-08-25**|**ChatGPT as Data Augmentation for Compositional Generalization: A Case Study in Open Intent Detection**|Yihao Fang et.al.|[2308.13517v1](http://arxiv.org/abs/2308.13517v1)|null|

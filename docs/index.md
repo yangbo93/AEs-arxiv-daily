@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Adaptive Attack Detection in Text Classification: Leveraging Space Exploration Features for Text Sentiment Classification**|Atefeh Mahdavi et.al.|[2308.15663v1](http://arxiv.org/abs/2308.15663v1)|null|
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479v1](http://arxiv.org/abs/2308.15479v1)|null|
 |**2023-08-29**|**Imperceptible Adversarial Attack on Deep Neural Networks from Image Boundary**|Fahad Alrasheedi et.al.|[2308.15344v1](http://arxiv.org/abs/2308.15344v1)|null|
 |**2023-08-29**|**A Classification-Guided Approach for Adversarial Attacks against Neural Machine Translation**|Sahar Sadrizadeh et.al.|[2308.15246v1](http://arxiv.org/abs/2308.15246v1)|null|
@@ -203,6 +204,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**Boosting Detection in Crowd Analysis via Underutilized Output Features**|Shaokai Wu et.al.|[2308.16187v1](http://arxiv.org/abs/2308.16187v1)|null|
+|**2023-08-30**|**Learning Vision-based Pursuit-Evasion Robot Policies**|Andrea Bajcsy et.al.|[2308.16185v1](http://arxiv.org/abs/2308.16185v1)|null|
+|**2023-08-30**|**SAM-Med2D**|Junlong Cheng et.al.|[2308.16184v1](http://arxiv.org/abs/2308.16184v1)|**[link](https://github.com/uni-medical/sam-med2d)**|
+|**2023-08-30**|**Late Time Modification of Structure Growth and the S8 Tension**|Meng-Xiang Lin et.al.|[2308.16183v1](http://arxiv.org/abs/2308.16183v1)|null|
+|**2023-08-30**|**GREC: Generalized Referring Expression Comprehension**|Shuting He et.al.|[2308.16182v1](http://arxiv.org/abs/2308.16182v1)|**[link](https://github.com/henghuiding/grefcoco)**|
+|**2023-08-30**|**Framework and Methodology for Verification of a Complex Scientific Simulation Software, Flash-X**|Akash Dhruv et.al.|[2308.16180v1](http://arxiv.org/abs/2308.16180v1)|null|
+|**2023-08-30**|**Out-of-time-order correlator, many-body quantum chaos, light-like generators, and singular values**|Ke Huang et.al.|[2308.16179v1](http://arxiv.org/abs/2308.16179v1)|null|
+|**2023-08-30**|**General Purpose Audio Effect Removal**|Matthew Rice et.al.|[2308.16177v1](http://arxiv.org/abs/2308.16177v1)|null|
+|**2023-08-30**|**Improved low regularity theory for gravity-capillary waves**|Albert Ai et.al.|[2308.16176v1](http://arxiv.org/abs/2308.16176v1)|null|
+|**2023-08-30**|**Quantifying Uncertainty in Answers from any Language Model via Intrinsic and Extrinsic Confidence Assessment**|Jiuhai Chen et.al.|[2308.16175v1](http://arxiv.org/abs/2308.16175v1)|null|
 |**2023-08-29**|**Symmetries and Charges in Weyl--Fefferman--Graham Gauge**|Luca Ciambelli et.al.|[2308.15480v1](http://arxiv.org/abs/2308.15480v1)|null|
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479v1](http://arxiv.org/abs/2308.15479v1)|null|
 |**2023-08-29**|**An Adaptive Tangent Feature Perspective of Neural Networks**|Daniel LeJeune et.al.|[2308.15478v1](http://arxiv.org/abs/2308.15478v1)|null|

@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff**|Satoshi Suzuki et.al.|[2308.16454v1](http://arxiv.org/abs/2308.16454v1)|null|
 |**2023-08-29**|**Adaptive Attack Detection in Text Classification: Leveraging Space Exploration Features for Text Sentiment Classification**|Atefeh Mahdavi et.al.|[2308.15663v1](http://arxiv.org/abs/2308.15663v1)|null|
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479v1](http://arxiv.org/abs/2308.15479v1)|null|
 |**2023-08-29**|**Imperceptible Adversarial Attack on Deep Neural Networks from Image Boundary**|Fahad Alrasheedi et.al.|[2308.15344v1](http://arxiv.org/abs/2308.15344v1)|null|
@@ -200,6 +201,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**PointLLM: Empowering Large Language Models to Understand Point Clouds**|Runsen Xu et.al.|[2308.16911v1](http://arxiv.org/abs/2308.16911v1)|**[link](https://github.com/openrobotlab/pointllm)**|
+|**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909v1](http://arxiv.org/abs/2308.16909v1)|**[link](https://github.com/johannwyh/styleinv)**|
+|**2023-08-31**|**Yukawa-Lorentz Symmetry in Non-Hermitian Dirac Materials**|Vladimir Juricic et.al.|[2308.16907v1](http://arxiv.org/abs/2308.16907v1)|null|
+|**2023-08-31**|**Fine-Grained Cross-View Geo-Localization Using a Correlation-Aware Homography Estimator**|Xiaolong Wang et.al.|[2308.16906v1](http://arxiv.org/abs/2308.16906v1)|**[link](https://github.com/xlwangdev/hc-net)**|
+|**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905v1](http://arxiv.org/abs/2308.16905v1)|null|
+|**2023-08-31**|**$K^-\toπ^- a$ at Next-to-Leading Order in Chiral Perturbation Theory**|Claudia Cornella et.al.|[2308.16903v1](http://arxiv.org/abs/2308.16903v1)|null|
+|**2023-08-31**|**Eclectic flavor group $Δ(27)\rtimes S_3$ and lepton model building**|Cai-Chang Li et.al.|[2308.16901v1](http://arxiv.org/abs/2308.16901v1)|null|
+|**2023-08-31**|**Transformers as Support Vector Machines**|Davoud Ataee Tarzanagh et.al.|[2308.16898v1](http://arxiv.org/abs/2308.16898v1)|null|
+|**2023-08-31**|**Distinguishing models with $μ\to e $ observables**|Marco Ardu et.al.|[2308.16897v1](http://arxiv.org/abs/2308.16897v1)|null|
+|**2023-08-31**|**PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2308.16896v1](http://arxiv.org/abs/2308.16896v1)|**[link](https://github.com/wzzheng/pointocc)**|
 |**2023-08-30**|**Boosting Detection in Crowd Analysis via Underutilized Output Features**|Shaokai Wu et.al.|[2308.16187v1](http://arxiv.org/abs/2308.16187v1)|null|
 |**2023-08-30**|**Learning Vision-based Pursuit-Evasion Robot Policies**|Andrea Bajcsy et.al.|[2308.16185v1](http://arxiv.org/abs/2308.16185v1)|null|
 |**2023-08-30**|**SAM-Med2D**|Junlong Cheng et.al.|[2308.16184v1](http://arxiv.org/abs/2308.16184v1)|**[link](https://github.com/uni-medical/sam-med2d)**|

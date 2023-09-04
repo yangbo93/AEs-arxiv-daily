@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Curating Naturally Adversarial Datasets for Trustworthy AI in Healthcare**|Sydney Pugh et.al.|[2309.00543v1](http://arxiv.org/abs/2309.00543v1)|null|
+|**2023-09-01**|**Image Hijacking: Adversarial Images can Control Generative Models at Runtime**|Luke Bailey et.al.|[2309.00236v1](http://arxiv.org/abs/2309.00236v1)|null|
 |**2023-08-31**|**Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff**|Satoshi Suzuki et.al.|[2308.16454v1](http://arxiv.org/abs/2308.16454v1)|null|
 |**2023-08-29**|**Adaptive Attack Detection in Text Classification: Leveraging Space Exploration Features for Text Sentiment Classification**|Atefeh Mahdavi et.al.|[2308.15663v1](http://arxiv.org/abs/2308.15663v1)|null|
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479v1](http://arxiv.org/abs/2308.15479v1)|null|
@@ -201,6 +203,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-03**|**Dirac hydrodynamics in 19 forms**|Luca Fabbri et.al.|[2309.00617v1](http://arxiv.org/abs/2309.00617v1)|null|
+|**2023-09-01**|**OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation**|Zhening Huang et.al.|[2309.00616v1](http://arxiv.org/abs/2309.00616v1)|**[link](https://github.com/Pointcept/OpenIns3D)**|
+|**2023-09-01**|**Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**|Ziyu Guo et.al.|[2309.00615v1](http://arxiv.org/abs/2309.00615v1)|**[link](https://github.com/ziyuguo99/point-bind_point-llm)**|
+|**2023-09-01**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614v1](http://arxiv.org/abs/2309.00614v1)|null|
+|**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613v1](http://arxiv.org/abs/2309.00613v1)|null|
+|**2023-09-01**|**Bayesian deep learning for cosmic volumes with modified gravity**|Jorge Enrique García-Farieta et.al.|[2309.00612v1](http://arxiv.org/abs/2309.00612v1)|null|
+|**2023-09-01**|**CityDreamer: Compositional Generative Model of Unbounded 3D Cities**|Haozhe Xie et.al.|[2309.00610v1](http://arxiv.org/abs/2309.00610v1)|null|
+|**2023-09-01**|**Higher resonance schemes and Koszul modules of simplicial complexes**|Marian Aprodu et.al.|[2309.00609v1](http://arxiv.org/abs/2309.00609v1)|null|
+|**2023-09-01**|**Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair**|Yuxiang Wei et.al.|[2309.00608v1](http://arxiv.org/abs/2309.00608v1)|**[link](https://github.com/ise-uiuc/Repilot)**|
+|**2023-09-01**|**The ALE Partition Functions of M-Strings**|Michele Del Zotto et.al.|[2309.00607v1](http://arxiv.org/abs/2309.00607v1)|null|
 |**2023-08-31**|**PointLLM: Empowering Large Language Models to Understand Point Clouds**|Runsen Xu et.al.|[2308.16911v1](http://arxiv.org/abs/2308.16911v1)|**[link](https://github.com/openrobotlab/pointllm)**|
 |**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909v1](http://arxiv.org/abs/2308.16909v1)|**[link](https://github.com/johannwyh/styleinv)**|
 |**2023-08-31**|**Yukawa-Lorentz Symmetry in Non-Hermitian Dirac Materials**|Vladimir Juricic et.al.|[2308.16907v1](http://arxiv.org/abs/2308.16907v1)|null|

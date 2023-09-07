@@ -212,6 +212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Matcha-TTS: A fast TTS architecture with conditional flow matching**|Shivam Mehta et.al.|[2309.03199v1](http://arxiv.org/abs/2309.03199v1)|null|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|null|
+|**2023-09-06**|**Complex scaling in finite volume**|Hang Yu et.al.|[2309.03196v1](http://arxiv.org/abs/2309.03196v1)|null|
+|**2023-09-06**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195v1](http://arxiv.org/abs/2309.03195v1)|null|
+|**2023-09-06**|**Frustrated extended Bose-Hubbard model and deconfined quantum critical points with optical lattices at the anti-magic wavelength**|Niccolò Baldelli et.al.|[2309.03193v1](http://arxiv.org/abs/2309.03193v1)|null|
+|**2023-09-06**|**Extensions of MacMahon's sums of divisors**|Tewodros Amdeberhan et.al.|[2309.03191v1](http://arxiv.org/abs/2309.03191v1)|null|
+|**2023-09-06**|**Polarization of Thermal Dilepton Radiation**|Florian Seck et.al.|[2309.03189v1](http://arxiv.org/abs/2309.03189v1)|null|
+|**2023-09-06**|**Electrocaloric Response of the Dense Ferroelectric Nanocomposites**|Anna N. Morozovska et.al.|[2309.03187v1](http://arxiv.org/abs/2309.03187v1)|null|
+|**2023-09-06**|**Constraining the halo-ISM connection through multi-transition carbon monoxide line-intensity mapping**|Dongwoo T. Chung et.al.|[2309.03184v1](http://arxiv.org/abs/2309.03184v1)|null|
+|**2023-09-06**|**3D Transformer based on deformable patch location for differential diagnosis between Alzheimer's disease and Frontotemporal dementia**|Huy-Dung Nguyen et.al.|[2309.03183v1](http://arxiv.org/abs/2309.03183v1)|null|
 |**2023-09-05**|**Efficient RL via Disentangled Environment and Agent Representations**|Kevin Gmelin et.al.|[2309.02435v1](http://arxiv.org/abs/2309.02435v1)|null|
 |**2023-09-05**|**ReliTalk: Relightable Talking Portrait Generation from a Single Video**|Haonan Qiu et.al.|[2309.02434v1](http://arxiv.org/abs/2309.02434v1)|**[link](https://github.com/arthur-qiu/ReliTalk)**|
 |**2023-09-05**|**A call to arms: making the case for more reusable libraries**|Susi Lehtola et.al.|[2309.02433v1](http://arxiv.org/abs/2309.02433v1)|null|

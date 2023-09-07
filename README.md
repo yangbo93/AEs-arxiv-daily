@@ -1,11 +1,11 @@
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 
 ## Adversarial Examples
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-05**|**The Adversarial Implications of Variable-Time Inference**|Dudi Biton et.al.|[2309.02159v1](http://arxiv.org/abs/2309.02159v1)|**[link](https://github.com/dudi709/Timing-Based-Attack)**|
-|**2023-09-05**|**Efficient Query-Based Attack against ML-Based Android Malware Detection under Zero Knowledge Setting**|Ping He et.al.|[2309.01866v1](http://arxiv.org/abs/2309.01866v1)|null|
+|**2023-09-06**|**Efficient Query-Based Attack against ML-Based Android Malware Detection under Zero Knowledge Setting**|Ping He et.al.|[2309.01866v2](http://arxiv.org/abs/2309.01866v2)|null|
 |**2023-09-04**|**Hindering Adversarial Attacks with Multiple Encrypted Patch Embeddings**|AprilPyone MaungMaung et.al.|[2309.01620v1](http://arxiv.org/abs/2309.01620v1)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351v1](http://arxiv.org/abs/2309.01351v1)|null|
 |**2023-09-02**|**Towards Certified Probabilistic Robustness with High Accuracy**|Ruihan Zhang et.al.|[2309.00879v1](http://arxiv.org/abs/2309.00879v1)|null|
@@ -215,7 +215,7 @@
 |**2023-09-05**|**Crack propagation in anisotropic brittle materials: from a phase-field model to a shape optimization approach**|Tim Suchan et.al.|[2309.02431v1](http://arxiv.org/abs/2309.02431v1)|null|
 |**2023-09-05**|**A Likelihood Approach to Incorporating Self-Report Data in HIV Recency Classification**|Wenlong Yang et.al.|[2309.02430v1](http://arxiv.org/abs/2309.02430v1)|null|
 |**2023-09-05**|**Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach**|Vimal K B et.al.|[2309.02429v1](http://arxiv.org/abs/2309.02429v1)|null|
-|**2023-09-05**|**Tensorization: Creating and Utilising Multidimensional Datasets for Multiway Analysis and Tensorised Deep Neural Networks -- Python Tutorial and Survey**|Manal Helal et.al.|[2309.02428v1](http://arxiv.org/abs/2309.02428v1)|null|
+|**2023-09-05**|**Tensorization: Creating and Utilising Multidimensional Datasets for Multiway Analysis and Tensorised Deep Neural Networks -- Python Tutorial and Survey**|Manal Helal et.al.|[2309.02428v1](http://arxiv.org/abs/2309.02428v1)|**[link](https://github.com/mhelal/TensorsPyBook)**|
 |**2023-09-05**|**Cognitive Architectures for Language Agents**|Theodore Sumers et.al.|[2309.02427v1](http://arxiv.org/abs/2309.02427v1)|null|
 |**2023-09-05**|**Monotone Tree-Based GAMI Models by Adapting XGBoost**|Linwei Hu et.al.|[2309.02426v1](http://arxiv.org/abs/2309.02426v1)|null|
 |**2023-09-03**|**Dirac hydrodynamics in 19 forms**|Luca Fabbri et.al.|[2309.00617v1](http://arxiv.org/abs/2309.00617v1)|null|

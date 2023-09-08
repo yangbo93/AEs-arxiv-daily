@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 
 ## Adversarial Examples
 
@@ -215,7 +215,7 @@ layout: default
 |**2023-09-06**|**Matcha-TTS: A fast TTS architecture with conditional flow matching**|Shivam Mehta et.al.|[2309.03199v1](http://arxiv.org/abs/2309.03199v1)|null|
 |**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|null|
 |**2023-09-06**|**Complex scaling in finite volume**|Hang Yu et.al.|[2309.03196v1](http://arxiv.org/abs/2309.03196v1)|null|
-|**2023-09-06**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195v1](http://arxiv.org/abs/2309.03195v1)|null|
+|**2023-09-07**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195v2](http://arxiv.org/abs/2309.03195v2)|null|
 |**2023-09-06**|**Frustrated extended Bose-Hubbard model and deconfined quantum critical points with optical lattices at the anti-magic wavelength**|Niccolò Baldelli et.al.|[2309.03193v1](http://arxiv.org/abs/2309.03193v1)|null|
 |**2023-09-06**|**Extensions of MacMahon's sums of divisors**|Tewodros Amdeberhan et.al.|[2309.03191v1](http://arxiv.org/abs/2309.03191v1)|null|
 |**2023-09-06**|**Polarization of Thermal Dilepton Radiation**|Florian Seck et.al.|[2309.03189v1](http://arxiv.org/abs/2309.03189v1)|null|

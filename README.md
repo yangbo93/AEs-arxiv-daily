@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**How adversarial attacks can disrupt seemingly stable accurate classifiers**|Oliver J. Sutton et.al.|[2309.03665v1](http://arxiv.org/abs/2309.03665v1)|null|
 |**2023-09-05**|**The Adversarial Implications of Variable-Time Inference**|Dudi Biton et.al.|[2309.02159v1](http://arxiv.org/abs/2309.02159v1)|**[link](https://github.com/dudi709/Timing-Based-Attack)**|
 |**2023-09-06**|**Efficient Query-Based Attack against ML-Based Android Malware Detection under Zero Knowledge Setting**|Ping He et.al.|[2309.01866v2](http://arxiv.org/abs/2309.01866v2)|null|
 |**2023-09-04**|**Hindering Adversarial Attacks with Multiple Encrypted Patch Embeddings**|AprilPyone MaungMaung et.al.|[2309.01620v1](http://arxiv.org/abs/2309.01620v1)|null|
@@ -208,6 +209,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**A-Eval: A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation**|Ziyan Huang et.al.|[2309.03906v1](http://arxiv.org/abs/2309.03906v1)|null|
+|**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|null|
+|**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|null|
+|**2023-09-07**|**Tracking Anything with Decoupled Video Segmentation**|Ho Kei Cheng et.al.|[2309.03903v1](http://arxiv.org/abs/2309.03903v1)|null|
+|**2023-09-07**|**Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction**|Su-Kai Chen et.al.|[2309.03900v1](http://arxiv.org/abs/2309.03900v1)|null|
+|**2023-09-07**|**The Making and Breaking of Camouflage**|Hala Lamdouar et.al.|[2309.03899v1](http://arxiv.org/abs/2309.03899v1)|null|
+|**2023-09-07**|**Multivariate, Multi-step, and Spatiotemporal Traffic Prediction for NextG Network Slicing under SLA Constraints**|Evren Tuna et.al.|[2309.03898v1](http://arxiv.org/abs/2309.03898v1)|null|
+|**2023-09-07**|**Fate of Quadratic Band Crossing under quasiperiodic modulation**|Raul Liquito et.al.|[2309.03896v1](http://arxiv.org/abs/2309.03896v1)|null|
+|**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895v1](http://arxiv.org/abs/2309.03895v1)|null|
+|**2023-09-07**|**Rapid neutron star cooling triggered by accumulated dark matter**|Afonso Ávila et.al.|[2309.03894v1](http://arxiv.org/abs/2309.03894v1)|null|
 |**2023-09-06**|**Matcha-TTS: A fast TTS architecture with conditional flow matching**|Shivam Mehta et.al.|[2309.03199v1](http://arxiv.org/abs/2309.03199v1)|null|
 |**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|null|
 |**2023-09-06**|**Complex scaling in finite volume**|Hang Yu et.al.|[2309.03196v1](http://arxiv.org/abs/2309.03196v1)|null|

@@ -213,6 +213,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Multiplicative Anomaly matches Casimir Energy for GJMS Operators on Spheres**|R. Aros et.al.|[2309.04471v1](http://arxiv.org/abs/2309.04471v1)|null|
+|**2023-09-08**|**On the Actionability of Outcome Prediction**|Lydia T. Liu et.al.|[2309.04470v1](http://arxiv.org/abs/2309.04470v1)|null|
+|**2023-09-08**|**Multi-contact Stochastic Predictive Control for Legged Robots with Contact Locations Uncertainty**|Ahmad Gazar et.al.|[2309.04469v1](http://arxiv.org/abs/2309.04469v1)|null|
+|**2023-09-08**|**The Local Group Symbiotic Star Population and its Weak Relation with Type Ia Supernovae**|M. Laversveiler et.al.|[2309.04466v1](http://arxiv.org/abs/2309.04466v1)|null|
+|**2023-09-08**|**Generalized Cross-domain Multi-label Few-shot Learning for Chest X-rays**|Aroof Aimen et.al.|[2309.04462v1](http://arxiv.org/abs/2309.04462v1)|null|
+|**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461v1](http://arxiv.org/abs/2309.04461v1)|null|
+|**2023-09-08**|**Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning**|David Yunis et.al.|[2309.04459v1](http://arxiv.org/abs/2309.04459v1)|null|
+|**2023-09-08**|**Small systems and the single-hit approximation in the AMY parton cascade ALPACA**|Robin Törnkvist et.al.|[2309.04458v1](http://arxiv.org/abs/2309.04458v1)|null|
+|**2023-09-08**|**Generalized Variable Selection Algorithms for Gaussian Process Models by LASSO-like Penalty**|Zhiyong Hu et.al.|[2309.04455v1](http://arxiv.org/abs/2309.04455v1)|null|
+|**2023-09-08**|**Postprocessing of Ensemble Weather Forecasts Using Permutation-invariant Neural Networks**|Kevin Höhlein et.al.|[2309.04452v1](http://arxiv.org/abs/2309.04452v1)|null|
 |**2023-09-07**|**A-Eval: A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation**|Ziyan Huang et.al.|[2309.03906v1](http://arxiv.org/abs/2309.03906v1)|**[link](https://github.com/uni-medical/a-eval)**|
 |**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|**[link](https://github.com/opengvlab/llama-adapter)**|
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|null|

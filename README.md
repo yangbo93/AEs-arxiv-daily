@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-09**|**Exploring Robust Features for Improving Adversarial Robustness**|Hong Wang et.al.|[2309.04650v1](http://arxiv.org/abs/2309.04650v1)|null|
 |**2023-09-07**|**How adversarial attacks can disrupt seemingly stable accurate classifiers**|Oliver J. Sutton et.al.|[2309.03665v1](http://arxiv.org/abs/2309.03665v1)|null|
 |**2023-09-05**|**The Adversarial Implications of Variable-Time Inference**|Dudi Biton et.al.|[2309.02159v1](http://arxiv.org/abs/2309.02159v1)|**[link](https://github.com/dudi709/Timing-Based-Attack)**|
 |**2023-09-06**|**Efficient Query-Based Attack against ML-Based Android Malware Detection under Zero Knowledge Setting**|Ping He et.al.|[2309.01866v2](http://arxiv.org/abs/2309.01866v2)|null|
@@ -209,6 +210,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Stellar Cruise Control: Weakened Magnetic Braking Leads to Sustained Rapid Rotation of Old Stars**|Nicholas Saunders et.al.|[2309.05666v1](http://arxiv.org/abs/2309.05666v1)|null|
+|**2023-09-11**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665v1](http://arxiv.org/abs/2309.05665v1)|null|
+|**2023-09-11**|**Superconductivity-induced improper orders**|Andras Szabo et.al.|[2309.05664v1](http://arxiv.org/abs/2309.05664v1)|null|
+|**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663v1](http://arxiv.org/abs/2309.05663v1)|null|
+|**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662v1](http://arxiv.org/abs/2309.05662v1)|null|
+|**2023-09-11**|**Hypothesis Search: Inductive Reasoning with Language Models**|Ruocheng Wang et.al.|[2309.05660v1](http://arxiv.org/abs/2309.05660v1)|null|
+|**2023-09-11**|**The Atacama Cosmology Telescope: Cosmology from cross-correlations of unWISE galaxies and ACT DR6 CMB lensing**|Gerrit S. Farren et.al.|[2309.05659v1](http://arxiv.org/abs/2309.05659v1)|null|
+|**2023-09-11**|**From Capture to Display: A Survey on Volumetric Video**|Yili Jin et.al.|[2309.05658v1](http://arxiv.org/abs/2309.05658v1)|null|
+|**2023-09-11**|**Dynamic Handover: Throw and Catch with Bimanual Hands**|Binghao Huang et.al.|[2309.05655v1](http://arxiv.org/abs/2309.05655v1)|null|
+|**2023-09-11**|**Amalgame: Cosmological Constraints from the First Combined Photometric Supernova Sample**|Brodie Popovic et.al.|[2309.05654v1](http://arxiv.org/abs/2309.05654v1)|null|
 |**2023-09-08**|**Multiplicative Anomaly matches Casimir Energy for GJMS Operators on Spheres**|R. Aros et.al.|[2309.04471v1](http://arxiv.org/abs/2309.04471v1)|null|
 |**2023-09-08**|**On the Actionability of Outcome Prediction**|Lydia T. Liu et.al.|[2309.04470v1](http://arxiv.org/abs/2309.04470v1)|null|
 |**2023-09-08**|**Multi-contact Stochastic Predictive Control for Legged Robots with Contact Locations Uncertainty**|Ahmad Gazar et.al.|[2309.04469v1](http://arxiv.org/abs/2309.04469v1)|null|

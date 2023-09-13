@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Using Reed-Muller Codes for Classification with Rejection and Recovery**|Daniel Fentham et.al.|[2309.06359v1](http://arxiv.org/abs/2309.06359v1)|**[link](https://github.com/dfenth/rmaggnet)**|
+|**2023-09-12**|**Certified Robust Models with Slack Control and Large Lipschitz Constants**|Max Losch et.al.|[2309.06166v1](http://arxiv.org/abs/2309.06166v1)|**[link](https://github.com/mlosch/cll)**|
+|**2023-09-11**|**Diffusion-based Adversarial Purification for Robust Deep MRI Reconstruction**|Ismail Alkhouri et.al.|[2309.05794v1](http://arxiv.org/abs/2309.05794v1)|null|
 |**2023-09-09**|**Exploring Robust Features for Improving Adversarial Robustness**|Hong Wang et.al.|[2309.04650v1](http://arxiv.org/abs/2309.04650v1)|null|
 |**2023-09-07**|**How adversarial attacks can disrupt seemingly stable accurate classifiers**|Oliver J. Sutton et.al.|[2309.03665v1](http://arxiv.org/abs/2309.03665v1)|null|
 |**2023-09-05**|**The Adversarial Implications of Variable-Time Inference**|Dudi Biton et.al.|[2309.02159v1](http://arxiv.org/abs/2309.02159v1)|**[link](https://github.com/dudi709/Timing-Based-Attack)**|
@@ -210,6 +213,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**DESI luminous red galaxy samples for cross-correlations**|Rongpu Zhou et.al.|[2309.06443v1](http://arxiv.org/abs/2309.06443v1)|null|
+|**2023-09-12**|**Geometric semimetals**|Yu-Ping Lin et.al.|[2309.06442v1](http://arxiv.org/abs/2309.06442v1)|null|
+|**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441v1](http://arxiv.org/abs/2309.06441v1)|null|
+|**2023-09-12**|**Attention De-sparsification Matters: Inducing Diversity in Digital Pathology Representation Learning**|Saarthak Kapse et.al.|[2309.06439v1](http://arxiv.org/abs/2309.06439v1)|null|
+|**2023-09-12**|**Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks**|Jindong Gu et.al.|[2309.06438v1](http://arxiv.org/abs/2309.06438v1)|null|
+|**2023-09-12**|**Non-constant ground configurations in the disordered ferromagnet**|Michal Bassan et.al.|[2309.06437v1](http://arxiv.org/abs/2309.06437v1)|null|
+|**2023-09-12**|**Holographic Tensor Networks with Bulk Gauge Symmetries**|Xi Dong et.al.|[2309.06436v1](http://arxiv.org/abs/2309.06436v1)|null|
+|**2023-09-12**|**Early time dynamics far from equilibrium via holography**|Matthias Kaminski et.al.|[2309.06435v1](http://arxiv.org/abs/2309.06435v1)|null|
+|**2023-09-12**|**Concentration properties of theta lifts on orthogonal groups**|Farrell Brumley et.al.|[2309.06433v1](http://arxiv.org/abs/2309.06433v1)|null|
+|**2023-09-12**|**Efficient Inference on High-Dimensional Linear Models with Missing Outcomes**|Yikun Zhang et.al.|[2309.06429v1](http://arxiv.org/abs/2309.06429v1)|null|
 |**2023-09-11**|**Stellar Cruise Control: Weakened Magnetic Braking Leads to Sustained Rapid Rotation of Old Stars**|Nicholas Saunders et.al.|[2309.05666v1](http://arxiv.org/abs/2309.05666v1)|null|
 |**2023-09-12**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665v2](http://arxiv.org/abs/2309.05665v2)|null|
 |**2023-09-11**|**Superconductivity-induced improper orders**|Andras Szabo et.al.|[2309.05664v1](http://arxiv.org/abs/2309.05664v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.12
+## Updated on 2023.09.13
 
 ## Adversarial Examples
 
@@ -215,7 +215,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-11**|**Stellar Cruise Control: Weakened Magnetic Braking Leads to Sustained Rapid Rotation of Old Stars**|Nicholas Saunders et.al.|[2309.05666v1](http://arxiv.org/abs/2309.05666v1)|null|
-|**2023-09-11**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665v1](http://arxiv.org/abs/2309.05665v1)|null|
+|**2023-09-12**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665v2](http://arxiv.org/abs/2309.05665v2)|null|
 |**2023-09-11**|**Superconductivity-induced improper orders**|Andras Szabo et.al.|[2309.05664v1](http://arxiv.org/abs/2309.05664v1)|null|
 |**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663v1](http://arxiv.org/abs/2309.05663v1)|null|
 |**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662v1](http://arxiv.org/abs/2309.05662v1)|null|

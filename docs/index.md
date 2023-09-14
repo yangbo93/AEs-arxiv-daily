@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Hardening RGB-D Object Recognition Systems against Adversarial Patch Attacks**|Yang Zheng et.al.|[2309.07106v1](http://arxiv.org/abs/2309.07106v1)|null|
+|**2023-09-13**|**APICom: Automatic API Completion via Prompt Learning and Adversarial Training-based Data Augmentation**|Yafeng Gu et.al.|[2309.07026v1](http://arxiv.org/abs/2309.07026v1)|null|
+|**2023-09-13**|**PhantomSound: Black-Box, Query-Efficient Audio Adversarial Attack via Split-Second Phoneme Injection**|Hanqing Guo et.al.|[2309.06960v1](http://arxiv.org/abs/2309.06960v1)|null|
 |**2023-09-12**|**Using Reed-Muller Codes for Classification with Rejection and Recovery**|Daniel Fentham et.al.|[2309.06359v1](http://arxiv.org/abs/2309.06359v1)|**[link](https://github.com/dfenth/rmaggnet)**|
 |**2023-09-12**|**Certified Robust Models with Slack Control and Large Lipschitz Constants**|Max Losch et.al.|[2309.06166v1](http://arxiv.org/abs/2309.06166v1)|**[link](https://github.com/mlosch/cll)**|
 |**2023-09-11**|**Diffusion-based Adversarial Purification for Robust Deep MRI Reconstruction**|Ismail Alkhouri et.al.|[2309.05794v1](http://arxiv.org/abs/2309.05794v1)|null|
@@ -217,6 +220,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Text-Guided Generation and Editing of Compositional 3D Avatars**|Hao Zhang et.al.|[2309.07125v1](http://arxiv.org/abs/2309.07125v1)|null|
+|**2023-09-13**|**RAIN: Your Language Models Can Align Themselves without Finetuning**|Yuhui Li et.al.|[2309.07124v1](http://arxiv.org/abs/2309.07124v1)|null|
+|**2023-09-13**|**Tree-Structured Shading Decomposition**|Chen Geng et.al.|[2309.07122v1](http://arxiv.org/abs/2309.07122v1)|null|
+|**2023-09-13**|**Option pricing and hedging for regime-switching geometric Brownian motion models**|Bruno Remillard et.al.|[2309.07121v1](http://arxiv.org/abs/2309.07121v1)|null|
+|**2023-09-13**|**Sight Beyond Text: Multi-Modal Training Enhances LLMs in Truthfulness and Ethics**|Haoqin Tu et.al.|[2309.07120v1](http://arxiv.org/abs/2309.07120v1)|**[link](https://github.com/ucsc-vlaa/sight-beyond-text)**|
+|**2023-09-13**|**Metastable Kitaev Spin Liquids in Isotropic Quantum Heisenberg Magnets**|Ganapathy Baskaran et.al.|[2309.07119v1](http://arxiv.org/abs/2309.07119v1)|null|
+|**2023-09-13**|**PILOT: A Pre-Trained Model-Based Continual Learning Toolbox**|Hai-Long Sun et.al.|[2309.07117v1](http://arxiv.org/abs/2309.07117v1)|**[link](https://github.com/sun-hailong/lamda-pilot)**|
+|**2023-09-13**|**Level statistics of the one-dimensional dimerized Hubbard model**|Karin Haderlein et.al.|[2309.07116v1](http://arxiv.org/abs/2309.07116v1)|null|
+|**2023-09-13**|**Weakly-Supervised Multi-Task Learning for Audio-Visual Speaker Verification**|Anith Selvakumar et.al.|[2309.07115v1](http://arxiv.org/abs/2309.07115v1)|null|
+|**2023-09-13**|**Monitoring H$α$ Emission from the Wide-orbit Brown-dwarf Companion FU Tau B**|Ya-Lin Wu et.al.|[2309.07114v1](http://arxiv.org/abs/2309.07114v1)|null|
 |**2023-09-12**|**DESI luminous red galaxy samples for cross-correlations**|Rongpu Zhou et.al.|[2309.06443v1](http://arxiv.org/abs/2309.06443v1)|null|
 |**2023-09-12**|**Geometric semimetals**|Yu-Ping Lin et.al.|[2309.06442v1](http://arxiv.org/abs/2309.06442v1)|null|
 |**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441v1](http://arxiv.org/abs/2309.06441v1)|null|

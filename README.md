@@ -1,4 +1,4 @@
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 
 ## Adversarial Examples
 
@@ -221,7 +221,7 @@
 |**2023-09-12**|**Non-constant ground configurations in the disordered ferromagnet**|Michal Bassan et.al.|[2309.06437v1](http://arxiv.org/abs/2309.06437v1)|null|
 |**2023-09-12**|**Holographic Tensor Networks with Bulk Gauge Symmetries**|Xi Dong et.al.|[2309.06436v1](http://arxiv.org/abs/2309.06436v1)|null|
 |**2023-09-12**|**Early time dynamics far from equilibrium via holography**|Matthias Kaminski et.al.|[2309.06435v1](http://arxiv.org/abs/2309.06435v1)|null|
-|**2023-09-12**|**Concentration properties of theta lifts on orthogonal groups**|Farrell Brumley et.al.|[2309.06433v1](http://arxiv.org/abs/2309.06433v1)|null|
+|**2023-09-13**|**Concentration properties of theta lifts on orthogonal groups**|Farrell Brumley et.al.|[2309.06433v2](http://arxiv.org/abs/2309.06433v2)|null|
 |**2023-09-12**|**Efficient Inference on High-Dimensional Linear Models with Missing Outcomes**|Yikun Zhang et.al.|[2309.06429v1](http://arxiv.org/abs/2309.06429v1)|null|
 |**2023-09-11**|**Stellar Cruise Control: Weakened Magnetic Braking Leads to Sustained Rapid Rotation of Old Stars**|Nicholas Saunders et.al.|[2309.05666v1](http://arxiv.org/abs/2309.05666v1)|null|
 |**2023-09-12**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665v2](http://arxiv.org/abs/2309.05665v2)|null|

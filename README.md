@@ -1,4 +1,4 @@
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 
 ## Adversarial Examples
 
@@ -220,8 +220,8 @@
 |---|---|---|---|---|
 |**2023-09-15**|**The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**|Claire Lamman et.al.|[2309.08605v1](http://arxiv.org/abs/2309.08605v1)|null|
 |**2023-09-15**|**Tuning Pythia for Forward Physics Experiments**|Max Fieg et.al.|[2309.08604v1](http://arxiv.org/abs/2309.08604v1)|null|
-|**2023-09-15**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603v1](http://arxiv.org/abs/2309.08603v1)|null|
-|**2023-09-15**|**KiDS-1000 analysis with second- and third-order shear statistics**|Pierre A. Burger et.al.|[2309.08602v1](http://arxiv.org/abs/2309.08602v1)|null|
+|**2023-09-18**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603v2](http://arxiv.org/abs/2309.08603v2)|null|
+|**2023-09-18**|**KiDS-1000 cosmology: Combined second- and third-order shear statistics**|Pierre A. Burger et.al.|[2309.08602v2](http://arxiv.org/abs/2309.08602v2)|null|
 |**2023-09-15**|**Sparse Autoencoders Find Highly Interpretable Features in Language Models**|Hoagy Cunningham et.al.|[2309.08600v1](http://arxiv.org/abs/2309.08600v1)|null|
 |**2023-09-15**|**An assessment of racial disparities in pretrial decision-making using misclassification models**|Kimberly A. Hochstedler Webb et.al.|[2309.08599v1](http://arxiv.org/abs/2309.08599v1)|null|
 |**2023-09-15**|**Charge pumping with strong spin-orbit coupling: Fermi surface breathing and higher harmonic generation**|A. Manchon et.al.|[2309.08597v1](http://arxiv.org/abs/2309.08597v1)|null|

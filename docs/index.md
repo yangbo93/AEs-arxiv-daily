@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**MAD: Meta Adversarial Defense Benchmark**|X. Peng et.al.|[2309.09776v1](http://arxiv.org/abs/2309.09776v1)|null|
+|**2023-09-18**|**Stealthy Physical Masked Face Recognition Attack via Adversarial Style Optimization**|Huihui Gong et.al.|[2309.09480v1](http://arxiv.org/abs/2309.09480v1)|null|
+|**2023-09-18**|**Reducing Adversarial Training Cost with Gradient Approximation**|Huihui Gong et.al.|[2309.09464v1](http://arxiv.org/abs/2309.09464v1)|null|
+|**2023-09-16**|**Context-aware Adversarial Attack on Named Entity Recognition**|Shuguang Chen et.al.|[2309.08999v1](http://arxiv.org/abs/2309.08999v1)|null|
+|**2023-09-16**|**Inverse classification with logistic and softmax classifiers: efficient optimization**|Miguel Á. Carreira-Perpiñán et.al.|[2309.08945v1](http://arxiv.org/abs/2309.08945v1)|null|
+|**2023-09-15**|**Adversarial Attacks on Tables with Entity Swap**|Aneta Koleva et.al.|[2309.08650v1](http://arxiv.org/abs/2309.08650v1)|null|
 |**2023-09-14**|**Unleashing the Adversarial Facet of Software Debloating**|Do-Men Su et.al.|[2309.08058v1](http://arxiv.org/abs/2309.08058v1)|null|
 |**2023-09-13**|**Mitigating Adversarial Attacks in Federated Learning with Trusted Execution Environments**|Simon Queyrut et.al.|[2309.07197v1](http://arxiv.org/abs/2309.07197v1)|**[link](https://github.com/queyrusi/pelta)**|
 |**2023-09-13**|**Hardening RGB-D Object Recognition Systems against Adversarial Patch Attacks**|Yang Zheng et.al.|[2309.07106v1](http://arxiv.org/abs/2309.07106v1)|null|
@@ -222,6 +228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979v1](http://arxiv.org/abs/2309.09979v1)|null|
+|**2023-09-18**|**Impact of Galactic dust non-Gaussianity on searches for B-modes from inflation**|Irene Abril-Cabezas et.al.|[2309.09978v1](http://arxiv.org/abs/2309.09978v1)|null|
+|**2023-09-18**|**$Des$-$q$: a quantum algorithm to construct and efficiently retrain decision trees for regression and binary classification**|Niraj Kumar et.al.|[2309.09976v1](http://arxiv.org/abs/2309.09976v1)|null|
+|**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975v1](http://arxiv.org/abs/2309.09975v1)|**[link](https://github.com/qcraftai/gedepth)**|
+|**2023-09-18**|**Monochromatic boxes of unit volume**|Vjekoslav Kovač et.al.|[2309.09973v1](http://arxiv.org/abs/2309.09973v1)|null|
+|**2023-09-18**|**MindAgent: Emergent Gaming Interaction**|Ran Gong et.al.|[2309.09971v1](http://arxiv.org/abs/2309.09971v1)|null|
+|**2023-09-18**|**Empirical Study of Mix-based Data Augmentation Methods in Physiological Time Series Data**|Peikun Guo et.al.|[2309.09970v1](http://arxiv.org/abs/2309.09970v1)|null|
+|**2023-09-18**|**Prompt a Robot to Walk with Large Language Models**|Yen-Jen Wang et.al.|[2309.09969v1](http://arxiv.org/abs/2309.09969v1)|null|
+|**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968v1](http://arxiv.org/abs/2309.09968v1)|null|
+|**2023-09-18**|**Exact Diagonalization of $\mathrm{SU}(N)$ Fermi-Hubbard Models**|Thomas Botzung et.al.|[2309.09965v1](http://arxiv.org/abs/2309.09965v1)|null|
 |**2023-09-15**|**The IA Guide: A Breakdown of Intrinsic Alignment Formalisms**|Claire Lamman et.al.|[2309.08605v1](http://arxiv.org/abs/2309.08605v1)|null|
 |**2023-09-15**|**Tuning Pythia for Forward Physics Experiments**|Max Fieg et.al.|[2309.08604v1](http://arxiv.org/abs/2309.08604v1)|null|
 |**2023-09-18**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603v2](http://arxiv.org/abs/2309.08603v2)|null|

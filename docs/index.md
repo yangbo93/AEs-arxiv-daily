@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Adversarial Attacks Against Uncertainty Quantification**|Emanuele Ledda et.al.|[2309.10586v1](http://arxiv.org/abs/2309.10586v1)|null|
+|**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348v1](http://arxiv.org/abs/2309.10348v1)|null|
+|**2023-09-19**|**Transferable Adversarial Attack on Image Tampering Localization**|Yuqi Wang et.al.|[2309.10243v1](http://arxiv.org/abs/2309.10243v1)|null|
 |**2023-09-18**|**MAD: Meta Adversarial Defense Benchmark**|X. Peng et.al.|[2309.09776v1](http://arxiv.org/abs/2309.09776v1)|null|
 |**2023-09-18**|**Stealthy Physical Masked Face Recognition Attack via Adversarial Style Optimization**|Huihui Gong et.al.|[2309.09480v1](http://arxiv.org/abs/2309.09480v1)|null|
 |**2023-09-18**|**Reducing Adversarial Training Cost with Gradient Approximation**|Huihui Gong et.al.|[2309.09464v1](http://arxiv.org/abs/2309.09464v1)|null|
@@ -228,6 +231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**SlimPajama-DC: Understanding Data Combinations for LLM Training**|Zhiqiang Shen et.al.|[2309.10818v1](http://arxiv.org/abs/2309.10818v1)|null|
+|**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817v1](http://arxiv.org/abs/2309.10817v1)|null|
+|**2023-09-19**|**PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes**|Xiao Fu et.al.|[2309.10815v1](http://arxiv.org/abs/2309.10815v1)|**[link](https://github.com/fuxiao0719/panopticnerf)**|
+|**2023-09-19**|**Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**|Tianhua Zhang et.al.|[2309.10814v1](http://arxiv.org/abs/2309.10814v1)|**[link](https://github.com/luohongyin/langcode)**|
+|**2023-09-19**|**Bond Breaking Kinetics in Mechanically Controlled Break Junction Experiments: A Bayesian Approach**|Dylan Dyer et.al.|[2309.10812v1](http://arxiv.org/abs/2309.10812v1)|null|
+|**2023-09-19**|**Modeling interdisciplinary interactions among Physics, Mathematics & Computer Science**|Rima Hazra et.al.|[2309.10811v1](http://arxiv.org/abs/2309.10811v1)|null|
+|**2023-09-19**|**PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance**|Peiqing Yang et.al.|[2309.10810v1](http://arxiv.org/abs/2309.10810v1)|**[link](https://github.com/pq-yang/pgdiff)**|
+|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v1](http://arxiv.org/abs/2309.10808v1)|null|
+|**2023-09-19**|**Relating CP divisibility of dynamical maps with compatibility of channels**|Arindam Mitra et.al.|[2309.10806v1](http://arxiv.org/abs/2309.10806v1)|null|
+|**2023-09-19**|**Machine Learning-Driven Burrowing with a Snake-Like Robot**|Sean Even et.al.|[2309.10802v1](http://arxiv.org/abs/2309.10802v1)|null|
 |**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979v1](http://arxiv.org/abs/2309.09979v1)|null|
 |**2023-09-18**|**Impact of Galactic dust non-Gaussianity on searches for B-modes from inflation**|Irene Abril-Cabezas et.al.|[2309.09978v1](http://arxiv.org/abs/2309.09978v1)|null|
 |**2023-09-19**|**Des-q: a quantum algorithm to construct and efficiently retrain decision trees for regression and binary classification**|Niraj Kumar et.al.|[2309.09976v2](http://arxiv.org/abs/2309.09976v2)|null|

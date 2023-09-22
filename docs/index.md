@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**How Robust is Google's Bard to Adversarial Image Attacks?**|Yinpeng Dong et.al.|[2309.11751v1](http://arxiv.org/abs/2309.11751v1)|**[link](https://github.com/thu-ml/attack-bard)**|
 |**2023-09-20**|**When to Trust AI: Advances and Challenges for Certification of Neural Networks**|Marta Kwiatkowska et.al.|[2309.11196v1](http://arxiv.org/abs/2309.11196v1)|null|
 |**2023-09-20**|**PRAT: PRofiling Adversarial aTtacks**|Rahul Ambati et.al.|[2309.11111v1](http://arxiv.org/abs/2309.11111v1)|**[link](https://github.com/rahulambati/PRAT)**|
 |**2023-09-21**|**What Learned Representations and Influence Functions Can Tell Us About Adversarial Examples**|Shakila Mahjabin Tonni et.al.|[2309.10916v2](http://arxiv.org/abs/2309.10916v2)|**[link](https://github.com/sjabin/nnif)**|
@@ -234,6 +235,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**|Kan Wu et.al.|[2309.12314v1](http://arxiv.org/abs/2309.12314v1)|null|
+|**2023-09-21**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312v1](http://arxiv.org/abs/2309.12312v1)|null|
+|**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|null|
+|**2023-09-21**|**Model non-Hermitian topological operators without skin effect**|Daniel J. Salib et.al.|[2309.12310v1](http://arxiv.org/abs/2309.12310v1)|null|
+|**2023-09-21**|**Rehearsal: Simulating Conflict to Teach Conflict Resolution**|Omar Shaikh et.al.|[2309.12309v1](http://arxiv.org/abs/2309.12309v1)|null|
+|**2023-09-21**|**Energy-space random walk in a driven disordered Bose gas**|Yansheng Zhang et.al.|[2309.12308v1](http://arxiv.org/abs/2309.12308v1)|null|
+|**2023-09-21**|**LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models**|Yukang Chen et.al.|[2309.12307v1](http://arxiv.org/abs/2309.12307v1)|**[link](https://github.com/dvlab-research/longlora)**|
+|**2023-09-21**|**TalkNCE: Improving Active Speaker Detection with Talk-Aware Contrastive Learning**|Chaeyoung Jung et.al.|[2309.12306v1](http://arxiv.org/abs/2309.12306v1)|null|
+|**2023-09-21**|**Gamma-ray burst precursors from tidally resonant neutron star oceans: potential implications for GRB 211211A**|Andrew G. Sullivan et.al.|[2309.12305v1](http://arxiv.org/abs/2309.12305v1)|null|
+|**2023-09-21**|**SlowFast Network for Continuous Sign Language Recognition**|Junseok Ahn et.al.|[2309.12304v1](http://arxiv.org/abs/2309.12304v1)|null|
 |**2023-09-20**|**Intrinsic superconducting diode effects in tilted Weyl and Dirac semimetals**|Kai Chen et.al.|[2309.11501v1](http://arxiv.org/abs/2309.11501v1)|null|
 |**2023-09-20**|**A Large-scale Dataset for Audio-Language Representation Learning**|Luoyi Sun et.al.|[2309.11500v1](http://arxiv.org/abs/2309.11500v1)|null|
 |**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499v1](http://arxiv.org/abs/2309.11499v1)|**[link](https://github.com/RunpeiDong/DreamLLM)**|

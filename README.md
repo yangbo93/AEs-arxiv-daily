@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-09-21**|**How Robust is Google's Bard to Adversarial Image Attacks?**|Yinpeng Dong et.al.|[2309.11751v1](http://arxiv.org/abs/2309.11751v1)|**[link](https://github.com/thu-ml/attack-bard)**|
 |**2023-09-20**|**When to Trust AI: Advances and Challenges for Certification of Neural Networks**|Marta Kwiatkowska et.al.|[2309.11196v1](http://arxiv.org/abs/2309.11196v1)|null|
-|**2023-09-20**|**PRAT: PRofiling Adversarial aTtacks**|Rahul Ambati et.al.|[2309.11111v1](http://arxiv.org/abs/2309.11111v1)|**[link](https://github.com/rahulambati/PRAT)**|
+|**2023-09-20**|**PRAT: PRofiling Adversarial aTtacks**|Rahul Ambati et.al.|[2309.11111v1](http://arxiv.org/abs/2309.11111v1)|null|
 |**2023-09-21**|**What Learned Representations and Influence Functions Can Tell Us About Adversarial Examples**|Shakila Mahjabin Tonni et.al.|[2309.10916v2](http://arxiv.org/abs/2309.10916v2)|**[link](https://github.com/sjabin/nnif)**|
 |**2023-09-19**|**Adversarial Attacks Against Uncertainty Quantification**|Emanuele Ledda et.al.|[2309.10586v1](http://arxiv.org/abs/2309.10586v1)|null|
 |**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348v1](http://arxiv.org/abs/2309.10348v1)|null|

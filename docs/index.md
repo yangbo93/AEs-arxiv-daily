@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**Improving Machine Learning Robustness via Adversarial Training**|Long Dang et.al.|[2309.12593v1](http://arxiv.org/abs/2309.12593v1)|null|
+|**2023-09-21**|**HANS, are you clever? Clever Hans Effect Analysis of Neural Systems**|Leonardo Ranaldi et.al.|[2309.12481v1](http://arxiv.org/abs/2309.12481v1)|null|
 |**2023-09-21**|**How Robust is Google's Bard to Adversarial Image Attacks?**|Yinpeng Dong et.al.|[2309.11751v1](http://arxiv.org/abs/2309.11751v1)|**[link](https://github.com/thu-ml/attack-bard)**|
 |**2023-09-20**|**When to Trust AI: Advances and Challenges for Certification of Neural Networks**|Marta Kwiatkowska et.al.|[2309.11196v1](http://arxiv.org/abs/2309.11196v1)|null|
 |**2023-09-20**|**PRAT: PRofiling Adversarial aTtacks**|Rahul Ambati et.al.|[2309.11111v1](http://arxiv.org/abs/2309.11111v1)|null|
@@ -235,6 +237,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**E(2)-Equivariant Graph Planning for Navigation**|Linfeng Zhao et.al.|[2309.13043v1](http://arxiv.org/abs/2309.13043v1)|null|
+|**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042v1](http://arxiv.org/abs/2309.13042v1)|**[link](https://github.com/jiahao000/mosaicfusion)**|
+|**2023-09-22**|**Robotic Offline RL from Internet Videos via Value-Function Pre-Training**|Chethan Bhateja et.al.|[2309.13041v1](http://arxiv.org/abs/2309.13041v1)|null|
+|**2023-09-22**|**Pairing dome from an emergent Feshbach resonance in a strongly repulsive bilayer model**|Hannah Lange et.al.|[2309.13040v1](http://arxiv.org/abs/2309.13040v1)|null|
+|**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
+|**2023-09-22**|**Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?**|Xiaoxiao Sun et.al.|[2309.13038v1](http://arxiv.org/abs/2309.13038v1)|null|
+|**2023-09-22**|**GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators**|Philipp Wu et.al.|[2309.13037v1](http://arxiv.org/abs/2309.13037v1)|null|
+|**2023-09-22**|**Robust Stability Analysis of a Class of LTV Systems**|Shahzad Ahmed et.al.|[2309.13033v1](http://arxiv.org/abs/2309.13033v1)|null|
+|**2023-09-22**|**Modelling, Simulation, and Control of a Flexible Space Launch Vehicle**|Muhammad Abdullah Aamer et.al.|[2309.13032v1](http://arxiv.org/abs/2309.13032v1)|null|
+|**2023-09-22**|**Anti-Itô noise-induced phase transitions in tumor growth with chemotherapy**|Helder Rojas et.al.|[2309.13031v1](http://arxiv.org/abs/2309.13031v1)|null|
 |**2023-09-21**|**TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**|Kan Wu et.al.|[2309.12314v1](http://arxiv.org/abs/2309.12314v1)|null|
 |**2023-09-21**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312v1](http://arxiv.org/abs/2309.12312v1)|null|
 |**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|null|

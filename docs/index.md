@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Adversarial Attacks on Video Object Segmentation with Hard Region Discovery**|Ping Li et.al.|[2309.13857v1](http://arxiv.org/abs/2309.13857v1)|null|
+|**2023-09-23**|**RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias**|Hao Cheng et.al.|[2309.13245v1](http://arxiv.org/abs/2309.13245v1)|null|
 |**2023-09-22**|**Improving Machine Learning Robustness via Adversarial Training**|Long Dang et.al.|[2309.12593v1](http://arxiv.org/abs/2309.12593v1)|null|
 |**2023-09-21**|**HANS, are you clever? Clever Hans Effect Analysis of Neural Systems**|Leonardo Ranaldi et.al.|[2309.12481v1](http://arxiv.org/abs/2309.12481v1)|null|
 |**2023-09-21**|**How Robust is Google's Bard to Adversarial Image Attacks?**|Yinpeng Dong et.al.|[2309.11751v1](http://arxiv.org/abs/2309.11751v1)|**[link](https://github.com/thu-ml/attack-bard)**|
@@ -237,6 +239,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Extreme Parkour with Legged Robots**|Xuxin Cheng et.al.|[2309.14341v1](http://arxiv.org/abs/2309.14341v1)|null|
+|**2023-09-25**|**Electronic properties, correlated topology and Green's function zeros**|Chandan Setty et.al.|[2309.14340v1](http://arxiv.org/abs/2309.14340v1)|null|
+|**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339v1](http://arxiv.org/abs/2309.14339v1)|null|
+|**2023-09-25**|**3D Indoor Instance Segmentation in an Open-World**|Mohamed El Amine Boudjoghra et.al.|[2309.14338v1](http://arxiv.org/abs/2309.14338v1)|null|
+|**2023-09-25**|**The true fraction of repeating fast radio bursts revealed through CHIME source count evolution**|Shotaro Yamasaki et.al.|[2309.14337v1](http://arxiv.org/abs/2309.14337v1)|null|
+|**2023-09-25**|**UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation**|Jianglin Fu et.al.|[2309.14335v1](http://arxiv.org/abs/2309.14335v1)|**[link](https://github.com/unitedhuman/unitedhuman)**|
+|**2023-09-25**|**Tasks Makyth Models: Machine Learning Assisted Surrogates for Tipping Points**|Gianluca Fabiani et.al.|[2309.14334v1](http://arxiv.org/abs/2309.14334v1)|null|
+|**2023-09-25**|**Quantum-Enhanced Parameter Estimation Without Entanglement**|Pragati Gupta et.al.|[2309.14333v1](http://arxiv.org/abs/2309.14333v1)|null|
+|**2023-09-25**|**LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference**|Hongwu Peng et.al.|[2309.14331v1](http://arxiv.org/abs/2309.14331v1)|**[link](https://github.com/harveyp123/lingcn-neurips23)**|
+|**2023-09-25**|**Noise-in, Bias-out: Balanced and Real-time MoCap Solving**|Georgios Albanis et.al.|[2309.14330v1](http://arxiv.org/abs/2309.14330v1)|null|
 |**2023-09-22**|**E(2)-Equivariant Graph Planning for Navigation**|Linfeng Zhao et.al.|[2309.13043v1](http://arxiv.org/abs/2309.13043v1)|null|
 |**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042v1](http://arxiv.org/abs/2309.13042v1)|**[link](https://github.com/jiahao000/mosaicfusion)**|
 |**2023-09-22**|**Robotic Offline RL from Internet Videos via Value-Function Pre-Training**|Chethan Bhateja et.al.|[2309.13041v1](http://arxiv.org/abs/2309.13041v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.27
+## Updated on 2023.09.28
 
 ## Adversarial Examples
 
@@ -248,7 +248,7 @@ layout: default
 |**2023-09-26**|**Planted Random Number Partitioning Problem**|Eren C. Kızıldağ et.al.|[2309.15115v1](http://arxiv.org/abs/2309.15115v1)|null|
 |**2023-09-26**|**Solutions with positive components to quasilinear parabolic systems**|Evelina Shamarova et.al.|[2309.15114v1](http://arxiv.org/abs/2309.15114v1)|null|
 |**2023-09-26**|**Stable Bosonic Topological Edge Modes in the Presence of Many-Body Interactions**|Niclas Heinsdorf et.al.|[2309.15113v1](http://arxiv.org/abs/2309.15113v1)|null|
-|**2023-09-26**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v1](http://arxiv.org/abs/2309.15112v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2023-09-27**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v2](http://arxiv.org/abs/2309.15112v2)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2023-09-26**|**Doduo: Learning Dense Visual Correspondence from Unsupervised Semantic-Aware Flow**|Zhenyu Jiang et.al.|[2309.15110v1](http://arxiv.org/abs/2309.15110v1)|null|
 |**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|null|
 |**2023-09-25**|**Extreme Parkour with Legged Robots**|Xuxin Cheng et.al.|[2309.14341v1](http://arxiv.org/abs/2309.14341v1)|null|

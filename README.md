@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**On Computational Entanglement and Its Interpretation in Adversarial Machine Learning**|YenLung Lai et.al.|[2309.15669v1](http://arxiv.org/abs/2309.15669v1)|null|
 |**2023-09-26**|**Structure Invariant Transformation for better Adversarial Transferability**|Xiaosen Wang et.al.|[2309.14700v1](http://arxiv.org/abs/2309.14700v1)|**[link](https://github.com/xiaosen-wang/sit)**|
 |**2023-09-26**|**DifAttack: Query-Efficient Black-Box Attack via Disentangled Feature Space**|Liu Jun et.al.|[2309.14585v1](http://arxiv.org/abs/2309.14585v1)|**[link](https://github.com/csjunjun/difattack)**|
 |**2023-09-25**|**Adversarial Attacks on Video Object Segmentation with Hard Region Discovery**|Ping Li et.al.|[2309.13857v1](http://arxiv.org/abs/2309.13857v1)|null|
@@ -237,6 +238,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Period Evolution of Repeating Transients in Galactic Nuclei**|Itai Linial et.al.|[2309.15849v1](http://arxiv.org/abs/2309.15849v1)|null|
+|**2023-09-27**|**Feshbach resonance in a strongly repulsive bilayer model: a possible scenario for bilayer nickelate superconductors**|Hannah Lange et.al.|[2309.15843v1](http://arxiv.org/abs/2309.15843v1)|null|
+|**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842v1](http://arxiv.org/abs/2309.15842v1)|null|
+|**2023-09-27**|**Examining the Values Reflected by Children during AI Problem Formulation**|Utkarsh Dwivedi et.al.|[2309.15839v1](http://arxiv.org/abs/2309.15839v1)|null|
+|**2023-09-27**|**Basis decompositions of genus-one string integrals**|Carlos Rodriguez et.al.|[2309.15836v1](http://arxiv.org/abs/2309.15836v1)|null|
+|**2023-09-27**|**Asymptotics and Scattering for massive Maxwell-Klein-Gordon equations**|Xuantao Chen et.al.|[2309.15834v1](http://arxiv.org/abs/2309.15834v1)|null|
+|**2023-09-27**|**The relative $h$-principle for closed $\mathrm{SL}(3;\mathbb{R})^2$ 3-forms**|Laurence H. Mayther et.al.|[2309.15832v1](http://arxiv.org/abs/2309.15832v1)|null|
+|**2023-09-27**|**OrthoPlanes: A Novel Representation for Better 3D-Awareness of GANs**|Honglin He et.al.|[2309.15830v1](http://arxiv.org/abs/2309.15830v1)|null|
+|**2023-09-27**|**Stochastic estimates for the thin-film equation with thermal noise**|Rishabh S. Gvalani et.al.|[2309.15829v1](http://arxiv.org/abs/2309.15829v1)|null|
+|**2023-09-27**|**Multi-unit soft sensing permits few-shot learning**|Bjarne Grimstad et.al.|[2309.15828v1](http://arxiv.org/abs/2309.15828v1)|null|
 |**2023-09-26**|**Probing light relics through cosmic dawn**|Nanoom Lee et.al.|[2309.15119v1](http://arxiv.org/abs/2309.15119v1)|null|
 |**2023-09-26**|**Classification of symmetry-enriched topological quantum spin liquids**|Weicheng Ye et.al.|[2309.15118v1](http://arxiv.org/abs/2309.15118v1)|null|
 |**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117v1](http://arxiv.org/abs/2309.15117v1)|null|

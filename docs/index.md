@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Adversarial Examples Might be Avoidable: The Role of Data Concentration in Adversarial Robustness**|Ambar Pal et.al.|[2309.16096v1](http://arxiv.org/abs/2309.16096v1)|null|
 |**2023-09-27**|**On Computational Entanglement and Its Interpretation in Adversarial Machine Learning**|YenLung Lai et.al.|[2309.15669v1](http://arxiv.org/abs/2309.15669v1)|null|
 |**2023-09-26**|**Structure Invariant Transformation for better Adversarial Transferability**|Xiaosen Wang et.al.|[2309.14700v1](http://arxiv.org/abs/2309.14700v1)|**[link](https://github.com/xiaosen-wang/sit)**|
 |**2023-09-26**|**DifAttack: Query-Efficient Black-Box Attack via Disentangled Feature Space**|Liu Jun et.al.|[2309.14585v1](http://arxiv.org/abs/2309.14585v1)|**[link](https://github.com/csjunjun/difattack)**|
@@ -242,6 +243,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Learning to Transform for Generalizable Instance-wise Invariance**|Utkarsh Singhal et.al.|[2309.16672v1](http://arxiv.org/abs/2309.16672v1)|**[link](https://github.com/sutkarsh/flow_inv)**|
+|**2023-09-28**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v1](http://arxiv.org/abs/2309.16671v1)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2023-09-28**|**Decaf: Monocular Deformation Capture for Face and Hand Interactions**|Soshi Shimada et.al.|[2309.16670v1](http://arxiv.org/abs/2309.16670v1)|null|
+|**2023-09-28**|**Training a Large Video Model on a Single Machine in a Day**|Yue Zhao et.al.|[2309.16669v1](http://arxiv.org/abs/2309.16669v1)|**[link](https://github.com/zhaoyue-zephyrus/avion)**|
+|**2023-09-28**|**RealFill: Reference-Driven Generation for Authentic Image Completion**|Luming Tang et.al.|[2309.16668v1](http://arxiv.org/abs/2309.16668v1)|null|
+|**2023-09-28**|**Probing Parity Violation in the Stochastic Gravitational Wave Background with Astrometry**|Qiuyue Liang et.al.|[2309.16666v1](http://arxiv.org/abs/2309.16666v1)|null|
+|**2023-09-28**|**Associativity certificates for Kontsevich's star-product $\star$ mod $\bar{o}(\hbar^k)$: $k\leqslant 6$ unlike $k\geqslant7$**|Ricardo Buring et.al.|[2309.16664v1](http://arxiv.org/abs/2309.16664v1)|null|
+|**2023-09-28**|**HyperPPO: A scalable method for finding small policies for robotic control**|Shashank Hegde et.al.|[2309.16663v1](http://arxiv.org/abs/2309.16663v1)|null|
+|**2023-09-28**|**SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation**|Mustansar Fiaz et.al.|[2309.16661v1](http://arxiv.org/abs/2309.16661v1)|**[link](https://github.com/mustansarfiaz/sa2-net)**|
+|**2023-09-28**|**Folding QQ-relations and transfer matrix eigenvalues: towards a unified approach to Bethe ansatz for super spin chains**|Zengo Tsuboi et.al.|[2309.16660v1](http://arxiv.org/abs/2309.16660v1)|null|
 |**2023-09-27**|**Period Evolution of Repeating Transients in Galactic Nuclei**|Itai Linial et.al.|[2309.15849v1](http://arxiv.org/abs/2309.15849v1)|null|
 |**2023-09-27**|**Feshbach resonance in a strongly repulsive bilayer model: a possible scenario for bilayer nickelate superconductors**|Hannah Lange et.al.|[2309.15843v1](http://arxiv.org/abs/2309.15843v1)|null|
 |**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842v1](http://arxiv.org/abs/2309.15842v1)|null|

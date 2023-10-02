@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 
 ## Adversarial Examples
 
@@ -244,12 +244,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-28**|**Learning to Transform for Generalizable Instance-wise Invariance**|Utkarsh Singhal et.al.|[2309.16672v1](http://arxiv.org/abs/2309.16672v1)|**[link](https://github.com/sutkarsh/flow_inv)**|
-|**2023-09-28**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v1](http://arxiv.org/abs/2309.16671v1)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2023-09-29**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v2](http://arxiv.org/abs/2309.16671v2)|**[link](https://github.com/facebookresearch/metaclip)**|
 |**2023-09-28**|**Decaf: Monocular Deformation Capture for Face and Hand Interactions**|Soshi Shimada et.al.|[2309.16670v1](http://arxiv.org/abs/2309.16670v1)|null|
 |**2023-09-28**|**Training a Large Video Model on a Single Machine in a Day**|Yue Zhao et.al.|[2309.16669v1](http://arxiv.org/abs/2309.16669v1)|**[link](https://github.com/zhaoyue-zephyrus/avion)**|
 |**2023-09-28**|**RealFill: Reference-Driven Generation for Authentic Image Completion**|Luming Tang et.al.|[2309.16668v1](http://arxiv.org/abs/2309.16668v1)|null|
 |**2023-09-28**|**Probing Parity Violation in the Stochastic Gravitational Wave Background with Astrometry**|Qiuyue Liang et.al.|[2309.16666v1](http://arxiv.org/abs/2309.16666v1)|null|
-|**2023-09-28**|**Associativity certificates for Kontsevich's star-product $\star$ mod $\bar{o}(\hbar^k)$: $k\leqslant 6$ unlike $k\geqslant7$**|Ricardo Buring et.al.|[2309.16664v1](http://arxiv.org/abs/2309.16664v1)|null|
+|**2023-09-29**|**Associativity certificates for Kontsevich's star-product $\star$ mod $\bar{o}(\hbar^k)$: $k\leqslant 6$ unlike $k\geqslant7$**|Ricardo Buring et.al.|[2309.16664v2](http://arxiv.org/abs/2309.16664v2)|null|
 |**2023-09-28**|**HyperPPO: A scalable method for finding small policies for robotic control**|Shashank Hegde et.al.|[2309.16663v1](http://arxiv.org/abs/2309.16663v1)|null|
 |**2023-09-28**|**SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation**|Mustansar Fiaz et.al.|[2309.16661v1](http://arxiv.org/abs/2309.16661v1)|**[link](https://github.com/mustansarfiaz/sa2-net)**|
 |**2023-09-28**|**Folding QQ-relations and transfer matrix eigenvalues: towards a unified approach to Bethe ansatz for super spin chains**|Zengo Tsuboi et.al.|[2309.16660v1](http://arxiv.org/abs/2309.16660v1)|null|

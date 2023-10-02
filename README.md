@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**On Continuity of Robust and Accurate Classifiers**|Ramin Barati et.al.|[2309.17048v1](http://arxiv.org/abs/2309.17048v1)|null|
 |**2023-09-28**|**Adversarial Examples Might be Avoidable: The Role of Data Concentration in Adversarial Robustness**|Ambar Pal et.al.|[2309.16096v1](http://arxiv.org/abs/2309.16096v1)|null|
 |**2023-09-27**|**On Computational Entanglement and Its Interpretation in Adversarial Machine Learning**|YenLung Lai et.al.|[2309.15669v1](http://arxiv.org/abs/2309.15669v1)|null|
 |**2023-09-26**|**Structure Invariant Transformation for better Adversarial Transferability**|Xiaosen Wang et.al.|[2309.14700v1](http://arxiv.org/abs/2309.14700v1)|**[link](https://github.com/xiaosen-wang/sit)**|
@@ -239,6 +240,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Efficient Streaming Language Models with Attention Sinks**|Guangxuan Xiao et.al.|[2309.17453v1](http://arxiv.org/abs/2309.17453v1)|**[link](https://github.com/mit-han-lab/streaming-llm)**|
+|**2023-09-29**|**ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**|Zhibin Gou et.al.|[2309.17452v1](http://arxiv.org/abs/2309.17452v1)|**[link](https://github.com/microsoft/tora)**|
+|**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450v1](http://arxiv.org/abs/2309.17450v1)|**[link](https://github.com/zsh2000/muvienerf)**|
+|**2023-09-29**|**SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation**|Zhongang Cai et.al.|[2309.17448v1](http://arxiv.org/abs/2309.17448v1)|null|
+|**2023-09-29**|**A Large Language Model Approach to Educational Survey Feedback Analysis**|Michael J. Parker et.al.|[2309.17447v1](http://arxiv.org/abs/2309.17447v1)|null|
+|**2023-09-29**|**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**|Ansong Ni et.al.|[2309.17446v1](http://arxiv.org/abs/2309.17446v1)|null|
+|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v1](http://arxiv.org/abs/2309.17444v1)|null|
+|**2023-09-29**|**Powertrain Hybridization for Autonomous Vehicles**|Shima Nazari et.al.|[2309.17442v1](http://arxiv.org/abs/2309.17442v1)|null|
+|**2023-09-29**|**Uniformizing the moduli stacks of global $G$-Shtukas II**|Urs Hartl et.al.|[2309.17441v1](http://arxiv.org/abs/2309.17441v1)|null|
+|**2023-09-29**|**Investigating the Drivers of Electron Temperature Variations in HII Regions with Keck-KCWI and VLT-MUSE**|Ryan J. Rickards Vaught et.al.|[2309.17440v1](http://arxiv.org/abs/2309.17440v1)|null|
 |**2023-09-28**|**Learning to Transform for Generalizable Instance-wise Invariance**|Utkarsh Singhal et.al.|[2309.16672v1](http://arxiv.org/abs/2309.16672v1)|**[link](https://github.com/sutkarsh/flow_inv)**|
 |**2023-09-29**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v2](http://arxiv.org/abs/2309.16671v2)|**[link](https://github.com/facebookresearch/metaclip)**|
 |**2023-09-28**|**Decaf: Monocular Deformation Capture for Face and Hand Interactions**|Soshi Shimada et.al.|[2309.16670v1](http://arxiv.org/abs/2309.16670v1)|null|

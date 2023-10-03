@@ -1,4 +1,4 @@
-## Updated on 2023.10.02
+## Updated on 2023.10.03
 
 ## Adversarial Examples
 
@@ -246,7 +246,7 @@
 |**2023-09-29**|**SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation**|Zhongang Cai et.al.|[2309.17448v1](http://arxiv.org/abs/2309.17448v1)|null|
 |**2023-09-29**|**A Large Language Model Approach to Educational Survey Feedback Analysis**|Michael J. Parker et.al.|[2309.17447v1](http://arxiv.org/abs/2309.17447v1)|null|
 |**2023-09-29**|**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**|Ansong Ni et.al.|[2309.17446v1](http://arxiv.org/abs/2309.17446v1)|null|
-|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v1](http://arxiv.org/abs/2309.17444v1)|null|
+|**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|null|
 |**2023-09-29**|**Powertrain Hybridization for Autonomous Vehicles**|Shima Nazari et.al.|[2309.17442v1](http://arxiv.org/abs/2309.17442v1)|null|
 |**2023-09-29**|**Uniformizing the moduli stacks of global $G$-Shtukas II**|Urs Hartl et.al.|[2309.17441v1](http://arxiv.org/abs/2309.17441v1)|null|
 |**2023-09-29**|**Investigating the Drivers of Electron Temperature Variations in HII Regions with Keck-KCWI and VLT-MUSE**|Ryan J. Rickards Vaught et.al.|[2309.17440v1](http://arxiv.org/abs/2309.17440v1)|null|

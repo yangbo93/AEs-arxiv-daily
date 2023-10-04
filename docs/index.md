@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-02**|**LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples**|Jia-Yu Yao et.al.|[2310.01469v1](http://arxiv.org/abs/2310.01469v1)|**[link](https://github.com/pku-yuangroup/hallucination-attack)**|
+|**2023-10-02**|**Fooling the Textual Fooler via Randomizing Latent Representations**|Duy C. Hoang et.al.|[2310.01452v1](http://arxiv.org/abs/2310.01452v1)|null|
+|**2023-10-01**|**A Survey of Robustness and Safety of 2D and 3D Deep Learning Models Against Adversarial Attacks**|Yanjie Li et.al.|[2310.00633v1](http://arxiv.org/abs/2310.00633v1)|null|
+|**2023-10-01**|**Understanding the Robustness of Randomized Feature Defense Against Query-Based Adversarial Attacks**|Quang H. Nguyen et.al.|[2310.00567v1](http://arxiv.org/abs/2310.00567v1)|null|
+|**2023-09-30**|**Human-Producible Adversarial Examples**|David Khachaturov et.al.|[2310.00438v1](http://arxiv.org/abs/2310.00438v1)|null|
+|**2023-09-30**|**Refutation of Shapley Values for XAI -- Additional Evidence**|Xuanxiang Huang et.al.|[2310.00416v1](http://arxiv.org/abs/2310.00416v1)|null|
 |**2023-09-29**|**On Continuity of Robust and Accurate Classifiers**|Ramin Barati et.al.|[2309.17048v1](http://arxiv.org/abs/2309.17048v1)|null|
 |**2023-09-28**|**Adversarial Examples Might be Avoidable: The Role of Data Concentration in Adversarial Robustness**|Ambar Pal et.al.|[2309.16096v1](http://arxiv.org/abs/2309.16096v1)|null|
 |**2023-09-27**|**On Computational Entanglement and Its Interpretation in Adversarial Machine Learning**|YenLung Lai et.al.|[2309.15669v1](http://arxiv.org/abs/2309.15669v1)|null|
@@ -244,6 +250,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**DREAM: Visual Decoding from Reversing Human Visual System**|Weihao Xia et.al.|[2310.02265v1](http://arxiv.org/abs/2310.02265v1)|null|
+|**2023-10-03**|**Generalizable Long-Horizon Manipulations with Large Language Models**|Haoyu Zhou et.al.|[2310.02264v1](http://arxiv.org/abs/2310.02264v1)|null|
+|**2023-10-03**|**Contrastive Post-training Large Language Models on Data Curriculum**|Canwen Xu et.al.|[2310.02263v1](http://arxiv.org/abs/2310.02263v1)|null|
+|**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260v1](http://arxiv.org/abs/2310.02260v1)|**[link](https://github.com/yahidar/transradar)**|
+|**2023-10-03**|**Towards An Analytical Framework for Potential Games**|Xin Guo et.al.|[2310.02259v1](http://arxiv.org/abs/2310.02259v1)|null|
+|**2023-10-03**|**A Neural Scaling Law from Lottery Ticket Ensembling**|Ziming Liu et.al.|[2310.02258v1](http://arxiv.org/abs/2310.02258v1)|null|
+|**2023-10-03**|**Local Volume Concentration, Packing Domains and Scaling Properties of Chromatin**|Marcelo Carignano et.al.|[2310.02257v1](http://arxiv.org/abs/2310.02257v1)|null|
+|**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255v1](http://arxiv.org/abs/2310.02255v1)|null|
+|**2023-10-03**|**Learning unitaries with quantum statistical queries**|Armando Angrisani et.al.|[2310.02254v1](http://arxiv.org/abs/2310.02254v1)|null|
+|**2023-10-03**|**The Growth, Geography, and Implications of Trade in Digital Products**|Viktor Stojkoski et.al.|[2310.02253v1](http://arxiv.org/abs/2310.02253v1)|null|
 |**2023-09-29**|**Efficient Streaming Language Models with Attention Sinks**|Guangxuan Xiao et.al.|[2309.17453v1](http://arxiv.org/abs/2309.17453v1)|**[link](https://github.com/mit-han-lab/streaming-llm)**|
 |**2023-09-29**|**ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**|Zhibin Gou et.al.|[2309.17452v1](http://arxiv.org/abs/2309.17452v1)|**[link](https://github.com/microsoft/tora)**|
 |**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450v1](http://arxiv.org/abs/2309.17450v1)|**[link](https://github.com/zsh2000/muvienerf)**|

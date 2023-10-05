@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-02**|**LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples**|Jia-Yu Yao et.al.|[2310.01469v1](http://arxiv.org/abs/2310.01469v1)|**[link](https://github.com/pku-yuangroup/hallucination-attack)**|
+|**2023-10-04**|**LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples**|Jia-Yu Yao et.al.|[2310.01469v2](http://arxiv.org/abs/2310.01469v2)|**[link](https://github.com/pku-yuangroup/hallucination-attack)**|
 |**2023-10-02**|**Fooling the Textual Fooler via Randomizing Latent Representations**|Duy C. Hoang et.al.|[2310.01452v1](http://arxiv.org/abs/2310.01452v1)|null|
 |**2023-10-01**|**A Survey of Robustness and Safety of 2D and 3D Deep Learning Models Against Adversarial Attacks**|Yanjie Li et.al.|[2310.00633v1](http://arxiv.org/abs/2310.00633v1)|null|
 |**2023-10-01**|**Understanding the Robustness of Randomized Feature Defense Against Query-Based Adversarial Attacks**|Quang H. Nguyen et.al.|[2310.00567v1](http://arxiv.org/abs/2310.00567v1)|null|
@@ -16,7 +16,7 @@ layout: default
 |**2023-09-30**|**Refutation of Shapley Values for XAI -- Additional Evidence**|Xuanxiang Huang et.al.|[2310.00416v1](http://arxiv.org/abs/2310.00416v1)|null|
 |**2023-09-29**|**On Continuity of Robust and Accurate Classifiers**|Ramin Barati et.al.|[2309.17048v1](http://arxiv.org/abs/2309.17048v1)|null|
 |**2023-09-28**|**Adversarial Examples Might be Avoidable: The Role of Data Concentration in Adversarial Robustness**|Ambar Pal et.al.|[2309.16096v1](http://arxiv.org/abs/2309.16096v1)|null|
-|**2023-09-27**|**On Computational Entanglement and Its Interpretation in Adversarial Machine Learning**|YenLung Lai et.al.|[2309.15669v1](http://arxiv.org/abs/2309.15669v1)|null|
+|**2023-10-04**|**On Computational Entanglement and Its Interpretation in Adversarial Machine Learning**|YenLung Lai et.al.|[2309.15669v2](http://arxiv.org/abs/2309.15669v2)|null|
 |**2023-09-26**|**Structure Invariant Transformation for better Adversarial Transferability**|Xiaosen Wang et.al.|[2309.14700v1](http://arxiv.org/abs/2309.14700v1)|**[link](https://github.com/xiaosen-wang/sit)**|
 |**2023-09-26**|**DifAttack: Query-Efficient Black-Box Attack via Disentangled Feature Space**|Liu Jun et.al.|[2309.14585v1](http://arxiv.org/abs/2309.14585v1)|**[link](https://github.com/csjunjun/difattack)**|
 |**2023-09-25**|**Adversarial Attacks on Video Object Segmentation with Hard Region Discovery**|Ping Li et.al.|[2309.13857v1](http://arxiv.org/abs/2309.13857v1)|null|

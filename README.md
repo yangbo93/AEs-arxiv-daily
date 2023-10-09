@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285v1](http://arxiv.org/abs/2310.04285v1)|null|
 |**2023-10-05**|**OMG-ATTACK: Self-Supervised On-Manifold Generation of Transferable Evasion Attacks**|Ofir Bar Tal et.al.|[2310.03707v1](http://arxiv.org/abs/2310.03707v1)|null|
 |**2023-10-05**|**Adversarial Machine Learning for Social Good: Reframing the Adversary as an Ally**|Shawqi Al-Maliki et.al.|[2310.03614v1](http://arxiv.org/abs/2310.03614v1)|null|
 |**2023-10-05**|**Robust Representation Learning via Asymmetric Negative Contrast and Reverse Attention**|Nuoyan Zhou et.al.|[2310.03358v1](http://arxiv.org/abs/2310.03358v1)|**[link](https://github.com/changzhang777/ancra)**|
@@ -253,6 +254,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity**|Andrew F. Luo et.al.|[2310.04420v1](http://arxiv.org/abs/2310.04420v1)|null|
+|**2023-10-06**|**Microscopic origin of the quantum Mpemba effect in integrable systems**|Colin Rylands et.al.|[2310.04419v1](http://arxiv.org/abs/2310.04419v1)|null|
+|**2023-10-06**|**Functional Interpolation for Relative Positions Improves Long Context Transformers**|Shanda Li et.al.|[2310.04418v1](http://arxiv.org/abs/2310.04418v1)|null|
+|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417v1](http://arxiv.org/abs/2310.04417v1)|null|
+|**2023-10-06**|**Alice Benchmarks: Connecting Real World Object Re-Identification with the Synthetic**|Xiaoxiao Sun et.al.|[2310.04416v1](http://arxiv.org/abs/2310.04416v1)|null|
+|**2023-10-06**|**Why Do We Need Weight Decay in Modern Deep Learning?**|Maksym Andriushchenko et.al.|[2310.04415v1](http://arxiv.org/abs/2310.04415v1)|**[link](https://github.com/tml-epfl/why-weight-decay)**|
+|**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414v1](http://arxiv.org/abs/2310.04414v1)|null|
+|**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412v1](http://arxiv.org/abs/2310.04412v1)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
+|**2023-10-06**|**Understanding, Predicting and Better Resolving Q-Value Divergence in Offline-RL**|Yang Yue et.al.|[2310.04411v1](http://arxiv.org/abs/2310.04411v1)|**[link](https://github.com/yueyang130/seem)**|
+|**2023-10-06**|**Evidence for Spatial Separation of Galactic Dust Components**|Corwin Shiu et.al.|[2310.04410v1](http://arxiv.org/abs/2310.04410v1)|null|
 |**2023-10-05**|**Improved Baselines with Visual Instruction Tuning**|Haotian Liu et.al.|[2310.03744v1](http://arxiv.org/abs/2310.03744v1)|null|
 |**2023-10-05**|**The Un-Kidnappable Robot: Acoustic Localization of Sneaking People**|Mengyu Yang et.al.|[2310.03743v1](http://arxiv.org/abs/2310.03743v1)|null|
 |**2023-10-05**|**EFTofLSS meets simulation-based inference: $σ_8$ from biased tracers**|Beatriz Tucci et.al.|[2310.03741v1](http://arxiv.org/abs/2310.03741v1)|null|

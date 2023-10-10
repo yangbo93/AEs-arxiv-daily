@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**An Initial Investigation of Neural Replay Simulator for Over-the-Air Adversarial Perturbations to Automatic Speaker Verification**|Jiaqi Li et.al.|[2310.05354v1](http://arxiv.org/abs/2310.05354v1)|null|
+|**2023-10-09**|**GReAT: A Graph Regularized Adversarial Training Method**|Samet Bayram et.al.|[2310.05336v1](http://arxiv.org/abs/2310.05336v1)|null|
+|**2023-10-08**|**Do Large Language Models Know about Facts?**|Xuming Hu et.al.|[2310.05177v1](http://arxiv.org/abs/2310.05177v1)|null|
+|**2023-10-08**|**BRAINTEASER: Lateral Thinking Puzzles for Large Language Model**|Yifan Jiang et.al.|[2310.05057v1](http://arxiv.org/abs/2310.05057v1)|null|
+|**2023-10-06**|**Generating Less Certain Adversarial Examples Improves Robust Generalization**|Minxing Zhang et.al.|[2310.04539v1](http://arxiv.org/abs/2310.04539v1)|null|
 |**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285v1](http://arxiv.org/abs/2310.04285v1)|null|
 |**2023-10-05**|**OMG-ATTACK: Self-Supervised On-Manifold Generation of Transferable Evasion Attacks**|Ofir Bar Tal et.al.|[2310.03707v1](http://arxiv.org/abs/2310.03707v1)|null|
 |**2023-10-05**|**Adversarial Machine Learning for Social Good: Reframing the Adversary as an Ally**|Shawqi Al-Maliki et.al.|[2310.03614v1](http://arxiv.org/abs/2310.03614v1)|null|
@@ -258,6 +263,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922v1](http://arxiv.org/abs/2310.05922v1)|null|
+|**2023-10-09**|**Conformal Decision Theory: Safe Autonomous Decisions from Imperfect Predictions**|Jordan Lekeufack et.al.|[2310.05921v1](http://arxiv.org/abs/2310.05921v1)|null|
+|**2023-10-09**|**Few-Shot Spoken Language Understanding via Joint Speech-Text Models**|Chung-Ming Chien et.al.|[2310.05919v1](http://arxiv.org/abs/2310.05919v1)|null|
+|**2023-10-09**|**Grokking as Compression: A Nonlinear Complexity Perspective**|Ziming Liu et.al.|[2310.05918v1](http://arxiv.org/abs/2310.05918v1)|null|
+|**2023-10-09**|**Drivable Avatar Clothing: Faithful Full-Body Telepresence with Dynamic Clothing Driven by Sparse RGB-D Input**|Donglai Xiang et.al.|[2310.05917v1](http://arxiv.org/abs/2310.05917v1)|null|
+|**2023-10-09**|**Interpreting CLIP's Image Representation via Text-Based Decomposition**|Yossi Gandelsman et.al.|[2310.05916v1](http://arxiv.org/abs/2310.05916v1)|null|
+|**2023-10-09**|**FireAct: Toward Language Agent Fine-tuning**|Baian Chen et.al.|[2310.05915v1](http://arxiv.org/abs/2310.05915v1)|null|
+|**2023-10-09**|**NEFTune: Noisy Embeddings Improve Instruction Finetuning**|Neel Jain et.al.|[2310.05914v1](http://arxiv.org/abs/2310.05914v1)|null|
+|**2023-10-09**|**Protected Fermionic Zero Modes in Periodic Gauge Fields**|Vo Tien Phong et.al.|[2310.05913v1](http://arxiv.org/abs/2310.05913v1)|null|
+|**2023-10-09**|**State-independent Black Hole Interiors from the Crossed Product**|Chethan Krishnan et.al.|[2310.05912v1](http://arxiv.org/abs/2310.05912v1)|null|
 |**2023-10-06**|**BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity**|Andrew F. Luo et.al.|[2310.04420v1](http://arxiv.org/abs/2310.04420v1)|null|
 |**2023-10-06**|**Microscopic origin of the quantum Mpemba effect in integrable systems**|Colin Rylands et.al.|[2310.04419v1](http://arxiv.org/abs/2310.04419v1)|null|
 |**2023-10-06**|**Functional Interpolation for Relative Positions Improves Long Context Transformers**|Shanda Li et.al.|[2310.04418v1](http://arxiv.org/abs/2310.04418v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 
 ## Adversarial Examples
 
@@ -9,7 +9,7 @@
 |**2023-10-05**|**Adversarial Machine Learning for Social Good: Reframing the Adversary as an Ally**|Shawqi Al-Maliki et.al.|[2310.03614v1](http://arxiv.org/abs/2310.03614v1)|null|
 |**2023-10-05**|**Robust Representation Learning via Asymmetric Negative Contrast and Reverse Attention**|Nuoyan Zhou et.al.|[2310.03358v1](http://arxiv.org/abs/2310.03358v1)|**[link](https://github.com/changzhang777/ancra)**|
 |**2023-10-05**|**An Integrated Algorithm for Robust and Imperceptible Audio Adversarial Examples**|Armin Ettenhofer et.al.|[2310.03349v1](http://arxiv.org/abs/2310.03349v1)|null|
-|**2023-10-05**|**Untargeted White-box Adversarial Attack with Heuristic Defence Methods in Real-time Deep Learning based Network Intrusion Detection System**|Khushnaseeb Roshan et.al.|[2310.03334v1](http://arxiv.org/abs/2310.03334v1)|null|
+|**2023-10-07**|**Untargeted White-box Adversarial Attack with Heuristic Defence Methods in Real-time Deep Learning based Network Intrusion Detection System**|Khushnaseeb Roshan et.al.|[2310.03334v2](http://arxiv.org/abs/2310.03334v2)|null|
 |**2023-10-04**|**Misusing Tools in Large Language Models With Visual Adversarial Examples**|Xiaohan Fu et.al.|[2310.03185v1](http://arxiv.org/abs/2310.03185v1)|null|
 |**2023-10-03**|**Splitting the Difference on Adversarial Training**|Matan Levi et.al.|[2310.02480v1](http://arxiv.org/abs/2310.02480v1)|**[link](https://github.com/matanle51/splitting-the-difference-on-adversarial-training)**|
 |**2023-10-04**|**LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples**|Jia-Yu Yao et.al.|[2310.01469v2](http://arxiv.org/abs/2310.01469v2)|**[link](https://github.com/pku-yuangroup/hallucination-attack)**|
@@ -257,10 +257,10 @@
 |**2023-10-06**|**BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity**|Andrew F. Luo et.al.|[2310.04420v1](http://arxiv.org/abs/2310.04420v1)|null|
 |**2023-10-06**|**Microscopic origin of the quantum Mpemba effect in integrable systems**|Colin Rylands et.al.|[2310.04419v1](http://arxiv.org/abs/2310.04419v1)|null|
 |**2023-10-06**|**Functional Interpolation for Relative Positions Improves Long Context Transformers**|Shanda Li et.al.|[2310.04418v1](http://arxiv.org/abs/2310.04418v1)|null|
-|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417v1](http://arxiv.org/abs/2310.04417v1)|null|
+|**2023-10-09**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417v2](http://arxiv.org/abs/2310.04417v2)|null|
 |**2023-10-06**|**Alice Benchmarks: Connecting Real World Object Re-Identification with the Synthetic**|Xiaoxiao Sun et.al.|[2310.04416v1](http://arxiv.org/abs/2310.04416v1)|null|
 |**2023-10-06**|**Why Do We Need Weight Decay in Modern Deep Learning?**|Maksym Andriushchenko et.al.|[2310.04415v1](http://arxiv.org/abs/2310.04415v1)|**[link](https://github.com/tml-epfl/why-weight-decay)**|
-|**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414v1](http://arxiv.org/abs/2310.04414v1)|null|
+|**2023-10-09**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414v2](http://arxiv.org/abs/2310.04414v2)|null|
 |**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412v1](http://arxiv.org/abs/2310.04412v1)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
 |**2023-10-06**|**Understanding, Predicting and Better Resolving Q-Value Divergence in Offline-RL**|Yang Yue et.al.|[2310.04411v1](http://arxiv.org/abs/2310.04411v1)|**[link](https://github.com/yueyang130/seem)**|
 |**2023-10-06**|**Evidence for Spatial Separation of Galactic Dust Components**|Corwin Shiu et.al.|[2310.04410v1](http://arxiv.org/abs/2310.04410v1)|null|

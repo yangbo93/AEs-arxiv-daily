@@ -259,6 +259,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression**|Huiqiang Jiang et.al.|[2310.06839v1](http://arxiv.org/abs/2310.06839v1)|null|
+|**2023-10-10**|**AutoAD II: The Sequel -- Who, When, and What in Movie Audio Description**|Tengda Han et.al.|[2310.06838v1](http://arxiv.org/abs/2310.06838v1)|null|
+|**2023-10-10**|**Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency**|Eric Zelikman et.al.|[2310.06837v1](http://arxiv.org/abs/2310.06837v1)|null|
+|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836v1](http://arxiv.org/abs/2310.06836v1)|null|
+|**2023-10-10**|**Scalable Semantic Non-Markovian Simulation Proxy for Reinforcement Learning**|Kaustuv Mukherji et.al.|[2310.06835v1](http://arxiv.org/abs/2310.06835v1)|null|
+|**2023-10-10**|**Silent White Light**|Kai Niklas Hansmann et.al.|[2310.06834v1](http://arxiv.org/abs/2310.06834v1)|null|
+|**2023-10-10**|**Milestoning estimators of dissipation in systems observed at a coarse resolution: When ignorance is truly bliss**|Kristian Blom et.al.|[2310.06833v1](http://arxiv.org/abs/2310.06833v1)|null|
+|**2023-10-10**|**Flexible entangled state generation in linear optics**|Brendan Pankovich et.al.|[2310.06832v1](http://arxiv.org/abs/2310.06832v1)|null|
+|**2023-10-10**|**Impacts of the Local arm on the local circular velocity inferred from the Gaia DR3 young stars in the Milky Way**|Aisha S. Almannaei et.al.|[2310.06831v1](http://arxiv.org/abs/2310.06831v1)|null|
+|**2023-10-10**|**Lemur: Harmonizing Natural Language and Code for Language Agents**|Yiheng Xu et.al.|[2310.06830v1](http://arxiv.org/abs/2310.06830v1)|**[link](https://github.com/openlemur/lemur)**|
 |**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922v1](http://arxiv.org/abs/2310.05922v1)|null|
 |**2023-10-10**|**Conformal Decision Theory: Safe Autonomous Decisions from Imperfect Predictions**|Jordan Lekeufack et.al.|[2310.05921v2](http://arxiv.org/abs/2310.05921v2)|null|
 |**2023-10-09**|**Few-Shot Spoken Language Understanding via Joint Speech-Text Models**|Chung-Ming Chien et.al.|[2310.05919v1](http://arxiv.org/abs/2310.05919v1)|null|

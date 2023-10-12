@@ -1,4 +1,4 @@
-## Updated on 2023.10.11
+## Updated on 2023.10.12
 
 ## Adversarial Examples
 
@@ -7,7 +7,7 @@
 |**2023-10-09**|**An Initial Investigation of Neural Replay Simulator for Over-the-Air Adversarial Perturbations to Automatic Speaker Verification**|Jiaqi Li et.al.|[2310.05354v1](http://arxiv.org/abs/2310.05354v1)|null|
 |**2023-10-09**|**GReAT: A Graph Regularized Adversarial Training Method**|Samet Bayram et.al.|[2310.05336v1](http://arxiv.org/abs/2310.05336v1)|null|
 |**2023-10-08**|**Do Large Language Models Know about Facts?**|Xuming Hu et.al.|[2310.05177v1](http://arxiv.org/abs/2310.05177v1)|null|
-|**2023-10-08**|**BRAINTEASER: Lateral Thinking Puzzles for Large Language Model**|Yifan Jiang et.al.|[2310.05057v1](http://arxiv.org/abs/2310.05057v1)|null|
+|**2023-10-10**|**BRAINTEASER: Lateral Thinking Puzzles for Large Language Models**|Yifan Jiang et.al.|[2310.05057v2](http://arxiv.org/abs/2310.05057v2)|null|
 |**2023-10-06**|**Generating Less Certain Adversarial Examples Improves Robust Generalization**|Minxing Zhang et.al.|[2310.04539v1](http://arxiv.org/abs/2310.04539v1)|**[link](https://github.com/trustmlrg/edac)**|
 |**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285v1](http://arxiv.org/abs/2310.04285v1)|null|
 |**2023-10-05**|**OMG-ATTACK: Self-Supervised On-Manifold Generation of Transferable Evasion Attacks**|Ofir Bar Tal et.al.|[2310.03707v1](http://arxiv.org/abs/2310.03707v1)|null|
@@ -265,7 +265,7 @@
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836v1](http://arxiv.org/abs/2310.06836v1)|null|
 |**2023-10-10**|**Scalable Semantic Non-Markovian Simulation Proxy for Reinforcement Learning**|Kaustuv Mukherji et.al.|[2310.06835v1](http://arxiv.org/abs/2310.06835v1)|null|
 |**2023-10-10**|**Silent White Light**|Kai Niklas Hansmann et.al.|[2310.06834v1](http://arxiv.org/abs/2310.06834v1)|null|
-|**2023-10-10**|**Milestoning estimators of dissipation in systems observed at a coarse resolution: When ignorance is truly bliss**|Kristian Blom et.al.|[2310.06833v1](http://arxiv.org/abs/2310.06833v1)|null|
+|**2023-10-11**|**Milestoning estimators of dissipation in systems observed at a coarse resolution: When ignorance is truly bliss**|Kristian Blom et.al.|[2310.06833v2](http://arxiv.org/abs/2310.06833v2)|null|
 |**2023-10-10**|**Flexible entangled state generation in linear optics**|Brendan Pankovich et.al.|[2310.06832v1](http://arxiv.org/abs/2310.06832v1)|null|
 |**2023-10-10**|**Impacts of the Local arm on the local circular velocity inferred from the Gaia DR3 young stars in the Milky Way**|Aisha S. Almannaei et.al.|[2310.06831v1](http://arxiv.org/abs/2310.06831v1)|null|
 |**2023-10-10**|**Lemur: Harmonizing Natural Language and Code for Language Agents**|Yiheng Xu et.al.|[2310.06830v1](http://arxiv.org/abs/2310.06830v1)|**[link](https://github.com/openlemur/lemur)**|

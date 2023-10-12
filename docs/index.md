@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492v1](http://arxiv.org/abs/2310.07492v1)|null|
+|**2023-10-11**|**An Adversarial Example for Direct Logit Attribution: Memory Management in gelu-4l**|James Dao et.al.|[2310.07325v1](http://arxiv.org/abs/2310.07325v1)|null|
 |**2023-10-09**|**An Initial Investigation of Neural Replay Simulator for Over-the-Air Adversarial Perturbations to Automatic Speaker Verification**|Jiaqi Li et.al.|[2310.05354v1](http://arxiv.org/abs/2310.05354v1)|null|
 |**2023-10-09**|**GReAT: A Graph Regularized Adversarial Training Method**|Samet Bayram et.al.|[2310.05336v1](http://arxiv.org/abs/2310.05336v1)|null|
 |**2023-10-08**|**Do Large Language Models Know about Facts?**|Xuming Hu et.al.|[2310.05177v1](http://arxiv.org/abs/2310.05177v1)|null|
@@ -263,6 +265,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716v1](http://arxiv.org/abs/2310.07716v1)|**[link](https://github.com/ericlee0224/pad)**|
+|**2023-10-11**|**Clouds and Clarity: Revisiting Atmospheric Feature Trends in Neptune-size Exoplanets**|Jonathan Brande et.al.|[2310.07714v1](http://arxiv.org/abs/2310.07714v1)|null|
+|**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
+|**2023-10-11**|**Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models**|Raphael Tang et.al.|[2310.07712v1](http://arxiv.org/abs/2310.07712v1)|**[link](https://github.com/castorini/perm-sc)**|
+|**2023-10-11**|**Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks**|Ziming Liu et.al.|[2310.07711v1](http://arxiv.org/abs/2310.07711v1)|null|
+|**2023-10-11**|**DiPmark: A Stealthy, Efficient and Resilient Watermark for Large Language Models**|Yihan Wu et.al.|[2310.07710v1](http://arxiv.org/abs/2310.07710v1)|null|
+|**2023-10-11**|**Dust depletion of of metals from local to distant galaxies II: Cosmic dust-to-metal ratio and dust composition**|Christina Konstantopoulou et.al.|[2310.07709v1](http://arxiv.org/abs/2310.07709v1)|null|
+|**2023-10-11**|**MatFormer: Nested Transformer for Elastic Inference**|Devvrit et.al.|[2310.07707v1](http://arxiv.org/abs/2310.07707v1)|null|
+|**2023-10-11**|**Pixel State Value Network for Combined Prediction and Planning in Interactive Environments**|Sascha Rosbach et.al.|[2310.07706v1](http://arxiv.org/abs/2310.07706v1)|null|
+|**2023-10-11**|**Ferret: Refer and Ground Anything Anywhere at Any Granularity**|Haoxuan You et.al.|[2310.07704v1](http://arxiv.org/abs/2310.07704v1)|**[link](https://github.com/apple/ml-ferret)**|
 |**2023-10-10**|**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression**|Huiqiang Jiang et.al.|[2310.06839v1](http://arxiv.org/abs/2310.06839v1)|null|
 |**2023-10-10**|**AutoAD II: The Sequel -- Who, When, and What in Movie Audio Description**|Tengda Han et.al.|[2310.06838v1](http://arxiv.org/abs/2310.06838v1)|null|
 |**2023-10-10**|**Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency**|Eric Zelikman et.al.|[2310.06837v1](http://arxiv.org/abs/2310.06837v1)|null|

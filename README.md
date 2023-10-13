@@ -1,4 +1,4 @@
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 
 ## Adversarial Examples
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492v1](http://arxiv.org/abs/2310.07492v1)|null|
 |**2023-10-11**|**An Adversarial Example for Direct Logit Attribution: Memory Management in gelu-4l**|James Dao et.al.|[2310.07325v1](http://arxiv.org/abs/2310.07325v1)|null|
-|**2023-10-09**|**An Initial Investigation of Neural Replay Simulator for Over-the-Air Adversarial Perturbations to Automatic Speaker Verification**|Jiaqi Li et.al.|[2310.05354v1](http://arxiv.org/abs/2310.05354v1)|null|
+|**2023-10-12**|**An Initial Investigation of Neural Replay Simulator for Over-the-Air Adversarial Perturbations to Automatic Speaker Verification**|Jiaqi Li et.al.|[2310.05354v2](http://arxiv.org/abs/2310.05354v2)|null|
 |**2023-10-09**|**GReAT: A Graph Regularized Adversarial Training Method**|Samet Bayram et.al.|[2310.05336v1](http://arxiv.org/abs/2310.05336v1)|null|
 |**2023-10-08**|**Do Large Language Models Know about Facts?**|Xuming Hu et.al.|[2310.05177v1](http://arxiv.org/abs/2310.05177v1)|null|
 |**2023-10-10**|**BRAINTEASER: Lateral Thinking Puzzles for Large Language Models**|Yifan Jiang et.al.|[2310.05057v2](http://arxiv.org/abs/2310.05057v2)|null|

@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Attacks Meet Interpretability (AmI) Evaluation and Findings**|Qian Ma et.al.|[2310.08808v1](http://arxiv.org/abs/2310.08808v1)|null|
 |**2023-10-12**|**Concealed Electronic Countermeasures of Radar Signal with Adversarial Examples**|Ruinan Ma et.al.|[2310.08292v1](http://arxiv.org/abs/2310.08292v1)|null|
 |**2023-10-12**|**Samples on Thin Ice: Re-Evaluating Adversarial Pruning of Neural Networks**|Giorgio Piras et.al.|[2310.08073v1](http://arxiv.org/abs/2310.08073v1)|null|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492v1](http://arxiv.org/abs/2310.07492v1)|null|
@@ -263,6 +264,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
+|**2023-10-13**|**Percolation with invariant Poisson processes of lines in the $3$-regular tree**|Guillaume Blanc et.al.|[2310.09286v1](http://arxiv.org/abs/2310.09286v1)|null|
+|**2023-10-13**|**Scaling limit of multi-type invariant measures via the directed landscape**|Ofer Busani et.al.|[2310.09284v1](http://arxiv.org/abs/2310.09284v1)|null|
+|**2023-10-13**|**A survey on Igusa-Todorov functions**|Marcos Barrios et.al.|[2310.09283v1](http://arxiv.org/abs/2310.09283v1)|null|
+|**2023-10-13**|**A specific model of Hilbert geometry on the unit disc**|Charalampos Charitos et.al.|[2310.09280v1](http://arxiv.org/abs/2310.09280v1)|null|
+|**2023-10-13**|**Control of Vehicle Platoons with Collision Avoidance Using Noncooperative Differential Games**|Hossein B. Jond et.al.|[2310.09279v1](http://arxiv.org/abs/2310.09279v1)|null|
+|**2023-10-13**|**Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning**|Geri Skenderi et.al.|[2310.09278v1](http://arxiv.org/abs/2310.09278v1)|null|
+|**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276v1](http://arxiv.org/abs/2310.09276v1)|null|
+|**2023-10-13**|**Understanding and Modeling the Effects of Task and Context on Drivers' Gaze Allocation**|Iuliia Kotseruba et.al.|[2310.09275v1](http://arxiv.org/abs/2310.09275v1)|null|
+|**2023-10-13**|**Geometry of unimodular systems**|I. V. Artamkin et.al.|[2310.09274v1](http://arxiv.org/abs/2310.09274v1)|null|
 |**2023-10-12**|**Protoplanetary disks in $K_s$-band total intensity and polarized light**|Bin B. Ren et.al.|[2310.08589v1](http://arxiv.org/abs/2310.08589v1)|null|
 |**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Is Generalized Dynamic Novel View Synthesis from Monocular Videos Possible Today?**|Xiaoming Zhao et.al.|[2310.08587v1](http://arxiv.org/abs/2310.08587v1)|null|

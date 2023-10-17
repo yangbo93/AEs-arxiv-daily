@@ -1,4 +1,4 @@
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 
 ## Adversarial Examples
 
@@ -8,7 +8,7 @@
 |**2023-10-12**|**Concealed Electronic Countermeasures of Radar Signal with Adversarial Examples**|Ruinan Ma et.al.|[2310.08292v1](http://arxiv.org/abs/2310.08292v1)|null|
 |**2023-10-12**|**Samples on Thin Ice: Re-Evaluating Adversarial Pruning of Neural Networks**|Giorgio Piras et.al.|[2310.08073v1](http://arxiv.org/abs/2310.08073v1)|null|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492v1](http://arxiv.org/abs/2310.07492v1)|null|
-|**2023-10-11**|**An Adversarial Example for Direct Logit Attribution: Memory Management in gelu-4l**|James Dao et.al.|[2310.07325v1](http://arxiv.org/abs/2310.07325v1)|null|
+|**2023-10-14**|**An Adversarial Example for Direct Logit Attribution: Memory Management in gelu-4l**|James Dao et.al.|[2310.07325v2](http://arxiv.org/abs/2310.07325v2)|null|
 |**2023-10-12**|**An Initial Investigation of Neural Replay Simulator for Over-the-Air Adversarial Perturbations to Automatic Speaker Verification**|Jiaqi Li et.al.|[2310.05354v2](http://arxiv.org/abs/2310.05354v2)|null|
 |**2023-10-09**|**GReAT: A Graph Regularized Adversarial Training Method**|Samet Bayram et.al.|[2310.05336v1](http://arxiv.org/abs/2310.05336v1)|null|
 |**2023-10-08**|**Do Large Language Models Know about Facts?**|Xuming Hu et.al.|[2310.05177v1](http://arxiv.org/abs/2310.05177v1)|null|
@@ -271,7 +271,7 @@
 |**2023-10-13**|**A specific model of Hilbert geometry on the unit disc**|Charalampos Charitos et.al.|[2310.09280v1](http://arxiv.org/abs/2310.09280v1)|null|
 |**2023-10-13**|**Control of Vehicle Platoons with Collision Avoidance Using Noncooperative Differential Games**|Hossein B. Jond et.al.|[2310.09279v1](http://arxiv.org/abs/2310.09279v1)|null|
 |**2023-10-13**|**Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning**|Geri Skenderi et.al.|[2310.09278v1](http://arxiv.org/abs/2310.09278v1)|null|
-|**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276v1](http://arxiv.org/abs/2310.09276v1)|null|
+|**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276v1](http://arxiv.org/abs/2310.09276v1)|**[link](https://github.com/qaz670756/mmcd)**|
 |**2023-10-13**|**Understanding and Modeling the Effects of Task and Context on Drivers' Gaze Allocation**|Iuliia Kotseruba et.al.|[2310.09275v1](http://arxiv.org/abs/2310.09275v1)|null|
 |**2023-10-13**|**Geometry of unimodular systems**|I. V. Artamkin et.al.|[2310.09274v1](http://arxiv.org/abs/2310.09274v1)|null|
 |**2023-10-12**|**Protoplanetary disks in $K_s$-band total intensity and polarized light**|Bin B. Ren et.al.|[2310.08589v1](http://arxiv.org/abs/2310.08589v1)|null|

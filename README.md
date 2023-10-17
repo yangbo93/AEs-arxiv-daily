@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Black-box Targeted Adversarial Attack on Segment Anything (SAM)**|Sheng Zheng et.al.|[2310.10010v1](http://arxiv.org/abs/2310.10010v1)|null|
+|**2023-10-15**|**Towards Deep Learning Models Resistant to Transfer-based Adversarial Attacks via Data-centric Robust Learning**|Yulong Yang et.al.|[2310.09891v1](http://arxiv.org/abs/2310.09891v1)|null|
+|**2023-10-15**|**AFLOW: Developing Adversarial Examples under Extremely Noise-limited Settings**|Renyang Liu et.al.|[2310.09795v1](http://arxiv.org/abs/2310.09795v1)|null|
+|**2023-10-15**|**SCME: A Self-Contrastive Method for Data-free and Query-Limited Model Extraction Attack**|Renyang Liu et.al.|[2310.09792v1](http://arxiv.org/abs/2310.09792v1)|null|
+|**2023-10-13**|**Is Certifying $\ell_p$ Robustness Still Worthwhile?**|Ravi Mangal et.al.|[2310.09361v1](http://arxiv.org/abs/2310.09361v1)|null|
 |**2023-10-13**|**Attacks Meet Interpretability (AmI) Evaluation and Findings**|Qian Ma et.al.|[2310.08808v1](http://arxiv.org/abs/2310.08808v1)|null|
 |**2023-10-12**|**Concealed Electronic Countermeasures of Radar Signal with Adversarial Examples**|Ruinan Ma et.al.|[2310.08292v1](http://arxiv.org/abs/2310.08292v1)|null|
 |**2023-10-12**|**Samples on Thin Ice: Re-Evaluating Adversarial Pruning of Neural Networks**|Giorgio Piras et.al.|[2310.08073v1](http://arxiv.org/abs/2310.08073v1)|null|
@@ -264,6 +269,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**|Tianyi Wei et.al.|[2310.10651v1](http://arxiv.org/abs/2310.10651v1)|null|
+|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650v1](http://arxiv.org/abs/2310.10650v1)|null|
+|**2023-10-16**|**A Computational Framework for Solving Wasserstein Lagrangian Flows**|Kirill Neklyudov et.al.|[2310.10649v1](http://arxiv.org/abs/2310.10649v1)|null|
+|**2023-10-16**|**Step-by-Step Remediation of Students' Mathematical Mistakes**|Rose E. Wang et.al.|[2310.10648v1](http://arxiv.org/abs/2310.10648v1)|null|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|null|
+|**2023-10-16**|**Exploring spin of ultralight dark matter with gravitational wave detectors**|Yusuke Manita et.al.|[2310.10646v1](http://arxiv.org/abs/2310.10646v1)|null|
+|**2023-10-16**|**Interactive Task Planning with Language Models**|Boyi Li et.al.|[2310.10645v1](http://arxiv.org/abs/2310.10645v1)|null|
+|**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
+|**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642v1](http://arxiv.org/abs/2310.10642v1)|null|
+|**2023-10-16**|**Spherical and Plane Symmetric Solutions in Macroscopic Gravity**|Anish Agashe et.al.|[2310.10641v1](http://arxiv.org/abs/2310.10641v1)|null|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
 |**2023-10-13**|**Percolation with invariant Poisson processes of lines in the $3$-regular tree**|Guillaume Blanc et.al.|[2310.09286v1](http://arxiv.org/abs/2310.09286v1)|null|
 |**2023-10-13**|**Scaling limit of multi-type invariant measures via the directed landscape**|Ofer Busani et.al.|[2310.09284v1](http://arxiv.org/abs/2310.09284v1)|null|

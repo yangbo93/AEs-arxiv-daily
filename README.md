@@ -269,6 +269,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Cutting $γ$-Liouville quantum gravity by Schramm-Loewner evolution for $κ\not\in \{γ^2, 16/γ^2\}$**|Morris Ang et.al.|[2310.11455v1](http://arxiv.org/abs/2310.11455v1)|null|
+|**2023-10-17**|**VeRA: Vector-based Random Matrix Adaptation**|Dawid Jan Kopiczko et.al.|[2310.11454v1](http://arxiv.org/abs/2310.11454v1)|null|
+|**2023-10-17**|**BitNet: Scaling 1-bit Transformers for Large Language Models**|Hongyu Wang et.al.|[2310.11453v1](http://arxiv.org/abs/2310.11453v1)|null|
+|**2023-10-17**|**Hamiltonicity and related properties in $K_{r+1}$-free graphs**|Aleyah Dawkins et.al.|[2310.11452v1](http://arxiv.org/abs/2310.11452v1)|null|
+|**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451v1](http://arxiv.org/abs/2310.11451v1)|null|
+|**2023-10-17**|**Explaining Deep Neural Networks for Bearing Fault Detection with Vibration Concepts**|Thomas Decker et.al.|[2310.11450v1](http://arxiv.org/abs/2310.11450v1)|null|
+|**2023-10-17**|**DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis**|Youngjoong Kwon et.al.|[2310.11449v1](http://arxiv.org/abs/2310.11449v1)|null|
+|**2023-10-17**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448v1](http://arxiv.org/abs/2310.11448v1)|null|
+|**2023-10-17**|**Functional Invariants to Watermark Large Transformers**|Fernandez Pierre et.al.|[2310.11446v1](http://arxiv.org/abs/2310.11446v1)|null|
+|**2023-10-17**|**Stochastic Quantum Sampling for Non-Logconcave Distributions and Estimating Partition Functions**|Guneykan Ozgul et.al.|[2310.11445v1](http://arxiv.org/abs/2310.11445v1)|null|
 |**2023-10-16**|**HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**|Tianyi Wei et.al.|[2310.10651v1](http://arxiv.org/abs/2310.10651v1)|null|
 |**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650v1](http://arxiv.org/abs/2310.10650v1)|null|
 |**2023-10-16**|**A Computational Framework for Solving Wasserstein Lagrangian Flows**|Kirill Neklyudov et.al.|[2310.10649v1](http://arxiv.org/abs/2310.10649v1)|null|

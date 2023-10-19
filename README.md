@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Exploring Decision-based Black-box Attacks on Face Forgery Detection**|Zhaoyu Chen et.al.|[2310.12017v1](http://arxiv.org/abs/2310.12017v1)|null|
+|**2023-10-18**|**IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks**|Yue Cao et.al.|[2310.11890v1](http://arxiv.org/abs/2310.11890v1)|null|
+|**2023-10-18**|**Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights**|Zhengyu Zhao et.al.|[2310.11850v1](http://arxiv.org/abs/2310.11850v1)|**[link](https://github.com/zhengyuzhao/transferattackeval)**|
+|**2023-10-17**|**The Efficacy of Transformer-based Adversarial Attacks in Security Domains**|Kunyang Li et.al.|[2310.11597v1](http://arxiv.org/abs/2310.11597v1)|null|
 |**2023-10-16**|**Black-box Targeted Adversarial Attack on Segment Anything (SAM)**|Sheng Zheng et.al.|[2310.10010v1](http://arxiv.org/abs/2310.10010v1)|null|
 |**2023-10-15**|**Towards Deep Learning Models Resistant to Transfer-based Adversarial Attacks via Data-centric Robust Learning**|Yulong Yang et.al.|[2310.09891v1](http://arxiv.org/abs/2310.09891v1)|null|
 |**2023-10-15**|**AFLOW: Developing Adversarial Examples under Extremely Noise-limited Settings**|Renyang Liu et.al.|[2310.09795v1](http://arxiv.org/abs/2310.09795v1)|null|
@@ -269,6 +273,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Hardy spaces and Szegő projection on quotient domains**|Liwei Chen et.al.|[2310.12151v1](http://arxiv.org/abs/2310.12151v1)|null|
+|**2023-10-18**|**Understanding Retrieval Augmentation for Long-Form Question Answering**|Hung-Ting Chen et.al.|[2310.12150v1](http://arxiv.org/abs/2310.12150v1)|null|
+|**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149v1](http://arxiv.org/abs/2310.12149v1)|null|
+|**2023-10-18**|**Taking horizonless black hole mimickers out for a spin**|Ulf Danielsson et.al.|[2310.12148v1](http://arxiv.org/abs/2310.12148v1)|null|
+|**2023-10-18**|**Native two-qubit gates in fixed-coupling, fixed-frequency transmons beyond cross-resonance interaction**|Ken Xuan Wei et.al.|[2310.12146v1](http://arxiv.org/abs/2310.12146v1)|null|
+|**2023-10-18**|**Fairer and More Accurate Tabular Models Through NAS**|Richeek Das et.al.|[2310.12145v1](http://arxiv.org/abs/2310.12145v1)|null|
+|**2023-10-18**|**Dynamic financial processes identification using sparse regressive reservoir computers**|Fredy Vides et.al.|[2310.12144v1](http://arxiv.org/abs/2310.12144v1)|null|
+|**2023-10-18**|**Simple Mechanisms for Representing, Indexing and Manipulating Concepts**|Yuanzhi Li et.al.|[2310.12143v1](http://arxiv.org/abs/2310.12143v1)|null|
+|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142v1](http://arxiv.org/abs/2310.12142v1)|null|
+|**2023-10-18**|**A phase transition and critical phenomenon for the two-dimensional random field Ising model**|Jian Ding et.al.|[2310.12141v1](http://arxiv.org/abs/2310.12141v1)|null|
 |**2023-10-17**|**Cutting $γ$-Liouville quantum gravity by Schramm-Loewner evolution for $κ\not\in \{γ^2, 16/γ^2\}$**|Morris Ang et.al.|[2310.11455v1](http://arxiv.org/abs/2310.11455v1)|null|
 |**2023-10-17**|**VeRA: Vector-based Random Matrix Adaptation**|Dawid Jan Kopiczko et.al.|[2310.11454v1](http://arxiv.org/abs/2310.11454v1)|null|
 |**2023-10-17**|**BitNet: Scaling 1-bit Transformers for Large Language Models**|Hongyu Wang et.al.|[2310.11453v1](http://arxiv.org/abs/2310.11453v1)|null|

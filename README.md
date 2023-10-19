@@ -1,4 +1,4 @@
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 
 ## Adversarial Examples
 
@@ -9,7 +9,7 @@
 |**2023-10-15**|**AFLOW: Developing Adversarial Examples under Extremely Noise-limited Settings**|Renyang Liu et.al.|[2310.09795v1](http://arxiv.org/abs/2310.09795v1)|null|
 |**2023-10-15**|**SCME: A Self-Contrastive Method for Data-free and Query-Limited Model Extraction Attack**|Renyang Liu et.al.|[2310.09792v1](http://arxiv.org/abs/2310.09792v1)|null|
 |**2023-10-13**|**Is Certifying $\ell_p$ Robustness Still Worthwhile?**|Ravi Mangal et.al.|[2310.09361v1](http://arxiv.org/abs/2310.09361v1)|null|
-|**2023-10-13**|**Attacks Meet Interpretability (AmI) Evaluation and Findings**|Qian Ma et.al.|[2310.08808v1](http://arxiv.org/abs/2310.08808v1)|null|
+|**2023-10-18**|**Attacks Meet Interpretability (AmI) Evaluation and Findings**|Qian Ma et.al.|[2310.08808v2](http://arxiv.org/abs/2310.08808v2)|null|
 |**2023-10-12**|**Concealed Electronic Countermeasures of Radar Signal with Adversarial Examples**|Ruinan Ma et.al.|[2310.08292v1](http://arxiv.org/abs/2310.08292v1)|null|
 |**2023-10-12**|**Samples on Thin Ice: Re-Evaluating Adversarial Pruning of Neural Networks**|Giorgio Piras et.al.|[2310.08073v1](http://arxiv.org/abs/2310.08073v1)|null|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492v1](http://arxiv.org/abs/2310.07492v1)|null|
@@ -276,7 +276,7 @@
 |**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451v1](http://arxiv.org/abs/2310.11451v1)|null|
 |**2023-10-17**|**Explaining Deep Neural Networks for Bearing Fault Detection with Vibration Concepts**|Thomas Decker et.al.|[2310.11450v1](http://arxiv.org/abs/2310.11450v1)|null|
 |**2023-10-17**|**DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis**|Youngjoong Kwon et.al.|[2310.11449v1](http://arxiv.org/abs/2310.11449v1)|null|
-|**2023-10-17**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448v1](http://arxiv.org/abs/2310.11448v1)|null|
+|**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448v2](http://arxiv.org/abs/2310.11448v2)|null|
 |**2023-10-17**|**Functional Invariants to Watermark Large Transformers**|Fernandez Pierre et.al.|[2310.11446v1](http://arxiv.org/abs/2310.11446v1)|null|
 |**2023-10-17**|**Stochastic Quantum Sampling for Non-Logconcave Distributions and Estimating Partition Functions**|Guneykan Ozgul et.al.|[2310.11445v1](http://arxiv.org/abs/2310.11445v1)|null|
 |**2023-10-16**|**HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**|Tianyi Wei et.al.|[2310.10651v1](http://arxiv.org/abs/2310.10651v1)|null|

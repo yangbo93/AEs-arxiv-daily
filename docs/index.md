@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Generating Robust Adversarial Examples against Online Social Networks (OSNs)**|Jun Liu et.al.|[2310.12708v1](http://arxiv.org/abs/2310.12708v1)|**[link](https://github.com/csjunjun/robustosnattack)**|
+|**2023-10-19**|**Recoverable Privacy-Preserving Image Classification through Noise-like Adversarial Examples**|Jun Liu et.al.|[2310.12707v1](http://arxiv.org/abs/2310.12707v1)|**[link](https://github.com/csjunjun/ric)**|
+|**2023-10-19**|**Automatic Hallucination Assessment for Aligned Large Language Models via Transferable Adversarial Attacks**|Xiaodong Yu et.al.|[2310.12516v1](http://arxiv.org/abs/2310.12516v1)|null|
 |**2023-10-18**|**Exploring Decision-based Black-box Attacks on Face Forgery Detection**|Zhaoyu Chen et.al.|[2310.12017v1](http://arxiv.org/abs/2310.12017v1)|null|
 |**2023-10-18**|**IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks**|Yue Cao et.al.|[2310.11890v1](http://arxiv.org/abs/2310.11890v1)|null|
 |**2023-10-18**|**Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights**|Zhengyu Zhao et.al.|[2310.11850v1](http://arxiv.org/abs/2310.11850v1)|**[link](https://github.com/zhengyuzhao/transferattackeval)**|
@@ -277,6 +280,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981v1](http://arxiv.org/abs/2310.12981v1)|null|
+|**2023-10-19**|**Predicting a Protein's Stability under a Million Mutations**|Jeffrey Ouyang-Zhang et.al.|[2310.12979v1](http://arxiv.org/abs/2310.12979v1)|null|
+|**2023-10-19**|**HumanTOMATO: Text-aligned Whole-body Motion Generation**|Shunlin Lu et.al.|[2310.12978v1](http://arxiv.org/abs/2310.12978v1)|null|
+|**2023-10-19**|**Training Dynamics of Deep Network Linear Regions**|Ahmed Imtiaz Humayun et.al.|[2310.12977v1](http://arxiv.org/abs/2310.12977v1)|null|
+|**2023-10-19**|**Variational Inference for SDEs Driven by Fractional Noise**|Rembert Daems et.al.|[2310.12975v1](http://arxiv.org/abs/2310.12975v1)|null|
+|**2023-10-19**|**FSD: Fast Self-Supervised Single RGB-D to Categorical 3D Objects**|Mayank Lunayach et.al.|[2310.12974v1](http://arxiv.org/abs/2310.12974v1)|null|
+|**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
+|**2023-10-19**|**CCIL: Continuity-based Data Augmentation for Corrective Imitation Learning**|Liyiming Ke et.al.|[2310.12972v1](http://arxiv.org/abs/2310.12972v1)|null|
+|**2023-10-19**|**CLAIR: Evaluating Image Captions with Large Language Models**|David Chan et.al.|[2310.12971v1](http://arxiv.org/abs/2310.12971v1)|null|
+|**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970v1](http://arxiv.org/abs/2310.12970v1)|**[link](https://github.com/zhejz/hptr)**|
 |**2023-10-18**|**Hardy spaces and Szegő projection on quotient domains**|Liwei Chen et.al.|[2310.12151v1](http://arxiv.org/abs/2310.12151v1)|null|
 |**2023-10-18**|**Understanding Retrieval Augmentation for Long-Form Question Answering**|Hung-Ting Chen et.al.|[2310.12150v1](http://arxiv.org/abs/2310.12150v1)|null|
 |**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149v1](http://arxiv.org/abs/2310.12149v1)|null|

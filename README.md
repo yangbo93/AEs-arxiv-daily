@@ -1,4 +1,4 @@
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 
 ## Adversarial Examples
 
@@ -279,9 +279,9 @@
 |**2023-10-18**|**Taking horizonless black hole mimickers out for a spin**|Ulf Danielsson et.al.|[2310.12148v1](http://arxiv.org/abs/2310.12148v1)|null|
 |**2023-10-18**|**Native two-qubit gates in fixed-coupling, fixed-frequency transmons beyond cross-resonance interaction**|Ken Xuan Wei et.al.|[2310.12146v1](http://arxiv.org/abs/2310.12146v1)|null|
 |**2023-10-18**|**Fairer and More Accurate Tabular Models Through NAS**|Richeek Das et.al.|[2310.12145v1](http://arxiv.org/abs/2310.12145v1)|null|
-|**2023-10-18**|**Dynamic financial processes identification using sparse regressive reservoir computers**|Fredy Vides et.al.|[2310.12144v1](http://arxiv.org/abs/2310.12144v1)|null|
+|**2023-10-18**|**Dynamic financial processes identification using sparse regressive reservoir computers**|Fredy Vides et.al.|[2310.12144v1](http://arxiv.org/abs/2310.12144v1)|**[link](https://github.com/fredyvides/dynet-cnbs)**|
 |**2023-10-18**|**Simple Mechanisms for Representing, Indexing and Manipulating Concepts**|Yuanzhi Li et.al.|[2310.12143v1](http://arxiv.org/abs/2310.12143v1)|null|
-|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142v1](http://arxiv.org/abs/2310.12142v1)|null|
+|**2023-10-19**|**Electromechanical System Design for Self-Balancing Robot**|Md. Abid Al Morshed et.al.|[2310.12142v2](http://arxiv.org/abs/2310.12142v2)|null|
 |**2023-10-18**|**A phase transition and critical phenomenon for the two-dimensional random field Ising model**|Jian Ding et.al.|[2310.12141v1](http://arxiv.org/abs/2310.12141v1)|null|
 |**2023-10-17**|**Cutting $γ$-Liouville quantum gravity by Schramm-Loewner evolution for $κ\not\in \{γ^2, 16/γ^2\}$**|Morris Ang et.al.|[2310.11455v1](http://arxiv.org/abs/2310.11455v1)|null|
 |**2023-10-17**|**VeRA: Vector-based Random Matrix Adaptation**|Dawid Jan Kopiczko et.al.|[2310.11454v1](http://arxiv.org/abs/2310.11454v1)|null|

@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**An LLM can Fool Itself: A Prompt-Based Adversarial Attack**|Xilie Xu et.al.|[2310.13345v1](http://arxiv.org/abs/2310.13345v1)|null|
+|**2023-10-20**|**Beyond Hard Samples: Robust and Effective Grammatical Error Correction with Cycle Self-Augmenting**|Zecheng Tang et.al.|[2310.13321v1](http://arxiv.org/abs/2310.13321v1)|**[link](https://github.com/zetangforward/csa-gec)**|
 |**2023-10-19**|**Generating Robust Adversarial Examples against Online Social Networks (OSNs)**|Jun Liu et.al.|[2310.12708v1](http://arxiv.org/abs/2310.12708v1)|**[link](https://github.com/csjunjun/robustosnattack)**|
 |**2023-10-19**|**Recoverable Privacy-Preserving Image Classification through Noise-like Adversarial Examples**|Jun Liu et.al.|[2310.12707v1](http://arxiv.org/abs/2310.12707v1)|**[link](https://github.com/csjunjun/ric)**|
 |**2023-10-19**|**Automatic Hallucination Assessment for Aligned Large Language Models via Transferable Adversarial Attacks**|Xiaodong Yu et.al.|[2310.12516v1](http://arxiv.org/abs/2310.12516v1)|null|
@@ -280,6 +282,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Studying speed-accuracy trade-offs in best-of-n collective decision-making through heterogeneous mean-field modelling**|Andreagiovanni Reina et.al.|[2310.13694v1](http://arxiv.org/abs/2310.13694v1)|null|
+|**2023-10-20**|**The $d_γ/2$-variation of distance profiles in $γ$-Liouville quantum gravity**|Manan Bhatia et.al.|[2310.13692v1](http://arxiv.org/abs/2310.13692v1)|null|
+|**2023-10-20**|**Neural-Base Music Generation for Intelligence Duplication**|Jacob Galajda et.al.|[2310.13691v1](http://arxiv.org/abs/2310.13691v1)|null|
+|**2023-10-20**|**Planet Gap-opening Feedback on Disk Thermal Structure and Composition**|Kan Chen et.al.|[2310.13690v1](http://arxiv.org/abs/2310.13690v1)|null|
+|**2023-10-20**|**Exchange-driven spin Hall effect in anisotropic ferromagnets**|K. D. Belashchenko et.al.|[2310.13688v1](http://arxiv.org/abs/2310.13688v1)|null|
+|**2023-10-20**|**A new purpose for the $W$-boson mass measurement: searching for New Physics in lepton+$MET$**|Kaustubh Agashe et.al.|[2310.13687v1](http://arxiv.org/abs/2310.13687v1)|null|
+|**2023-10-20**|**Exploring Linguistic Probes for Morphological Generalization**|Jordan Kodner et.al.|[2310.13686v1](http://arxiv.org/abs/2310.13686v1)|null|
+|**2023-10-20**|**Light mass window of inert doublet dark matter with lepton portal interaction**|Ryo Higuchi et.al.|[2310.13685v1](http://arxiv.org/abs/2310.13685v1)|null|
+|**2023-10-20**|**CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages**|Gabriel Oliveira dos Santos et.al.|[2310.13683v1](http://arxiv.org/abs/2310.13683v1)|**[link](https://github.com/hiaac-nlp/capivara)**|
+|**2023-10-20**|**Optimizing Retrieval-augmented Reader Models via Token Elimination**|Moshe Berchansky et.al.|[2310.13682v1](http://arxiv.org/abs/2310.13682v1)|**[link](https://github.com/mosheber/token_elimination)**|
 |**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981v1](http://arxiv.org/abs/2310.12981v1)|null|
 |**2023-10-19**|**Predicting a Protein's Stability under a Million Mutations**|Jeffrey Ouyang-Zhang et.al.|[2310.12979v1](http://arxiv.org/abs/2310.12979v1)|**[link](https://github.com/jozhang97/mutateeverything)**|
 |**2023-10-19**|**HumanTOMATO: Text-aligned Whole-body Motion Generation**|Shunlin Lu et.al.|[2310.12978v1](http://arxiv.org/abs/2310.12978v1)|null|

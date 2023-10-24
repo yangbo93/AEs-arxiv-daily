@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-20**|**An LLM can Fool Itself: A Prompt-Based Adversarial Attack**|Xilie Xu et.al.|[2310.13345v1](http://arxiv.org/abs/2310.13345v1)|null|
-|**2023-10-20**|**Beyond Hard Samples: Robust and Effective Grammatical Error Correction with Cycle Self-Augmenting**|Zecheng Tang et.al.|[2310.13321v1](http://arxiv.org/abs/2310.13321v1)|**[link](https://github.com/zetangforward/csa-gec)**|
+|**2023-10-23**|**Beyond Hard Samples: Robust and Effective Grammatical Error Correction with Cycle Self-Augmenting**|Zecheng Tang et.al.|[2310.13321v2](http://arxiv.org/abs/2310.13321v2)|**[link](https://github.com/zetangforward/csa-gec)**|
 |**2023-10-19**|**Generating Robust Adversarial Examples against Online Social Networks (OSNs)**|Jun Liu et.al.|[2310.12708v1](http://arxiv.org/abs/2310.12708v1)|**[link](https://github.com/csjunjun/robustosnattack)**|
 |**2023-10-19**|**Recoverable Privacy-Preserving Image Classification through Noise-like Adversarial Examples**|Jun Liu et.al.|[2310.12707v1](http://arxiv.org/abs/2310.12707v1)|**[link](https://github.com/csjunjun/ric)**|
 |**2023-10-19**|**Automatic Hallucination Assessment for Aligned Large Language Models via Transferable Adversarial Attacks**|Xiaodong Yu et.al.|[2310.12516v1](http://arxiv.org/abs/2310.12516v1)|null|

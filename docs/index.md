@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637v1](http://arxiv.org/abs/2310.14637v1)|**[link](https://github.com/xandery-geek/SAAT)**|
 |**2023-10-23**|**F$^2$AT: Feature-Focusing Adversarial Training via Disentanglement of Natural and Perturbed Patterns**|Yaguan Qian et.al.|[2310.14561v1](http://arxiv.org/abs/2310.14561v1)|null|
-|**2023-10-22**|**Diffusion-Based Adversarial Purification for Speaker Verification**|Yibo Bai et.al.|[2310.14270v1](http://arxiv.org/abs/2310.14270v1)|null|
+|**2023-10-24**|**Diffusion-Based Adversarial Purification for Speaker Verification**|Yibo Bai et.al.|[2310.14270v2](http://arxiv.org/abs/2310.14270v2)|null|
 |**2023-10-22**|**CT-GAT: Cross-Task Generative Adversarial Attack based on Transferability**|Minxuan Lv et.al.|[2310.14265v1](http://arxiv.org/abs/2310.14265v1)|**[link](https://github.com/xiaoxuannlp/ct-gat)**|
 |**2023-10-21**|**Adversarial Image Generation by Spatial Transformation in Perceptual Colorspaces**|Ayberk Aydin et.al.|[2310.13950v1](http://arxiv.org/abs/2310.13950v1)|**[link](https://github.com/ayberkydn/stadv-torch)**|
 |**2023-10-20**|**An LLM can Fool Itself: A Prompt-Based Adversarial Attack**|Xilie Xu et.al.|[2310.13345v1](http://arxiv.org/abs/2310.13345v1)|null|
@@ -290,7 +290,7 @@ layout: default
 |**2023-10-23**|**RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions**|Lingdong Kong et.al.|[2310.15171v1](http://arxiv.org/abs/2310.15171v1)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-10-23**|**Oxygen abundance of gamma Vel from [O III] 88um Herschel/PACS spectroscopy**|Paul A Crowther et.al.|[2310.15170v1](http://arxiv.org/abs/2310.15170v1)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
-|**2023-10-23**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v1](http://arxiv.org/abs/2310.15168v1)|null|
+|**2023-10-24**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v2](http://arxiv.org/abs/2310.15168v2)|null|
 |**2023-10-23**|**Large Language Models are Visual Reasoning Coordinators**|Liangyu Chen et.al.|[2310.15166v1](http://arxiv.org/abs/2310.15166v1)|**[link](https://github.com/cliangyu/cola)**|
 |**2023-10-23**|**Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition**|Sara Pieri et.al.|[2310.15165v1](http://arxiv.org/abs/2310.15165v1)|**[link](https://github.com/sarapieri/fed_het)**|
 |**2023-10-23**|**LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers**|Theo X. Olausson et.al.|[2310.15164v1](http://arxiv.org/abs/2310.15164v1)|**[link](https://github.com/benlipkin/linc)**|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 
 ## Adversarial Examples
 
@@ -296,7 +296,7 @@ layout: default
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
 |**2023-10-24**|**A Unified, Scalable Framework for Neural Population Decoding**|Mehdi Azabou et.al.|[2310.16046v1](http://arxiv.org/abs/2310.16046v1)|null|
 |**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
-|**2023-10-24**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v1](http://arxiv.org/abs/2310.16044v1)|null|
+|**2023-10-25**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v2](http://arxiv.org/abs/2310.16044v2)|null|
 |**2023-10-24**|**The ballistic to diffusive crossover in a weakly-interacting Fermi gas**|Jerome Lloyd et.al.|[2310.16043v1](http://arxiv.org/abs/2310.16043v1)|null|
 |**2023-10-23**|**RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions**|Lingdong Kong et.al.|[2310.15171v1](http://arxiv.org/abs/2310.15171v1)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-10-23**|**Oxygen abundance of gamma Vel from [O III] 88um Herschel/PACS spectroscopy**|Paul A Crowther et.al.|[2310.15170v1](http://arxiv.org/abs/2310.15170v1)|null|

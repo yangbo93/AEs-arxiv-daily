@@ -287,6 +287,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313v1](http://arxiv.org/abs/2310.18313v1)|**[link](https://github.com/azure/ms-amp)**|
+|**2023-10-27**|**Social media battle for attention: opinion dynamics on competing networks**|Andrea Somazzi et.al.|[2310.18309v1](http://arxiv.org/abs/2310.18309v1)|null|
+|**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308v1](http://arxiv.org/abs/2310.18308v1)|null|
+|**2023-10-27**|**Torus knotted Reeb dynamics and the Calabi invariant**|Jo Nelson et.al.|[2310.18307v1](http://arxiv.org/abs/2310.18307v1)|null|
+|**2023-10-27**|**Measurement and feedforward induced entanglement negativity transition**|Alireza Seif et.al.|[2310.18305v1](http://arxiv.org/abs/2310.18305v1)|null|
+|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301v1](http://arxiv.org/abs/2310.18301v1)|null|
+|**2023-10-27**|**Quantum simulation of the tricritical Ising model in tunable Josephson junction ladders**|Lorenzo Maffi et.al.|[2310.18300v1](http://arxiv.org/abs/2310.18300v1)|null|
+|**2023-10-27**|**Enhancing the Performance of a Biomimetic Robotic Elbow-and-Forearm System Through Bionics-Inspired Optimization**|Haosen Yang et.al.|[2310.18299v1](http://arxiv.org/abs/2310.18299v1)|null|
+|**2023-10-27**|**Sharp-Edge Diffraction of Laguerre-Gauss Vortex Beams by Elliptic Apertures**|Riccardo Borghi et.al.|[2310.18298v1](http://arxiv.org/abs/2310.18298v1)|null|
+|**2023-10-27**|**Image Clustering Conditioned on Text Criteria**|Sehyun Kwon et.al.|[2310.18297v1](http://arxiv.org/abs/2310.18297v1)|**[link](https://github.com/sehyunkwon/ictc)**|
 |**2023-10-26**|**Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model**|Karsten Roth et.al.|[2310.17653v1](http://arxiv.org/abs/2310.17653v1)|null|
 |**2023-10-26**|**The Not-So-Secret Fourth Parameter of Quantum Codes**|Eric Kubischta et.al.|[2310.17652v1](http://arxiv.org/abs/2310.17652v1)|null|
 |**2023-10-26**|**A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection**|Anas Al-lahham et.al.|[2310.17650v1](http://arxiv.org/abs/2310.17650v1)|null|

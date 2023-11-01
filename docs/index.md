@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**LFAA: Crafting Transferable Targeted Adversarial Examples with Low-Frequency Perturbations**|Kunyu Wang et.al.|[2310.20175v1](http://arxiv.org/abs/2310.20175v1)|null|
 |**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936v1](http://arxiv.org/abs/2310.18936v1)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
 |**2023-10-28**|**Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**|Guang Yang et.al.|[2310.18587v1](http://arxiv.org/abs/2310.18587v1)|null|
 |**2023-10-27**|**Understanding and Improving Ensemble Adversarial Defense**|Yian Deng et.al.|[2310.18477v1](http://arxiv.org/abs/2310.18477v1)|**[link](https://github.com/xqsi/igat)**|
@@ -294,6 +295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710v1](http://arxiv.org/abs/2310.20710v1)|null|
+|**2023-10-31**|**Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras**|Suiqi Lu et.al.|[2310.20709v1](http://arxiv.org/abs/2310.20709v1)|null|
+|**2023-10-31**|**Unexpected Improvements to Expected Improvement for Bayesian Optimization**|Sebastian Ament et.al.|[2310.20708v1](http://arxiv.org/abs/2310.20708v1)|null|
+|**2023-10-31**|**What's In My Big Data?**|Yanai Elazar et.al.|[2310.20707v1](http://arxiv.org/abs/2310.20707v1)|null|
+|**2023-10-31**|**DDAM-PS: Diligent Domain Adaptive Mixer for Person Search**|Mohammed Khaleed Almansoori et.al.|[2310.20706v1](http://arxiv.org/abs/2310.20706v1)|**[link](https://github.com/mustansarfiaz/ddam-ps)**|
+|**2023-10-31**|**Farthest Greedy Path Sampling for Two-shot Recommender Search**|Yufan Cao et.al.|[2310.20705v1](http://arxiv.org/abs/2310.20705v1)|null|
+|**2023-10-31**|**Vanishing Gradients in Reinforcement Finetuning of Language Models**|Noam Razin et.al.|[2310.20703v1](http://arxiv.org/abs/2310.20703v1)|null|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700v1](http://arxiv.org/abs/2310.20700v1)|null|
+|**2023-10-31**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699v1](http://arxiv.org/abs/2310.20699v1)|null|
+|**2023-10-31**|**Universal localization-delocalization transition in chirally-symmetric Floquet drives**|Adrian B. Culver et.al.|[2310.20696v1](http://arxiv.org/abs/2310.20696v1)|null|
 |**2023-10-30**|**Electromagnetic current operators for phenomenological relativistic models**|Wayne Polyzou et.al.|[2310.19243v1](http://arxiv.org/abs/2310.19243v1)|null|
 |**2023-10-30**|**Temperature dependence and limiting mechanisms of the upper critical field of FeSe thin films**|M. Stanley et.al.|[2310.19241v1](http://arxiv.org/abs/2310.19241v1)|null|
 |**2023-10-30**|**M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models**|Wai-Chung Kwan et.al.|[2310.19240v1](http://arxiv.org/abs/2310.19240v1)|null|

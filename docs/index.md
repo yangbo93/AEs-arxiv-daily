@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 
 ## Adversarial Examples
 
@@ -13,7 +13,7 @@ layout: default
 |**2023-11-01**|**LFAA: Crafting Transferable Targeted Adversarial Examples with Low-Frequency Perturbations**|Kunyu Wang et.al.|[2310.20175v2](http://arxiv.org/abs/2310.20175v2)|null|
 |**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936v1](http://arxiv.org/abs/2310.18936v1)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
 |**2023-10-28**|**Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**|Guang Yang et.al.|[2310.18587v1](http://arxiv.org/abs/2310.18587v1)|null|
-|**2023-10-27**|**Understanding and Improving Ensemble Adversarial Defense**|Yian Deng et.al.|[2310.18477v1](http://arxiv.org/abs/2310.18477v1)|**[link](https://github.com/xqsi/igat)**|
+|**2023-11-02**|**Understanding and Improving Ensemble Adversarial Defense**|Yian Deng et.al.|[2310.18477v2](http://arxiv.org/abs/2310.18477v2)|**[link](https://github.com/xqsi/igat)**|
 |**2023-10-26**|**A Survey on Transferability of Adversarial Examples across Deep Neural Networks**|Jindong Gu et.al.|[2310.17626v1](http://arxiv.org/abs/2310.17626v1)|**[link](https://github.com/jindonggu/awesome_adversarial_transferability)**|
 |**2023-10-26**|**Instability of computer vision models is a necessary result of the task itself**|Oliver Turnbull et.al.|[2310.17559v1](http://arxiv.org/abs/2310.17559v1)|null|
 |**2023-10-25**|**Break it, Imitate it, Fix it: Robustness by Generating Human-Like Attacks**|Aradhana Sinha et.al.|[2310.16955v1](http://arxiv.org/abs/2310.16955v1)|null|

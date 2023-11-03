@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models**|Andy Zhou et.al.|[2311.01441v1](http://arxiv.org/abs/2311.01441v1)|**[link](https://github.com/andyz245/discreteadversarialdistillation)**|
+|**2023-11-02**|**On the Lipschitz constant of random neural networks**|Paul Geuchen et.al.|[2311.01356v1](http://arxiv.org/abs/2311.01356v1)|null|
+|**2023-11-02**|**Towards Evaluating Transfer-based Attacks Systematically, Practically, and Fairly**|Qizhang Li et.al.|[2311.01323v1](http://arxiv.org/abs/2311.01323v1)|null|
+|**2023-11-02**|**Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game**|Sam Toyer et.al.|[2311.01011v1](http://arxiv.org/abs/2311.01011v1)|null|
 |**2023-11-01**|**NEO-KD: Knowledge-Distillation-Based Adversarial Training for Robust Multi-Exit Neural Networks**|Seokil Ham et.al.|[2311.00428v1](http://arxiv.org/abs/2311.00428v1)|null|
 |**2023-10-31**|**Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield**|Jinhwa Kim et.al.|[2311.00172v1](http://arxiv.org/abs/2311.00172v1)|null|
 |**2023-11-01**|**LFAA: Crafting Transferable Targeted Adversarial Examples with Low-Frequency Perturbations**|Kunyu Wang et.al.|[2310.20175v2](http://arxiv.org/abs/2310.20175v2)|null|
@@ -297,6 +301,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Idempotent Generative Network**|Assaf Shocher et.al.|[2311.01462v1](http://arxiv.org/abs/2311.01462v1)|null|
+|**2023-11-02**|**Implicit Chain of Thought Reasoning via Knowledge Distillation**|Yuntian Deng et.al.|[2311.01460v1](http://arxiv.org/abs/2311.01460v1)|**[link](https://github.com/da03/implicit_chain_of_thought)**|
+|**2023-11-02**|**Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization**|Jameel Hassan et.al.|[2311.01459v1](http://arxiv.org/abs/2311.01459v1)|null|
+|**2023-11-02**|**Detecting Deepfakes Without Seeing Any**|Tal Reiss et.al.|[2311.01458v1](http://arxiv.org/abs/2311.01458v1)|**[link](https://github.com/talreiss/factor)**|
+|**2023-11-02**|**A degenerate Universe**|Alexsandre L. Ferreira Junior et.al.|[2311.01456v1](http://arxiv.org/abs/2311.01456v1)|null|
+|**2023-11-02**|**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**|Yufei Wang et.al.|[2311.01455v1](http://arxiv.org/abs/2311.01455v1)|null|
+|**2023-11-02**|**NOIR: Neural Signal Operated Intelligent Robots for Everyday Activities**|Ruohan Zhang et.al.|[2311.01454v1](http://arxiv.org/abs/2311.01454v1)|null|
+|**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452v1](http://arxiv.org/abs/2311.01452v1)|null|
+|**2023-11-02**|**Randomized Strong Recursive Skeletonization: Simultaneous compression and factorization of $\mathcal{H}$-matrices in the Black-Box Setting**|Anna Yesypenko et.al.|[2311.01451v1](http://arxiv.org/abs/2311.01451v1)|null|
+|**2023-11-02**|**DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing**|Vint Lee et.al.|[2311.01450v1](http://arxiv.org/abs/2311.01450v1)|null|
 |**2023-11-01**|**Dark Matter in A Mirror Solution to the Strong CP Problem**|Quentin Bonnefoy et.al.|[2311.00702v1](http://arxiv.org/abs/2311.00702v1)|null|
 |**2023-11-01**|**Generalized Narain Theories Decoded: Discussions on Eisenstein series, Characteristics, Orbifolds, Discriminants and Ensembles in any Dimension**|Meer Ashwinkumar et.al.|[2311.00699v1](http://arxiv.org/abs/2311.00699v1)|null|
 |**2023-11-01**|**Crystalline topological defects within response theory**|Sami Hakani et.al.|[2311.00698v1](http://arxiv.org/abs/2311.00698v1)|null|

@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Adversary ML Resilience in Autonomous Driving Through Human Centered Perception Mechanisms**|Aakriti Shah et.al.|[2311.01478v1](http://arxiv.org/abs/2311.01478v1)|null|
+|**2023-11-01**|**Adversarial Examples in the Physical World: A Survey**|Jiakai Wang et.al.|[2311.01473v1](http://arxiv.org/abs/2311.01473v1)|null|
 |**2023-11-02**|**Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models**|Andy Zhou et.al.|[2311.01441v1](http://arxiv.org/abs/2311.01441v1)|**[link](https://github.com/andyz245/discreteadversarialdistillation)**|
 |**2023-11-02**|**On the Lipschitz constant of random neural networks**|Paul Geuchen et.al.|[2311.01356v1](http://arxiv.org/abs/2311.01356v1)|null|
 |**2023-11-02**|**Towards Evaluating Transfer-based Attacks Systematically, Practically, and Fairly**|Qizhang Li et.al.|[2311.01323v1](http://arxiv.org/abs/2311.01323v1)|null|
@@ -301,6 +303,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision**|Jiawei Yang et.al.|[2311.02077v1](http://arxiv.org/abs/2311.02077v1)|null|
+|**2023-11-03**|**Universal Sharpness Dynamics in Neural Network Training: Fixed Point Analysis, Edge of Stability, and Route to Chaos**|Dayal Singh Kalra et.al.|[2311.02076v1](http://arxiv.org/abs/2311.02076v1)|null|
+|**2023-11-03**|**Envy-Free Cake-Cutting for Four Agents**|Alexandros Hollender et.al.|[2311.02075v1](http://arxiv.org/abs/2311.02075v1)|null|
+|**2023-11-03**|**A multiverse model in dS wedge holography**|Sergio E. Aguilar-Gutierrez et.al.|[2311.02074v1](http://arxiv.org/abs/2311.02074v1)|null|
+|**2023-11-03**|**Learning Historical Status Prompt for Accurate and Robust Visual Tracking**|Wenrui Cai et.al.|[2311.02072v1](http://arxiv.org/abs/2311.02072v1)|null|
+|**2023-11-03**|**Grounded Intuition of GPT-Vision's Abilities with Scientific Images**|Alyssa Hwang et.al.|[2311.02069v1](http://arxiv.org/abs/2311.02069v1)|**[link](https://github.com/ahwang16/grounded-intuition-gpt-vision)**|
+|**2023-11-03**|**Cosmological Gravitational Waves from Isocurvature Fluctuations**|Guillem Domènech et.al.|[2311.02065v1](http://arxiv.org/abs/2311.02065v1)|null|
+|**2023-11-03**|**Symmetry and instability of marginally outer trapped surfaces**|Ivan Booth et.al.|[2311.02063v1](http://arxiv.org/abs/2311.02063v1)|null|
+|**2023-11-03**|**GroomGen: A High-Quality Generative Hair Model Using Hierarchical Latent Representations**|Yuxiao Zhou et.al.|[2311.02062v1](http://arxiv.org/abs/2311.02062v1)|null|
+|**2023-11-03**|**Active Learning-Based Species Range Estimation**|Christian Lange et.al.|[2311.02061v1](http://arxiv.org/abs/2311.02061v1)|**[link](https://github.com/chris-lange/sdm_active_sampling)**|
 |**2023-11-02**|**Idempotent Generative Network**|Assaf Shocher et.al.|[2311.01462v1](http://arxiv.org/abs/2311.01462v1)|null|
 |**2023-11-02**|**Implicit Chain of Thought Reasoning via Knowledge Distillation**|Yuntian Deng et.al.|[2311.01460v1](http://arxiv.org/abs/2311.01460v1)|**[link](https://github.com/da03/implicit_chain_of_thought)**|
 |**2023-11-02**|**Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization**|Jameel Hassan et.al.|[2311.01459v1](http://arxiv.org/abs/2311.01459v1)|null|

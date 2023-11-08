@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Unveiling Safety Vulnerabilities of Large Language Models**|George Kour et.al.|[2311.04124v1](http://arxiv.org/abs/2311.04124v1)|null|
+|**2023-11-06**|**Measuring Adversarial Datasets**|Yuanchen Bai et.al.|[2311.03566v1](http://arxiv.org/abs/2311.03566v1)|null|
 |**2023-11-02**|**Adversary ML Resilience in Autonomous Driving Through Human Centered Perception Mechanisms**|Aakriti Shah et.al.|[2311.01478v1](http://arxiv.org/abs/2311.01478v1)|null|
 |**2023-11-01**|**Adversarial Examples in the Physical World: A Survey**|Jiakai Wang et.al.|[2311.01473v1](http://arxiv.org/abs/2311.01473v1)|null|
 |**2023-11-02**|**Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models**|Andy Zhou et.al.|[2311.01441v1](http://arxiv.org/abs/2311.01441v1)|**[link](https://github.com/andyz245/discreteadversarialdistillation)**|
@@ -303,6 +305,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**The miniJPAS survey: Maximising the photo-z accuracy from multi-survey datasets with probability conflation**|A. Hernán-Caballero et.al.|[2311.04220v1](http://arxiv.org/abs/2311.04220v1)|null|
+|**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219v1](http://arxiv.org/abs/2311.04219v1)|null|
+|**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|null|
+|**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217v1](http://arxiv.org/abs/2311.04217v1)|null|
+|**2023-11-07**|**Replica symmetry breaking in a quantum-optical vector spin glass**|Ronen M. Kroeze et.al.|[2311.04216v1](http://arxiv.org/abs/2311.04216v1)|null|
+|**2023-11-07**|**Minimal triangulations of circle bundles**|Gaiane Panina et.al.|[2311.04214v1](http://arxiv.org/abs/2311.04214v1)|null|
+|**2023-11-07**|**Detection of the CMB lensing -- galaxy bispectrum**|Gerrit S. Farren et.al.|[2311.04213v1](http://arxiv.org/abs/2311.04213v1)|null|
+|**2023-11-07**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212v1](http://arxiv.org/abs/2311.04212v1)|**[link](https://github.com/shi-labs/vim)**|
+|**2023-11-07**|**A Bayesian Approach for Simultaneously Radial Kernel Parameter Tuning in the Partition of Unity Method**|Roberto Cavoretto et.al.|[2311.04210v1](http://arxiv.org/abs/2311.04210v1)|null|
+|**2023-11-07**|**The fate of chiral symmetries in the quark-gluon plasma**|Tamas G. Kovacs et.al.|[2311.04208v1](http://arxiv.org/abs/2311.04208v1)|null|
 |**2023-11-06**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356v1](http://arxiv.org/abs/2311.03356v1)|null|
 |**2023-11-06**|**SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis**|Hanrong Ye et.al.|[2311.03355v1](http://arxiv.org/abs/2311.03355v1)|null|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354v1](http://arxiv.org/abs/2311.03354v1)|null|

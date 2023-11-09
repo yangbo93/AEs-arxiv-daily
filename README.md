@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Constrained Adaptive Attacks: Realistic Evaluation of Adversarial Examples and Robust Training of Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2311.04503v1](http://arxiv.org/abs/2311.04503v1)|null|
 |**2023-11-07**|**Unveiling Safety Vulnerabilities of Large Language Models**|George Kour et.al.|[2311.04124v1](http://arxiv.org/abs/2311.04124v1)|null|
 |**2023-11-06**|**Measuring Adversarial Datasets**|Yuanchen Bai et.al.|[2311.03566v1](http://arxiv.org/abs/2311.03566v1)|null|
 |**2023-11-02**|**Adversary ML Resilience in Autonomous Driving Through Human Centered Perception Mechanisms**|Aakriti Shah et.al.|[2311.01478v1](http://arxiv.org/abs/2311.01478v1)|null|
@@ -301,6 +302,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models**|Rocktim Jyoti Das et.al.|[2311.04902v1](http://arxiv.org/abs/2311.04902v1)|**[link](https://github.com/rocktimjyotidas/gblm-pruner)**|
+|**2023-11-08**|**GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs**|Zhenfang Chen et.al.|[2311.04901v1](http://arxiv.org/abs/2311.04901v1)|null|
+|**2023-11-08**|**How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure**|Michael Wilson et.al.|[2311.04900v1](http://arxiv.org/abs/2311.04900v1)|**[link](https://github.com/clay-lab/structural-alternations)**|
+|**2023-11-08**|**Floquet engineering of binding in doped and photo-doped Mott insulators**|Madhumita Sarkar et.al.|[2311.04899v1](http://arxiv.org/abs/2311.04899v1)|null|
+|**2023-11-08**|**Future Lens: Anticipating Subsequent Tokens from a Single Hidden State**|Koyena Pal et.al.|[2311.04897v1](http://arxiv.org/abs/2311.04897v1)|null|
+|**2023-11-08**|**Optimized measurements of chaotic dynamical systems via the information bottleneck**|Kieran A. Murphy et.al.|[2311.04896v1](http://arxiv.org/abs/2311.04896v1)|null|
+|**2023-11-08**|**The Monadic Theory of Toric Words**|Valérie Berthé et.al.|[2311.04895v1](http://arxiv.org/abs/2311.04895v1)|null|
+|**2023-11-08**|**DAMEX: Dataset-aware Mixture-of-Experts for visual understanding of mixture-of-datasets**|Yash Jain et.al.|[2311.04894v1](http://arxiv.org/abs/2311.04894v1)|**[link](https://github.com/jinga-lala/damex)**|
+|**2023-11-08**|**Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs**|Shashank Gupta et.al.|[2311.04892v1](http://arxiv.org/abs/2311.04892v1)|**[link](https://github.com/allenai/persona-bias)**|
+|**2023-11-08**|**d-Wave Hall effect and linear magnetoconductivity in metallic collinear antiferromagnets**|Dmitrii L. Vorobev et.al.|[2311.04890v1](http://arxiv.org/abs/2311.04890v1)|null|
 |**2023-11-07**|**The miniJPAS survey: Maximising the photo-z accuracy from multi-survey datasets with probability conflation**|A. Hernán-Caballero et.al.|[2311.04220v1](http://arxiv.org/abs/2311.04220v1)|null|
 |**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219v1](http://arxiv.org/abs/2311.04219v1)|null|
 |**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|null|

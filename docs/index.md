@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.08
+## Updated on 2023.11.09
 
 ## Adversarial Examples
 
@@ -312,7 +312,7 @@ layout: default
 |**2023-11-07**|**Replica symmetry breaking in a quantum-optical vector spin glass**|Ronen M. Kroeze et.al.|[2311.04216v1](http://arxiv.org/abs/2311.04216v1)|null|
 |**2023-11-07**|**Minimal triangulations of circle bundles**|Gaiane Panina et.al.|[2311.04214v1](http://arxiv.org/abs/2311.04214v1)|null|
 |**2023-11-07**|**Detection of the CMB lensing -- galaxy bispectrum**|Gerrit S. Farren et.al.|[2311.04213v1](http://arxiv.org/abs/2311.04213v1)|null|
-|**2023-11-07**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212v1](http://arxiv.org/abs/2311.04212v1)|**[link](https://github.com/shi-labs/vim)**|
+|**2023-11-08**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212v2](http://arxiv.org/abs/2311.04212v2)|**[link](https://github.com/shi-labs/vim)**|
 |**2023-11-07**|**A Bayesian Approach for Simultaneously Radial Kernel Parameter Tuning in the Partition of Unity Method**|Roberto Cavoretto et.al.|[2311.04210v1](http://arxiv.org/abs/2311.04210v1)|null|
 |**2023-11-07**|**The fate of chiral symmetries in the quark-gluon plasma**|Tamas G. Kovacs et.al.|[2311.04208v1](http://arxiv.org/abs/2311.04208v1)|null|
 |**2023-11-06**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356v1](http://arxiv.org/abs/2311.03356v1)|null|

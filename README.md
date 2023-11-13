@@ -302,6 +302,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Topological and magnetic phase transitions in the bilayer Kitaev-Ising model**|Aayush Vijayvargia et.al.|[2311.06245v1](http://arxiv.org/abs/2311.06245v1)|null|
+|**2023-11-10**|**Left-handed string and CHY amplitude at one loop**|Yuqi Li et.al.|[2311.06244v1](http://arxiv.org/abs/2311.06244v1)|null|
+|**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
+|**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242v1](http://arxiv.org/abs/2311.06242v1)|null|
+|**2023-11-10**|**Nonnegativity Problems for Matrix Semigroups**|Julian D'Costa et.al.|[2311.06241v1](http://arxiv.org/abs/2311.06241v1)|null|
+|**2023-11-10**|**Beris-Edwards Models on Evolving Surfaces: A Lagrange-D'Alembert Approach**|Ingo Nitschke et.al.|[2311.06240v1](http://arxiv.org/abs/2311.06240v1)|null|
+|**2023-11-10**|**Argumentation Element Annotation Modeling using XLNet**|Christopher Ormerod et.al.|[2311.06239v1](http://arxiv.org/abs/2311.06239v1)|null|
+|**2023-11-10**|**Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild**|Nanna Inie et.al.|[2311.06237v1](http://arxiv.org/abs/2311.06237v1)|null|
+|**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236v1](http://arxiv.org/abs/2311.06236v1)|null|
+|**2023-11-10**|**Triviality of critical Fortuin-Kasteleyn decorated planar maps for $q>4$**|Yuyang Feng et.al.|[2311.06235v1](http://arxiv.org/abs/2311.06235v1)|null|
 |**2023-11-09**|**Window Attention is Bugged: How not to Interpolate Position Embeddings**|Daniel Bolya et.al.|[2311.05613v1](http://arxiv.org/abs/2311.05613v1)|null|
 |**2023-11-09**|**Modeling the Evolution from Massive Stars to Supernovae and Supernova Remnants**|Salvatore Orlando et.al.|[2311.05612v1](http://arxiv.org/abs/2311.05612v1)|null|
 |**2023-11-09**|**Efficient Parallelization Layouts for Large-Scale Distributed Model Training**|Johannes Hagemann et.al.|[2311.05610v1](http://arxiv.org/abs/2311.05610v1)|**[link](https://github.com/aleph-alpha/neurips-want-submission-efficient-parallelization-layouts)**|

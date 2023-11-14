@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**An Extensive Study on Adversarial Attack against Pre-trained Models of Code**|Xiaohu Du et.al.|[2311.07553v1](http://arxiv.org/abs/2311.07553v1)|**[link](https://github.com/cgcl-codes/attack_ptmc)**|
+|**2023-11-10**|**Flatness-aware Adversarial Attack**|Mingyuan Fan et.al.|[2311.06423v1](http://arxiv.org/abs/2311.06423v1)|null|
 |**2023-11-08**|**Constrained Adaptive Attacks: Realistic Evaluation of Adversarial Examples and Robust Training of Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2311.04503v1](http://arxiv.org/abs/2311.04503v1)|null|
 |**2023-11-07**|**Unveiling Safety Vulnerabilities of Large Language Models**|George Kour et.al.|[2311.04124v1](http://arxiv.org/abs/2311.04124v1)|null|
 |**2023-11-06**|**Measuring Adversarial Datasets**|Yuanchen Bai et.al.|[2311.03566v1](http://arxiv.org/abs/2311.03566v1)|null|
@@ -302,6 +304,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**On the connection between AGN radiative feedback and massive black hole spin**|Francesco Bollati et.al.|[2311.07576v1](http://arxiv.org/abs/2311.07576v1)|null|
+|**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|null|
+|**2023-11-13**|**Realizability of Free Spaces of Curves**|Hugo A. Akitaya et.al.|[2311.07573v1](http://arxiv.org/abs/2311.07573v1)|null|
+|**2023-11-13**|**The local moduli space of the Einstein-Yang-Mills system**|Severin Bunk et.al.|[2311.07572v1](http://arxiv.org/abs/2311.07572v1)|null|
+|**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568v1](http://arxiv.org/abs/2311.07568v1)|null|
+|**2023-11-13**|**Generators of the preprojective CoHA of a quiver**|Andrei Neguţ et.al.|[2311.07566v1](http://arxiv.org/abs/2311.07566v1)|null|
+|**2023-11-13**|**Can Authorship Attribution Models Distinguish Speakers in Speech Transcripts?**|Cristina Aggazzotti et.al.|[2311.07564v1](http://arxiv.org/abs/2311.07564v1)|null|
+|**2023-11-13**|**Learning Control Policies of Hodgkin-Huxley Neuronal Dynamics**|Malvern Madondo et.al.|[2311.07563v1](http://arxiv.org/abs/2311.07563v1)|null|
+|**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
 |**2023-11-10**|**Topological and magnetic phase transitions in the bilayer Kitaev-Ising model**|Aayush Vijayvargia et.al.|[2311.06245v1](http://arxiv.org/abs/2311.06245v1)|null|
 |**2023-11-10**|**Left-handed string and CHY amplitude at one loop**|Yuqi Li et.al.|[2311.06244v1](http://arxiv.org/abs/2311.06244v1)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|

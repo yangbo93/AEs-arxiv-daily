@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.14
+## Updated on 2023.11.15
 
 ## Adversarial Examples
 
@@ -315,7 +315,7 @@ layout: default
 |**2023-11-13**|**The local moduli space of the Einstein-Yang-Mills system**|Severin Bunk et.al.|[2311.07572v1](http://arxiv.org/abs/2311.07572v1)|null|
 |**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568v1](http://arxiv.org/abs/2311.07568v1)|null|
 |**2023-11-13**|**Generators of the preprojective CoHA of a quiver**|Andrei Neguţ et.al.|[2311.07566v1](http://arxiv.org/abs/2311.07566v1)|null|
-|**2023-11-13**|**Can Authorship Attribution Models Distinguish Speakers in Speech Transcripts?**|Cristina Aggazzotti et.al.|[2311.07564v1](http://arxiv.org/abs/2311.07564v1)|null|
+|**2023-11-13**|**Can Authorship Attribution Models Distinguish Speakers in Speech Transcripts?**|Cristina Aggazzotti et.al.|[2311.07564v1](http://arxiv.org/abs/2311.07564v1)|**[link](https://github.com/llnl/luar)**|
 |**2023-11-13**|**Learning Control Policies of Hodgkin-Huxley Neuronal Dynamics**|Malvern Madondo et.al.|[2311.07563v1](http://arxiv.org/abs/2311.07563v1)|null|
 |**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
 |**2023-11-10**|**Topological and magnetic phase transitions in the bilayer Kitaev-Ising model**|Aayush Vijayvargia et.al.|[2311.06245v1](http://arxiv.org/abs/2311.06245v1)|null|

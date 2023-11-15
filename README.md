@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**On The Relationship Between Universal Adversarial Attacks And Sparse Representations**|Dana Weitzner et.al.|[2311.08265v1](http://arxiv.org/abs/2311.08265v1)|**[link](https://github.com/danawr/adversarial_attacks_and_sparse_representations)**|
+|**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928v1](http://arxiv.org/abs/2311.07928v1)|null|
+|**2023-11-13**|**Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models**|Rui Duan et.al.|[2311.07780v1](http://arxiv.org/abs/2311.07780v1)|null|
 |**2023-11-13**|**An Extensive Study on Adversarial Attack against Pre-trained Models of Code**|Xiaohu Du et.al.|[2311.07553v1](http://arxiv.org/abs/2311.07553v1)|**[link](https://github.com/cgcl-codes/attack_ptmc)**|
 |**2023-11-10**|**Flatness-aware Adversarial Attack**|Mingyuan Fan et.al.|[2311.06423v1](http://arxiv.org/abs/2311.06423v1)|null|
 |**2023-11-08**|**Constrained Adaptive Attacks: Realistic Evaluation of Adversarial Examples and Robust Training of Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2311.04503v1](http://arxiv.org/abs/2311.04503v1)|null|
@@ -304,6 +307,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Instant3D: Instant Text-to-3D Generation**|Ming Li et.al.|[2311.08403v1](http://arxiv.org/abs/2311.08403v1)|null|
+|**2023-11-14**|**Retrieve and Copy: Scaling ASR Personalization to Large Catalogs**|Sai Muralidhar Jayanthi et.al.|[2311.08402v1](http://arxiv.org/abs/2311.08402v1)|null|
+|**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401v1](http://arxiv.org/abs/2311.08401v1)|null|
+|**2023-11-14**|**Towards Open-Ended Visual Recognition with Large Language Model**|Qihang Yu et.al.|[2311.08400v1](http://arxiv.org/abs/2311.08400v1)|**[link](https://github.com/bytedance/omniscient-model)**|
+|**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398v1](http://arxiv.org/abs/2311.08398v1)|**[link](https://github.com/yfqiu-nlp/temporal-llms)**|
+|**2023-11-14**|**Giant Resistance Switch in Twisted Transition Metal Dichalcogenide Tunnel Junctions**|Marc Vila et.al.|[2311.08397v1](http://arxiv.org/abs/2311.08397v1)|null|
+|**2023-11-14**|**Zero-shot audio captioning with audio-language model guidance and audio context keywords**|Leonard Salewski et.al.|[2311.08396v1](http://arxiv.org/abs/2311.08396v1)|**[link](https://github.com/explainableml/zeraucap)**|
+|**2023-11-14**|**Superconformal Gravity And The Topology Of Diffeomorphism Groups**|Jay Cushing et.al.|[2311.08394v1](http://arxiv.org/abs/2311.08394v1)|null|
+|**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
+|**2023-11-14**|**Iterative Network Pricing for Ridesharing Platforms**|Chenkai Yu et.al.|[2311.08392v1](http://arxiv.org/abs/2311.08392v1)|null|
 |**2023-11-13**|**On the connection between AGN radiative feedback and massive black hole spin**|Francesco Bollati et.al.|[2311.07576v1](http://arxiv.org/abs/2311.07576v1)|null|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
 |**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|null|

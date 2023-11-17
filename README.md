@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**Breaking Boundaries: Balancing Performance and Robustness in Deep Wireless Traffic Forecasting**|Ilbert Romain et.al.|[2311.09790v1](http://arxiv.org/abs/2311.09790v1)|null|
 |**2023-11-15**|**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**|Yuanwei Wu et.al.|[2311.09127v1](http://arxiv.org/abs/2311.09127v1)|null|
 |**2023-11-14**|**DALA: A Distribution-Aware LoRA-Based Adversarial Attack against Pre-trained Language Models**|Yibo Wang et.al.|[2311.08598v1](http://arxiv.org/abs/2311.08598v1)|null|
 |**2023-11-14**|**Physical Adversarial Examples for Multi-Camera Systems**|Ana Răduţoiu et.al.|[2311.08539v1](http://arxiv.org/abs/2311.08539v1)|null|
@@ -310,6 +311,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093v1](http://arxiv.org/abs/2311.10093v1)|null|
+|**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092v1](http://arxiv.org/abs/2311.10092v1)|null|
+|**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091v1](http://arxiv.org/abs/2311.10091v1)|null|
+|**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
+|**2023-11-16**|**Taming assembly bias for primordial non-Gaussianity**|Emanuele Fondi et.al.|[2311.10088v1](http://arxiv.org/abs/2311.10088v1)|null|
+|**2023-11-16**|**Double-Virtual NNLO QCD Corrections for Five-Parton Scattering: The Gluon Channel**|Giuseppe De Laurentis et.al.|[2311.10086v1](http://arxiv.org/abs/2311.10086v1)|null|
+|**2023-11-16**|**A Computationally Efficient Sparsified Online Newton Method**|Fnu Devvrit et.al.|[2311.10085v1](http://arxiv.org/abs/2311.10085v1)|null|
+|**2023-11-16**|**Soft Theorems, Anomalies and Precursors**|Renata Kallosh et.al.|[2311.10084v1](http://arxiv.org/abs/2311.10084v1)|null|
+|**2023-11-16**|**Characterizing Tradeoffs in Language Model Decoding with Informational Interpretations**|Chung-Ching Chang et.al.|[2311.10083v1](http://arxiv.org/abs/2311.10083v1)|null|
+|**2023-11-16**|**DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback**|Yangyi Chen et.al.|[2311.10081v1](http://arxiv.org/abs/2311.10081v1)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221v1](http://arxiv.org/abs/2311.09221v1)|null|
 |**2023-11-15**|**Massive quantum systems as interfaces of quantum mechanics and gravity**|Sougato Bose et.al.|[2311.09218v1](http://arxiv.org/abs/2311.09218v1)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217v1](http://arxiv.org/abs/2311.09217v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.18
+## Updated on 2023.11.19
 
 ## Adversarial Examples
 
@@ -320,7 +320,7 @@ layout: default
 |**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091v1](http://arxiv.org/abs/2311.10091v1)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
 |**2023-11-16**|**Taming assembly bias for primordial non-Gaussianity**|Emanuele Fondi et.al.|[2311.10088v1](http://arxiv.org/abs/2311.10088v1)|null|
-|**2023-11-16**|**Double-Virtual NNLO QCD Corrections for Five-Parton Scattering: The Gluon Channel**|Giuseppe De Laurentis et.al.|[2311.10086v1](http://arxiv.org/abs/2311.10086v1)|null|
+|**2023-11-16**|**Double-Virtual NNLO QCD Corrections for Five-Parton Scattering: The Gluon Channel**|Giuseppe De Laurentis et.al.|[2311.10086v1](http://arxiv.org/abs/2311.10086v1)|**[link](https://gitlab.com/five-point-amplitudes/FivePointAmplitudes-cpp)**|
 |**2023-11-16**|**A Computationally Efficient Sparsified Online Newton Method**|Fnu Devvrit et.al.|[2311.10085v1](http://arxiv.org/abs/2311.10085v1)|null|
 |**2023-11-16**|**Soft Theorems, Anomalies and Precursors**|Renata Kallosh et.al.|[2311.10084v1](http://arxiv.org/abs/2311.10084v1)|null|
 |**2023-11-16**|**Characterizing Tradeoffs in Language Model Decoding with Informational Interpretations**|Chung-Ching Chang et.al.|[2311.10083v1](http://arxiv.org/abs/2311.10083v1)|null|

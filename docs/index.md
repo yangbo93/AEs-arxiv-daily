@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.11.19
+## Updated on 2023.11.20
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-16**|**Breaking Boundaries: Balancing Performance and Robustness in Deep Wireless Traffic Forecasting**|Ilbert Romain et.al.|[2311.09790v1](http://arxiv.org/abs/2311.09790v1)|null|
+|**2023-11-17**|**Breaking Boundaries: Balancing Performance and Robustness in Deep Wireless Traffic Forecasting**|Romain Ilbert et.al.|[2311.09790v2](http://arxiv.org/abs/2311.09790v2)|null|
 |**2023-11-15**|**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**|Yuanwei Wu et.al.|[2311.09127v1](http://arxiv.org/abs/2311.09127v1)|null|
 |**2023-11-14**|**DALA: A Distribution-Aware LoRA-Based Adversarial Attack against Pre-trained Language Models**|Yibo Wang et.al.|[2311.08598v1](http://arxiv.org/abs/2311.08598v1)|null|
 |**2023-11-14**|**Physical Adversarial Examples for Multi-Camera Systems**|Ana Răduţoiu et.al.|[2311.08539v1](http://arxiv.org/abs/2311.08539v1)|null|

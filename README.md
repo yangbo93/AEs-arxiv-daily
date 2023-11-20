@@ -311,6 +311,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|null|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708v1](http://arxiv.org/abs/2311.10708v1)|null|
+|**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707v1](http://arxiv.org/abs/2311.10707v1)|null|
+|**2023-11-17**|**Cactus Representations in Polylogarithmic Max-flow via Maximal Isolating Mincuts**|Zhongtian He et.al.|[2311.10706v1](http://arxiv.org/abs/2311.10706v1)|null|
+|**2023-11-17**|**A Method for Obtaining Cosmological Models Consistency Relations and Gaussian Processes Testing**|J. F. Jesus et.al.|[2311.10703v1](http://arxiv.org/abs/2311.10703v1)|null|
+|**2023-11-17**|**Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2**|Hamish Ivison et.al.|[2311.10702v1](http://arxiv.org/abs/2311.10702v1)|null|
+|**2023-11-17**|**SpACNN-LDVAE: Spatial Attention Convolutional Latent Dirichlet Variational Autoencoder for Hyperspectral Pixel Unmixing**|Soham Chitnis et.al.|[2311.10701v1](http://arxiv.org/abs/2311.10701v1)|null|
+|**2023-11-17**|**Using linear initialisation to improve speed of convergence and fully-trained error in Autoencoders**|Marcel Marais et.al.|[2311.10699v1](http://arxiv.org/abs/2311.10699v1)|**[link](https://github.com/artefactory-uk/autoencoder-paper)**|
+|**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697v1](http://arxiv.org/abs/2311.10697v1)|null|
+|**2023-11-17**|**Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation**|Xiaoyang Chen et.al.|[2311.10696v1](http://arxiv.org/abs/2311.10696v1)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093v1](http://arxiv.org/abs/2311.10093v1)|null|
 |**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092v1](http://arxiv.org/abs/2311.10092v1)|null|
 |**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091v1](http://arxiv.org/abs/2311.10091v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2023.11.20
+## Updated on 2023.11.21
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@
 |**2023-11-14**|**Physical Adversarial Examples for Multi-Camera Systems**|Ana Răduţoiu et.al.|[2311.08539v1](http://arxiv.org/abs/2311.08539v1)|null|
 |**2023-11-14**|**On The Relationship Between Universal Adversarial Attacks And Sparse Representations**|Dana Weitzner et.al.|[2311.08265v1](http://arxiv.org/abs/2311.08265v1)|**[link](https://github.com/danawr/adversarial_attacks_and_sparse_representations)**|
 |**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928v1](http://arxiv.org/abs/2311.07928v1)|null|
-|**2023-11-13**|**Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models**|Rui Duan et.al.|[2311.07780v1](http://arxiv.org/abs/2311.07780v1)|null|
+|**2023-11-17**|**Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models**|Rui Duan et.al.|[2311.07780v2](http://arxiv.org/abs/2311.07780v2)|null|
 |**2023-11-13**|**An Extensive Study on Adversarial Attack against Pre-trained Models of Code**|Xiaohu Du et.al.|[2311.07553v1](http://arxiv.org/abs/2311.07553v1)|**[link](https://github.com/cgcl-codes/attack_ptmc)**|
 |**2023-11-10**|**Flatness-aware Adversarial Attack**|Mingyuan Fan et.al.|[2311.06423v1](http://arxiv.org/abs/2311.06423v1)|null|
 |**2023-11-08**|**Constrained Adaptive Attacks: Realistic Evaluation of Adversarial Examples and Robust Training of Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2311.04503v1](http://arxiv.org/abs/2311.04503v1)|null|

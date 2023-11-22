@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-18**|**Boost Adversarial Transferability by Uniform Scale and Mix Mask Method**|Tao Wang et.al.|[2311.12051v1](http://arxiv.org/abs/2311.12051v1)|null|
 |**2023-11-20**|**Generating Valid and Natural Adversarial Examples with Large Language Models**|Zimu Wang et.al.|[2311.11861v1](http://arxiv.org/abs/2311.11861v1)|null|
 |**2023-11-18**|**Improving Adversarial Transferability by Stable Diffusion**|Jiayang Liu et.al.|[2311.11017v1](http://arxiv.org/abs/2311.11017v1)|null|
 |**2023-11-17**|**Breaking Boundaries: Balancing Performance and Robustness in Deep Wireless Traffic Forecasting**|Romain Ilbert et.al.|[2311.09790v2](http://arxiv.org/abs/2311.09790v2)|null|
@@ -313,6 +314,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Tilted Dirac superconductor at quantum criticality: Restoration of Lorentz symmetry**|Pablo Reiser et.al.|[2311.12797v1](http://arxiv.org/abs/2311.12797v1)|null|
+|**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|null|
+|**2023-11-21**|**The need for spatially resolved observations of PAHs in protoplanetary discs**|K. Lange et.al.|[2311.12794v1](http://arxiv.org/abs/2311.12794v1)|null|
+|**2023-11-21**|**ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**|Lin Chen et.al.|[2311.12793v1](http://arxiv.org/abs/2311.12793v1)|null|
+|**2023-11-21**|**Intrinsic Image Decomposition via Ordinal Shading**|Chris Careaga et.al.|[2311.12792v1](http://arxiv.org/abs/2311.12792v1)|null|
+|**2023-11-21**|**Propagator zeros and lattice chiral gauge theories**|Maarten Golterman et.al.|[2311.12790v1](http://arxiv.org/abs/2311.12790v1)|null|
+|**2023-11-21**|**Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks**|Samyak Jain et.al.|[2311.12786v1](http://arxiv.org/abs/2311.12786v1)|null|
+|**2023-11-21**|**Prompting Frameworks for Large Language Models: A Survey**|Xiaoxia Liu et.al.|[2311.12785v1](http://arxiv.org/abs/2311.12785v1)|null|
+|**2023-11-21**|**Optimality in Mean Estimation: Beyond Worst-Case, Beyond Sub-Gaussian, and Beyond $1+α$ Moments**|Trung Dang et.al.|[2311.12784v1](http://arxiv.org/abs/2311.12784v1)|null|
+|**2023-11-21**|**Quantifying Impairment and Disease Severity Using AI Models Trained on Healthy Subjects**|Boyang Yu et.al.|[2311.12781v1](http://arxiv.org/abs/2311.12781v1)|**[link](https://github.com/fishneck/cobra)**|
 |**2023-11-20**|**An on-chip platform for multi-degree-of-freedom control of two-dimensional quantum and nonlinear materials**|Haoning Tang et.al.|[2311.12030v1](http://arxiv.org/abs/2311.12030v1)|null|
 |**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028v1](http://arxiv.org/abs/2311.12028v1)|null|
 |**2023-11-20**|**Series over fat partitions: matrix models and discrete ensembles**|A. Yu. Orlov et.al.|[2311.12027v1](http://arxiv.org/abs/2311.12027v1)|null|

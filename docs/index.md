@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Transfer Attacks and Defenses for Large Language Models on Coding Tasks**|Chi Zhang et.al.|[2311.13445v1](http://arxiv.org/abs/2311.13445v1)|null|
+|**2023-11-22**|**A Survey of Adversarial CAPTCHAs on its History, Classification and Generation**|Zisheng Xu et.al.|[2311.13233v1](http://arxiv.org/abs/2311.13233v1)|null|
+|**2023-11-21**|**SD-NAE: Generating Natural Adversarial Examples with Stable Diffusion**|Yueqian Lin et.al.|[2311.12981v1](http://arxiv.org/abs/2311.12981v1)|null|
 |**2023-11-18**|**Boost Adversarial Transferability by Uniform Scale and Mix Mask Method**|Tao Wang et.al.|[2311.12051v1](http://arxiv.org/abs/2311.12051v1)|null|
 |**2023-11-20**|**Generating Valid and Natural Adversarial Examples with Large Language Models**|Zimu Wang et.al.|[2311.11861v1](http://arxiv.org/abs/2311.11861v1)|null|
 |**2023-11-18**|**Improving Adversarial Transferability by Stable Diffusion**|Jiayang Liu et.al.|[2311.11017v1](http://arxiv.org/abs/2311.11017v1)|null|
@@ -318,6 +321,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**|Daichi Horita et.al.|[2311.13602v1](http://arxiv.org/abs/2311.13602v1)|null|
+|**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|null|
+|**2023-11-22**|**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs**|Viraj Shah et.al.|[2311.13600v1](http://arxiv.org/abs/2311.13600v1)|null|
+|**2023-11-22**|**Optical Absorption Effects in Thermal Radiation Barrier Coating Materials**|Georgios Koutsakis et.al.|[2311.13599v1](http://arxiv.org/abs/2311.13599v1)|null|
+|**2023-11-22**|**Cramér-Rao Bounds for the Simultaneous Estimation of Power System Electromechanical Modes and Forced Oscillations**|Luke Dosiek et.al.|[2311.13598v1](http://arxiv.org/abs/2311.13598v1)|null|
+|**2023-11-22**|**T-Rex: Counting by Visual Prompting**|Qing Jiang et.al.|[2311.13596v1](http://arxiv.org/abs/2311.13596v1)|null|
+|**2023-11-22**|**Covariance alignment: from maximum likelihood estimation to Gromov-Wasserstein**|Yanjun Han et.al.|[2311.13595v1](http://arxiv.org/abs/2311.13595v1)|null|
+|**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594v1](http://arxiv.org/abs/2311.13594v1)|null|
+|**2023-11-22**|**Risk-sensitive Markov Decision Process and Learning under General Utility Functions**|Zhengqi Wu et.al.|[2311.13589v1](http://arxiv.org/abs/2311.13589v1)|null|
+|**2023-11-22**|**User-guided Page Merging for Memory Deduplication in Serverless Systems**|Wei Qiu et.al.|[2311.13588v1](http://arxiv.org/abs/2311.13588v1)|null|
 |**2023-11-21**|**Tilted Dirac superconductor at quantum criticality: Restoration of Lorentz symmetry**|Pablo Reiser et.al.|[2311.12797v1](http://arxiv.org/abs/2311.12797v1)|null|
 |**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|null|
 |**2023-11-21**|**The need for spatially resolved observations of PAHs in protoplanetary discs**|K. Lange et.al.|[2311.12794v1](http://arxiv.org/abs/2311.12794v1)|null|

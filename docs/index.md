@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**When Side-Channel Attacks Break the Black-Box Property of Embedded Artificial Intelligence**|Benoit Coqueret et.al.|[2311.14005v1](http://arxiv.org/abs/2311.14005v1)|null|
+|**2023-11-23**|**Adversarial defense based on distribution transfer**|Jiahao Chen et.al.|[2311.13841v1](http://arxiv.org/abs/2311.13841v1)|null|
+|**2023-11-22**|**A Somewhat Robust Image Watermark against Diffusion-based Editing Models**|Mingtian Tan et.al.|[2311.13713v1](http://arxiv.org/abs/2311.13713v1)|null|
 |**2023-11-22**|**Transfer Attacks and Defenses for Large Language Models on Coding Tasks**|Chi Zhang et.al.|[2311.13445v1](http://arxiv.org/abs/2311.13445v1)|null|
 |**2023-11-22**|**A Survey of Adversarial CAPTCHAs on its History, Classification and Generation**|Zisheng Xu et.al.|[2311.13233v1](http://arxiv.org/abs/2311.13233v1)|null|
 |**2023-11-21**|**SD-NAE: Generating Natural Adversarial Examples with Stable Diffusion**|Yueqian Lin et.al.|[2311.12981v1](http://arxiv.org/abs/2311.12981v1)|null|
@@ -321,6 +324,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation**|Lingchen Meng et.al.|[2311.14671v1](http://arxiv.org/abs/2311.14671v1)|**[link](https://github.com/menglcool/segic)**|
+|**2023-11-24**|**Differentiable and accelerated spherical harmonic and Wigner transforms**|Matthew A. Price et.al.|[2311.14670v1](http://arxiv.org/abs/2311.14670v1)|**[link](https://github.com/astro-informatics/s2fft)**|
+|**2023-11-24**|**Landau Singularities Revisited**|Claudia Fevola et.al.|[2311.14669v1](http://arxiv.org/abs/2311.14669v1)|null|
+|**2023-11-24**|**An $L^{4/3}$ $SL_2$ Kakeya maximal inequality**|Terence L. J. Harris et.al.|[2311.14667v1](http://arxiv.org/abs/2311.14667v1)|null|
+|**2023-11-24**|**Central extensions of higher groups: Green-Schwartz mechanism and 2-connections**|Monica Jinwoo Kang et.al.|[2311.14666v1](http://arxiv.org/abs/2311.14666v1)|null|
+|**2023-11-24**|**On the structure of genealogical trees associated with explosive Crump-Mode-Jagers branching processes**|Tejas Iyer et.al.|[2311.14664v1](http://arxiv.org/abs/2311.14664v1)|null|
+|**2023-11-24**|**Lattice investigations of the chimera baryon spectrum in the Sp(4) gauge theory**|Ed Bennett et.al.|[2311.14663v1](http://arxiv.org/abs/2311.14663v1)|null|
+|**2023-11-24**|**Feedback-Free Starbursts at Cosmic Dawn: Observable Predictions for JWST**|Zhaozhou Li et.al.|[2311.14662v1](http://arxiv.org/abs/2311.14662v1)|null|
+|**2023-11-24**|**Impurity-doped stable domain walls in spherically symmetric spacetimes**|D. Bazeia et.al.|[2311.14661v1](http://arxiv.org/abs/2311.14661v1)|null|
+|**2023-11-24**|**The mass profiles of dwarf galaxies from Dark Energy Survey lensing**|Joseph Thornton et.al.|[2311.14659v1](http://arxiv.org/abs/2311.14659v1)|null|
 |**2023-11-22**|**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**|Daichi Horita et.al.|[2311.13602v1](http://arxiv.org/abs/2311.13602v1)|null|
 |**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|**[link](https://github.com/ux-decoder/dinov)**|
 |**2023-11-22**|**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs**|Viraj Shah et.al.|[2311.13600v1](http://arxiv.org/abs/2311.13600v1)|null|

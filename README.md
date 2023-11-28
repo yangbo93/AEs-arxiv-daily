@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Adversaral Doodles: Interpretable and Human-drawable Attacks Provide Describable Insights**|Ryoya Nara et.al.|[2311.15994v1](http://arxiv.org/abs/2311.15994v1)|null|
+|**2023-11-27**|**Instruct2Attack: Language-Guided Semantic Adversarial Attacks**|Jiang Liu et.al.|[2311.15551v1](http://arxiv.org/abs/2311.15551v1)|null|
+|**2023-11-26**|**Having Second Thoughts? Let's hear it**|Jung H. Lee et.al.|[2311.15356v1](http://arxiv.org/abs/2311.15356v1)|null|
 |**2023-11-23**|**When Side-Channel Attacks Break the Black-Box Property of Embedded Artificial Intelligence**|Benoit Coqueret et.al.|[2311.14005v1](http://arxiv.org/abs/2311.14005v1)|null|
 |**2023-11-23**|**Adversarial defense based on distribution transfer**|Jiahao Chen et.al.|[2311.13841v1](http://arxiv.org/abs/2311.13841v1)|null|
 |**2023-11-22**|**A Somewhat Robust Image Watermark against Diffusion-based Editing Models**|Mingtian Tan et.al.|[2311.13713v1](http://arxiv.org/abs/2311.13713v1)|null|
@@ -320,6 +323,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103v1](http://arxiv.org/abs/2311.16103v1)|**[link](https://github.com/pku-yuangroup/video-bench)**|
+|**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102v1](http://arxiv.org/abs/2311.16102v1)|null|
+|**2023-11-27**|**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**|Haoqin Tu et.al.|[2311.16101v1](http://arxiv.org/abs/2311.16101v1)|**[link](https://github.com/ucsc-vlaa/vllm-safety-benchmark)**|
+|**2023-11-27**|**GART: Gaussian Articulated Template Models**|Jiahui Lei et.al.|[2311.16099v1](http://arxiv.org/abs/2311.16099v1)|null|
+|**2023-11-27**|**On Bringing Robots Home**|Nur Muhammad Mahi Shafiullah et.al.|[2311.16098v1](http://arxiv.org/abs/2311.16098v1)|**[link](https://github.com/notmahi/dobb-e)**|
+|**2023-11-27**|**CG-HOI: Contact-Guided 3D Human-Object Interaction Generation**|Christian Diller et.al.|[2311.16097v1](http://arxiv.org/abs/2311.16097v1)|null|
+|**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096v1](http://arxiv.org/abs/2311.16096v1)|**[link](https://github.com/lizhe00/animatablegaussians)**|
+|**2023-11-27**|**KPZ-type equation from growth driven by a non-Markovian diffusion**|Amir Dembo et.al.|[2311.16095v1](http://arxiv.org/abs/2311.16095v1)|null|
+|**2023-11-27**|**Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images**|Aiyu Cui et.al.|[2311.16094v1](http://arxiv.org/abs/2311.16094v1)|null|
+|**2023-11-27**|**Have we built machines that think like people?**|Luca M. Schulze Buschoff et.al.|[2311.16093v1](http://arxiv.org/abs/2311.16093v1)|null|
 |**2023-11-24**|**SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation**|Lingchen Meng et.al.|[2311.14671v1](http://arxiv.org/abs/2311.14671v1)|**[link](https://github.com/menglcool/segic)**|
 |**2023-11-24**|**Differentiable and accelerated spherical harmonic and Wigner transforms**|Matthew A. Price et.al.|[2311.14670v1](http://arxiv.org/abs/2311.14670v1)|**[link](https://github.com/astro-informatics/s2fft)**|
 |**2023-11-24**|**Landau Singularities Revisited**|Claudia Fevola et.al.|[2311.14669v1](http://arxiv.org/abs/2311.14669v1)|null|

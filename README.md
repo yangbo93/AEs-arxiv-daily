@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Efficient Key-Based Adversarial Defense for ImageNet by Using Pre-trained Model**|AprilPyone MaungMaung et.al.|[2311.16577v1](http://arxiv.org/abs/2311.16577v1)|null|
+|**2023-11-27**|**RetouchUAA: Unconstrained Adversarial Attack via Image Retouching**|Mengda Xie et.al.|[2311.16478v1](http://arxiv.org/abs/2311.16478v1)|null|
+|**2023-11-28**|**CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models**|Yichao Cai et.al.|[2311.16445v1](http://arxiv.org/abs/2311.16445v1)|null|
 |**2023-11-27**|**Adversaral Doodles: Interpretable and Human-drawable Attacks Provide Describable Insights**|Ryoya Nara et.al.|[2311.15994v1](http://arxiv.org/abs/2311.15994v1)|null|
 |**2023-11-27**|**Instruct2Attack: Language-Guided Semantic Adversarial Attacks**|Jiang Liu et.al.|[2311.15551v1](http://arxiv.org/abs/2311.15551v1)|null|
 |**2023-11-26**|**Having Second Thoughts? Let's hear it**|Jung H. Lee et.al.|[2311.15356v1](http://arxiv.org/abs/2311.15356v1)|null|
@@ -323,6 +326,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Impact of astrophysical scatter on the Epoch of Reionization [H I]$_{\rm 21cm}$ bispectrum**|Chandra Shekhar Murmu et.al.|[2311.17062v1](http://arxiv.org/abs/2311.17062v1)|null|
+|**2023-11-28**|**HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting**|Xian Liu et.al.|[2311.17061v1](http://arxiv.org/abs/2311.17061v1)|null|
+|**2023-11-28**|**Material Palette: Extraction of Materials from a Single Image**|Ivan Lopes et.al.|[2311.17060v1](http://arxiv.org/abs/2311.17060v1)|null|
+|**2023-11-28**|**Mission-driven Exploration for Accelerated Deep Reinforcement Learning with Temporal Logic Task Specifications**|Jun Wang et.al.|[2311.17059v1](http://arxiv.org/abs/2311.17059v1)|null|
+|**2023-11-28**|**Panoptic Video Scene Graph Generation**|Jingkang Yang et.al.|[2311.17058v1](http://arxiv.org/abs/2311.17058v1)|**[link](https://github.com/lilydaytoy/pvsgannotation)**|
+|**2023-11-28**|**ReMoS: Reactive 3D Motion Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057v1](http://arxiv.org/abs/2311.17057v1)|null|
+|**2023-11-28**|**Self-Supervised Motion Magnification by Backpropagating Through Optical Flow**|Zhaoying Pan et.al.|[2311.17056v1](http://arxiv.org/abs/2311.17056v1)|null|
+|**2023-11-28**|**No Representation Rules Them All in Category Discovery**|Sagar Vaze et.al.|[2311.17055v1](http://arxiv.org/abs/2311.17055v1)|null|
+|**2023-11-28**|**DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**|Tsun-Hsuan Wang et.al.|[2311.17053v1](http://arxiv.org/abs/2311.17053v1)|null|
+|**2023-11-28**|**A large-scale particle system with independent jumps and distributed synchronization**|Yuliy Baryshnikov et.al.|[2311.17052v1](http://arxiv.org/abs/2311.17052v1)|null|
 |**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103v1](http://arxiv.org/abs/2311.16103v1)|**[link](https://github.com/pku-yuangroup/video-bench)**|
 |**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102v1](http://arxiv.org/abs/2311.16102v1)|null|
 |**2023-11-27**|**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**|Haoqin Tu et.al.|[2311.16101v1](http://arxiv.org/abs/2311.16101v1)|**[link](https://github.com/ucsc-vlaa/vllm-safety-benchmark)**|

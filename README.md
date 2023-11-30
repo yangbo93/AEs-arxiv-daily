@@ -1,4 +1,4 @@
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 
 ## Adversarial Examples
 
@@ -7,7 +7,7 @@
 |**2023-11-28**|**Efficient Key-Based Adversarial Defense for ImageNet by Using Pre-trained Model**|AprilPyone MaungMaung et.al.|[2311.16577v1](http://arxiv.org/abs/2311.16577v1)|null|
 |**2023-11-27**|**RetouchUAA: Unconstrained Adversarial Attack via Image Retouching**|Mengda Xie et.al.|[2311.16478v1](http://arxiv.org/abs/2311.16478v1)|null|
 |**2023-11-28**|**CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models**|Yichao Cai et.al.|[2311.16445v1](http://arxiv.org/abs/2311.16445v1)|null|
-|**2023-11-27**|**Adversaral Doodles: Interpretable and Human-drawable Attacks Provide Describable Insights**|Ryoya Nara et.al.|[2311.15994v1](http://arxiv.org/abs/2311.15994v1)|null|
+|**2023-11-28**|**Adversarial Doodles: Interpretable and Human-drawable Attacks Provide Describable Insights**|Ryoya Nara et.al.|[2311.15994v2](http://arxiv.org/abs/2311.15994v2)|null|
 |**2023-11-27**|**Instruct2Attack: Language-Guided Semantic Adversarial Attacks**|Jiang Liu et.al.|[2311.15551v1](http://arxiv.org/abs/2311.15551v1)|null|
 |**2023-11-26**|**Having Second Thoughts? Let's hear it**|Jung H. Lee et.al.|[2311.15356v1](http://arxiv.org/abs/2311.15356v1)|null|
 |**2023-11-23**|**When Side-Channel Attacks Break the Black-Box Property of Embedded Artificial Intelligence**|Benoit Coqueret et.al.|[2311.14005v1](http://arxiv.org/abs/2311.14005v1)|null|
@@ -330,7 +330,7 @@
 |**2023-11-28**|**HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting**|Xian Liu et.al.|[2311.17061v1](http://arxiv.org/abs/2311.17061v1)|null|
 |**2023-11-28**|**Material Palette: Extraction of Materials from a Single Image**|Ivan Lopes et.al.|[2311.17060v1](http://arxiv.org/abs/2311.17060v1)|null|
 |**2023-11-28**|**Mission-driven Exploration for Accelerated Deep Reinforcement Learning with Temporal Logic Task Specifications**|Jun Wang et.al.|[2311.17059v1](http://arxiv.org/abs/2311.17059v1)|null|
-|**2023-11-28**|**Panoptic Video Scene Graph Generation**|Jingkang Yang et.al.|[2311.17058v1](http://arxiv.org/abs/2311.17058v1)|**[link](https://github.com/lilydaytoy/pvsgannotation)**|
+|**2023-11-28**|**Panoptic Video Scene Graph Generation**|Jingkang Yang et.al.|[2311.17058v1](http://arxiv.org/abs/2311.17058v1)|**[link](https://github.com/jingkang50/openpvsg)**|
 |**2023-11-28**|**ReMoS: Reactive 3D Motion Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057v1](http://arxiv.org/abs/2311.17057v1)|null|
 |**2023-11-28**|**Self-Supervised Motion Magnification by Backpropagating Through Optical Flow**|Zhaoying Pan et.al.|[2311.17056v1](http://arxiv.org/abs/2311.17056v1)|null|
 |**2023-11-28**|**No Representation Rules Them All in Category Discovery**|Sagar Vaze et.al.|[2311.17055v1](http://arxiv.org/abs/2311.17055v1)|null|

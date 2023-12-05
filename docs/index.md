@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models**|Xunguang Wang et.al.|[2312.01886v1](http://arxiv.org/abs/2312.01886v1)|null|
+|**2023-12-04**|**Adversarial Medical Image with Hierarchical Feature Hiding**|Qingsong Yao et.al.|[2312.01679v1](http://arxiv.org/abs/2312.01679v1)|**[link](https://github.com/qsyao/hierarchical_feature_constraint)**|
 |**2023-11-30**|**Universal Backdoor Attacks**|Benjamin Schneider et.al.|[2312.00157v1](http://arxiv.org/abs/2312.00157v1)|null|
 |**2023-11-28**|**Rethinking Mixup for Improving the Adversarial Transferability**|Xiaosen Wang et.al.|[2311.17087v1](http://arxiv.org/abs/2311.17087v1)|null|
 |**2023-11-28**|**Efficient Key-Based Adversarial Defense for ImageNet by Using Pre-trained Model**|AprilPyone MaungMaung et.al.|[2311.16577v1](http://arxiv.org/abs/2311.16577v1)|null|
@@ -332,6 +334,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156v1](http://arxiv.org/abs/2312.02156v1)|null|
+|**2023-12-04**|**Momentum-space formulae for AdS correlators for diverse theories in diverse dimensions**|Soner Albayrak et.al.|[2312.02154v1](http://arxiv.org/abs/2312.02154v1)|null|
+|**2023-12-04**|**Aligning and Prompting Everything All at Once for Universal Visual Perception**|Yunhang Shen et.al.|[2312.02153v1](http://arxiv.org/abs/2312.02153v1)|**[link](https://github.com/shenyunhang/ape)**|
+|**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152v1](http://arxiv.org/abs/2312.02152v1)|**[link](https://github.com/georg-bn/rotation-steerers)**|
+|**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150v1](http://arxiv.org/abs/2312.02150v1)|null|
+|**2023-12-04**|**Generative Powers of Ten**|Xiaojuan Wang et.al.|[2312.02149v1](http://arxiv.org/abs/2312.02149v1)|null|
+|**2023-12-04**|**Rejuvenating image-GPT as Strong Visual Representation Learners**|Sucheng Ren et.al.|[2312.02147v1](http://arxiv.org/abs/2312.02147v1)|**[link](https://github.com/oliverrensu/d-igpt)**|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145v1](http://arxiv.org/abs/2312.02145v1)|null|
+|**2023-12-04**|**Optimizing Camera Configurations for Multi-View Pedestrian Detection**|Yunzhong Hou et.al.|[2312.02144v1](http://arxiv.org/abs/2312.02144v1)|null|
+|**2023-12-04**|**Competition-Level Problems Are Effective Evaluators of LLMs**|Yiming Huang et.al.|[2312.02143v1](http://arxiv.org/abs/2312.02143v1)|null|
 |**2023-12-01**|**Sequential Modeling Enables Scalable Learning for Large Vision Models**|Yutong Bai et.al.|[2312.00785v1](http://arxiv.org/abs/2312.00785v1)|null|
 |**2023-12-01**|**Making Large Multimodal Models Understand Arbitrary Visual Prompts**|Mu Cai et.al.|[2312.00784v1](http://arxiv.org/abs/2312.00784v1)|null|
 |**2023-12-01**|**Modeling False Data Injection Attacks on Integrated Electricity-Gas Systems**|Rong-Peng Liu et.al.|[2312.00781v1](http://arxiv.org/abs/2312.00781v1)|null|

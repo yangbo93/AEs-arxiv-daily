@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Singular Regularization with Information Bottleneck Improves Model's Adversarial Robustness**|Guanlin Li et.al.|[2312.02237v1](http://arxiv.org/abs/2312.02237v1)|null|
+|**2023-12-03**|**QuantAttack: Exploiting Dynamic Quantization to Attack Vision Transformers**|Amit Baras et.al.|[2312.02220v1](http://arxiv.org/abs/2312.02220v1)|null|
+|**2023-12-03**|**TranSegPGD: Improving Transferability of Adversarial Examples on Semantic Segmentation**|Xiaojun Jia et.al.|[2312.02207v1](http://arxiv.org/abs/2312.02207v1)|null|
 |**2023-12-04**|**InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models**|Xunguang Wang et.al.|[2312.01886v1](http://arxiv.org/abs/2312.01886v1)|null|
 |**2023-12-04**|**Adversarial Medical Image with Hierarchical Feature Hiding**|Qingsong Yao et.al.|[2312.01679v1](http://arxiv.org/abs/2312.01679v1)|**[link](https://github.com/qsyao/hierarchical_feature_constraint)**|
 |**2023-11-30**|**Universal Backdoor Attacks**|Benjamin Schneider et.al.|[2312.00157v1](http://arxiv.org/abs/2312.00157v1)|null|
@@ -334,6 +337,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Probing supermassive black hole seed scenarios with gravitational wave measurements**|John Ellis et.al.|[2312.02983v1](http://arxiv.org/abs/2312.02983v1)|null|
+|**2023-12-05**|**Feshbach hypothesis of high-Tc superconductivity in cuprates**|Lukas Homeier et.al.|[2312.02982v1](http://arxiv.org/abs/2312.02982v1)|null|
+|**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980v1](http://arxiv.org/abs/2312.02980v1)|null|
+|**2023-12-05**|**Floquet Chiral Quantum Walk in Quantum Computer**|Chan Bin Bark et.al.|[2312.02979v1](http://arxiv.org/abs/2312.02979v1)|null|
+|**2023-12-05**|**Scattering theory of mesons in doped antiferromagnetic Mott insulators: Multichannel perspective and Feshbach resonance**|Lukas Homeier et.al.|[2312.02978v1](http://arxiv.org/abs/2312.02978v1)|null|
+|**2023-12-05**|**Exploring the nonclassical dynamics of the "classical'' Schrödinger equation**|David Navia et.al.|[2312.02977v1](http://arxiv.org/abs/2312.02977v1)|null|
+|**2023-12-05**|**Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World**|Kiana Ehsani et.al.|[2312.02976v1](http://arxiv.org/abs/2312.02976v1)|null|
+|**2023-12-05**|**Describing Differences in Image Sets with Natural Language**|Lisa Dunlap et.al.|[2312.02974v1](http://arxiv.org/abs/2312.02974v1)|**[link](https://github.com/understanding-visual-datasets/visdiff)**|
+|**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973v1](http://arxiv.org/abs/2312.02973v1)|**[link](https://github.com/skhu101/gauhuman)**|
+|**2023-12-05**|**PROSPECT: A profile likelihood code for frequentist cosmological parameter inference**|Emil Brinch Holm et.al.|[2312.02972v1](http://arxiv.org/abs/2312.02972v1)|null|
 |**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156v1](http://arxiv.org/abs/2312.02156v1)|null|
 |**2023-12-04**|**Momentum-space formulae for AdS correlators for diverse theories in diverse dimensions**|Soner Albayrak et.al.|[2312.02154v1](http://arxiv.org/abs/2312.02154v1)|null|
 |**2023-12-04**|**Aligning and Prompting Everything All at Once for Universal Visual Perception**|Yunhang Shen et.al.|[2312.02153v1](http://arxiv.org/abs/2312.02153v1)|**[link](https://github.com/shenyunhang/ape)**|

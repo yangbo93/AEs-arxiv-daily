@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.12.07
+## Updated on 2023.12.08
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-06**|**Class Incremental Learning for Adversarial Robustness**|Seungju Cho et.al.|[2312.03289v1](http://arxiv.org/abs/2312.03289v1)|null|
+|**2023-12-07**|**Class Incremental Learning for Adversarial Robustness**|Seungju Cho et.al.|[2312.03289v2](http://arxiv.org/abs/2312.03289v2)|null|
 |**2023-12-06**|**A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System**|Xinwei Yuan et.al.|[2312.03245v1](http://arxiv.org/abs/2312.03245v1)|null|
 |**2023-12-05**|**ScAR: Scaling Adversarial Robustness for LiDAR Object Detection**|Xiaohu Lu et.al.|[2312.03085v1](http://arxiv.org/abs/2312.03085v1)|null|
 |**2023-12-05**|**Generating Visually Realistic Adversarial Patch**|Xiaosen Wang et.al.|[2312.03030v1](http://arxiv.org/abs/2312.03030v1)|null|
@@ -346,7 +346,7 @@ layout: default
 |**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v1](http://arxiv.org/abs/2312.03701v1)|**[link](https://github.com/LTH14/rcg)**|
 |**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700v1](http://arxiv.org/abs/2312.03700v1)|**[link](https://github.com/csuhan/onellm)**|
 |**2023-12-06**|**PROMISE: A Framework for Model-Driven Stateful Prompt Orchestration**|Wenyuan Wu et.al.|[2312.03699v1](http://arxiv.org/abs/2312.03699v1)|null|
-|**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698v1](http://arxiv.org/abs/2312.03698v1)|null|
+|**2023-12-07**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698v2](http://arxiv.org/abs/2312.03698v2)|null|
 |**2023-12-06**|**Bayesian estimation of cross-coupling and reflection systematics in 21cm array visibility data**|Geoff G. Murphy et.al.|[2312.03697v1](http://arxiv.org/abs/2312.03697v1)|null|
 |**2023-12-06**|**Efficient Learning in Polyhedral Games via Best Response Oracles**|Darshan Chakrabarti et.al.|[2312.03696v1](http://arxiv.org/abs/2312.03696v1)|null|
 |**2023-12-06**|**Revisiting the averaged annihilation rate of thermal relics at low temperature**|A. Arbey et.al.|[2312.03695v1](http://arxiv.org/abs/2312.03695v1)|null|

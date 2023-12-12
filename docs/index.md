@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960v1](http://arxiv.org/abs/2312.04960v1)|null|
+|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960v1](http://arxiv.org/abs/2312.04960v1)|**[link](https://github.com/xiaoyunxxy/mimir)**|
 |**2023-12-08**|**SA-Attack: Improving Adversarial Transferability of Vision-Language Pre-training Models via Self-Augmentation**|Bangyan He et.al.|[2312.04913v1](http://arxiv.org/abs/2312.04913v1)|null|
 |**2023-12-08**|**HC-Ref: Hierarchical Constrained Refinement for Robust Adversarial Training of GNNs**|Xiaobing Pei et.al.|[2312.04879v1](http://arxiv.org/abs/2312.04879v1)|null|
 |**2023-12-07**|**OT-Attack: Enhancing Adversarial Transferability of Vision-Language Models via Optimal Transport Optimization**|Dongchen Han et.al.|[2312.04403v1](http://arxiv.org/abs/2312.04403v1)|null|
 |**2023-12-07**|**Class Incremental Learning for Adversarial Robustness**|Seungju Cho et.al.|[2312.03289v2](http://arxiv.org/abs/2312.03289v2)|null|
 |**2023-12-06**|**A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System**|Xinwei Yuan et.al.|[2312.03245v1](http://arxiv.org/abs/2312.03245v1)|null|
-|**2023-12-05**|**ScAR: Scaling Adversarial Robustness for LiDAR Object Detection**|Xiaohu Lu et.al.|[2312.03085v1](http://arxiv.org/abs/2312.03085v1)|null|
+|**2023-12-05**|**ScAR: Scaling Adversarial Robustness for LiDAR Object Detection**|Xiaohu Lu et.al.|[2312.03085v1](http://arxiv.org/abs/2312.03085v1)|**[link](https://github.com/xiaohulugo/ScAR-Scaling-Adversarial-Robustness-for-LiDAR-Object-Detection)**|
 |**2023-12-05**|**Generating Visually Realistic Adversarial Patch**|Xiaosen Wang et.al.|[2312.03030v1](http://arxiv.org/abs/2312.03030v1)|null|
 |**2023-12-04**|**Singular Regularization with Information Bottleneck Improves Model's Adversarial Robustness**|Guanlin Li et.al.|[2312.02237v1](http://arxiv.org/abs/2312.02237v1)|null|
 |**2023-12-03**|**QuantAttack: Exploiting Dynamic Quantization to Attack Vision Transformers**|Amit Baras et.al.|[2312.02220v1](http://arxiv.org/abs/2312.02220v1)|null|

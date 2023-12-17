@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**Defenses in Adversarial Machine Learning: A Survey**|Baoyuan Wu et.al.|[2312.08890v1](http://arxiv.org/abs/2312.08890v1)|null|
+|**2023-12-12**|**May the Noise be with you: Adversarial Training without Adversarial Examples**|Ayoub Arous et.al.|[2312.08877v1](http://arxiv.org/abs/2312.08877v1)|null|
 |**2023-12-13**|**Accelerating the Global Aggregation of Local Explanations**|Alon Mor et.al.|[2312.07991v1](http://arxiv.org/abs/2312.07991v1)|null|
 |**2023-12-13**|**Robust Few-Shot Named Entity Recognition with Boundary Discrimination and Correlation Purification**|Xiaojun Xue et.al.|[2312.07961v1](http://arxiv.org/abs/2312.07961v1)|**[link](https://github.com/ckgconstruction/bdcp)**|
 |**2023-12-13**|**Radio Signal Classification by Adversarially Robust Quantum Machine Learning**|Yanqiu Wu et.al.|[2312.07821v1](http://arxiv.org/abs/2312.07821v1)|null|
@@ -355,6 +357,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256v1](http://arxiv.org/abs/2312.09256v1)|null|
+|**2023-12-14**|**Quark-lepton mass relations from modular flavor symmetry**|Mu-Chun Chen et.al.|[2312.09255v1](http://arxiv.org/abs/2312.09255v1)|null|
+|**2023-12-14**|**Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization**|Luca Bartolomei et.al.|[2312.09254v1](http://arxiv.org/abs/2312.09254v1)|**[link](https://github.com/bartn8/vppdc)**|
+|**2023-12-14**|**Bayesian Optimization for Robust State Preparation in Quantum Many-Body Systems**|Tizian Blatz et.al.|[2312.09253v1](http://arxiv.org/abs/2312.09253v1)|null|
+|**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252v1](http://arxiv.org/abs/2312.09252v1)|null|
+|**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251v1](http://arxiv.org/abs/2312.09251v1)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
+|**2023-12-14**|**Single Mesh Diffusion Models with Field Latents for Texture Generation**|Thomas W. Mitchel et.al.|[2312.09250v1](http://arxiv.org/abs/2312.09250v1)|null|
+|**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249v1](http://arxiv.org/abs/2312.09249v1)|null|
+|**2023-12-14**|**Absence of a direct metal to Mott insulator transition for disordered interacting fermions on the Cayley tree**|Ankita Chakrabarti et.al.|[2312.09247v1](http://arxiv.org/abs/2312.09247v1)|null|
+|**2023-12-14**|**DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving**|Wenhai Wang et.al.|[2312.09245v1](http://arxiv.org/abs/2312.09245v1)|**[link](https://github.com/opengvlab/drivemlm)**|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v1](http://arxiv.org/abs/2312.08372v1)|null|
 |**2023-12-13**|**PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**|Kuan-Chih Huang et.al.|[2312.08371v1](http://arxiv.org/abs/2312.08371v1)|null|
 |**2023-12-13**|**The Effective Horizon Explains Deep RL Performance in Stochastic Environments**|Cassidy Laidlaw et.al.|[2312.08369v1](http://arxiv.org/abs/2312.08369v1)|null|

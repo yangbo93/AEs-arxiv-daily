@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer**|Yuxin Cao et.al.|[2312.09935v1](http://arxiv.org/abs/2312.09935v1)|**[link](https://github.com/ziyuzhao-zzy/logostylefool)**|
+|**2023-12-15**|**Verification-Friendly Deep Neural Networks**|Anahita Baninajjar et.al.|[2312.09748v1](http://arxiv.org/abs/2312.09748v1)|null|
+|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558v1](http://arxiv.org/abs/2312.09558v1)|null|
+|**2023-12-15**|**Embodied Adversarial Attack: A Dynamic Robust Physical Attack in Autonomous Driving**|Yitong Sun et.al.|[2312.09554v1](http://arxiv.org/abs/2312.09554v1)|null|
+|**2023-12-15**|**SlowTrack: Increasing the Latency of Camera-based Perception in Autonomous Driving Using Adversarial Examples**|Chen Ma et.al.|[2312.09520v1](http://arxiv.org/abs/2312.09520v1)|null|
 |**2023-12-13**|**Defenses in Adversarial Machine Learning: A Survey**|Baoyuan Wu et.al.|[2312.08890v1](http://arxiv.org/abs/2312.08890v1)|null|
 |**2023-12-12**|**May the Noise be with you: Adversarial Training without Adversarial Examples**|Ayoub Arous et.al.|[2312.08877v1](http://arxiv.org/abs/2312.08877v1)|null|
 |**2023-12-13**|**Accelerating the Global Aggregation of Local Explanations**|Alon Mor et.al.|[2312.07991v1](http://arxiv.org/abs/2312.07991v1)|null|
@@ -357,6 +362,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035v1](http://arxiv.org/abs/2312.10035v1)|**[link](https://github.com/pointcept/pointtransformerv3)**|
+|**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034v1](http://arxiv.org/abs/2312.10034v1)|**[link](https://github.com/shiran-yuan/slimmerf)**|
+|**2023-12-15**|**Earliest Galaxies in the JADES Origins Field: Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang**|Brant Robertson et.al.|[2312.10033v1](http://arxiv.org/abs/2312.10033v1)|null|
+|**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032v1](http://arxiv.org/abs/2312.10032v1)|**[link](https://github.com/circleradon/osprey)**|
+|**2023-12-15**|**Secular Dynamics of Compact Three-Planet Systems**|Qing Yang et.al.|[2312.10031v1](http://arxiv.org/abs/2312.10031v1)|null|
+|**2023-12-15**|**Arm exponent for the Gaussian free field on metric graphs in intermediate dimensions**|Alexander Drewitz et.al.|[2312.10030v1](http://arxiv.org/abs/2312.10030v1)|null|
+|**2023-12-15**|**Challenges with unsupervised LLM knowledge discovery**|Sebastian Farquhar et.al.|[2312.10029v1](http://arxiv.org/abs/2312.10029v1)|null|
+|**2023-12-15**|**Entanglement entropy of two disjoint intervals and spin structures in interacting chains in and out of equilibrium**|Vanja Marić et.al.|[2312.10028v1](http://arxiv.org/abs/2312.10028v1)|null|
+|**2023-12-15**|**A new lower bound for sphere packing**|Marcelo Campos et.al.|[2312.10026v1](http://arxiv.org/abs/2312.10026v1)|null|
+|**2023-12-15**|**PhenomXO4a: a phenomenological gravitational-wave model for precessing black-hole binaries with higher multipoles and asymmetries**|Jonathan E. Thompson et.al.|[2312.10025v1](http://arxiv.org/abs/2312.10025v1)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256v1](http://arxiv.org/abs/2312.09256v1)|null|
 |**2023-12-14**|**Quark-lepton mass relations from modular flavor symmetry**|Mu-Chun Chen et.al.|[2312.09255v1](http://arxiv.org/abs/2312.09255v1)|null|
 |**2023-12-14**|**Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization**|Luca Bartolomei et.al.|[2312.09254v1](http://arxiv.org/abs/2312.09254v1)|**[link](https://github.com/bartn8/vppdc)**|

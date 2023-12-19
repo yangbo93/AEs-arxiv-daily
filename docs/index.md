@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-16**|**Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off**|Yu-An Liu et.al.|[2312.10329v1](http://arxiv.org/abs/2312.10329v1)|null|
 |**2023-12-15**|**LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer**|Yuxin Cao et.al.|[2312.09935v1](http://arxiv.org/abs/2312.09935v1)|**[link](https://github.com/ziyuzhao-zzy/logostylefool)**|
 |**2023-12-15**|**Verification-Friendly Deep Neural Networks**|Anahita Baninajjar et.al.|[2312.09748v1](http://arxiv.org/abs/2312.09748v1)|null|
 |**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558v1](http://arxiv.org/abs/2312.09558v1)|null|
@@ -362,6 +363,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**The generating functions arise from the quotients of numerical semigroups**|Feihu Liu et.al.|[2312.10889v1](http://arxiv.org/abs/2312.10889v1)|null|
+|**2023-12-18**|**On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles**|Marcus Gozon et.al.|[2312.10887v1](http://arxiv.org/abs/2312.10887v1)|null|
+|**2023-12-18**|**Unconventional $s$-Wave Pairing with Point-Node-Like Gap Structure in UTe$_2$**|Shingo Haruna et.al.|[2312.10886v1](http://arxiv.org/abs/2312.10886v1)|null|
+|**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885v1](http://arxiv.org/abs/2312.10885v1)|null|
+|**2023-12-18**|**Backward stochastic difference equations on lattices with application to market equilibrium analysis**|Masaaki Fukasawa et.al.|[2312.10883v1](http://arxiv.org/abs/2312.10883v1)|null|
+|**2023-12-18**|**Dirac walks on regular trees**|Nicolas Delporte et.al.|[2312.10881v1](http://arxiv.org/abs/2312.10881v1)|null|
+|**2023-12-18**|**Sharable Clothoid-based Continuous Motion Planning for Connected Automated Vehicles**|Sanghoon Oh et.al.|[2312.10880v1](http://arxiv.org/abs/2312.10880v1)|null|
+|**2023-12-18**|**Development and Evaluation of Ensemble Learning-based Environmental Methane Detection and Intensity Prediction Models**|Reek Majumder et.al.|[2312.10879v1](http://arxiv.org/abs/2312.10879v1)|null|
+|**2023-12-18**|**Time-periodic solutions to the Navier--Stokes equations on the whole space including the two-dimensional case**|Mikihiro Fujii et.al.|[2312.10878v1](http://arxiv.org/abs/2312.10878v1)|null|
+|**2023-12-18**|**Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**|Hui Fu et.al.|[2312.10877v1](http://arxiv.org/abs/2312.10877v1)|null|
 |**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035v1](http://arxiv.org/abs/2312.10035v1)|**[link](https://github.com/pointcept/pointtransformerv3)**|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034v1](http://arxiv.org/abs/2312.10034v1)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**Earliest Galaxies in the JADES Origins Field: Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang**|Brant Robertson et.al.|[2312.10033v1](http://arxiv.org/abs/2312.10033v1)|null|

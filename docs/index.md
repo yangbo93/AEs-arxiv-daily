@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**The Ultimate Combo: Boosting Adversarial Example Transferability by Composing Data Augmentations**|Zebin Yun et.al.|[2312.11309v1](http://arxiv.org/abs/2312.11309v1)|null|
+|**2023-12-18**|**The Pros and Cons of Adversarial Robustness**|Yacine Izza et.al.|[2312.10911v1](http://arxiv.org/abs/2312.10911v1)|null|
 |**2023-12-16**|**Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off**|Yu-An Liu et.al.|[2312.10329v1](http://arxiv.org/abs/2312.10329v1)|null|
 |**2023-12-15**|**LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer**|Yuxin Cao et.al.|[2312.09935v1](http://arxiv.org/abs/2312.09935v1)|**[link](https://github.com/ziyuzhao-zzy/logostylefool)**|
 |**2023-12-15**|**Verification-Friendly Deep Neural Networks**|Anahita Baninajjar et.al.|[2312.09748v1](http://arxiv.org/abs/2312.09748v1)|null|
@@ -363,6 +365,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Weakly Supervised Open-Vocabulary Object Detection**|Jianghang Lin et.al.|[2312.12437v1](http://arxiv.org/abs/2312.12437v1)|null|
+|**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|null|
+|**2023-12-19**|**Orisometry formalism reveals duality and exotic nonuniform response in origami sheets**|Michael Czajkowski et.al.|[2312.12432v1](http://arxiv.org/abs/2312.12432v1)|null|
+|**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431v1](http://arxiv.org/abs/2312.12431v1)|**[link](https://github.com/viettmab/sa-dpm)**|
+|**2023-12-19**|**Efficient Title Reranker for Fast and Improved Knowledge-Intense NLP**|Ziyi Chen et.al.|[2312.12430v1](http://arxiv.org/abs/2312.12430v1)|null|
+|**2023-12-19**|**The Endoscapes Dataset for Surgical Scene Segmentation, Object Detection, and Critical View of Safety Assessment: Official Splits and Benchmark**|Aditya Murali et.al.|[2312.12429v1](http://arxiv.org/abs/2312.12429v1)|null|
+|**2023-12-19**|**ROSE: A reduced-order scattering emulator for optical models**|Daniel Odell et.al.|[2312.12426v1](http://arxiv.org/abs/2312.12426v1)|null|
+|**2023-12-19**|**SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process**|Mengyu Wang et.al.|[2312.12425v1](http://arxiv.org/abs/2312.12425v1)|**[link](https://github.com/mengyuwang826/segrefiner)**|
+|**2023-12-19**|**Loop corrections in the separate universe picture**|Laura Iacconi et.al.|[2312.12424v1](http://arxiv.org/abs/2312.12424v1)|null|
+|**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423v1](http://arxiv.org/abs/2312.12423v1)|null|
 |**2023-12-18**|**The generating functions arise from the quotients of numerical semigroups**|Feihu Liu et.al.|[2312.10889v1](http://arxiv.org/abs/2312.10889v1)|null|
 |**2023-12-18**|**On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles**|Marcus Gozon et.al.|[2312.10887v1](http://arxiv.org/abs/2312.10887v1)|null|
 |**2023-12-18**|**Unconventional $s$-Wave Pairing with Point-Node-Like Gap Structure in UTe$_2$**|Shingo Haruna et.al.|[2312.10886v1](http://arxiv.org/abs/2312.10886v1)|null|

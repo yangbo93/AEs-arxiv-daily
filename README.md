@@ -1,4 +1,4 @@
-## Updated on 2023.12.21
+## Updated on 2023.12.22
 
 ## Adversarial Examples
 
@@ -369,7 +369,7 @@
 |**2023-12-20**|**A structure preserving discretization for the Derrida-Lebowitz-Speer-Spohn equation based on diffusive transport**|Daniel Matthes et.al.|[2312.13284v1](http://arxiv.org/abs/2312.13284v1)|null|
 |**2023-12-20**|**Interpolating Bremsstrahlung function in ABJM**|Luigi Castiglioni et.al.|[2312.13283v1](http://arxiv.org/abs/2312.13283v1)|null|
 |**2023-12-20**|**SN 2021adxl: A luminous nearby interacting supernova in an extremely low metallicity environment**|S. J. Brennan et.al.|[2312.13280v1](http://arxiv.org/abs/2312.13280v1)|null|
-|**2023-12-20**|**Stretch with Stretch: Physical Therapy Exercise Games Led by a Mobile Manipulator**|Matthew Lamsey et.al.|[2312.13279v1](http://arxiv.org/abs/2312.13279v1)|null|
+|**2023-12-21**|**Stretch with Stretch: Physical Therapy Exercise Games Led by a Mobile Manipulator**|Matthew Lamsey et.al.|[2312.13279v2](http://arxiv.org/abs/2312.13279v2)|null|
 |**2023-12-20**|**Kaluza-Klein Spectroscopy from Neutron Oscillations into Hidden Dimensions**|Gia Dvali et.al.|[2312.13278v1](http://arxiv.org/abs/2312.13278v1)|null|
 |**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277v1](http://arxiv.org/abs/2312.13277v1)|null|
 |**2023-12-20**|**High-precision measurements of terahertz polarization states with a fiber coupled time-domain THz spectrometer**|Zhenisbek Tagay et.al.|[2312.13276v1](http://arxiv.org/abs/2312.13276v1)|null|

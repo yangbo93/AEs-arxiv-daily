@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Where and How to Attack? A Causality-Inspired Recipe for Generating Counterfactual Adversarial Examples**|Ruichu Cai et.al.|[2312.13628v1](http://arxiv.org/abs/2312.13628v1)|null|
 |**2023-12-20**|**LRS: Enhancing Adversarial Transferability through Lipschitz Regularized Surrogate**|Tao Wu et.al.|[2312.13118v1](http://arxiv.org/abs/2312.13118v1)|**[link](https://github.com/trustaiot/lrs)**|
 |**2023-12-20**|**PGN: A perturbation generation network against deep reinforcement learning**|Xiangjuan Li et.al.|[2312.12904v1](http://arxiv.org/abs/2312.12904v1)|null|
 |**2023-12-18**|**The Ultimate Combo: Boosting Adversarial Example Transferability by Composing Data Augmentations**|Zebin Yun et.al.|[2312.11309v1](http://arxiv.org/abs/2312.11309v1)|null|
@@ -367,6 +368,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Formation of stripes in a mixed-dimensional cold-atom Fermi-Hubbard system**|Dominik Bourgund et.al.|[2312.14156v1](http://arxiv.org/abs/2312.14156v1)|null|
+|**2023-12-21**|**Entanglement Rényi Negativity of Interacting Fermions from Quantum Monte Carlo Simulations**|Fo-Hong Wang et.al.|[2312.14155v1](http://arxiv.org/abs/2312.14155v1)|null|
+|**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
+|**2023-12-21**|**A Dark Sink Enhances the Direct Detection of Freeze-in Dark Matter**|Prudhvi N. Bhattiprolu et.al.|[2312.14152v1](http://arxiv.org/abs/2312.14152v1)|null|
+|**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[2312.14150v1](http://arxiv.org/abs/2312.14150v1)|**[link](https://github.com/opendrivelab/drivelm)**|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149v1](http://arxiv.org/abs/2312.14149v1)|null|
+|**2023-12-21**|**Fundamental charges for dual-unitary circuits**|Tom Holden-Dye et.al.|[2312.14148v1](http://arxiv.org/abs/2312.14148v1)|null|
+|**2023-12-21**|**On a sufficient condition for explosion in CMJ branching processes and applications to recursive trees**|Tejas Iyer et.al.|[2312.14147v1](http://arxiv.org/abs/2312.14147v1)|null|
+|**2023-12-21**|**Non-factorisable Contributions of Strong-Penguin Operators in $Λ_b \to Λ\ell^+\ell^-$ Decays**|Thorsten Feldmann et.al.|[2312.14146v1](http://arxiv.org/abs/2312.14146v1)|null|
+|**2023-12-21**|**Two-loop mixed QCD-electroweak amplitudes for $Z+$jet production at the LHC: bosonic corrections**|Piotr Bargiela et.al.|[2312.14145v1](http://arxiv.org/abs/2312.14145v1)|null|
 |**2023-12-20**|**Dust growth and evolution in protoplanetary disks**|Tilman Birnstiel et.al.|[2312.13287v1](http://arxiv.org/abs/2312.13287v1)|null|
 |**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286v1](http://arxiv.org/abs/2312.13286v1)|null|
 |**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285v1](http://arxiv.org/abs/2312.13285v1)|null|

@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**AutoAugment Input Transformation for Highly Transferable Targeted Attacks**|Haobo Lu et.al.|[2312.14218v1](http://arxiv.org/abs/2312.14218v1)|null|
 |**2023-12-21**|**Where and How to Attack? A Causality-Inspired Recipe for Generating Counterfactual Adversarial Examples**|Ruichu Cai et.al.|[2312.13628v1](http://arxiv.org/abs/2312.13628v1)|null|
 |**2023-12-20**|**LRS: Enhancing Adversarial Transferability through Lipschitz Regularized Surrogate**|Tao Wu et.al.|[2312.13118v1](http://arxiv.org/abs/2312.13118v1)|**[link](https://github.com/trustaiot/lrs)**|
 |**2023-12-20**|**PGN: A perturbation generation network against deep reinforcement learning**|Xiangjuan Li et.al.|[2312.12904v1](http://arxiv.org/abs/2312.12904v1)|null|
@@ -364,6 +365,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929v1](http://arxiv.org/abs/2312.14929v1)|null|
+|**2023-12-22**|**Family Puzzle, Framing Topology, $c_-=24$ and 3(E8)$_1$ Conformal Field Theories: 48/16 = 45/15 = 24/8 =3**|Juven Wang et.al.|[2312.14928v1](http://arxiv.org/abs/2312.14928v1)|null|
+|**2023-12-22**|**Model Reduction to Spectral Submanifolds in Non-Smooth Dynamical Systems**|Leonardo Bettini et.al.|[2312.14927v1](http://arxiv.org/abs/2312.14927v1)|null|
+|**2023-12-22**|**Topological Green's function zeros in an exactly solved model and beyond**|Steffen Bollmann et.al.|[2312.14926v1](http://arxiv.org/abs/2312.14926v1)|null|
+|**2023-12-22**|**A Survey of Reinforcement Learning from Human Feedback**|Timo Kaufmann et.al.|[2312.14925v1](http://arxiv.org/abs/2312.14925v1)|null|
+|**2023-12-22**|**Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models**|Guihong Li et.al.|[2312.14923v1](http://arxiv.org/abs/2312.14923v1)|null|
+|**2023-12-22**|**Learning from higher-order statistics, efficiently: hypothesis tests, random features, and neural networks**|Eszter Székely et.al.|[2312.14922v1](http://arxiv.org/abs/2312.14922v1)|**[link](https://github.com/eszter137/data-driven-separation)**|
+|**2023-12-22**|**Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**|James Gunn et.al.|[2312.14919v1](http://arxiv.org/abs/2312.14919v1)|null|
+|**2023-12-22**|**Untangling the valley structure of states for intravalley exchange anisotropy in lead chalcogenides quantum dots**|I. D. Avdeev et.al.|[2312.14918v1](http://arxiv.org/abs/2312.14918v1)|null|
+|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|null|
 |**2023-12-21**|**Formation of stripes in a mixed-dimensional cold-atom Fermi-Hubbard system**|Dominik Bourgund et.al.|[2312.14156v1](http://arxiv.org/abs/2312.14156v1)|null|
 |**2023-12-21**|**Entanglement Rényi Negativity of Interacting Fermions from Quantum Monte Carlo Simulations**|Fo-Hong Wang et.al.|[2312.14155v1](http://arxiv.org/abs/2312.14155v1)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 
 ## Adversarial Examples
 
@@ -372,7 +372,7 @@
 |**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168v1](http://arxiv.org/abs/2312.16168v1)|**[link](https://github.com/vita-epfl/social-transmotion)**|
 |**2023-12-26**|**Microwave signal processing using an analog quantum reservoir computer**|Alen Senanian et.al.|[2312.16166v1](http://arxiv.org/abs/2312.16166v1)|null|
 |**2023-12-26**|**Age of Information in Gossip Networks: A Friendly Introduction and Literature Survey**|Priyanka Kaswan et.al.|[2312.16163v1](http://arxiv.org/abs/2312.16163v1)|null|
-|**2023-12-26**|**Properties of Test Statistics for Nonparametric Cointegrating Regression Functions Based on Subsamples**|Sepideh Mosaferi et.al.|[2312.16162v1](http://arxiv.org/abs/2312.16162v1)|null|
+|**2023-12-26**|**Properties of Test Statistics for Nonparametric Cointegrating Regression Functions Based on Subsamples**|Sepideh Mosaferi et.al.|[2312.16162v1](http://arxiv.org/abs/2312.16162v1)|**[link](https://github.com/sepidehmosaferi/teststatistics_subsampling)**|
 |**2023-12-26**|**Can the creation of separate bidding zones within countries create imbalances in PV uptake? Evidence from Sweden**|Johanna Fink et.al.|[2312.16161v1](http://arxiv.org/abs/2312.16161v1)|null|
 |**2023-12-26**|**SymmPI: Predictive Inference for Data with Group Symmetries**|Edgar Dobriban et.al.|[2312.16160v1](http://arxiv.org/abs/2312.16160v1)|null|
 |**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159v1](http://arxiv.org/abs/2312.16159v1)|null|

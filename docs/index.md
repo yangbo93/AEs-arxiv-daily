@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**BlackboxBench: A Comprehensive Benchmark of Black-box Adversarial Attacks**|Meixi Zheng et.al.|[2312.16979v1](http://arxiv.org/abs/2312.16979v1)|**[link](https://github.com/SCLBD/BlackboxBench)**|
+|**2023-12-28**|**Attack Tree Analysis for Adversarial Evasion Attacks**|Yuki Yamaguchi et.al.|[2312.16957v1](http://arxiv.org/abs/2312.16957v1)|null|
 |**2023-12-26**|**From Text to Multimodal: A Comprehensive Survey of Adversarial Example Generation in Question Answering Systems**|Gulsum Yigit et.al.|[2312.16156v1](http://arxiv.org/abs/2312.16156v1)|null|
 |**2023-12-25**|**GanFinger: GAN-Based Fingerprint Generation for Deep Neural Network Ownership Verification**|Huali Ren et.al.|[2312.15617v1](http://arxiv.org/abs/2312.15617v1)|null|
 |**2023-12-21**|**AutoAugment Input Transformation for Highly Transferable Targeted Attacks**|Haobo Lu et.al.|[2312.14218v1](http://arxiv.org/abs/2312.14218v1)|null|
@@ -371,6 +373,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250v1](http://arxiv.org/abs/2312.17250v1)|**[link](https://github.com/chinhsuanwu/ifusion)**|
+|**2023-12-28**|**Do Androids Know They're Only Dreaming of Electric Sheep?**|Sky CH-Wang et.al.|[2312.17249v1](http://arxiv.org/abs/2312.17249v1)|null|
+|**2023-12-28**|**Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity**|Guhao Feng et.al.|[2312.17248v1](http://arxiv.org/abs/2312.17248v1)|null|
+|**2023-12-28**|**Amodal Ground Truth and Completion in the Wild**|Guanqi Zhan et.al.|[2312.17247v1](http://arxiv.org/abs/2312.17247v1)|**[link](https://github.com/Championchess/Amodal-Completion-in-the-Wild)**|
+|**2023-12-28**|**Dark matter freeze-in from non-equilibrium QFT: towards a consistent treatment of thermal effects**|Mathias Becker et.al.|[2312.17246v1](http://arxiv.org/abs/2312.17246v1)|null|
+|**2023-12-28**|**On Carrollian and Galilean contractions of BMS algebra in 3 and 4 dimensions**|Andrzej Borowiec et.al.|[2312.17245v1](http://arxiv.org/abs/2312.17245v1)|null|
+|**2023-12-28**|**The LLM Surgeon**|Tycho F. A. van der Ouderaa et.al.|[2312.17244v1](http://arxiv.org/abs/2312.17244v1)|null|
+|**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243v1](http://arxiv.org/abs/2312.17243v1)|**[link](https://github.com/u2seg/u2seg)**|
+|**2023-12-28**|**Learning to Generate Text in Arbitrary Writing Styles**|Aleem Khan et.al.|[2312.17242v1](http://arxiv.org/abs/2312.17242v1)|null|
+|**2023-12-28**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240v1](http://arxiv.org/abs/2312.17240v1)|null|
 |**2023-12-26**|**Balanced Turbulence and the Helicity Barrier in Black Hole Accretion**|George N. Wong et.al.|[2312.16172v1](http://arxiv.org/abs/2312.16172v1)|null|
 |**2023-12-26**|**Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4**|Sondos Mahmoud Bsharat et.al.|[2312.16171v1](http://arxiv.org/abs/2312.16171v1)|**[link](https://github.com/vila-lab/atlas)**|
 |**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168v1](http://arxiv.org/abs/2312.16168v1)|**[link](https://github.com/vita-epfl/social-transmotion)**|

@@ -369,6 +369,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries**|Kanak Raj et.al.|[2312.17748v1](http://arxiv.org/abs/2312.17748v1)|null|
+|**2023-12-29**|**On the 4d/3d/2d view of the SCFT/VOA correspondence**|Mykola Dedushenko et.al.|[2312.17747v1](http://arxiv.org/abs/2312.17747v1)|null|
+|**2023-12-29**|**Fermion-Monopole Scattering in the Standard Model**|Marieke van Beest et.al.|[2312.17746v1](http://arxiv.org/abs/2312.17746v1)|null|
+|**2023-12-29**|**Universality classes for purification in nonunitary quantum processes**|Andrea De Luca et.al.|[2312.17744v1](http://arxiv.org/abs/2312.17744v1)|null|
+|**2023-12-29**|**Image Processing and Legendre Polynomials**|Enrico Celeghini et.al.|[2312.17743v1](http://arxiv.org/abs/2312.17743v1)|null|
+|**2023-12-29**|**Supersymmetric Casimir energy on $\mathcal{N}=1$ conformal supergravity backgrounds**|Pantelis Panopoulos et.al.|[2312.17740v1](http://arxiv.org/abs/2312.17740v1)|null|
+|**2023-12-29**|**Symmetry Breaking in an Extended O(2) Model**|Leon Hostetler et.al.|[2312.17739v1](http://arxiv.org/abs/2312.17739v1)|null|
+|**2023-12-29**|**Loops of Loops Expansion in the Amplituhedron**|Taro V. Brown et.al.|[2312.17736v1](http://arxiv.org/abs/2312.17736v1)|null|
+|**2023-12-29**|**Forensic Science and How Statistics Can Help It: Evidence, Hypothesis Testing, and Graphical Models**|Xiangyu Xu et.al.|[2312.17735v1](http://arxiv.org/abs/2312.17735v1)|null|
+|**2023-12-29**|**Phases of 2d massless QCD with qubit regularization**|Hanqing Liu et.al.|[2312.17734v1](http://arxiv.org/abs/2312.17734v1)|null|
 |**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250v1](http://arxiv.org/abs/2312.17250v1)|**[link](https://github.com/chinhsuanwu/ifusion)**|
 |**2023-12-28**|**Do Androids Know They're Only Dreaming of Electric Sheep?**|Sky CH-Wang et.al.|[2312.17249v1](http://arxiv.org/abs/2312.17249v1)|null|
 |**2023-12-28**|**Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity**|Guhao Feng et.al.|[2312.17248v1](http://arxiv.org/abs/2312.17248v1)|null|

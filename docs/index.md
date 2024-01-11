@@ -2,15 +2,17 @@
 layout: default
 ---
 
-## Updated on 2024.01.10
+## Updated on 2024.01.11
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350v1](http://arxiv.org/abs/2401.04350v1)|null|
+|**2024-01-06**|**Data-Dependent Stability Analysis of Adversarial Training**|Yihan Wang et.al.|[2401.03156v1](http://arxiv.org/abs/2401.03156v1)|null|
 |**2024-01-05**|**Enhancing targeted transferability via feature space fine-tuning**|Hui Zeng et.al.|[2401.02727v1](http://arxiv.org/abs/2401.02727v1)|**[link](https://github.com/zengh5/ta_feature_ft)**|
 |**2024-01-05**|**A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples**|Ryota Iijima et.al.|[2401.02633v1](http://arxiv.org/abs/2401.02633v1)|null|
-|**2024-01-04**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Langauge Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565v1](http://arxiv.org/abs/2401.02565v1)|null|
+|**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565v2](http://arxiv.org/abs/2401.02565v2)|null|
 |**2024-01-02**|**JMA: a General Algorithm to Craft Nearly Optimal Targeted Adversarial Example**|Benedetta Tondi et.al.|[2401.01199v1](http://arxiv.org/abs/2401.01199v1)|**[link](https://github.com/guowei-cn/JMA--A-General-Close-to-Optimal-Targeted-Adversarial-Attack-with-Improved-Efficiency)**|
 |**2023-12-30**|**CamPro: Camera-based Anti-Facial Recognition**|Wenjun Zhu et.al.|[2401.00151v1](http://arxiv.org/abs/2401.00151v1)|**[link](https://github.com/forget2save/campro)**|
 |**2023-12-28**|**BlackboxBench: A Comprehensive Benchmark of Black-box Adversarial Attacks**|Meixi Zheng et.al.|[2312.16979v1](http://arxiv.org/abs/2312.16979v1)|**[link](https://github.com/SCLBD/BlackboxBench)**|
@@ -378,6 +380,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**An All-loop Soft Theorem for Pions**|Christoph Bartsch et.al.|[2401.04731v1](http://arxiv.org/abs/2401.04731v1)|null|
+|**2024-01-09**|**A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**|Ronglai Zuo et.al.|[2401.04730v1](http://arxiv.org/abs/2401.04730v1)|**[link](https://github.com/FangyunWei/SLRT)**|
+|**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728v1](http://arxiv.org/abs/2401.04728v1)|null|
+|**2024-01-09**|**Revisiting Adversarial Training at Scale**|Zeyu Wang et.al.|[2401.04727v1](http://arxiv.org/abs/2401.04727v1)|**[link](https://github.com/ucsc-vlaa/advxl)**|
+|**2024-01-09**|**Basic fractional nonlinear-wave models and solitons**|Boris A. Malomed et.al.|[2401.04725v1](http://arxiv.org/abs/2401.04725v1)|null|
+|**2024-01-09**|**Spatio-temporal data fusion for the analysis of in situ and remote sensing data using the INLA-SPDE approach**|Shiyu He et.al.|[2401.04723v1](http://arxiv.org/abs/2401.04723v1)|null|
+|**2024-01-09**|**U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation**|Jun Ma et.al.|[2401.04722v1](http://arxiv.org/abs/2401.04722v1)|null|
+|**2024-01-09**|**Low-resource finetuning of foundation models beats state-of-the-art in histopathology**|Benedikt Roth et.al.|[2401.04720v1](http://arxiv.org/abs/2401.04720v1)|null|
+|**2024-01-09**|**Analytical solutions for optimal photon absorption into inhomogeneous spin memories**|József Zsolt Bernád et.al.|[2401.04717v1](http://arxiv.org/abs/2401.04717v1)|null|
+|**2024-01-09**|**Low-Resource Vision Challenges for Foundation Models**|Yunhua Zhang et.al.|[2401.04716v1](http://arxiv.org/abs/2401.04716v1)|null|
 |**2024-01-05**|**Phantom Fluid Cosmology $\it or\ $ Ghosts for Gordon**|James M. Cline et.al.|[2401.02958v1](http://arxiv.org/abs/2401.02958v1)|null|
 |**2024-01-05**|**Denoising Vision Transformers**|Jiawei Yang et.al.|[2401.02957v1](http://arxiv.org/abs/2401.02957v1)|null|
 |**2024-01-05**|**A braided $(\infty,2)$-category of Soergel bimodules**|Yu Leon Liu et.al.|[2401.02956v1](http://arxiv.org/abs/2401.02956v1)|null|

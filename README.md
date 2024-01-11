@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network Verification**|Haoruo Zhao et.al.|[2401.05280v1](http://arxiv.org/abs/2401.05280v1)|null|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350v1](http://arxiv.org/abs/2401.04350v1)|null|
 |**2024-01-06**|**Data-Dependent Stability Analysis of Adversarial Training**|Yihan Wang et.al.|[2401.03156v1](http://arxiv.org/abs/2401.03156v1)|null|
 |**2024-01-05**|**Enhancing targeted transferability via feature space fine-tuning**|Hui Zeng et.al.|[2401.02727v1](http://arxiv.org/abs/2401.02727v1)|**[link](https://github.com/zengh5/ta_feature_ft)**|
@@ -376,6 +377,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Towards Online Sign Language Recognition and Translation**|Ronglai Zuo et.al.|[2401.05336v1](http://arxiv.org/abs/2401.05336v1)|**[link](https://github.com/FangyunWei/SLRT)**|
+|**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
+|**2024-01-10**|**URHand: Universal Relightable Hands**|Zhaoxi Chen et.al.|[2401.05334v1](http://arxiv.org/abs/2401.05334v1)|null|
+|**2024-01-10**|**Realizing limit cycles in dissipative bosonic systems**|Jim Skulte et.al.|[2401.05332v1](http://arxiv.org/abs/2401.05332v1)|null|
+|**2024-01-10**|**Hierarchical Causal Models**|Eli N. Weinstein et.al.|[2401.05330v1](http://arxiv.org/abs/2401.05330v1)|**[link](https://github.com/eweinstein/hcm)**|
+|**2024-01-10**|**\textit{SmartMME}: Implementation of Base Station Switching Off Strategy in ns-3**|Argha Sen et.al.|[2401.05329v1](http://arxiv.org/abs/2401.05329v1)|null|
+|**2024-01-10**|**Weak solutions to the Navier-Stokes equations for steady compressible non-Newtonian fluids**|Cosmin Burtea et.al.|[2401.05328v1](http://arxiv.org/abs/2401.05328v1)|null|
+|**2024-01-10**|**New dark matter analysis of Milky Way dwarf satellite galaxies with MADHATv2**|Kimberly K. Boddy et.al.|[2401.05327v1](http://arxiv.org/abs/2401.05327v1)|null|
+|**2024-01-10**|**Biofilm mechanics and patterns**|Ana Carpio et.al.|[2401.05323v1](http://arxiv.org/abs/2401.05323v1)|null|
+|**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
 |**2024-01-09**|**An All-loop Soft Theorem for Pions**|Christoph Bartsch et.al.|[2401.04731v1](http://arxiv.org/abs/2401.04731v1)|null|
 |**2024-01-09**|**A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**|Ronglai Zuo et.al.|[2401.04730v1](http://arxiv.org/abs/2401.04730v1)|**[link](https://github.com/FangyunWei/SLRT)**|
 |**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728v1](http://arxiv.org/abs/2401.04728v1)|null|

@@ -8,7 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-10**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network Verification**|Haoruo Zhao et.al.|[2401.05280v1](http://arxiv.org/abs/2401.05280v1)|null|
+|**2024-01-11**|**GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model**|Zhiyu Zhu et.al.|[2401.06031v1](http://arxiv.org/abs/2401.06031v1)|**[link](https://github.com/lmbtough/ge-advgan)**|
+|**2024-01-10**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network Verification**|Haoruo Zhao et.al.|[2401.05280v1](http://arxiv.org/abs/2401.05280v1)|**[link](https://github.com/coin-or/Gravity)**|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350v1](http://arxiv.org/abs/2401.04350v1)|null|
 |**2024-01-06**|**Data-Dependent Stability Analysis of Adversarial Training**|Yihan Wang et.al.|[2401.03156v1](http://arxiv.org/abs/2401.03156v1)|null|
 |**2024-01-05**|**Enhancing targeted transferability via feature space fine-tuning**|Hui Zeng et.al.|[2401.02727v1](http://arxiv.org/abs/2401.02727v1)|**[link](https://github.com/zengh5/ta_feature_ft)**|
@@ -381,6 +382,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**The chiral phase transition and the axial anomaly**|Robert D. Pisarski et.al.|[2401.06130v1](http://arxiv.org/abs/2401.06130v1)|null|
+|**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129v1](http://arxiv.org/abs/2401.06129v1)|null|
+|**2024-01-11**|**A SymTFT for Continuous Symmetries**|T. Daniel Brennan et.al.|[2401.06128v1](http://arxiv.org/abs/2401.06128v1)|null|
+|**2024-01-11**|**E$^{2}$GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127v1](http://arxiv.org/abs/2401.06127v1)|null|
+|**2024-01-11**|**Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**|Jack Saunders et.al.|[2401.06126v1](http://arxiv.org/abs/2401.06126v1)|null|
+|**2024-01-11**|**Manipulating Feature Visualizations with Gradient Slingshots**|Dilyara Bareeva et.al.|[2401.06122v1](http://arxiv.org/abs/2401.06122v1)|**[link](https://github.com/dilyabareeva/grad-slingshot)**|
+|**2024-01-11**|**TOFU: A Task of Fictitious Unlearning for LLMs**|Pratyush Maini et.al.|[2401.06121v1](http://arxiv.org/abs/2401.06121v1)|null|
+|**2024-01-11**|**Highly multimode visible squeezed light with programmable spectral correlations through broadband up-conversion**|Federico Presutti et.al.|[2401.06119v1](http://arxiv.org/abs/2401.06119v1)|null|
+|**2024-01-11**|**Extreme Compression of Large Language Models via Additive Quantization**|Vage Egiazarian et.al.|[2401.06118v1](http://arxiv.org/abs/2401.06118v1)|null|
+|**2024-01-11**|**Gaussian Shadow Casting for Neural Characters**|Luis Bolanos et.al.|[2401.06116v1](http://arxiv.org/abs/2401.06116v1)|null|
 |**2024-01-10**|**Towards Online Sign Language Recognition and Translation**|Ronglai Zuo et.al.|[2401.05336v1](http://arxiv.org/abs/2401.05336v1)|**[link](https://github.com/FangyunWei/SLRT)**|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
 |**2024-01-10**|**URHand: Universal Relightable Hands**|Zhaoxi Chen et.al.|[2401.05334v1](http://arxiv.org/abs/2401.05334v1)|null|

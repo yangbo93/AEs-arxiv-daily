@@ -4,8 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v1](http://arxiv.org/abs/2401.06637v1)|null|
 |**2024-01-11**|**GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model**|Zhiyu Zhu et.al.|[2401.06031v1](http://arxiv.org/abs/2401.06031v1)|**[link](https://github.com/lmbtough/ge-advgan)**|
-|**2024-01-10**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network Verification**|Haoruo Zhao et.al.|[2401.05280v1](http://arxiv.org/abs/2401.05280v1)|**[link](https://github.com/coin-or/Gravity)**|
+|**2024-01-12**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network Verification**|Haoruo Zhao et.al.|[2401.05280v2](http://arxiv.org/abs/2401.05280v2)|**[link](https://github.com/coin-or/Gravity)**|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350v1](http://arxiv.org/abs/2401.04350v1)|null|
 |**2024-01-06**|**Data-Dependent Stability Analysis of Adversarial Training**|Yihan Wang et.al.|[2401.03156v1](http://arxiv.org/abs/2401.03156v1)|null|
 |**2024-01-05**|**Enhancing targeted transferability via feature space fine-tuning**|Hui Zeng et.al.|[2401.02727v1](http://arxiv.org/abs/2401.02727v1)|**[link](https://github.com/zengh5/ta_feature_ft)**|
@@ -378,6 +379,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Random trees with local catastrophes: the Brownian case**|Ariane Carrance et.al.|[2401.06770v1](http://arxiv.org/abs/2401.06770v1)|null|
+|**2024-01-12**|**Machine Translation Models are Zero-Shot Detectors of Translation Direction**|Michelle Wastl et.al.|[2401.06769v1](http://arxiv.org/abs/2401.06769v1)|**[link](https://github.com/zurichnlp/translation-direction-detection)**|
+|**2024-01-12**|**Minimal surfaces in random environment**|Barbara Dembin et.al.|[2401.06768v1](http://arxiv.org/abs/2401.06768v1)|null|
+|**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766v1](http://arxiv.org/abs/2401.06766v1)|null|
+|**2024-01-12**|**Automated Test Case Repair Using Language Models**|Ahmadreza Saboor Yaraghi et.al.|[2401.06765v1](http://arxiv.org/abs/2401.06765v1)|null|
+|**2024-01-12**|**Covert Quantum Communication Over Optical Channels**|Evan J. D. Anderson et.al.|[2401.06764v1](http://arxiv.org/abs/2401.06764v1)|null|
+|**2024-01-12**|**Seeing the roads through the trees: A benchmark for modeling spatial dependencies with aerial imagery**|Caleb Robinson et.al.|[2401.06762v1](http://arxiv.org/abs/2401.06762v1)|**[link](https://github.com/isaaccorley/chesapeakersc)**|
+|**2024-01-12**|**APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding**|Mingdao Liu et.al.|[2401.06761v1](http://arxiv.org/abs/2401.06761v1)|null|
+|**2024-01-12**|**Limit shape formulas for a generalized Seppäläinen-Johansson model**|Julian Ransford et.al.|[2401.06759v1](http://arxiv.org/abs/2401.06759v1)|null|
+|**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757v1](http://arxiv.org/abs/2401.06757v1)|null|
 |**2024-01-11**|**The chiral phase transition and the axial anomaly**|Robert D. Pisarski et.al.|[2401.06130v1](http://arxiv.org/abs/2401.06130v1)|null|
 |**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129v1](http://arxiv.org/abs/2401.06129v1)|null|
 |**2024-01-11**|**A SymTFT for Continuous Symmetries**|T. Daniel Brennan et.al.|[2401.06128v1](http://arxiv.org/abs/2401.06128v1)|null|

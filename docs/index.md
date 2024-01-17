@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 
 ## Adversarial Examples
 
@@ -13,7 +13,7 @@ layout: default
 |**2024-01-12**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network Verification**|Haoruo Zhao et.al.|[2401.05280v2](http://arxiv.org/abs/2401.05280v2)|**[link](https://github.com/coin-or/Gravity)**|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350v1](http://arxiv.org/abs/2401.04350v1)|null|
 |**2024-01-06**|**Data-Dependent Stability Analysis of Adversarial Training**|Yihan Wang et.al.|[2401.03156v1](http://arxiv.org/abs/2401.03156v1)|null|
-|**2024-01-05**|**Enhancing targeted transferability via feature space fine-tuning**|Hui Zeng et.al.|[2401.02727v1](http://arxiv.org/abs/2401.02727v1)|**[link](https://github.com/zengh5/ta_feature_ft)**|
+|**2024-01-13**|**Enhancing targeted transferability via feature space fine-tuning**|Hui Zeng et.al.|[2401.02727v2](http://arxiv.org/abs/2401.02727v2)|**[link](https://github.com/zengh5/ta_feature_ft)**|
 |**2024-01-05**|**A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples**|Ryota Iijima et.al.|[2401.02633v1](http://arxiv.org/abs/2401.02633v1)|null|
 |**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565v2](http://arxiv.org/abs/2401.02565v2)|null|
 |**2024-01-02**|**JMA: a General Algorithm to Craft Nearly Optimal Targeted Adversarial Example**|Benedetta Tondi et.al.|[2401.01199v1](http://arxiv.org/abs/2401.01199v1)|**[link](https://github.com/guowei-cn/JMA--A-General-Close-to-Optimal-Targeted-Adversarial-Attack-with-Improved-Efficiency)**|

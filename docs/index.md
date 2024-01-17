@@ -8,7 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-12**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v1](http://arxiv.org/abs/2401.06637v1)|null|
+|**2024-01-16**|**A Generative Adversarial Attack for Multilingual Text Classifiers**|Tom Roth et.al.|[2401.08255v1](http://arxiv.org/abs/2401.08255v1)|null|
+|**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087v1](http://arxiv.org/abs/2401.07087v1)|null|
+|**2024-01-15**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v2](http://arxiv.org/abs/2401.06637v2)|null|
 |**2024-01-11**|**GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model**|Zhiyu Zhu et.al.|[2401.06031v1](http://arxiv.org/abs/2401.06031v1)|**[link](https://github.com/lmbtough/ge-advgan)**|
 |**2024-01-12**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network Verification**|Haoruo Zhao et.al.|[2401.05280v2](http://arxiv.org/abs/2401.05280v2)|**[link](https://github.com/coin-or/Gravity)**|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350v1](http://arxiv.org/abs/2401.04350v1)|null|
@@ -383,6 +385,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Shear oscillations in neutron stars and the nuclear symmetry energy**|Hajime Sotani et.al.|[2401.08382v1](http://arxiv.org/abs/2401.08382v1)|null|
+|**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381v1](http://arxiv.org/abs/2401.08381v1)|null|
+|**2024-01-16**|**Unitary model analysis of $f_0(500)$ pole positions by continuously varying $m_π$: comparison with discrete lattice predictions**|George Rupp et.al.|[2401.08379v1](http://arxiv.org/abs/2401.08379v1)|null|
+|**2024-01-16**|**Pareto Curves for Compositionally Model Checking String Diagrams of MDPs**|Kazuki Watanabe et.al.|[2401.08377v1](http://arxiv.org/abs/2401.08377v1)|null|
+|**2024-01-16**|**KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation**|Wei Tao et.al.|[2401.08376v1](http://arxiv.org/abs/2401.08376v1)|**[link](https://github.com/deepsoftwareanalytics/kadel)**|
+|**2024-01-16**|**Cross-lingual neural fuzzy matching for exploiting target-language monolingual corpora in computer-aided translation**|Miquel Esplà-Gomis et.al.|[2401.08374v1](http://arxiv.org/abs/2401.08374v1)|**[link](https://github.com/transducens/crosslingualneuralfms)**|
+|**2024-01-16**|**How general is the Jensen--Varadhan large deviation functional for 1D conservation laws?**|Julien Barré et.al.|[2401.08371v1](http://arxiv.org/abs/2401.08371v1)|null|
+|**2024-01-16**|**Digital quantum simulation of gravitational optomechanics with IBM quantum computers**|Pablo Guillermo Carmona Rufo et.al.|[2401.08370v1](http://arxiv.org/abs/2401.08370v1)|null|
+|**2024-01-16**|**Numerical model of the inhomogeneous scattering by the human lens**|A Cuadrado et.al.|[2401.08369v1](http://arxiv.org/abs/2401.08369v1)|null|
+|**2024-01-16**|**Morphology and Syntax of the Tamil Language**|Kengatharaiyer Sarveswaran et.al.|[2401.08367v1](http://arxiv.org/abs/2401.08367v1)|null|
 |**2024-01-12**|**Random trees with local catastrophes: the Brownian case**|Ariane Carrance et.al.|[2401.06770v1](http://arxiv.org/abs/2401.06770v1)|null|
 |**2024-01-12**|**Machine Translation Models are Zero-Shot Detectors of Translation Direction**|Michelle Wastl et.al.|[2401.06769v1](http://arxiv.org/abs/2401.06769v1)|**[link](https://github.com/zurichnlp/translation-direction-detection)**|
 |**2024-01-12**|**Minimal surfaces in random environment**|Barbara Dembin et.al.|[2401.06768v1](http://arxiv.org/abs/2401.06768v1)|null|

@@ -8,9 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**PPR: Enhancing Dodging Attacks while Maintaining Impersonation Attacks on Face Recognition Systems**|Fengfan Zhou et.al.|[2401.08903v1](http://arxiv.org/abs/2401.08903v1)|null|
+|**2024-01-16**|**Robust Localization of Key Fob Using Channel Impulse Response of Ultra Wide Band Sensors for Keyless Entry Systems**|Abhiram Kolli et.al.|[2401.08863v1](http://arxiv.org/abs/2401.08863v1)|null|
+|**2024-01-16**|**Bag of Tricks to Boost Adversarial Transferability**|Zeliang Zhang et.al.|[2401.08734v1](http://arxiv.org/abs/2401.08734v1)|null|
 |**2024-01-16**|**A Generative Adversarial Attack for Multilingual Text Classifiers**|Tom Roth et.al.|[2401.08255v1](http://arxiv.org/abs/2401.08255v1)|null|
 |**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087v1](http://arxiv.org/abs/2401.07087v1)|null|
-|**2024-01-15**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v2](http://arxiv.org/abs/2401.06637v2)|null|
+|**2024-01-17**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v3](http://arxiv.org/abs/2401.06637v3)|null|
 |**2024-01-11**|**GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model**|Zhiyu Zhu et.al.|[2401.06031v1](http://arxiv.org/abs/2401.06031v1)|**[link](https://github.com/lmbtough/ge-advgan)**|
 |**2024-01-12**|**Bound Tightening using Rolling-Horizon Decomposition for Neural Network Verification**|Haoruo Zhao et.al.|[2401.05280v2](http://arxiv.org/abs/2401.05280v2)|**[link](https://github.com/coin-or/Gravity)**|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350v1](http://arxiv.org/abs/2401.04350v1)|null|
@@ -385,6 +388,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Where is the spin liquid in maple-leaf quantum magnet?**|Pratyay Ghosh et.al.|[2401.09422v1](http://arxiv.org/abs/2401.09422v1)|null|
+|**2024-01-17**|**Quantification of the Fourth Moment Theorem for Cyclotomic Generating Functions**|Benedikt Rednoß et.al.|[2401.09418v1](http://arxiv.org/abs/2401.09418v1)|null|
+|**2024-01-17**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417v1](http://arxiv.org/abs/2401.09417v1)|**[link](https://github.com/hustvl/vim)**|
+|**2024-01-17**|**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion**|Yu-Ying Yeh et.al.|[2401.09416v1](http://arxiv.org/abs/2401.09416v1)|null|
+|**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414v1](http://arxiv.org/abs/2401.09414v1)|**[link](https://github.com/zhuangshaobin/vlogger)**|
+|**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413v1](http://arxiv.org/abs/2401.09413v1)|null|
+|**2024-01-17**|**Slaying Axion-Like Particles via Gravitational Waves and Primordial Black Holes from Supercooled Phase Transition**|Angela Conaci et.al.|[2401.09411v1](http://arxiv.org/abs/2401.09411v1)|null|
+|**2024-01-17**|**Were you born in an aborted primordial black hole?**|Emilie Despontin et.al.|[2401.09408v1](http://arxiv.org/abs/2401.09408v1)|null|
+|**2024-01-17**|**Deciphering Textual Authenticity: A Generalized Strategy through the Lens of Large Language Semantics for Detecting Human vs. Machine-Generated Text**|Mazal Bethany et.al.|[2401.09407v1](http://arxiv.org/abs/2401.09407v1)|null|
+|**2024-01-17**|**Cesàro operators associated with Borel measures acting on weighted spaces of holomorphic functions with sup-norm**|Maria José Beltrán Meneu et.al.|[2401.09406v1](http://arxiv.org/abs/2401.09406v1)|null|
 |**2024-01-16**|**Shear oscillations in neutron stars and the nuclear symmetry energy**|Hajime Sotani et.al.|[2401.08382v1](http://arxiv.org/abs/2401.08382v1)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381v1](http://arxiv.org/abs/2401.08381v1)|null|
 |**2024-01-16**|**Unitary model analysis of $f_0(500)$ pole positions by continuously varying $m_π$: comparison with discrete lattice predictions**|George Rupp et.al.|[2401.08379v1](http://arxiv.org/abs/2401.08379v1)|null|

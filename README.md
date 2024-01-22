@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Explainable and Transferable Adversarial Attack for ML-Based Network Intrusion Detectors**|Hangsheng Zhang et.al.|[2401.10691v1](http://arxiv.org/abs/2401.10691v1)|null|
+|**2024-01-19**|**PuriDefense: Randomized Local Implicit Adversarial Purification for Defending Black-box Query-based Attacks**|Ping Guo et.al.|[2401.10586v1](http://arxiv.org/abs/2401.10586v1)|null|
 |**2024-01-18**|**Marrying Adapters and Mixup to Efficiently Enhance the Adversarial Robustness of Pre-Trained Language Models for Text Classification**|Tuc Nguyen et.al.|[2401.10111v1](http://arxiv.org/abs/2401.10111v1)|null|
 |**2024-01-19**|**Hijacking Attacks against Neural Networks by Analyzing Training Data**|Yunjie Ge et.al.|[2401.09740v2](http://arxiv.org/abs/2401.09740v2)|**[link](https://github.com/nisplab/cleansheet)**|
 |**2024-01-17**|**PPR: Enhancing Dodging Attacks while Maintaining Impersonation Attacks on Face Recognition Systems**|Fengfan Zhou et.al.|[2401.08903v1](http://arxiv.org/abs/2401.08903v1)|null|
@@ -386,6 +388,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data**|Lihe Yang et.al.|[2401.10891v1](http://arxiv.org/abs/2401.10891v1)|**[link](https://github.com/LiheYoung/Depth-Anything)**|
+|**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890v1](http://arxiv.org/abs/2401.10890v1)|null|
+|**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889v1](http://arxiv.org/abs/2401.10889v1)|null|
+|**2024-01-19**|**Non-Analytic Magnetic Response and Intrinsic Ferromagnetic Clusters in a Dirac Spin Liquid Candidate**|B. S. Shivaram et.al.|[2401.10888v1](http://arxiv.org/abs/2401.10888v1)|null|
+|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
+|**2024-01-19**|**Solitary-wave solutions of the fractional nonlinear Schrödinger equation. I. Existence and numerical generation**|A. Durán et.al.|[2401.10884v1](http://arxiv.org/abs/2401.10884v1)|null|
+|**2024-01-19**|**Reinforcement learning for question answering in programming domain using public community scoring as a human feedback**|Alexey Gorbatovski et.al.|[2401.10882v1](http://arxiv.org/abs/2401.10882v1)|null|
+|**2024-01-19**|**Accuracy Analysis of Physics-Informed Neural Networks for Approximating the Critical SQG Equation**|Elie Abdo et.al.|[2401.10879v1](http://arxiv.org/abs/2401.10879v1)|null|
+|**2024-01-19**|**A novel model for direct numerical simulation of suspension dynamics with arbitrarily shaped convex particles**|J. E. Marquardt et.al.|[2401.10878v1](http://arxiv.org/abs/2401.10878v1)|null|
+|**2024-01-19**|**Spectral signatures of non-trivial topology in a superconducting circuit**|L. Peyruchat et.al.|[2401.10876v1](http://arxiv.org/abs/2401.10876v1)|null|
 |**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232v1](http://arxiv.org/abs/2401.10232v1)|null|
 |**2024-01-18**|**Polarization Leakage and the IXPE PSF**|Jack T. Dinsmore et.al.|[2401.10231v1](http://arxiv.org/abs/2401.10231v1)|null|
 |**2024-01-18**|**Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Antonia Bronars et.al.|[2401.10230v1](http://arxiv.org/abs/2401.10230v1)|null|

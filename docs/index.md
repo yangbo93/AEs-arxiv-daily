@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.01.21
+## Updated on 2024.01.22
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-18**|**Marrying Adapters and Mixup to Efficiently Enhance the Adversarial Robustness of Pre-Trained Language Models for Text Classification**|Tuc Nguyen et.al.|[2401.10111v1](http://arxiv.org/abs/2401.10111v1)|null|
-|**2024-01-18**|**Hijacking Attacks against Neural Networks by Analyzing Training Data**|Yunjie Ge et.al.|[2401.09740v1](http://arxiv.org/abs/2401.09740v1)|**[link](https://github.com/nisplab/cleansheet)**|
+|**2024-01-19**|**Hijacking Attacks against Neural Networks by Analyzing Training Data**|Yunjie Ge et.al.|[2401.09740v2](http://arxiv.org/abs/2401.09740v2)|**[link](https://github.com/nisplab/cleansheet)**|
 |**2024-01-17**|**PPR: Enhancing Dodging Attacks while Maintaining Impersonation Attacks on Face Recognition Systems**|Fengfan Zhou et.al.|[2401.08903v1](http://arxiv.org/abs/2401.08903v1)|null|
 |**2024-01-16**|**Robust Localization of Key Fob Using Channel Impulse Response of Ultra Wide Band Sensors for Keyless Entry Systems**|Abhiram Kolli et.al.|[2401.08863v1](http://arxiv.org/abs/2401.08863v1)|null|
 |**2024-01-16**|**Bag of Tricks to Boost Adversarial Transferability**|Zeliang Zhang et.al.|[2401.08734v1](http://arxiv.org/abs/2401.08734v1)|null|

@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**How Robust Are Energy-Based Models Trained With Equilibrium Propagation?**|Siddharth Mansingh et.al.|[2401.11543v1](http://arxiv.org/abs/2401.11543v1)|null|
+|**2024-01-21**|**Finding a Needle in the Adversarial Haystack: A Targeted Paraphrasing Approach For Uncovering Edge Cases with Minimal Distribution Distortion**|Aly M. Kassem et.al.|[2401.11373v1](http://arxiv.org/abs/2401.11373v1)|null|
 |**2024-01-19**|**Explainable and Transferable Adversarial Attack for ML-Based Network Intrusion Detectors**|Hangsheng Zhang et.al.|[2401.10691v1](http://arxiv.org/abs/2401.10691v1)|null|
 |**2024-01-19**|**PuriDefense: Randomized Local Implicit Adversarial Purification for Defending Black-box Query-based Attacks**|Ping Guo et.al.|[2401.10586v1](http://arxiv.org/abs/2401.10586v1)|null|
 |**2024-01-18**|**Marrying Adapters and Mixup to Efficiently Enhance the Adversarial Robustness of Pre-Trained Language Models for Text Classification**|Tuc Nguyen et.al.|[2401.10111v1](http://arxiv.org/abs/2401.10111v1)|null|
@@ -392,6 +394,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217v1](http://arxiv.org/abs/2401.12217v1)|null|
+|**2024-01-22**|**Mitigating Covariate Shift in Misspecified Regression with Applications to Reinforcement Learning**|Philip Amortila et.al.|[2401.12216v1](http://arxiv.org/abs/2401.12216v1)|null|
+|**2024-01-22**|**Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Vision Foundation Models**|Chenyu Lian et.al.|[2401.12215v1](http://arxiv.org/abs/2401.12215v1)|**[link](https://github.com/rl4m/med-peft)**|
+|**2024-01-22**|**Identifying gap-closings in open non-Hermitian systems by Biorthogonal Polarization**|Ipsita Mandal et.al.|[2401.12213v1](http://arxiv.org/abs/2401.12213v1)|null|
+|**2024-01-22**|**Genericity Through Stratification**|Victor Arrial et.al.|[2401.12212v1](http://arxiv.org/abs/2401.12212v1)|null|
+|**2024-01-22**|**Active Inference Demonstrated with Artificial Spin Ice**|R. L. Stamps et.al.|[2401.12211v1](http://arxiv.org/abs/2401.12211v1)|null|
+|**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210v1](http://arxiv.org/abs/2401.12210v1)|null|
+|**2024-01-22**|**CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation**|Zhihong Chen et.al.|[2401.12208v1](http://arxiv.org/abs/2401.12208v1)|null|
+|**2024-01-22**|**Rate-Distortion-Perception Tradeoff Based on the Conditional-Distribution Perception Measure**|Sadaf Salehkalaibar et.al.|[2401.12207v1](http://arxiv.org/abs/2401.12207v1)|null|
+|**2024-01-22**|**Cataclysmic Variables and the disc instability model in the Gaia DR3 colour-magnitude diagram**|Guillaume Dubus et.al.|[2401.12206v1](http://arxiv.org/abs/2401.12206v1)|null|
 |**2024-01-19**|**Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data**|Lihe Yang et.al.|[2401.10891v1](http://arxiv.org/abs/2401.10891v1)|**[link](https://github.com/LiheYoung/Depth-Anything)**|
 |**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890v1](http://arxiv.org/abs/2401.10890v1)|null|
 |**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889v1](http://arxiv.org/abs/2401.10889v1)|null|

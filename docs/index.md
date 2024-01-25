@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.24
+## Updated on 2024.01.25
 
 ## Adversarial Examples
 
@@ -397,7 +397,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-23**|**GALA: Generating Animatable Layered Assets from a Single Scan**|Taeksoo Kim et.al.|[2401.12979v1](http://arxiv.org/abs/2401.12979v1)|null|
-|**2024-01-23**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978v1](http://arxiv.org/abs/2401.12978v1)|null|
+|**2024-01-24**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978v2](http://arxiv.org/abs/2401.12978v2)|null|
 |**2024-01-23**|**IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images**|Zhi-Hao Lin et.al.|[2401.12977v1](http://arxiv.org/abs/2401.12977v1)|null|
 |**2024-01-23**|**Mapping dust in the giant molecular cloud Orion A**|Amery Gration et.al.|[2401.12976v1](http://arxiv.org/abs/2401.12976v1)|null|
 |**2024-01-23**|**HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**|Qinhong Zhou et.al.|[2401.12975v1](http://arxiv.org/abs/2401.12975v1)|**[link](https://github.com/umass-foundation-model/hazard)**|

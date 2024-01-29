@@ -398,6 +398,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Physical Yukawa Couplings in Heterotic String Compactifications**|Giorgi Butbaia et.al.|[2401.15078v1](http://arxiv.org/abs/2401.15078v1)|null|
+|**2024-01-26**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077v1](http://arxiv.org/abs/2401.15077v1)|null|
+|**2024-01-26**|**Comparative Analysis of Practical Identifiability Methods for an SEIR Model**|Omar Saucedo et.al.|[2401.15076v1](http://arxiv.org/abs/2401.15076v1)|null|
+|**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075v1](http://arxiv.org/abs/2401.15075v1)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
+|**2024-01-26**|**${\rm S{\scriptsize IM}BIG}$: Cosmological Constraints from the Redshift-Space Galaxy Skew Spectra**|Jiamin Hou et.al.|[2401.15074v1](http://arxiv.org/abs/2401.15074v1)|null|
+|**2024-01-26**|**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**|Chaochao Lu et.al.|[2401.15071v1](http://arxiv.org/abs/2401.15071v1)|null|
+|**2024-01-26**|**Quantization of Charge Carriers in Conduction Channels for Multinary Field-Effect Transistors**|P. Xu et.al.|[2401.15070v1](http://arxiv.org/abs/2401.15070v1)|null|
+|**2024-01-26**|**Sustainable Market Incentives -- Lessons from European Feebates for a ZEV Future**|Aditya Ramji et.al.|[2401.15069v1](http://arxiv.org/abs/2401.15069v1)|null|
+|**2024-01-26**|**Pairing Orthographically Variant Literary Words to Standard Equivalents Using Neural Edit Distance Models**|Craig Messner et.al.|[2401.15068v1](http://arxiv.org/abs/2401.15068v1)|null|
+|**2024-01-26**|**Efficient High-Dimensional Entangled State Analyzer with Linear Optics**|Niv Bharos et.al.|[2401.15066v1](http://arxiv.org/abs/2401.15066v1)|null|
 |**2024-01-25**|**Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**|Yiyuan Zhang et.al.|[2401.14405v1](http://arxiv.org/abs/2401.14405v1)|**[link](https://github.com/ailab-cvc/m2pt)**|
 |**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404v1](http://arxiv.org/abs/2401.14404v1)|null|
 |**2024-01-25**|**Nucleosynthesis in magnetorotational supernovae: impact of the magnetic field configuration**|M. Reichert et.al.|[2401.14402v1](http://arxiv.org/abs/2401.14402v1)|null|

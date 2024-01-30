@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection**|Jiwei Tian et.al.|[2401.16001v1](http://arxiv.org/abs/2401.16001v1)|null|
 |**2024-01-24**|**Boosting the Transferability of Adversarial Examples via Local Mixup and Adaptive Step Size**|Junlin Liu et.al.|[2401.13205v1](http://arxiv.org/abs/2401.13205v1)|null|
 |**2024-01-24**|**Compositional Generative Inverse Design**|Tailin Wu et.al.|[2401.13171v1](http://arxiv.org/abs/2401.13171v1)|**[link](https://github.com/ai4science-westlakeu/cindm)**|
 |**2024-01-23**|**Fast Adversarial Training against Textual Adversarial Attacks**|Yichen Yang et.al.|[2401.12461v1](http://arxiv.org/abs/2401.12461v1)|null|
@@ -394,6 +395,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Synchformer: Efficient Synchronization from Sparse Cues**|Vladimir Iashin et.al.|[2401.16423v1](http://arxiv.org/abs/2401.16423v1)|null|
+|**2024-01-29**|**Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation**|Zhenyu He et.al.|[2401.16421v1](http://arxiv.org/abs/2401.16421v1)|null|
+|**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420v1](http://arxiv.org/abs/2401.16420v1)|null|
+|**2024-01-29**|**Semi-parametric Expert Bayesian Network Learning with Gaussian Processes and Horseshoe Priors**|Yidou Weng et.al.|[2401.16419v1](http://arxiv.org/abs/2401.16419v1)|null|
+|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
+|**2024-01-29**|**Catalan generating functions for bounded operators**|Pedro J. Miana et.al.|[2401.16415v1](http://arxiv.org/abs/2401.16415v1)|null|
+|**2024-01-29**|**A Causal Model for Quantifying Multipartite Classical and Quantum Correlations**|Shuchan Wang et.al.|[2401.16414v1](http://arxiv.org/abs/2401.16414v1)|null|
+|**2024-01-29**|**The geometric error is less than the pollution error when solving the high-frequency Helmholtz equation with high-order FEM on curved domains**|Théophile Chaumont-Frelet et.al.|[2401.16413v1](http://arxiv.org/abs/2401.16413v1)|null|
+|**2024-01-29**|**Sparse Discrete Empirical Interpolation Method: State Estimation from Few Sensors**|Mohammad Farazmand et.al.|[2401.16411v1](http://arxiv.org/abs/2401.16411v1)|null|
+|**2024-01-29**|**ReTaSA: A Nonparametric Functional Estimation Approach for Addressing Continuous Target Shift**|Hwanwoo Kim et.al.|[2401.16410v1](http://arxiv.org/abs/2401.16410v1)|null|
 |**2024-01-26**|**Physical Yukawa Couplings in Heterotic String Compactifications**|Giorgi Butbaia et.al.|[2401.15078v1](http://arxiv.org/abs/2401.15078v1)|null|
 |**2024-01-26**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077v1](http://arxiv.org/abs/2401.15077v1)|null|
 |**2024-01-26**|**Comparative Analysis of Practical Identifiability Methods for an SEIR Model**|Omar Saucedo et.al.|[2401.15076v1](http://arxiv.org/abs/2401.15076v1)|null|

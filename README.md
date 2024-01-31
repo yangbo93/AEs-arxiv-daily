@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers**|Lei Xu et.al.|[2401.17196v1](http://arxiv.org/abs/2401.17196v1)|null|
 |**2024-01-29**|**LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection**|Jiwei Tian et.al.|[2401.16001v1](http://arxiv.org/abs/2401.16001v1)|null|
 |**2024-01-24**|**Boosting the Transferability of Adversarial Examples via Local Mixup and Adaptive Step Size**|Junlin Liu et.al.|[2401.13205v1](http://arxiv.org/abs/2401.13205v1)|null|
 |**2024-01-24**|**Compositional Generative Inverse Design**|Tailin Wu et.al.|[2401.13171v1](http://arxiv.org/abs/2401.13171v1)|**[link](https://github.com/ai4science-westlakeu/cindm)**|
@@ -395,6 +396,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|null|
+|**2024-01-30**|**X-ray counterpart detection and gamma-ray analysis of the SNR G279.0+01.1 with eROSITA and Fermi-LAT**|Miltiadis Michailidis et.al.|[2401.17311v1](http://arxiv.org/abs/2401.17311v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|null|
+|**2024-01-30**|**The eROSITA Upper Limits: Description and access to the data**|D. Tubín-Arenas et.al.|[2401.17305v1](http://arxiv.org/abs/2401.17305v1)|null|
+|**2024-01-30**|**Unraveling Variability and Estimating Mass Loss of Exoplanets in the Triplet Star System LTT 1445**|S. Rukdee et.al.|[2401.17303v1](http://arxiv.org/abs/2401.17303v1)|null|
+|**2024-01-30**|**The high-energy environment of the heavy sub-Earth GJ 367 b indicates likely complete evaporation of its atmosphere**|K. Poppenhaeger et.al.|[2401.17302v1](http://arxiv.org/abs/2401.17302v1)|null|
+|**2024-01-30**|**Ionised AGN outflows in the Goldfish galaxy -- The illuminating and interacting red quasar eFEDSJ091157.4+014327 at z ~ 0.6**|Blessing Musiimenta et.al.|[2401.17299v1](http://arxiv.org/abs/2401.17299v1)|null|
+|**2024-01-30**|**Cataclysmic variables around the period-bounce: An eROSITA-enhanced multi-wavelength catalog**|Daniela Muñoz-Giraldo et.al.|[2401.17298v1](http://arxiv.org/abs/2401.17298v1)|null|
+|**2024-01-30**|**G321.3-3.9: a new supernova remnant observed with multi-band radio data and in the SRG/eROSITA All-Sky Surveys**|S. Mantovanini et.al.|[2401.17294v1](http://arxiv.org/abs/2401.17294v1)|null|
 |**2024-01-29**|**Synchformer: Efficient Synchronization from Sparse Cues**|Vladimir Iashin et.al.|[2401.16423v1](http://arxiv.org/abs/2401.16423v1)|null|
 |**2024-01-29**|**Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation**|Zhenyu He et.al.|[2401.16421v1](http://arxiv.org/abs/2401.16421v1)|null|
 |**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420v1](http://arxiv.org/abs/2401.16420v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|

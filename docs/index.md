@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Improving QA Model Performance with Cartographic Inoculation**|Allen Chen et.al.|[2401.17498v1](http://arxiv.org/abs/2401.17498v1)|null|
 |**2024-01-30**|**Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers**|Lei Xu et.al.|[2401.17196v1](http://arxiv.org/abs/2401.17196v1)|null|
 |**2024-01-29**|**LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection**|Jiwei Tian et.al.|[2401.16001v1](http://arxiv.org/abs/2401.16001v1)|null|
 |**2024-01-24**|**Boosting the Transferability of Adversarial Examples via Local Mixup and Adaptive Step Size**|Junlin Liu et.al.|[2401.13205v1](http://arxiv.org/abs/2401.13205v1)|null|
@@ -400,6 +401,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085v1](http://arxiv.org/abs/2401.18085v1)|null|
+|**2024-01-31**|**Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**|Fengyu Yang et.al.|[2401.18084v1](http://arxiv.org/abs/2401.18084v1)|null|
+|**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
+|**2024-01-31**|**Storage of telecom wavelength heralded single photons in a fiber cavity quantum memory**|K. A. G. Bonsma-Fisher et.al.|[2401.18081v1](http://arxiv.org/abs/2401.18081v1)|null|
+|**2024-01-31**|**Strong Bow Shocks: Turbulence and An Exact Self-Similar Asymptotic**|Marcus DuPont et.al.|[2401.18080v1](http://arxiv.org/abs/2401.18080v1)|null|
+|**2024-01-31**|**KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization**|Coleman Hooper et.al.|[2401.18079v1](http://arxiv.org/abs/2401.18079v1)|null|
+|**2024-01-31**|**Structures on the Category of N-Complexes**|Felix Küng et.al.|[2401.18078v1](http://arxiv.org/abs/2401.18078v1)|null|
+|**2024-01-31**|**Toward deterministic sources: Photon generation in a fiber-cavity quantum memory**|Philip J. Bustard et.al.|[2401.18077v1](http://arxiv.org/abs/2401.18077v1)|null|
+|**2024-01-31**|**Searching for scalar field dark matter with LIGO**|Alexandre S. Göttel et.al.|[2401.18076v1](http://arxiv.org/abs/2401.18076v1)|null|
+|**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
 |**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|null|
 |**2024-01-30**|**X-ray counterpart detection and gamma-ray analysis of the SNR G279.0+01.1 with eROSITA and Fermi-LAT**|Miltiadis Michailidis et.al.|[2401.17311v1](http://arxiv.org/abs/2401.17311v1)|null|
 |**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|

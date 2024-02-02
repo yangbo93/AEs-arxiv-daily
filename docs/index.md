@@ -401,6 +401,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Molecular Pairing in Twisted Bilayer Graphene Superconductivity**|Yi-Jie Wang et.al.|[2402.00869v1](http://arxiv.org/abs/2402.00869v1)|null|
+|**2024-02-01**|**We're Not Using Videos Effectively: An Updated Domain Adaptive Video Segmentation Baseline**|Simar Kareer et.al.|[2402.00868v1](http://arxiv.org/abs/2402.00868v1)|**[link](https://github.com/simarkareer/unifiedvideoda)**|
+|**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867v1](http://arxiv.org/abs/2402.00867v1)|null|
+|**2024-02-01**|**Energetic comparison of exciton gas versus electron-hole plasma in a bilayer two-dimensional electron-hole system**|Yi-Ting Tu et.al.|[2402.00866v1](http://arxiv.org/abs/2402.00866v1)|null|
+|**2024-02-01**|**Towards Optimal Feature-Shaping Methods for Out-of-Distribution Detection**|Qinyu Zhao et.al.|[2402.00865v1](http://arxiv.org/abs/2402.00865v1)|**[link](https://github.com/qinyu-allen-zhao/optfsood)**|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|**[link](https://github.com/dongjiahua/vica-nerf)**|
+|**2024-02-01**|**Murphy's Law for Algebraic Stacks**|Daniel Bragg et.al.|[2402.00862v1](http://arxiv.org/abs/2402.00862v1)|null|
+|**2024-02-01**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861v1](http://arxiv.org/abs/2402.00861v1)|null|
+|**2024-02-01**|**JWST-MIRI Spectroscopy of Warm Molecular Emission and Variability in the AS 209 Disk**|Carlos E. Muñoz-Romero et.al.|[2402.00860v1](http://arxiv.org/abs/2402.00860v1)|null|
+|**2024-02-01**|**Deep Room Impulse Response Completion**|Jackie Lin et.al.|[2402.00859v1](http://arxiv.org/abs/2402.00859v1)|null|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085v1](http://arxiv.org/abs/2401.18085v1)|null|
 |**2024-01-31**|**Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**|Fengyu Yang et.al.|[2401.18084v1](http://arxiv.org/abs/2401.18084v1)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|

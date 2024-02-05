@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.02.04
+## Updated on 2024.02.05
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-30**|**Improving QA Model Performance with Cartographic Inoculation**|Allen Chen et.al.|[2401.17498v1](http://arxiv.org/abs/2401.17498v1)|null|
+|**2024-02-01**|**Improving QA Model Performance with Cartographic Inoculation**|Allen Chen et.al.|[2401.17498v2](http://arxiv.org/abs/2401.17498v2)|null|
 |**2024-01-30**|**Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers**|Lei Xu et.al.|[2401.17196v1](http://arxiv.org/abs/2401.17196v1)|null|
 |**2024-01-29**|**LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection**|Jiwei Tian et.al.|[2401.16001v1](http://arxiv.org/abs/2401.16001v1)|null|
 |**2024-01-24**|**Boosting the Transferability of Adversarial Examples via Local Mixup and Adaptive Step Size**|Junlin Liu et.al.|[2401.13205v1](http://arxiv.org/abs/2401.13205v1)|null|

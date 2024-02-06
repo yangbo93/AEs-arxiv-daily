@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Transcending Adversarial Perturbations: Manifold-Aided Adversarial Examples with Legitimate Semantics**|Shuai Li et.al.|[2402.03095v1](http://arxiv.org/abs/2402.03095v1)|**[link](https://github.com/shuaili1027/maels)**|
+|**2024-02-05**|**A Generative Approach to Surrogate-based Black-box Attacks**|Raha Moraffah et.al.|[2402.02732v1](http://arxiv.org/abs/2402.02732v1)|null|
+|**2024-02-04**|**DeSparsify: Adversarial Attack Against Token Sparsification Mechanisms in Vision Transformers**|Oryan Yehezkel et.al.|[2402.02554v1](http://arxiv.org/abs/2402.02554v1)|null|
+|**2024-02-02**|**$σ$-zero: Gradient-based Optimization of $\ell_0$-norm Adversarial Examples**|Antonio Emanuele Cinà et.al.|[2402.01879v1](http://arxiv.org/abs/2402.01879v1)|**[link](https://github.com/cinofix/sigma-zero-adversarial-attack)**|
+|**2024-02-02**|**HQA-Attack: Toward High Quality Black-Box Hard-Label Adversarial Attack on Text**|Han Liu et.al.|[2402.01806v1](http://arxiv.org/abs/2402.01806v1)|**[link](https://github.com/hqa-attack/hqaattack-demo)**|
 |**2024-02-02**|**STAA-Net: A Sparse and Transferable Adversarial Attack for Speech Emotion Recognition**|Yi Chang et.al.|[2402.01227v1](http://arxiv.org/abs/2402.01227v1)|null|
 |**2024-02-01**|**Improving QA Model Performance with Cartographic Inoculation**|Allen Chen et.al.|[2401.17498v2](http://arxiv.org/abs/2401.17498v2)|null|
 |**2024-01-30**|**Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers**|Lei Xu et.al.|[2401.17196v1](http://arxiv.org/abs/2401.17196v1)|null|
@@ -398,6 +403,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Test-Time Adaptation for Depth Completion**|Hyoungseob Park et.al.|[2402.03312v1](http://arxiv.org/abs/2402.03312v1)|null|
+|**2024-02-05**|**SIMUnet: an open-source tool for simultaneous global fits of EFT Wilson coefficients and PDFs**|Mark N. Costantini et.al.|[2402.03308v1](http://arxiv.org/abs/2402.03308v1)|null|
+|**2024-02-05**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307v1](http://arxiv.org/abs/2402.03307v1)|null|
+|**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305v1](http://arxiv.org/abs/2402.03305v1)|null|
+|**2024-02-05**|**Nevermind: Instruction Override and Moderation in Large Language Models**|Edward Kim et.al.|[2402.03303v1](http://arxiv.org/abs/2402.03303v1)|null|
+|**2024-02-05**|**Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining**|Jiarun Liu et.al.|[2402.03302v1](http://arxiv.org/abs/2402.03302v1)|**[link](https://github.com/jiarunliu/swin-umamba)**|
+|**2024-02-05**|**DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**|Zhihong Shao et.al.|[2402.03300v1](http://arxiv.org/abs/2402.03300v1)|**[link](https://github.com/deepseek-ai/deepseek-math)**|
+|**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299v1](http://arxiv.org/abs/2402.03299v1)|null|
+|**2024-02-05**|**Gravitational index of the heterotic string**|Yiming Chen et.al.|[2402.03297v1](http://arxiv.org/abs/2402.03297v1)|null|
+|**2024-02-05**|**Cusped hyperbolic Lagrangians as mirrors to lines in three-space**|Sebastian Haney et.al.|[2402.03296v1](http://arxiv.org/abs/2402.03296v1)|null|
 |**2024-02-02**|**A Control Theoretical Approach to Mean Field Games and Associated Master Equations**|Alain Bensoussan et.al.|[2402.01639v1](http://arxiv.org/abs/2402.01639v1)|null|
 |**2024-02-02**|**Free Quantum Codes from Twisted Unitary $t$-groups**|Eric Kubischta et.al.|[2402.01638v1](http://arxiv.org/abs/2402.01638v1)|null|
 |**2024-02-02**|**Directional Response of Several Geometries for Reactor-Neutrino Detectors**|Mark J. Duvall et.al.|[2402.01636v1](http://arxiv.org/abs/2402.01636v1)|null|

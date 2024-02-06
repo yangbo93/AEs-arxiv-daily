@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.05
+## Updated on 2024.02.06
 
 ## Adversarial Examples
 
@@ -17,7 +17,7 @@ layout: default
 |**2024-01-23**|**Fast Adversarial Training against Textual Adversarial Attacks**|Yichen Yang et.al.|[2401.12461v1](http://arxiv.org/abs/2401.12461v1)|null|
 |**2024-01-25**|**The Surprising Harmfulness of Benign Overfitting for Adversarial Robustness**|Yifan Hao et.al.|[2401.12236v2](http://arxiv.org/abs/2401.12236v2)|null|
 |**2024-01-21**|**How Robust Are Energy-Based Models Trained With Equilibrium Propagation?**|Siddharth Mansingh et.al.|[2401.11543v1](http://arxiv.org/abs/2401.11543v1)|null|
-|**2024-01-21**|**Finding a Needle in the Adversarial Haystack: A Targeted Paraphrasing Approach For Uncovering Edge Cases with Minimal Distribution Distortion**|Aly M. Kassem et.al.|[2401.11373v1](http://arxiv.org/abs/2401.11373v1)|null|
+|**2024-02-02**|**Finding a Needle in the Adversarial Haystack: A Targeted Paraphrasing Approach For Uncovering Edge Cases with Minimal Distribution Distortion**|Aly M. Kassem et.al.|[2401.11373v2](http://arxiv.org/abs/2401.11373v2)|null|
 |**2024-01-19**|**Explainable and Transferable Adversarial Attack for ML-Based Network Intrusion Detectors**|Hangsheng Zhang et.al.|[2401.10691v1](http://arxiv.org/abs/2401.10691v1)|null|
 |**2024-01-19**|**PuriDefense: Randomized Local Implicit Adversarial Purification for Defending Black-box Query-based Attacks**|Ping Guo et.al.|[2401.10586v1](http://arxiv.org/abs/2401.10586v1)|null|
 |**2024-01-18**|**Marrying Adapters and Mixup to Efficiently Enhance the Adversarial Robustness of Pre-Trained Language Models for Text Classification**|Tuc Nguyen et.al.|[2401.10111v1](http://arxiv.org/abs/2401.10111v1)|null|

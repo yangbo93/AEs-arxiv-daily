@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Comprehensive Assessment of Jailbreak Attacks Against LLMs**|Junjie Chu et.al.|[2402.05668v1](http://arxiv.org/abs/2402.05668v1)|null|
 |**2024-02-07**|**Adversarial Robustness Through Artifact Design**|Tsufit Shua et.al.|[2402.04660v1](http://arxiv.org/abs/2402.04660v1)|null|
 |**2024-02-06**|**Boosting Adversarial Transferability across Model Genus by Deformation-Constrained Warping**|Qinliang Lin et.al.|[2402.03951v1](http://arxiv.org/abs/2402.03951v1)|**[link](https://github.com/linqinliang/decowa)**|
 |**2024-02-05**|**Arabic Synonym BERT-based Adversarial Examples for Text Classification**|Norah Alshahrani et.al.|[2402.03477v1](http://arxiv.org/abs/2402.03477v1)|**[link](https://github.com/norahalshahrani/bert_synonym_attack)**|
@@ -410,6 +411,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937v1](http://arxiv.org/abs/2402.05937v1)|null|
+|**2024-02-08**|**Closure properties in positively decreasing and related distributions under dependence**|Dimitrios G. Konstantinides et.al.|[2402.05936v1](http://arxiv.org/abs/2402.05936v1)|null|
+|**2024-02-08**|**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**|Peng Gao et.al.|[2402.05935v1](http://arxiv.org/abs/2402.05935v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933v1](http://arxiv.org/abs/2402.05933v1)|null|
+|**2024-02-08**|**Driving Everywhere with Large Language Model Policy Adaptation**|Boyi Li et.al.|[2402.05932v1](http://arxiv.org/abs/2402.05932v1)|null|
+|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930v1](http://arxiv.org/abs/2402.05930v1)|null|
+|**2024-02-08**|**An Interactive Agent Foundation Model**|Zane Durante et.al.|[2402.05929v1](http://arxiv.org/abs/2402.05929v1)|null|
+|**2024-02-08**|**Sharp Rates in Dependent Learning Theory: Avoiding Sample Size Deflation for the Square Loss**|Ingvar Ziemann et.al.|[2402.05928v1](http://arxiv.org/abs/2402.05928v1)|null|
+|**2024-02-08**|**Yamabe metrics on conical manifolds**|Mattia Freguglia et.al.|[2402.05927v1](http://arxiv.org/abs/2402.05927v1)|null|
+|**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926v1](http://arxiv.org/abs/2402.05926v1)|null|
 |**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110v1](http://arxiv.org/abs/2402.05110v1)|null|
 |**2024-02-07**|**Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding**|Zachary Ankner et.al.|[2402.05109v1](http://arxiv.org/abs/2402.05109v1)|null|
 |**2024-02-07**|**Image captioning for Brazilian Portuguese using GRIT model**|Rafael Silva de Alencar et.al.|[2402.05106v1](http://arxiv.org/abs/2402.05106v1)|null|

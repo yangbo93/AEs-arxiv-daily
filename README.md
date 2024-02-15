@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Exploring the Adversarial Capabilities of Large Language Models**|Lukas Struppek et.al.|[2402.09132v1](http://arxiv.org/abs/2402.09132v1)|null|
 |**2024-02-13**|**Faster Repeated Evasion Attacks in Tree Ensembles**|Lorenzo Cascioli et.al.|[2402.08586v1](http://arxiv.org/abs/2402.08586v1)|null|
 |**2024-02-12**|**Understanding Deep Learning defenses Against Adversarial Examples Through Visualizations for Dynamic Risk Assessment**|Xabier Echeberria-Barrio et.al.|[2402.07496v1](http://arxiv.org/abs/2402.07496v1)|null|
 |**2024-02-11**|**A Random Ensemble of Encrypted Vision Transformers for Adversarially Robust Defense**|Ryota Iijima et.al.|[2402.07183v1](http://arxiv.org/abs/2402.07183v1)|null|
@@ -411,6 +412,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability**|Siwei Yang et.al.|[2402.09404v1](http://arxiv.org/abs/2402.09404v1)|**[link](https://github.com/ucsc-vlaa/aqa-bench)**|
+|**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401v1](http://arxiv.org/abs/2402.09401v1)|null|
+|**2024-02-14**|**Noncoplanar orders and quantum disordered states in maple-leaf antiferromagnets**|Martin Gembé et.al.|[2402.09400v1](http://arxiv.org/abs/2402.09400v1)|null|
+|**2024-02-14**|**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**|Harry Dong et.al.|[2402.09398v1](http://arxiv.org/abs/2402.09398v1)|null|
+|**2024-02-14**|**On the Assessment of Bootstrap Intervals for Samples of Fixed Size**|Weizhen Wang et.al.|[2402.09397v1](http://arxiv.org/abs/2402.09397v1)|null|
+|**2024-02-14**|**Strong existence for free discontinuity problems in linear elasticity**|Manuel Friedrich et.al.|[2402.09396v1](http://arxiv.org/abs/2402.09396v1)|null|
+|**2024-02-14**|**Non-utopian optical properties computed of a tomographically reconstructed real photonic band gap crystal**|Lars J. Corbijn van Willenswaard et.al.|[2402.09395v1](http://arxiv.org/abs/2402.09395v1)|null|
+|**2024-02-14**|**Long-form evaluation of model editing**|Domenic Rosati et.al.|[2402.09394v1](http://arxiv.org/abs/2402.09394v1)|null|
+|**2024-02-14**|**A superstatistical measure of distance from canonical equilibrium**|Sergio Davis et.al.|[2402.09393v1](http://arxiv.org/abs/2402.09393v1)|null|
+|**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392v1](http://arxiv.org/abs/2402.09392v1)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682v1](http://arxiv.org/abs/2402.08682v1)|null|
 |**2024-02-13**|**Chain Reaction of Ideas: Can Radioactive Decay Predict Technological Innovation?**|Guilherme S. Y. Giardini et.al.|[2402.08681v1](http://arxiv.org/abs/2402.08681v1)|null|
 |**2024-02-13**|**Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance**|Linxi Zhao et.al.|[2402.08680v1](http://arxiv.org/abs/2402.08680v1)|null|

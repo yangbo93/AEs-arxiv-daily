@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-14**|**Exploring the Adversarial Capabilities of Large Language Models**|Lukas Struppek et.al.|[2402.09132v1](http://arxiv.org/abs/2402.09132v1)|null|
+|**2024-02-15**|**Exploring the Adversarial Capabilities of Large Language Models**|Lukas Struppek et.al.|[2402.09132v2](http://arxiv.org/abs/2402.09132v2)|null|
 |**2024-02-13**|**Faster Repeated Evasion Attacks in Tree Ensembles**|Lorenzo Cascioli et.al.|[2402.08586v1](http://arxiv.org/abs/2402.08586v1)|null|
 |**2024-02-12**|**Understanding Deep Learning defenses Against Adversarial Examples Through Visualizations for Dynamic Risk Assessment**|Xabier Echeberria-Barrio et.al.|[2402.07496v1](http://arxiv.org/abs/2402.07496v1)|null|
 |**2024-02-11**|**A Random Ensemble of Encrypted Vision Transformers for Adversarially Robust Defense**|Ryota Iijima et.al.|[2402.07183v1](http://arxiv.org/abs/2402.07183v1)|null|
@@ -416,6 +416,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**|Raunaq Bhirangi et.al.|[2402.10211v1](http://arxiv.org/abs/2402.10211v1)|null|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210v1](http://arxiv.org/abs/2402.10210v1)|null|
+|**2024-02-15**|**Good models of Hilbert schemes of points over semistable degenerations**|Calla Tschanz et.al.|[2402.10209v1](http://arxiv.org/abs/2402.10209v1)|null|
+|**2024-02-15**|**Recovering the Pre-Fine-Tuning Weights of Generative Models**|Eliahu Horwitz et.al.|[2402.10208v1](http://arxiv.org/abs/2402.10208v1)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207v1](http://arxiv.org/abs/2402.10207v1)|null|
+|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|null|
+|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
+|**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202v1](http://arxiv.org/abs/2402.10202v1)|null|
+|**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201v1](http://arxiv.org/abs/2402.10201v1)|null|
+|**2024-02-15**|**Chain-of-Thought Reasoning Without Prompting**|Xuezhi Wang et.al.|[2402.10200v1](http://arxiv.org/abs/2402.10200v1)|null|
 |**2024-02-14**|**AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability**|Siwei Yang et.al.|[2402.09404v1](http://arxiv.org/abs/2402.09404v1)|**[link](https://github.com/ucsc-vlaa/aqa-bench)**|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401v1](http://arxiv.org/abs/2402.09401v1)|null|
 |**2024-02-14**|**Noncoplanar orders and quantum disordered states in maple-leaf antiferromagnets**|Martin Gembé et.al.|[2402.09400v1](http://arxiv.org/abs/2402.09400v1)|null|

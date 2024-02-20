@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Query-Based Adversarial Prompt Generation**|Jonathan Hayase et.al.|[2402.12329v1](http://arxiv.org/abs/2402.12329v1)|null|
+|**2024-02-19**|**Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep Learning via Adversarial Training**|Leo Hyun Park et.al.|[2402.12187v1](http://arxiv.org/abs/2402.12187v1)|null|
+|**2024-02-19**|**Stealing the Invisible: Unveiling Pre-Trained CNN Models through Adversarial Examples and Timing Side-Channels**|Shubhi Shukla et.al.|[2402.11953v1](http://arxiv.org/abs/2402.11953v1)|null|
+|**2024-02-16**|**DART: A Principled Approach to Adversarially Robust Unsupervised Domain Adaptation**|Yunjuan Wang et.al.|[2402.11120v1](http://arxiv.org/abs/2402.11120v1)|null|
 |**2024-02-16**|**Zero-shot sampling of adversarial entities in biomedical question answering**|R. Patrick Xian et.al.|[2402.10527v1](http://arxiv.org/abs/2402.10527v1)|null|
 |**2024-02-16**|**Theoretical Understanding of Learning from Adversarial Perturbations**|Soichiro Kumano et.al.|[2402.10470v1](http://arxiv.org/abs/2402.10470v1)|**[link](https://github.com/s-kumano/learning-from-adversarial-perturbations)**|
 |**2024-02-15**|**Exploring the Adversarial Capabilities of Large Language Models**|Lukas Struppek et.al.|[2402.09132v2](http://arxiv.org/abs/2402.09132v2)|null|
@@ -418,6 +422,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377v1](http://arxiv.org/abs/2402.12377v1)|null|
+|**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376v1](http://arxiv.org/abs/2402.12376v1)|**[link](https://github.com/whlzy/fit)**|
+|**2024-02-19**|**Radio surface fluctuations in radio relics**|Paola Domínguez-Fernández et.al.|[2402.12375v1](http://arxiv.org/abs/2402.12375v1)|null|
+|**2024-02-19**|**Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**|Zhuoming Chen et.al.|[2402.12374v1](http://arxiv.org/abs/2402.12374v1)|null|
+|**2024-02-19**|**AnaloBench: Benchmarking the Identification of Abstract and Long-context Analogies**|Xiao Ye et.al.|[2402.12370v1](http://arxiv.org/abs/2402.12370v1)|null|
+|**2024-02-19**|**Short-Period Variables in TESS Full-Frame Image Light Curves Identified via Convolutional Neural Networks**|Greg Olmschenk et.al.|[2402.12369v1](http://arxiv.org/abs/2402.12369v1)|null|
+|**2024-02-19**|**A synthetic data approach for domain generalization of NLI models**|Mohammad Javad Hosseini et.al.|[2402.12368v1](http://arxiv.org/abs/2402.12368v1)|null|
+|**2024-02-19**|**A Critical Evaluation of AI Feedback for Aligning Large Language Models**|Archit Sharma et.al.|[2402.12366v1](http://arxiv.org/abs/2402.12366v1)|**[link](https://github.com/architsharma97/dpo-rlaif)**|
+|**2024-02-19**|**Universal Physics Transformers**|Benedikt Alkin et.al.|[2402.12365v1](http://arxiv.org/abs/2402.12365v1)|null|
+|**2024-02-19**|**Almost-linear time parameterized algorithm for rankwidth via dynamic rankwidth**|Tuukka Korhonen et.al.|[2402.12364v1](http://arxiv.org/abs/2402.12364v1)|null|
 |**2024-02-16**|**Single-photon emitters in WSe$_2$: The critical role of phonons on excitation schemes and indistinguishability**|Luca Vannucci et.al.|[2402.10897v1](http://arxiv.org/abs/2402.10897v1)|null|
 |**2024-02-16**|**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter**|Junfei Xiao et.al.|[2402.10896v1](http://arxiv.org/abs/2402.10896v1)|null|
 |**2024-02-16**|**The $v^{1/3}_{3}/v^{1/2}_{2}$ ratio in PbAu collisions at $\sqrt{s_{\mathrm{NN}}} = $ 17.3 GeV**|D. Adamová et.al.|[2402.10895v1](http://arxiv.org/abs/2402.10895v1)|null|

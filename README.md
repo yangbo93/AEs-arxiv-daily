@@ -4,8 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Rethinking Invariance Regularization in Adversarial Training to Improve Robustness-Accuracy Trade-off**|Futa Waseda et.al.|[2402.14648v1](http://arxiv.org/abs/2402.14648v1)|null|
 |**2024-02-21**|**AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning**|Vasudev Gohil et.al.|[2402.13946v1](http://arxiv.org/abs/2402.13946v1)|null|
-|**2024-02-21**|**Robustness of Deep Neural Networks for Micro-Doppler Radar Classification**|Mikolaj Czerkawski et.al.|[2402.13651v1](http://arxiv.org/abs/2402.13651v1)|null|
+|**2024-02-22**|**Robustness of Deep Neural Networks for Micro-Doppler Radar Classification**|Mikolaj Czerkawski et.al.|[2402.13651v2](http://arxiv.org/abs/2402.13651v2)|null|
 |**2024-02-20**|**QuanTest: Entanglement-Guided Testing of Quantum Neural Network Systems**|Jinjing Shi et.al.|[2402.12950v1](http://arxiv.org/abs/2402.12950v1)|**[link](https://github.com/am0x00/quantest)**|
 |**2024-02-19**|**Query-Based Adversarial Prompt Generation**|Jonathan Hayase et.al.|[2402.12329v1](http://arxiv.org/abs/2402.12329v1)|null|
 |**2024-02-19**|**Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep Learning via Adversarial Training**|Leo Hyun Park et.al.|[2402.12187v1](http://arxiv.org/abs/2402.12187v1)|null|
@@ -421,6 +422,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818v1](http://arxiv.org/abs/2402.14818v1)|**[link](https://github.com/mbzuai-oryx/palo)**|
+|**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817v1](http://arxiv.org/abs/2402.14817v1)|null|
+|**2024-02-22**|**Demographic Bias of Expert-Level Vision-Language Foundation Models in Medical Imaging**|Yuzhe Yang et.al.|[2402.14815v1](http://arxiv.org/abs/2402.14815v1)|**[link](https://github.com/yyzharry/vlm-fairness)**|
+|**2024-02-22**|**SymTh for non-finite symmetries**|Fabio Apruzzi et.al.|[2402.14813v1](http://arxiv.org/abs/2402.14813v1)|null|
+|**2024-02-22**|**WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition**|Lianghui Zhu et.al.|[2402.14812v1](http://arxiv.org/abs/2402.14812v1)|**[link](https://github.com/hustvl/weaksam)**|
+|**2024-02-22**|**Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking**|Nikhil Prakash et.al.|[2402.14811v1](http://arxiv.org/abs/2402.14811v1)|null|
+|**2024-02-22**|**GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion**|Xueyi Liu et.al.|[2402.14810v1](http://arxiv.org/abs/2402.14810v1)|**[link](https://github.com/meowuu7/geneoh-diffusion)**|
+|**2024-02-22**|**CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**|Zicheng Lin et.al.|[2402.14809v1](http://arxiv.org/abs/2402.14809v1)|**[link](https://github.com/CriticBench/CriticBench)**|
+|**2024-02-22**|**RelayAttention for Efficient Large Language Model Serving with Long System Prompts**|Lei Zhu et.al.|[2402.14808v1](http://arxiv.org/abs/2402.14808v1)|null|
+|**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807v1](http://arxiv.org/abs/2402.14807v1)|null|
 |**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020v1](http://arxiv.org/abs/2402.14020v1)|**[link](https://github.com/jonasgeiping/carving)**|
 |**2024-02-21**|**D-Flow: Differentiating through Flows for Controlled Generation**|Heli Ben-Hamu et.al.|[2402.14017v1](http://arxiv.org/abs/2402.14017v1)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016v1](http://arxiv.org/abs/2402.14016v1)|null|

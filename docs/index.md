@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-25**|**From Noise to Clarity: Unraveling the Adversarial Suffix of Large Language Model Attacks via Translation of Text Embeddings**|Hao Wang et.al.|[2402.16006v1](http://arxiv.org/abs/2402.16006v1)|null|
+|**2024-02-23**|**Distilling Adversarial Robustness Using Heterogeneous Teachers**|Jieren Deng et.al.|[2402.15586v1](http://arxiv.org/abs/2402.15586v1)|null|
+|**2024-02-23**|**Deep Networks Always Grok and Here is Why**|Ahmed Imtiaz Humayun et.al.|[2402.15555v1](http://arxiv.org/abs/2402.15555v1)|null|
 |**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429v1](http://arxiv.org/abs/2402.15429v1)|**[link](https://github.com/wellzline/protip)**|
 |**2024-02-22**|**SoK: Analyzing Adversarial Examples: A Framework to Study Adversary Knowledge**|Lucas Fenaux et.al.|[2402.14937v1](http://arxiv.org/abs/2402.14937v1)|null|
 |**2024-02-22**|**Rethinking Invariance Regularization in Adversarial Training to Improve Robustness-Accuracy Trade-off**|Futa Waseda et.al.|[2402.14648v1](http://arxiv.org/abs/2402.14648v1)|null|
@@ -428,6 +431,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Search for invisible particles produced in association with single top quarks in proton-proton collisions at $\sqrt{s}$=13 TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2402.16561v1](http://arxiv.org/abs/2402.16561v1)|null|
+|**2024-02-26**|**Data depth functions for non-standard data by use of formal concept analysis**|Hannah Blocher et.al.|[2402.16560v1](http://arxiv.org/abs/2402.16560v1)|null|
+|**2024-02-26**|**A randomized algorithm for simultaneously diagonalizing symmetric matrices by congruence**|Haoze He et.al.|[2402.16557v1](http://arxiv.org/abs/2402.16557v1)|null|
+|**2024-02-26**|**Contracts with Inspections**|Tomer Ezra et.al.|[2402.16553v1](http://arxiv.org/abs/2402.16553v1)|null|
+|**2024-02-26**|**Delayed-feedback oscillators replicate the dynamics of multiplex networks: wavefront propagation and stochastic resonance**|Anna Zakharova et.al.|[2402.16551v1](http://arxiv.org/abs/2402.16551v1)|null|
+|**2024-02-26**|**Agent-Designed Contracts: How to Sell Hidden Actions**|Martino Bernasconi et.al.|[2402.16547v1](http://arxiv.org/abs/2402.16547v1)|null|
+|**2024-02-26**|**Beyond Accuracy: An Empirical Study on Unit Testing in Open-source Deep Learning Projects**|Han Wang et.al.|[2402.16546v1](http://arxiv.org/abs/2402.16546v1)|null|
+|**2024-02-26**|**Model-based deep reinforcement learning for accelerated learning from flow simulations**|Andre Weiner et.al.|[2402.16543v1](http://arxiv.org/abs/2402.16543v1)|**[link](https://github.com/janisgeise/mb_drl_for_accelerated_learning_from_cfd)**|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539v1](http://arxiv.org/abs/2402.16539v1)|null|
+|**2024-02-26**|**Learning to Maximize (Expected) Utility**|Thomas Dohmen et.al.|[2402.16538v1](http://arxiv.org/abs/2402.16538v1)|null|
 |**2024-02-23**|**A Model for the Redshift-Space Galaxy 4-Point Correlation Function**|William Ortolá Leonard et.al.|[2402.15510v1](http://arxiv.org/abs/2402.15510v1)|null|
 |**2024-02-23**|**Seamless Human Motion Composition with Blended Positional Encodings**|German Barquero et.al.|[2402.15509v1](http://arxiv.org/abs/2402.15509v1)|**[link](https://github.com/BarqueroGerman/FlowMDM)**|
 |**2024-02-23**|**The α-element enrichment of gas in distant galaxies**|Anna Velichko et.al.|[2402.15508v1](http://arxiv.org/abs/2402.15508v1)|null|

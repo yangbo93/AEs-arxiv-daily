@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Black-box Adversarial Attacks Against Image Quality Assessment Models**|Yu Ran et.al.|[2402.17533v1](http://arxiv.org/abs/2402.17533v1)|null|
+|**2024-02-27**|**Extreme Miscalibration and the Illusion of Adversarial Robustness**|Vyas Raina et.al.|[2402.17509v1](http://arxiv.org/abs/2402.17509v1)|null|
+|**2024-02-27**|**Conformal Shield: A Novel Adversarial Attack Detection Framework for Automatic Modulation Classification**|Tailai Wen et.al.|[2402.17450v1](http://arxiv.org/abs/2402.17450v1)|null|
+|**2024-02-27**|**Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates**|Daniele Angioni et.al.|[2402.17390v1](http://arxiv.org/abs/2402.17390v1)|null|
+|**2024-02-25**|**An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection**|João Vitorino et.al.|[2402.16912v1](http://arxiv.org/abs/2402.16912v1)|null|
+|**2024-02-26**|**Improving the JPEG-resistance of Adversarial Attacks on Face Recognition by Interpolation Smoothing**|Kefu Guo et.al.|[2402.16586v1](http://arxiv.org/abs/2402.16586v1)|null|
 |**2024-02-25**|**From Noise to Clarity: Unraveling the Adversarial Suffix of Large Language Model Attacks via Translation of Text Embeddings**|Hao Wang et.al.|[2402.16006v1](http://arxiv.org/abs/2402.16006v1)|null|
 |**2024-02-23**|**Distilling Adversarial Robustness Using Heterogeneous Teachers**|Jieren Deng et.al.|[2402.15586v1](http://arxiv.org/abs/2402.15586v1)|null|
 |**2024-02-23**|**Deep Networks Always Grok and Here is Why**|Ahmed Imtiaz Humayun et.al.|[2402.15555v1](http://arxiv.org/abs/2402.15555v1)|null|
@@ -427,6 +433,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768v1](http://arxiv.org/abs/2402.17768v1)|null|
+|**2024-02-27**|**Opening Cabinets and Drawers in the Real World using a Commodity Mobile Manipulator**|Arjun Gupta et.al.|[2402.17767v1](http://arxiv.org/abs/2402.17767v1)|null|
+|**2024-02-27**|**ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**|Zekun Qi et.al.|[2402.17766v1](http://arxiv.org/abs/2402.17766v1)|null|
+|**2024-02-27**|**On an abrasion motivated fractal model**|Balázs Bárány et.al.|[2402.17765v1](http://arxiv.org/abs/2402.17765v1)|null|
+|**2024-02-27**|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|Shuming Ma et.al.|[2402.17764v1](http://arxiv.org/abs/2402.17764v1)|null|
+|**2024-02-27**|**Reducing Unnecessary Alerts in Pedestrian Protection Systems Based on P2V Communications**|Ignacio Soto et.al.|[2402.17763v1](http://arxiv.org/abs/2402.17763v1)|null|
+|**2024-02-27**|**Massive Activations in Large Language Models**|Mingjie Sun et.al.|[2402.17762v1](http://arxiv.org/abs/2402.17762v1)|**[link](https://github.com/locuslab/massive-activations)**|
+|**2024-02-27**|**Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning**|Remmy Zen et.al.|[2402.17761v1](http://arxiv.org/abs/2402.17761v1)|null|
+|**2024-02-27**|**Learning to Program Variational Quantum Circuits with Fast Weights**|Samuel Yen-Chi Chen et.al.|[2402.17760v1](http://arxiv.org/abs/2402.17760v1)|null|
+|**2024-02-27**|**Towards Optimal Learning of Language Models**|Yuxian Gu et.al.|[2402.17759v1](http://arxiv.org/abs/2402.17759v1)|null|
 |**2024-02-26**|**Search for invisible particles produced in association with single top quarks in proton-proton collisions at $\sqrt{s}$=13 TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2402.16561v1](http://arxiv.org/abs/2402.16561v1)|null|
 |**2024-02-26**|**Data depth functions for non-standard data by use of formal concept analysis**|Hannah Blocher et.al.|[2402.16560v1](http://arxiv.org/abs/2402.16560v1)|null|
 |**2024-02-26**|**A randomized algorithm for simultaneously diagonalizing symmetric matrices by congruence**|Haoze He et.al.|[2402.16557v1](http://arxiv.org/abs/2402.16557v1)|null|

@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Unraveling Adversarial Examples against Speaker Identification -- Techniques for Attack Detection and Victim Model Classification**|Sonal Joshi et.al.|[2402.19355v1](http://arxiv.org/abs/2402.19355v1)|null|
+|**2024-02-29**|**Pointing out the Shortcomings of Relation Extraction Models with Semantically Motivated Adversarials**|Gennaro Nolano et.al.|[2402.19076v1](http://arxiv.org/abs/2402.19076v1)|null|
+|**2024-02-29**|**How to Train your Antivirus: RL-based Hardening through the Problem-Space**|Jacopo Cortellazzi et.al.|[2402.19027v1](http://arxiv.org/abs/2402.19027v1)|null|
+|**2024-02-29**|**MPAT: Building Robust Deep Neural Networks against Textual Adversarial Attacks**|Fangyuan Zhang et.al.|[2402.18792v1](http://arxiv.org/abs/2402.18792v1)|null|
+|**2024-02-29**|**Enhancing the "Immunity" of Mixture-of-Experts Networks for Adversarial Defense**|Qiao Han et.al.|[2402.18787v1](http://arxiv.org/abs/2402.18787v1)|null|
 |**2024-02-27**|**Adversarial example soups: averaging multiple adversarial examples improves transferability without increasing additional generation time**|Bo Yang et.al.|[2402.18370v1](http://arxiv.org/abs/2402.18370v1)|null|
 |**2024-02-28**|**Catastrophic Overfitting: A Potential Blessing in Disguise**|Mengnan Zhao et.al.|[2402.18211v1](http://arxiv.org/abs/2402.18211v1)|null|
 |**2024-02-27**|**LLM-Resistant Math Word Problem Generation via Adversarial Attacks**|Roy Xie et.al.|[2402.17916v1](http://arxiv.org/abs/2402.17916v1)|**[link](https://github.com/ruoyuxie/adversarial_mwps_generation)**|
@@ -440,6 +445,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481v1](http://arxiv.org/abs/2402.19481v1)|**[link](https://github.com/mit-han-lab/distrifuser)**|
+|**2024-02-29**|**Single Electron Quantum Dot in Two-Dimensional Transition Metal Dichalcogenides**|Jarosław Pawłowski et.al.|[2402.19480v1](http://arxiv.org/abs/2402.19480v1)|null|
+|**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479v1](http://arxiv.org/abs/2402.19479v1)|null|
+|**2024-02-29**|**Learning a Generalized Physical Face Model From Data**|Lingchen Yang et.al.|[2402.19477v1](http://arxiv.org/abs/2402.19477v1)|null|
+|**2024-02-29**|**The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?**|Alex Gu et.al.|[2402.19475v1](http://arxiv.org/abs/2402.19475v1)|null|
+|**2024-02-29**|**The All-Seeing Project V2: Towards General Relation Comprehension of the Open World**|Weiyun Wang et.al.|[2402.19474v1](http://arxiv.org/abs/2402.19474v1)|null|
+|**2024-02-29**|**Retrieval-Augmented Generation for AI-Generated Content: A Survey**|Penghao Zhao et.al.|[2402.19473v1](http://arxiv.org/abs/2402.19473v1)|**[link](https://github.com/hymie122/rag-survey)**|
+|**2024-02-29**|**Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress**|Ameya Prabhu et.al.|[2402.19472v1](http://arxiv.org/abs/2402.19472v1)|**[link](https://github.com/bethgelab/sort-and-search)**|
+|**2024-02-29**|**Loose LIPS Sink Ships: Asking Questions in Battleship with Language-Informed Program Sampling**|Gabriel Grand et.al.|[2402.19471v1](http://arxiv.org/abs/2402.19471v1)|null|
+|**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470v1](http://arxiv.org/abs/2402.19470v1)|null|
 |**2024-02-28**|**Measuring Tracers of Planet Formation in the Atmosphere of WASP-77A b: Sub-stellar O/H and C/H ratios, with a stellar C/O ratio and a potentially Super-stellar Ti/H ratio**|Billy Edwards et.al.|[2402.18574v1](http://arxiv.org/abs/2402.18574v1)|null|
 |**2024-02-28**|**UniMODE: Unified Monocular 3D Object Detection**|Zhuoling Li et.al.|[2402.18573v1](http://arxiv.org/abs/2402.18573v1)|null|
 |**2024-02-28**|**Logarithmic Sobolev Inequalities for Bounded Domains and Applications to Drift-Diffusion Equations**|Elie Abdo et.al.|[2402.18572v1](http://arxiv.org/abs/2402.18572v1)|null|

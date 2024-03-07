@@ -449,6 +449,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Backtracing: Retrieving the Cause of the Query**|Rose E. Wang et.al.|[2403.03956v1](http://arxiv.org/abs/2403.03956v1)|**[link](https://github.com/rosewang2008/backtracing)**|
+|**2024-03-06**|**Understanding Stabilizer Codes Under Local Decoherence Through a General Statistical Mechanics Mapping**|Anasuya Lyons et.al.|[2403.03955v1](http://arxiv.org/abs/2403.03955v1)|null|
+|**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954v1](http://arxiv.org/abs/2403.03954v1)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
+|**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952v1](http://arxiv.org/abs/2403.03952v1)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
+|**2024-03-06**|**Investigating the Collective Nature of Cavity Modified Chemical Kinetics under Vibrational Strong Coupling**|Lachlan P. Lindoy et.al.|[2403.03951v1](http://arxiv.org/abs/2403.03951v1)|null|
+|**2024-03-06**|**Estimating the household secondary attack rate with the Incomplete Chain Binomial model**|Jonas Christoffer Lindstrøm et.al.|[2403.03948v1](http://arxiv.org/abs/2403.03948v1)|null|
+|**2024-03-06**|**Can Audio Reveal Music Performance Difficulty? Insights from the Piano Syllabus Dataset**|Pedro Ramoneda et.al.|[2403.03947v1](http://arxiv.org/abs/2403.03947v1)|null|
+|**2024-03-06**|**MR.RGM: An R Package for Fitting Bayesian Multivariate Bidirectional Mendelian Randomization Networks**|Bitan Sarkar et.al.|[2403.03944v1](http://arxiv.org/abs/2403.03944v1)|null|
+|**2024-03-06**|**Separate and Detailed Treatment of Absolute Signal and Noise Enables NMR Under Adverse Circumstances**|A Guinness et.al.|[2403.03943v1](http://arxiv.org/abs/2403.03943v1)|null|
+|**2024-03-06**|**The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models**|Adithya Bhaskar et.al.|[2403.03942v1](http://arxiv.org/abs/2403.03942v1)|**[link](https://github.com/princeton-nlp/heuristic-core)**|
 |**2024-03-05**|**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**|Chris Rockwell et.al.|[2403.03221v1](http://arxiv.org/abs/2403.03221v1)|null|
 |**2024-03-05**|**How much information can be extracted from galaxy clustering at the field level?**|Nhat-Minh Nguyen et.al.|[2403.03220v1](http://arxiv.org/abs/2403.03220v1)|null|
 |**2024-03-05**|**LC-Tsalis-INF: Generalized Best-of-Both-Worlds Linear Contextual Bandits**|Masahiro Kato et.al.|[2403.03219v1](http://arxiv.org/abs/2403.03219v1)|null|

@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Dynamic Perturbation-Adaptive Adversarial Training on Medical Image Classification**|Shuai Li et.al.|[2403.06798v1](http://arxiv.org/abs/2403.06798v1)|null|
+|**2024-03-11**|**PeerAiD: Improving Adversarial Distillation from a Specialized Peer Tutor**|Jaewon Jung et.al.|[2403.06668v1](http://arxiv.org/abs/2403.06668v1)|null|
+|**2024-03-11**|**Real is not True: Backdoor Attacks Against Deepfake Detection**|Hong Sun et.al.|[2403.06610v1](http://arxiv.org/abs/2403.06610v1)|null|
 |**2024-03-08**|**Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds**|Tianrui Lou et.al.|[2403.05247v1](http://arxiv.org/abs/2403.05247v1)|null|
 |**2024-03-08**|**Adversarial Sparse Teacher: Defense Against Distillation-Based Model Stealing Attacks Using Adversarial Examples**|Eda Yilmaz et.al.|[2403.05181v1](http://arxiv.org/abs/2403.05181v1)|null|
 |**2024-03-06**|**Improving Adversarial Training using Vulnerability-Aware Perturbation Budget**|Olukorede Fakorede et.al.|[2403.04070v1](http://arxiv.org/abs/2403.04070v1)|null|
@@ -452,6 +455,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Tidal synchronization trapping in stars and planets with convective envelopes**|Janosz W. Dewberry et.al.|[2403.06979v1](http://arxiv.org/abs/2403.06979v1)|null|
+|**2024-03-11**|**Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**|Wele Gedara Chaminda Bandara et.al.|[2403.06978v1](http://arxiv.org/abs/2403.06978v1)|**[link](https://github.com/wgcban/apt)**|
+|**2024-03-11**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977v1](http://arxiv.org/abs/2403.06977v1)|**[link](https://github.com/opengvlab/videomamba)**|
+|**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976v1](http://arxiv.org/abs/2403.06976v1)|null|
+|**2024-03-11**|**Ehrhart polynomials of partial permutohedra**|Roger E. Behrend et.al.|[2403.06975v1](http://arxiv.org/abs/2403.06975v1)|null|
+|**2024-03-11**|**Memory-based Adapters for Online 3D Scene Perception**|Xiuwei Xu et.al.|[2403.06974v1](http://arxiv.org/abs/2403.06974v1)|null|
+|**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973v1](http://arxiv.org/abs/2403.06973v1)|null|
+|**2024-03-11**|**Investigating model dependencies for obscured Active Galactic Nuclei: a case study of NGC 3982**|Kristína Kallová et.al.|[2403.06972v1](http://arxiv.org/abs/2403.06972v1)|null|
+|**2024-03-11**|**A representation-learning game for classes of prediction tasks**|Neria Uzan et.al.|[2403.06971v1](http://arxiv.org/abs/2403.06971v1)|null|
+|**2024-03-11**|**MRL Parsing Without Tears: The Case of Hebrew**|Shaltiel Shmidman et.al.|[2403.06970v1](http://arxiv.org/abs/2403.06970v1)|null|
 |**2024-03-08**|**Long-range competition on the torus**|Bas Lodewijks et.al.|[2403.05536v1](http://arxiv.org/abs/2403.05536v1)|null|
 |**2024-03-08**|**Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in Images and Videos**|Tarun Kalluri et.al.|[2403.05535v1](http://arxiv.org/abs/2403.05535v1)|null|
 |**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534v1](http://arxiv.org/abs/2403.05534v1)|null|

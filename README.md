@@ -453,6 +453,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770v1](http://arxiv.org/abs/2403.08770v1)|null|
+|**2024-03-13**|**The thermalization of $γ$-rays in radioactive expanding ejecta: A simple model and its application for Kilonovae and Ia SNe**|Or Guttman et.al.|[2403.08769v1](http://arxiv.org/abs/2403.08769v1)|null|
+|**2024-03-13**|**MonoOcc: Digging into Monocular Semantic Occupancy Prediction**|Yupeng Zheng et.al.|[2403.08766v1](http://arxiv.org/abs/2403.08766v1)|**[link](https://github.com/ucaszyp/monoocc)**|
+|**2024-03-13**|**An Analytic Description of Electron Thermalization in Kilonovae Ejecta**|Ben Shenhar et.al.|[2403.08765v1](http://arxiv.org/abs/2403.08765v1)|null|
+|**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764v1](http://arxiv.org/abs/2403.08764v1)|null|
+|**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763v1](http://arxiv.org/abs/2403.08763v1)|null|
+|**2024-03-13**|**Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches**|Yun Xin Teoh et.al.|[2403.08761v1](http://arxiv.org/abs/2403.08761v1)|null|
+|**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760v1](http://arxiv.org/abs/2403.08760v1)|**[link](https://github.com/hustvl/mim4d)**|
+|**2024-03-13**|**Observational tests in scale invariance I: galaxy clusters and rotation of galaxies**|Andre Maeder et.al.|[2403.08759v1](http://arxiv.org/abs/2403.08759v1)|null|
+|**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758v1](http://arxiv.org/abs/2403.08758v1)|null|
 |**2024-03-12**|**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**|Lei Zhu et.al.|[2403.07874v1](http://arxiv.org/abs/2403.07874v1)|**[link](https://github.com/zh460045050/v2l-tokenizer)**|
 |**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873v1](http://arxiv.org/abs/2403.07873v1)|null|
 |**2024-03-12**|**Rethinking Generative Large Language Model Evaluation for Semantic Comprehension**|Fangyun Wei et.al.|[2403.07872v1](http://arxiv.org/abs/2403.07872v1)|null|

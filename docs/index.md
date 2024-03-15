@@ -457,6 +457,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior**|Huan-ang Gao et.al.|[2403.09638v1](http://arxiv.org/abs/2403.09638v1)|null|
+|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637v1](http://arxiv.org/abs/2403.09637v1)|null|
+|**2024-03-14**|**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**|Piotr Nawrot et.al.|[2403.09636v1](http://arxiv.org/abs/2403.09636v1)|null|
+|**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635v1](http://arxiv.org/abs/2403.09635v1)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
+|**2024-03-14**|**OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning**|Lingyi Hong et.al.|[2403.09634v1](http://arxiv.org/abs/2403.09634v1)|null|
+|**2024-03-14**|**Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image**|Yiqun Mei et.al.|[2403.09632v1](http://arxiv.org/abs/2403.09632v1)|null|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631v1](http://arxiv.org/abs/2403.09631v1)|null|
+|**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630v1](http://arxiv.org/abs/2403.09630v1)|null|
+|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629v1](http://arxiv.org/abs/2403.09629v1)|null|
+|**2024-03-14**|**From the Conformal Anomaly to the Virasoro Algebra**|Sid Maibach et.al.|[2403.09628v1](http://arxiv.org/abs/2403.09628v1)|null|
 |**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770v1](http://arxiv.org/abs/2403.08770v1)|null|
 |**2024-03-13**|**The thermalization of $γ$-rays in radioactive expanding ejecta: A simple model and its application for Kilonovae and Ia SNe**|Or Guttman et.al.|[2403.08769v1](http://arxiv.org/abs/2403.08769v1)|null|
 |**2024-03-13**|**MonoOcc: Digging into Monocular Semantic Occupancy Prediction**|Yupeng Zheng et.al.|[2403.08766v1](http://arxiv.org/abs/2403.08766v1)|**[link](https://github.com/ucaszyp/monoocc)**|

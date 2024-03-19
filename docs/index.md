@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM**|Linyu Tang et.al.|[2403.11448v1](http://arxiv.org/abs/2403.11448v1)|null|
+|**2024-03-17**|**A Modified Word Saliency-Based Adversarial Attack on Text Classification Models**|Hetvi Waghela et.al.|[2403.11297v1](http://arxiv.org/abs/2403.11297v1)|null|
+|**2024-03-16**|**Understanding Robustness of Visual State Space Models for Image Classification**|Chengbin Du et.al.|[2403.10935v1](http://arxiv.org/abs/2403.10935v1)|null|
+|**2024-03-16**|**Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples**|Ziqi Zhou et.al.|[2403.10801v1](http://arxiv.org/abs/2403.10801v1)|**[link](https://github.com/cgcl-codes/gen-af)**|
+|**2024-03-14**|**Counter-Samples: A Stateless Strategy to Neutralize Black Box Adversarial Attacks**|Roey Bokobza et.al.|[2403.10562v1](http://arxiv.org/abs/2403.10562v1)|null|
 |**2024-03-15**|**Towards Non-Adversarial Algorithmic Recourse**|Tobias Leemann et.al.|[2403.10330v1](http://arxiv.org/abs/2403.10330v1)|null|
 |**2024-03-14**|**An Image Is Worth 1000 Lies: Adversarial Transferability across Prompts on Vision-Language Models**|Haochen Luo et.al.|[2403.09766v1](http://arxiv.org/abs/2403.09766v1)|**[link](https://github.com/haochen-luo/cropa)**|
 |**2024-03-12**|**Disentangling Policy from Offline Task Representation Learning via Adversarial Data Augmentation**|Chengxing Jia et.al.|[2403.07261v1](http://arxiv.org/abs/2403.07261v1)|**[link](https://github.com/lamda-rl/reda)**|
@@ -459,6 +464,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Time Series Compression using Quaternion Valued Neural Networks and Quaternion Backpropagation**|Johannes Pöppelbaum et.al.|[2403.11722v1](http://arxiv.org/abs/2403.11722v1)|null|
+|**2024-03-18**|**Replica Field Theory for a Generalized Franz--Parisi Potential of Inhomogeneous Glassy Systems: New Closure and the Associated Self-Consistent Equation**|Hiroshi Frusawa et.al.|[2403.11720v1](http://arxiv.org/abs/2403.11720v1)|null|
+|**2024-03-18**|**Models for Storage in Database Backends**|Edgard Schiebelbein et.al.|[2403.11716v1](http://arxiv.org/abs/2403.11716v1)|null|
+|**2024-03-18**|**Adelic approximation on spheres**|Éric Gaudron et.al.|[2403.11714v1](http://arxiv.org/abs/2403.11714v1)|null|
+|**2024-03-18**|**New insights on fission of 235U induced by high energy neutrons**|Alice Manna et.al.|[2403.11711v1](http://arxiv.org/abs/2403.11711v1)|null|
+|**2024-03-18**|**Matter and cosmogenesis in Kant's Theory of the Heavens**|Garance Benoit et.al.|[2403.11710v1](http://arxiv.org/abs/2403.11710v1)|null|
+|**2024-03-18**|**Significant impact of light-matter strong coupling on chiral nonlinear optical effect**|Daichi Okada et.al.|[2403.11709v1](http://arxiv.org/abs/2403.11709v1)|null|
+|**2024-03-18**|**A Quantile Neural Network Framework for Two-stage Stochastic Optimization**|Antonio Alcántara et.al.|[2403.11707v1](http://arxiv.org/abs/2403.11707v1)|null|
+|**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706v1](http://arxiv.org/abs/2403.11706v1)|**[link](https://github.com/gladia-research-group/gmsdi)**|
+|**2024-03-18**|**Coarsening of chiral domains in itinerant electron magnets: A machine learning force field approach**|Yunhao Fan et.al.|[2403.11705v1](http://arxiv.org/abs/2403.11705v1)|null|
 |**2024-03-15**|**P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**|Zhou Jiang et.al.|[2403.10521v1](http://arxiv.org/abs/2403.10521v1)|null|
 |**2024-03-15**|**Frozen Feature Augmentation for Few-Shot Image Classification**|Andreas Bär et.al.|[2403.10519v1](http://arxiv.org/abs/2403.10519v1)|null|
 |**2024-03-15**|**Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives**|Ronghui Li et.al.|[2403.10518v1](http://arxiv.org/abs/2403.10518v1)|**[link](https://github.com/li-ronghui/LODGE)**|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 
 ## Adversarial Examples
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-03-18**|**Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM**|Linyu Tang et.al.|[2403.11448v1](http://arxiv.org/abs/2403.11448v1)|null|
 |**2024-03-17**|**A Modified Word Saliency-Based Adversarial Attack on Text Classification Models**|Hetvi Waghela et.al.|[2403.11297v1](http://arxiv.org/abs/2403.11297v1)|null|
 |**2024-03-16**|**Understanding Robustness of Visual State Space Models for Image Classification**|Chengbin Du et.al.|[2403.10935v1](http://arxiv.org/abs/2403.10935v1)|null|
-|**2024-03-16**|**Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples**|Ziqi Zhou et.al.|[2403.10801v1](http://arxiv.org/abs/2403.10801v1)|**[link](https://github.com/cgcl-codes/gen-af)**|
+|**2024-03-19**|**Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples**|Ziqi Zhou et.al.|[2403.10801v2](http://arxiv.org/abs/2403.10801v2)|**[link](https://github.com/cgcl-codes/gen-af)**|
 |**2024-03-14**|**Counter-Samples: A Stateless Strategy to Neutralize Black Box Adversarial Attacks**|Roey Bokobza et.al.|[2403.10562v1](http://arxiv.org/abs/2403.10562v1)|null|
 |**2024-03-15**|**Towards Non-Adversarial Algorithmic Recourse**|Tobias Leemann et.al.|[2403.10330v1](http://arxiv.org/abs/2403.10330v1)|null|
 |**2024-03-14**|**An Image Is Worth 1000 Lies: Adversarial Transferability across Prompts on Vision-Language Models**|Haochen Luo et.al.|[2403.09766v1](http://arxiv.org/abs/2403.09766v1)|**[link](https://github.com/haochen-luo/cropa)**|

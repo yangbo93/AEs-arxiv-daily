@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 
 ## Adversarial Examples
 
@@ -475,7 +475,7 @@ layout: default
 |**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621v1](http://arxiv.org/abs/2403.14621v1)|**[link](https://github.com/justimyhxu/grm)**|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619v1](http://arxiv.org/abs/2403.14619v1)|null|
 |**2024-03-21**|**Simulation-Based Inference of the sky-averaged 21-cm signal from CD-EoR with REACH**|Anchal Saxena et.al.|[2403.14618v1](http://arxiv.org/abs/2403.14618v1)|null|
-|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617v1](http://arxiv.org/abs/2403.14617v1)|null|
+|**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617v2](http://arxiv.org/abs/2403.14617v2)|null|
 |**2024-03-21**|**Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning**|Hasindri Watawana et.al.|[2403.14616v1](http://arxiv.org/abs/2403.14616v1)|**[link](https://github.com/hasindri/hlss)**|
 |**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
 |**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|

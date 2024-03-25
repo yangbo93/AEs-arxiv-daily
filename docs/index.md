@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Robust optimization for adversarial learning with finite sample complexity guarantees**|André Bertolace et.al.|[2403.15207v1](http://arxiv.org/abs/2403.15207v1)|null|
+|**2024-03-21**|**Diffusion Attack: Leveraging Stable Diffusion for Naturalistic Image Attacking**|Qianyu Guo et.al.|[2403.14778v1](http://arxiv.org/abs/2403.14778v1)|null|
+|**2024-03-21**|**Few-Shot Adversarial Prompt Learning on Vision-Language Models**|Yiwei Zhou et.al.|[2403.14774v1](http://arxiv.org/abs/2403.14774v1)|null|
+|**2024-03-21**|**Reversible Jump Attack to Textual Classifiers with Modification Reduction**|Mingze Ni et.al.|[2403.14731v1](http://arxiv.org/abs/2403.14731v1)|null|
 |**2024-03-19**|**As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**|Anjun Hu et.al.|[2403.12693v1](http://arxiv.org/abs/2403.12693v1)|null|
 |**2024-03-19**|**Boosting Transferability in Vision-Language Attacks via Diversification along the Intersection Region of Adversarial Trajectory**|Sensen Gao et.al.|[2403.12445v1](http://arxiv.org/abs/2403.12445v1)|null|
 |**2024-03-18**|**SSCAE -- Semantic, Syntactic, and Context-aware natural language Adversarial Examples generator**|Javad Rafiei Asl et.al.|[2403.11833v1](http://arxiv.org/abs/2403.11833v1)|null|
@@ -467,6 +471,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data**|Hanrong Ye et.al.|[2403.15389v1](http://arxiv.org/abs/2403.15389v1)|null|
+|**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388v1](http://arxiv.org/abs/2403.15388v1)|null|
+|**2024-03-22**|**Production of dark sector particles via resonant positron annihilation on atomic electrons**|Fernando Arias-Aragón et.al.|[2403.15387v1](http://arxiv.org/abs/2403.15387v1)|null|
+|**2024-03-22**|**Magnetic, charge, and bond order in the two-dimensional Su-Schrieffer-Heeger-Holstein model**|Max Casebolt et.al.|[2403.15386v1](http://arxiv.org/abs/2403.15386v1)|null|
+|**2024-03-22**|**LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**|Kevin Xie et.al.|[2403.15385v1](http://arxiv.org/abs/2403.15385v1)|null|
+|**2024-03-22**|**Unifying area and unit-level small area estimation through calibration**|William Acero et.al.|[2403.15384v1](http://arxiv.org/abs/2403.15384v1)|null|
+|**2024-03-22**|**ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars**|Zhenwei Wang et.al.|[2403.15383v1](http://arxiv.org/abs/2403.15383v1)|null|
+|**2024-03-22**|**DragAPart: Learning a Part-Level Motion Prior for Articulated Objects**|Ruining Li et.al.|[2403.15382v1](http://arxiv.org/abs/2403.15382v1)|null|
+|**2024-03-22**|**Localization for quasi-one-dimensional Dirac operators**|Hakim Boumaza et.al.|[2403.15381v1](http://arxiv.org/abs/2403.15381v1)|null|
+|**2024-03-22**|**Control Designs for Critical-Continegency Responsible Grid-Following Inverters and Seamless Transitions To and From Grid-Forming Modes**|Jaesang Park et.al.|[2403.15380v1](http://arxiv.org/abs/2403.15380v1)|null|
 |**2024-03-21**|**Zero-Shot Multi-Object Shape Completion**|Shun Iwase et.al.|[2403.14628v1](http://arxiv.org/abs/2403.14628v1)|null|
 |**2024-03-21**|**MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**|Yuedong Chen et.al.|[2403.14627v1](http://arxiv.org/abs/2403.14627v1)|**[link](https://github.com/donydchen/mvsplat)**|
 |**2024-03-21**|**ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer**|Tianye Ding et.al.|[2403.14626v1](http://arxiv.org/abs/2403.14626v1)|null|

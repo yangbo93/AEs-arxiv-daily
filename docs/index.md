@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 
 ## Adversarial Examples
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-03-22**|**Robust optimization for adversarial learning with finite sample complexity guarantees**|André Bertolace et.al.|[2403.15207v1](http://arxiv.org/abs/2403.15207v1)|null|
 |**2024-03-21**|**Diffusion Attack: Leveraging Stable Diffusion for Naturalistic Image Attacking**|Qianyu Guo et.al.|[2403.14778v1](http://arxiv.org/abs/2403.14778v1)|null|
 |**2024-03-21**|**Few-Shot Adversarial Prompt Learning on Vision-Language Models**|Yiwei Zhou et.al.|[2403.14774v1](http://arxiv.org/abs/2403.14774v1)|null|
-|**2024-03-21**|**Reversible Jump Attack to Textual Classifiers with Modification Reduction**|Mingze Ni et.al.|[2403.14731v1](http://arxiv.org/abs/2403.14731v1)|null|
+|**2024-03-21**|**Reversible Jump Attack to Textual Classifiers with Modification Reduction**|Mingze Ni et.al.|[2403.14731v1](http://arxiv.org/abs/2403.14731v1)|**[link](https://github.com/mingzelucasni/rja-mmr)**|
 |**2024-03-19**|**As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**|Anjun Hu et.al.|[2403.12693v1](http://arxiv.org/abs/2403.12693v1)|null|
 |**2024-03-19**|**Boosting Transferability in Vision-Language Attacks via Diversification along the Intersection Region of Adversarial Trajectory**|Sensen Gao et.al.|[2403.12445v1](http://arxiv.org/abs/2403.12445v1)|null|
 |**2024-03-18**|**SSCAE -- Semantic, Syntactic, and Context-aware natural language Adversarial Examples generator**|Javad Rafiei Asl et.al.|[2403.11833v1](http://arxiv.org/abs/2403.11833v1)|null|
@@ -472,6 +472,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making**|Shuai Ma et.al.|[2403.16812v1](http://arxiv.org/abs/2403.16812v1)|null|
+|**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809v1](http://arxiv.org/abs/2403.16809v1)|null|
+|**2024-03-26**|**Navigating the EU AI Act: A Methodological Approach to Compliance for Safety-critical Products**|J. Kelly et.al.|[2403.16808v2](http://arxiv.org/abs/2403.16808v2)|null|
+|**2024-03-25**|**A serendipitous discovery of HI-rich galaxy groups with MeerKAT**|M. Glowacki et.al.|[2403.16807v1](http://arxiv.org/abs/2403.16807v1)|null|
+|**2024-03-25**|**Hadamard Regularization of the Graviton Stress Tensor**|Anna Negro et.al.|[2403.16806v1](http://arxiv.org/abs/2403.16806v1)|null|
+|**2024-03-25**|**TEI2GO: A Multilingual Approach for Fast Temporal Expression Identification**|Hugo Sousa et.al.|[2403.16804v1](http://arxiv.org/abs/2403.16804v1)|null|
+|**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803v1](http://arxiv.org/abs/2403.16803v1)|null|
+|**2024-03-25**|**Unveiling extended gamma-ray emission around HESS J1813-178**|F. Aharonian et.al.|[2403.16802v1](http://arxiv.org/abs/2403.16802v1)|null|
+|**2024-03-25**|**Nambu-Goldstone Modes in Magnetized $T^{2n}$ Extra Dimensions**|Takuya Hirose et.al.|[2403.16801v1](http://arxiv.org/abs/2403.16801v1)|null|
+|**2024-03-25**|**Efficient Method for Finding Optimal Strategies in Chopstick Auctions with Uniform Objects Values**|Stanisław Kaźmierowski et.al.|[2403.16799v1](http://arxiv.org/abs/2403.16799v1)|null|
 |**2024-03-25**|**On Stability Behaviors of 5D M-theory Black Objects**|Adil Belhaj et.al.|[2403.16724v1](http://arxiv.org/abs/2403.16724v1)|null|
 |**2024-03-25**|**Static equilibrium of multi-black holes in expanding bubbles in five dimensions**|Shinya Tomizawa et.al.|[2403.16723v1](http://arxiv.org/abs/2403.16723v1)|null|
 |**2024-03-25**|**The effect of inter-track coupling on H$_2$O$_2$ productions**|Ramin Abolfath et.al.|[2403.16722v1](http://arxiv.org/abs/2403.16722v1)|null|

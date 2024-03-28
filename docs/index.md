@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection**|Jiayi Zhu et.al.|[2403.18554v1](http://arxiv.org/abs/2403.18554v1)|null|
 |**2024-03-26**|**DataCook: Crafting Anti-Adversarial Examples for Healthcare Data Copyright Protection**|Sihan Shang et.al.|[2403.17755v1](http://arxiv.org/abs/2403.17755v1)|null|
 |**2024-03-24**|**Subspace Defense: Discarding Adversarial Perturbations by Learning a Subspace for Clean Signals**|Rui Zheng et.al.|[2403.16176v1](http://arxiv.org/abs/2403.16176v1)|null|
 |**2024-03-22**|**Robust optimization for adversarial learning with finite sample complexity guarantees**|André Bertolace et.al.|[2403.15207v1](http://arxiv.org/abs/2403.15207v1)|null|
@@ -473,6 +474,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark**|Ziyang Chen et.al.|[2403.18821v1](http://arxiv.org/abs/2403.18821v1)|null|
+|**2024-03-27**|**MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering**|Guoxing Sun et.al.|[2403.18820v1](http://arxiv.org/abs/2403.18820v1)|null|
+|**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819v1](http://arxiv.org/abs/2403.18819v1)|null|
+|**2024-03-27**|**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**|Daniel Winter et.al.|[2403.18818v1](http://arxiv.org/abs/2403.18818v1)|null|
+|**2024-03-27**|**Signatures of electronic ordering in transport in graphene flat bands**|Archisman Panigrahi et.al.|[2403.18817v1](http://arxiv.org/abs/2403.18817v1)|null|
+|**2024-03-27**|**Garment3DGen: 3D Garment Stylization and Texture Generation**|Nikolaos Sarafianos et.al.|[2403.18816v1](http://arxiv.org/abs/2403.18816v1)|null|
+|**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814v1](http://arxiv.org/abs/2403.18814v1)|**[link](https://github.com/dvlab-research/minigemini)**|
+|**2024-03-27**|**Equivalence Checking of Quantum Circuits by Model Counting**|Jingyi Mei et.al.|[2403.18813v1](http://arxiv.org/abs/2403.18813v1)|null|
+|**2024-03-27**|**Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment**|Li Siyao et.al.|[2403.18811v1](http://arxiv.org/abs/2403.18811v1)|null|
+|**2024-03-27**|**$L^\infty$-error bounds for approximations of the Koopman operator by kernel extended dynamic mode decomposition**|Frederik Köhne et.al.|[2403.18809v1](http://arxiv.org/abs/2403.18809v1)|null|
 |**2024-03-26**|**Efficient Video Object Segmentation via Modulated Cross-Attention Memory**|Abdelrahman Shaker et.al.|[2403.17937v1](http://arxiv.org/abs/2403.17937v1)|**[link](https://github.com/amshaker/mavos)**|
 |**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936v1](http://arxiv.org/abs/2403.17936v1)|null|
 |**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935v1](http://arxiv.org/abs/2403.17935v1)|**[link](https://github.com/wangjk666/omnivid)**|

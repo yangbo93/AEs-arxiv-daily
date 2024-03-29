@@ -1,4 +1,4 @@
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 
 ## Adversarial Examples
 
@@ -472,7 +472,7 @@
 |---|---|---|---|---|
 |**2024-03-27**|**Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark**|Ziyang Chen et.al.|[2403.18821v1](http://arxiv.org/abs/2403.18821v1)|null|
 |**2024-03-27**|**MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering**|Guoxing Sun et.al.|[2403.18820v1](http://arxiv.org/abs/2403.18820v1)|null|
-|**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819v1](http://arxiv.org/abs/2403.18819v1)|null|
+|**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819v1](http://arxiv.org/abs/2403.18819v1)|**[link](https://github.com/kdexd/coco-rem)**|
 |**2024-03-27**|**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**|Daniel Winter et.al.|[2403.18818v1](http://arxiv.org/abs/2403.18818v1)|null|
 |**2024-03-27**|**Signatures of electronic ordering in transport in graphene flat bands**|Archisman Panigrahi et.al.|[2403.18817v1](http://arxiv.org/abs/2403.18817v1)|null|
 |**2024-03-27**|**Garment3DGen: 3D Garment Stylization and Texture Generation**|Nikolaos Sarafianos et.al.|[2403.18816v1](http://arxiv.org/abs/2403.18816v1)|null|

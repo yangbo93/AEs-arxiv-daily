@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Improving Adversarial Data Collection by Supporting Annotators: Lessons from GAHD, a German Hate Speech Dataset**|Janis Goldzycher et.al.|[2403.19559v1](http://arxiv.org/abs/2403.19559v1)|**[link](https://github.com/jagol/gahd)**|
 |**2024-03-27**|**CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection**|Jiayi Zhu et.al.|[2403.18554v1](http://arxiv.org/abs/2403.18554v1)|null|
 |**2024-03-26**|**DataCook: Crafting Anti-Adversarial Examples for Healthcare Data Copyright Protection**|Sihan Shang et.al.|[2403.17755v1](http://arxiv.org/abs/2403.17755v1)|null|
 |**2024-03-24**|**Subspace Defense: Discarding Adversarial Perturbations by Learning a Subspace for Clean Signals**|Rui Zheng et.al.|[2403.16176v1](http://arxiv.org/abs/2403.16176v1)|null|
@@ -474,6 +475,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Topologically protected flatness in chiral moiré heterostructures**|Valentin Crépel et.al.|[2403.19656v1](http://arxiv.org/abs/2403.19656v1)|null|
+|**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655v1](http://arxiv.org/abs/2403.19655v1)|null|
+|**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654v1](http://arxiv.org/abs/2403.19654v1)|**[link](https://github.com/KyanChen/RSMamba)**|
+|**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653v1](http://arxiv.org/abs/2403.19653v1)|**[link](https://github.com/k8xu/imageattribution)**|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652v1](http://arxiv.org/abs/2403.19652v1)|null|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651v1](http://arxiv.org/abs/2403.19651v1)|null|
+|**2024-03-28**|**Consistency of JWST Black Hole Observations with NANOGrav Gravitational Wave Measurements**|John Ellis et.al.|[2403.19650v1](http://arxiv.org/abs/2403.19650v1)|null|
+|**2024-03-28**|**GraspXL: Generating Grasping Motions for Diverse Objects at Scale**|Hui Zhang et.al.|[2403.19649v1](http://arxiv.org/abs/2403.19649v1)|null|
+|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v1](http://arxiv.org/abs/2403.19647v1)|**[link](https://github.com/saprmarks/feature-circuits)**|
+|**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646v1](http://arxiv.org/abs/2403.19646v1)|null|
 |**2024-03-27**|**Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark**|Ziyang Chen et.al.|[2403.18821v1](http://arxiv.org/abs/2403.18821v1)|null|
 |**2024-03-27**|**MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering**|Guoxing Sun et.al.|[2403.18820v1](http://arxiv.org/abs/2403.18820v1)|null|
 |**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819v1](http://arxiv.org/abs/2403.18819v1)|**[link](https://github.com/kdexd/coco-rem)**|

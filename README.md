@@ -471,6 +471,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331v1](http://arxiv.org/abs/2403.20331v1)|**[link](https://github.com/atsumiyai/upd)**|
+|**2024-03-29**|**Are We on the Right Way for Evaluating Large Vision-Language Models?**|Lin Chen et.al.|[2403.20330v1](http://arxiv.org/abs/2403.20330v1)|null|
+|**2024-03-29**|**ReALM: Reference Resolution As Language Modeling**|Joel Ruben Antony Moniz et.al.|[2403.20329v1](http://arxiv.org/abs/2403.20329v1)|null|
+|**2024-03-29**|**Gecko: Versatile Text Embeddings Distilled from Large Language Models**|Jinhyuk Lee et.al.|[2403.20327v1](http://arxiv.org/abs/2403.20327v1)|null|
+|**2024-03-29**|**Shaving Logs via Large Sieve Inequality: Faster Algorithms for Sparse Convolution and More**|Ce Jin et.al.|[2403.20326v1](http://arxiv.org/abs/2403.20326v1)|null|
+|**2024-03-29**|**Mean-Field Limits for Stochastic Interacting Particles on Digraph Measures**|Christian Kuehn et.al.|[2403.20325v1](http://arxiv.org/abs/2403.20325v1)|null|
+|**2024-03-29**|**Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer**|Jamie Norris et.al.|[2403.20324v1](http://arxiv.org/abs/2403.20324v1)|**[link](https://github.com/norrisjamie23/localising_soz_from_spes)**|
+|**2024-03-29**|**Exploring the baryonic effect signature in the Hyper Suprime-Cam Year 3 cosmic shear two-point correlations on small scales: the $S_8$ tension remains present**|Ryo Terasawa et.al.|[2403.20323v1](http://arxiv.org/abs/2403.20323v1)|null|
+|**2024-03-29**|**Towards a Framework for Evaluating Explanations in Automated Fact Verification**|Neema Kotonya et.al.|[2403.20322v1](http://arxiv.org/abs/2403.20322v1)|**[link](https://github.com/neemakot/evaluating-explanations)**|
+|**2024-03-29**|**Structure and Dynamics of Magneto-Inertial, Differentially Rotating Laboratory Plasmas**|V. Valenzuela-Villaseca et.al.|[2403.20321v1](http://arxiv.org/abs/2403.20321v1)|null|
 |**2024-03-28**|**Topologically protected flatness in chiral moiré heterostructures**|Valentin Crépel et.al.|[2403.19656v1](http://arxiv.org/abs/2403.19656v1)|null|
 |**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655v1](http://arxiv.org/abs/2403.19655v1)|null|
 |**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654v1](http://arxiv.org/abs/2403.19654v1)|**[link](https://github.com/KyanChen/RSMamba)**|

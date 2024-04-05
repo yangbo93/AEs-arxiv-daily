@@ -481,6 +481,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658v1](http://arxiv.org/abs/2404.03658v1)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
+|**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657v1](http://arxiv.org/abs/2404.03657v1)|null|
+|**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu et.al.|[2404.03656v1](http://arxiv.org/abs/2404.03656v1)|null|
+|**2024-04-04**|**Magnetic fields from small-scale primordial perturbations**|Nanoom Lee et.al.|[2404.03655v1](http://arxiv.org/abs/2404.03655v1)|null|
+|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v1](http://arxiv.org/abs/2404.03654v1)|null|
+|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653v1](http://arxiv.org/abs/2404.03653v1)|null|
+|**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652v1](http://arxiv.org/abs/2404.03652v1)|null|
+|**2024-04-04**|**Multipartite edge modes and tensor networks**|Chris Akers et.al.|[2404.03651v1](http://arxiv.org/abs/2404.03651v1)|null|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
+|**2024-04-04**|**Toric Promotion with Reflections and Refractions**|Ashleigh Adams et.al.|[2404.03649v1](http://arxiv.org/abs/2404.03649v1)|null|
 |**2024-04-03**|**Hitting the Thermal Target for Leptophilic Dark Matter**|Cari Cesarotti et.al.|[2404.02906v1](http://arxiv.org/abs/2404.02906v1)|null|
 |**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905v1](http://arxiv.org/abs/2404.02905v1)|**[link](https://github.com/FoundationVision/VAR)**|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904v1](http://arxiv.org/abs/2404.02904v1)|null|

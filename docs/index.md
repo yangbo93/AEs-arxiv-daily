@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Reliable Feature Selection for Adversarially Robust Cyber-Attack Detection**|João Vitorino et.al.|[2404.04188v1](http://arxiv.org/abs/2404.04188v1)|null|
 |**2024-04-03**|**Adversarial Attacks and Dimensionality in Text Classifiers**|Nandish Chattopadhyay et.al.|[2404.02660v1](http://arxiv.org/abs/2404.02660v1)|null|
 |**2024-04-03**|**Unsegment Anything by Simulating Deformation**|Jiahao Lu et.al.|[2404.02585v1](http://arxiv.org/abs/2404.02585v1)|**[link](https://github.com/jiahaolu97/anything-unsegmentable)**|
 |**2024-04-02**|**One Noise to Rule Them All: Multi-View Adversarial Attacks with Universal Perturbation**|Mehmet Ergezer et.al.|[2404.02287v1](http://arxiv.org/abs/2404.02287v1)|**[link](https://github.com/memoatwit/universalperturbation)**|
@@ -481,6 +482,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Incoherent polariton dynamics and nonlinearities in organic light-emitting diodes**|Olli Siltanen et.al.|[2404.04257v1](http://arxiv.org/abs/2404.04257v1)|null|
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
+|**2024-04-05**|**Watermark-based Detection and Attribution of AI-Generated Content**|Zhengyuan Jiang et.al.|[2404.04254v1](http://arxiv.org/abs/2404.04254v1)|null|
+|**2024-04-05**|**Bounds on galaxy stochasticity from halo occupation distribution modeling**|Dylan Britt et.al.|[2404.04252v1](http://arxiv.org/abs/2404.04252v1)|null|
+|**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251v1](http://arxiv.org/abs/2404.04251v1)|null|
+|**2024-04-05**|**Humanoid Robots at work: where are we ?**|Fabrice R. Noreils et.al.|[2404.04249v1](http://arxiv.org/abs/2404.04249v1)|null|
+|**2024-04-05**|**Observation of Gravitational Waves from the Coalescence of a $2.5-4.5~M_\odot$ Compact Object and a Neutron Star**|The LIGO Scientific Collaboration et.al.|[2404.04248v1](http://arxiv.org/abs/2404.04248v1)|null|
+|**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245v1](http://arxiv.org/abs/2404.04245v1)|null|
+|**2024-04-05**|**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models**|Sangwon Jang et.al.|[2404.04243v1](http://arxiv.org/abs/2404.04243v1)|null|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242v1](http://arxiv.org/abs/2404.04242v1)|null|
 |**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658v1](http://arxiv.org/abs/2404.03658v1)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
 |**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657v1](http://arxiv.org/abs/2404.03657v1)|null|
 |**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu et.al.|[2404.03656v1](http://arxiv.org/abs/2404.03656v1)|null|

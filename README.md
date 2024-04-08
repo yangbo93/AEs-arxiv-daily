@@ -1,4 +1,4 @@
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 
 ## Adversarial Examples
 
@@ -9,7 +9,7 @@
 |**2024-04-02**|**One Noise to Rule Them All: Multi-View Adversarial Attacks with Universal Perturbation**|Mehmet Ergezer et.al.|[2404.02287v1](http://arxiv.org/abs/2404.02287v1)|**[link](https://github.com/memoatwit/universalperturbation)**|
 |**2024-04-02**|**Multi-granular Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2404.01574v1](http://arxiv.org/abs/2404.01574v1)|null|
 |**2024-03-30**|**STBA: Towards Evaluating the Robustness of DNNs for Query-Limited Black-box Scenario**|Renyang Liu et.al.|[2404.00362v1](http://arxiv.org/abs/2404.00362v1)|null|
-|**2024-03-29**|**On Inherent Adversarial Robustness of Active Vision Systems**|Amitangshu Mukherjee et.al.|[2404.00185v1](http://arxiv.org/abs/2404.00185v1)|null|
+|**2024-04-05**|**On Inherent Adversarial Robustness of Active Vision Systems**|Amitangshu Mukherjee et.al.|[2404.00185v2](http://arxiv.org/abs/2404.00185v2)|null|
 |**2024-03-28**|**Improving Adversarial Data Collection by Supporting Annotators: Lessons from GAHD, a German Hate Speech Dataset**|Janis Goldzycher et.al.|[2403.19559v1](http://arxiv.org/abs/2403.19559v1)|**[link](https://github.com/jagol/gahd)**|
 |**2024-03-27**|**CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection**|Jiayi Zhu et.al.|[2403.18554v1](http://arxiv.org/abs/2403.18554v1)|null|
 |**2024-03-26**|**DataCook: Crafting Anti-Adversarial Examples for Healthcare Data Copyright Protection**|Sihan Shang et.al.|[2403.17755v1](http://arxiv.org/abs/2403.17755v1)|null|
@@ -482,7 +482,7 @@
 |**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu et.al.|[2404.03656v1](http://arxiv.org/abs/2404.03656v1)|null|
 |**2024-04-04**|**Magnetic fields from small-scale primordial perturbations**|Nanoom Lee et.al.|[2404.03655v1](http://arxiv.org/abs/2404.03655v1)|null|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v1](http://arxiv.org/abs/2404.03654v1)|null|
-|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653v1](http://arxiv.org/abs/2404.03653v1)|null|
+|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653v1](http://arxiv.org/abs/2404.03653v1)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652v1](http://arxiv.org/abs/2404.03652v1)|null|
 |**2024-04-04**|**Multipartite edge modes and tensor networks**|Chris Akers et.al.|[2404.03651v1](http://arxiv.org/abs/2404.03651v1)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|

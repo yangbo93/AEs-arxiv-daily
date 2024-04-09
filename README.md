@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**David and Goliath: An Empirical Evaluation of Attacks and Defenses for QNNs at the Deep Edge**|Miguel Costa et.al.|[2404.05688v1](http://arxiv.org/abs/2404.05688v1)|**[link](https://gitlab.com/esrgv3/qnn-adversarial-robustness)**|
+|**2024-04-08**|**Certified PEFTSmoothing: Parameter-Efficient Fine-Tuning with Randomized Smoothing**|Chengyan Fu et.al.|[2404.05350v1](http://arxiv.org/abs/2404.05350v1)|null|
+|**2024-04-08**|**BruSLeAttack: A Query-Efficient Score-Based Black-Box Sparse Adversarial Attack**|Viet Quoc Vo et.al.|[2404.05311v1](http://arxiv.org/abs/2404.05311v1)|null|
+|**2024-04-08**|**Out-of-Distribution Data: An Acquaintance of Adversarial Examples -- A Survey**|Naveen Karunanayake et.al.|[2404.05219v1](http://arxiv.org/abs/2404.05219v1)|null|
+|**2024-04-08**|**Semantic Stealth: Adversarial Text Attacks on NLP Using Several Methods**|Roopkatha Dey et.al.|[2404.05159v1](http://arxiv.org/abs/2404.05159v1)|null|
+|**2024-04-06**|**Learning Minimal NAP Specifications for Neural Network Verification**|Chuqin Geng et.al.|[2404.04662v1](http://arxiv.org/abs/2404.04662v1)|null|
 |**2024-04-05**|**Reliable Feature Selection for Adversarially Robust Cyber-Attack Detection**|João Vitorino et.al.|[2404.04188v1](http://arxiv.org/abs/2404.04188v1)|null|
 |**2024-04-03**|**Adversarial Attacks and Dimensionality in Text Classifiers**|Nandish Chattopadhyay et.al.|[2404.02660v1](http://arxiv.org/abs/2404.02660v1)|null|
 |**2024-04-03**|**Unsegment Anything by Simulating Deformation**|Jiahao Lu et.al.|[2404.02585v1](http://arxiv.org/abs/2404.02585v1)|**[link](https://github.com/jiahaolu97/anything-unsegmentable)**|
@@ -478,6 +484,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Finding Visual Task Vectors**|Alberto Hojel et.al.|[2404.05729v1](http://arxiv.org/abs/2404.05729v1)|null|
+|**2024-04-08**|**A Large-Scale Exploration of $μ$-Transfer**|Lucas Lingle et.al.|[2404.05728v1](http://arxiv.org/abs/2404.05728v1)|null|
+|**2024-04-08**|**Hodge-Chern classes and strata-effectivity in tautological rings**|Simon Cooper et.al.|[2404.05727v1](http://arxiv.org/abs/2404.05727v1)|null|
+|**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726v1](http://arxiv.org/abs/2404.05726v1)|null|
+|**2024-04-08**|**The MOSDEF Survey: Properties of Warm Ionised Outflows at $z=$ 1.4-3.8**|Andrew Weldon et.al.|[2404.05725v1](http://arxiv.org/abs/2404.05725v1)|null|
+|**2024-04-08**|**Quintessential interpretation of the evolving dark energy in light of DESI**|Yuichiro Tada et.al.|[2404.05722v1](http://arxiv.org/abs/2404.05722v1)|null|
+|**2024-04-08**|**Language-Independent Representations Improve Zero-Shot Summarization**|Vladimir Solovyev et.al.|[2404.05720v1](http://arxiv.org/abs/2404.05720v1)|null|
+|**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719v1](http://arxiv.org/abs/2404.05719v1)|null|
+|**2024-04-08**|**Electronic and structural properties of group IV materials and their polytypes**|Jakub Ziembicki et.al.|[2404.05718v1](http://arxiv.org/abs/2404.05718v1)|null|
+|**2024-04-08**|**SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing**|Jing Gu et.al.|[2404.05717v1](http://arxiv.org/abs/2404.05717v1)|null|
 |**2024-04-05**|**Incoherent polariton dynamics and nonlinearities in organic light-emitting diodes**|Olli Siltanen et.al.|[2404.04257v1](http://arxiv.org/abs/2404.04257v1)|null|
 |**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
 |**2024-04-05**|**Watermark-based Detection and Attribution of AI-Generated Content**|Zhengyuan Jiang et.al.|[2404.04254v1](http://arxiv.org/abs/2404.04254v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 
 ## Adversarial Examples
 
@@ -495,7 +495,7 @@ layout: default
 |**2024-04-09**|**Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?**|Yuan-Hong Liao et.al.|[2404.06510v1](http://arxiv.org/abs/2404.06510v1)|null|
 |**2024-04-09**|**Horizon-penetrating form of parametrized metrics for static and stationary black holes**|Yixuan Ma et.al.|[2404.06509v1](http://arxiv.org/abs/2404.06509v1)|null|
 |**2024-04-09**|**On the Effect of (Near) Duplicate Subwords in Language Modelling**|Anton Schäfer et.al.|[2404.06508v1](http://arxiv.org/abs/2404.06508v1)|**[link](https://github.com/antonschafer/duplicate-subwords)**|
-|**2024-04-09**|**Reconstructing Hand-Held Objects in 3D**|Jane Wu et.al.|[2404.06507v1](http://arxiv.org/abs/2404.06507v1)|null|
+|**2024-04-10**|**Reconstructing Hand-Held Objects in 3D**|Jane Wu et.al.|[2404.06507v2](http://arxiv.org/abs/2404.06507v2)|null|
 |**2024-04-09**|**Primordial black holes and curvature perturbations from false-vacuum islands**|Rong-Gen Cai et.al.|[2404.06506v1](http://arxiv.org/abs/2404.06506v1)|null|
 |**2024-04-09**|**Characterizing visual cortical magnification with topological smoothing and optimal transportation**|Yujian Xiong et.al.|[2404.06505v1](http://arxiv.org/abs/2404.06505v1)|null|
 |**2024-04-09**|**Comparing Two Model Designs for Clinical Note Generation; Is an LLM a Useful Evaluator of Consistency?**|Nathan Brake et.al.|[2404.06503v1](http://arxiv.org/abs/2404.06503v1)|null|

@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-10**|**Logit Calibration and Feature Contrast for Robust Federated Learning on Non-IID Data**|Yu Qiao et.al.|[2404.06776v1](http://arxiv.org/abs/2404.06776v1)|null|
-|**2024-04-09**|**On adversarial training and the 1 Nearest Neighbor classifier**|Amir Hagai et.al.|[2404.06313v1](http://arxiv.org/abs/2404.06313v1)|**[link](https://github.com/amirhagai/on-adversarial-training-and-the-1-nearest-neighbor-classifier)**|
+|**2024-04-11**|**On adversarial training and the 1 Nearest Neighbor classifier**|Amir Hagai et.al.|[2404.06313v2](http://arxiv.org/abs/2404.06313v2)|**[link](https://github.com/amirhagai/on-adversarial-training-and-the-1-nearest-neighbor-classifier)**|
 |**2024-04-08**|**David and Goliath: An Empirical Evaluation of Attacks and Defenses for QNNs at the Deep Edge**|Miguel Costa et.al.|[2404.05688v1](http://arxiv.org/abs/2404.05688v1)|**[link](https://gitlab.com/esrgv3/qnn-adversarial-robustness)**|
 |**2024-04-08**|**Certified PEFTSmoothing: Parameter-Efficient Fine-Tuning with Randomized Smoothing**|Chengyan Fu et.al.|[2404.05350v1](http://arxiv.org/abs/2404.05350v1)|null|
 |**2024-04-08**|**BruSLeAttack: A Query-Efficient Score-Based Black-Box Sparse Adversarial Attack**|Viet Quoc Vo et.al.|[2404.05311v1](http://arxiv.org/abs/2404.05311v1)|null|
@@ -496,7 +496,7 @@ layout: default
 |**2024-04-10**|**Searching for Cosmological Collider in the Planck CMB Data**|Wuhyun Sohn et.al.|[2404.07203v1](http://arxiv.org/abs/2404.07203v1)|null|
 |**2024-04-10**|**UMBRAE: Unified Multimodal Decoding of Brain Signals**|Weihao Xia et.al.|[2404.07202v1](http://arxiv.org/abs/2404.07202v1)|null|
 |**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199v1](http://arxiv.org/abs/2404.07199v1)|null|
-|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198v1](http://arxiv.org/abs/2404.07198v1)|null|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198v1](http://arxiv.org/abs/2404.07198v1)|**[link](https://github.com/DeepGraphLearning/ULTRA)**|
 |**2024-04-10**|**An indeterminacy-based ontology for quantum theory**|Francisco Pipa et.al.|[2404.07197v1](http://arxiv.org/abs/2404.07197v1)|null|
 |**2024-04-10**|**One-loop power spectrum in ultra slow-roll inflation and implications for primordial black hole dark matter**|Guillermo Ballesteros et.al.|[2404.07196v1](http://arxiv.org/abs/2404.07196v1)|null|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194v1](http://arxiv.org/abs/2404.07194v1)|**[link](https://github.com/ml-jku/vnegnn)**|

@@ -1,9 +1,11 @@
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 
 ## Adversarial Examples
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Eliminating Catastrophic Overfitting Via Abnormal Adversarial Examples Regularization**|Runqi Lin et.al.|[2404.08154v1](http://arxiv.org/abs/2404.08154v1)|**[link](https://github.com/tmllab/2023_neurips_aaer)**|
+|**2024-04-11**|**Persistent Classification: A New Approach to Stability of Data and Adversarial Examples**|Brian Bell et.al.|[2404.08069v1](http://arxiv.org/abs/2404.08069v1)|null|
 |**2024-04-10**|**Logit Calibration and Feature Contrast for Robust Federated Learning on Non-IID Data**|Yu Qiao et.al.|[2404.06776v1](http://arxiv.org/abs/2404.06776v1)|null|
 |**2024-04-11**|**On adversarial training and the 1 Nearest Neighbor classifier**|Amir Hagai et.al.|[2404.06313v2](http://arxiv.org/abs/2404.06313v2)|**[link](https://github.com/amirhagai/on-adversarial-training-and-the-1-nearest-neighbor-classifier)**|
 |**2024-04-08**|**David and Goliath: An Empirical Evaluation of Attacks and Defenses for QNNs at the Deep Edge**|Miguel Costa et.al.|[2404.05688v1](http://arxiv.org/abs/2404.05688v1)|**[link](https://gitlab.com/esrgv3/qnn-adversarial-robustness)**|
@@ -486,6 +488,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Probing the 3D Awareness of Visual Foundation Models**|Mohamed El Banani et.al.|[2404.08636v1](http://arxiv.org/abs/2404.08636v1)|**[link](https://github.com/mbanani/probe3d)**|
+|**2024-04-12**|**Transport properties in non-Fermi liquid phases of nodal-point semimetals**|Ipsita Mandal et.al.|[2404.08635v1](http://arxiv.org/abs/2404.08635v1)|null|
+|**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634v1](http://arxiv.org/abs/2404.08634v1)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|
+|**2024-04-12**|**Does DESI 2024 Confirm $Λ$CDM?**|Eoin Ó Colgáin et.al.|[2404.08633v1](http://arxiv.org/abs/2404.08633v1)|null|
+|**2024-04-12**|**Advancing aortic stenosis assessment: validation of fluid-structure interaction models against 4D flow MRI data**|Alberto Zingaro et.al.|[2404.08632v1](http://arxiv.org/abs/2404.08632v1)|null|
+|**2024-04-12**|**FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models**|Yanting Wang et.al.|[2404.08631v1](http://arxiv.org/abs/2404.08631v1)|null|
+|**2024-04-12**|**Classification of Boolean Algebras through von Neumann regular $\mathcal{C}^{\infty}-$Rings**|Jean Cerqueira Berni et.al.|[2404.08629v1](http://arxiv.org/abs/2404.08629v1)|null|
+|**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627v1](http://arxiv.org/abs/2404.08627v1)|null|
+|**2024-04-12**|**The role of stochastic Fermi-type particle acceleration in the inner jets of Active Galactic Nuclei**|Jieshuang Wang et.al.|[2404.08625v1](http://arxiv.org/abs/2404.08625v1)|null|
+|**2024-04-12**|**Convexity in Optimal Control Problems**|Abhijeet et.al.|[2404.08621v1](http://arxiv.org/abs/2404.08621v1)|null|
 |**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993v1](http://arxiv.org/abs/2404.07993v1)|null|
 |**2024-04-11**|**GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh**|Jing Wen et.al.|[2404.07991v1](http://arxiv.org/abs/2404.07991v1)|null|
 |**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990v1](http://arxiv.org/abs/2404.07990v1)|null|

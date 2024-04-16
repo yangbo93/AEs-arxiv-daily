@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401v1](http://arxiv.org/abs/2404.09401v1)|null|
+|**2024-04-14**|**Counteracting Concept Drift by Learning with Future Malware Predictions**|Branislav Bosansky et.al.|[2404.09352v1](http://arxiv.org/abs/2404.09352v1)|null|
+|**2024-04-09**|**Towards Building a Robust Toxicity Predictor**|Dmitriy Bespalov et.al.|[2404.08690v1](http://arxiv.org/abs/2404.08690v1)|null|
 |**2024-04-11**|**Eliminating Catastrophic Overfitting Via Abnormal Adversarial Examples Regularization**|Runqi Lin et.al.|[2404.08154v1](http://arxiv.org/abs/2404.08154v1)|**[link](https://github.com/tmllab/2023_neurips_aaer)**|
 |**2024-04-11**|**Persistent Classification: A New Approach to Stability of Data and Adversarial Examples**|Brian Bell et.al.|[2404.08069v1](http://arxiv.org/abs/2404.08069v1)|null|
 |**2024-04-10**|**Logit Calibration and Feature Contrast for Robust Federated Learning on Non-IID Data**|Yu Qiao et.al.|[2404.06776v1](http://arxiv.org/abs/2404.06776v1)|null|
@@ -488,6 +491,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**The Hele-Shaw free boundary limit of Buckley-Leverett System**|André Gomes et.al.|[2404.09781v1](http://arxiv.org/abs/2404.09781v1)|null|
+|**2024-04-15**|**A replica analysis of under-bagging**|Takashi Takahashi et.al.|[2404.09779v1](http://arxiv.org/abs/2404.09779v1)|null|
+|**2024-04-15**|**The Devil is in the Few Shots: Iterative Visual Knowledge Completion for Few-shot Learning**|Yaohui Li et.al.|[2404.09778v1](http://arxiv.org/abs/2404.09778v1)|**[link](https://github.com/mark-sky/kcl)**|
+|**2024-04-15**|**A $q$-analog of the Stirling-Eulerian Polynomials**|Yao Dong et.al.|[2404.09777v1](http://arxiv.org/abs/2404.09777v1)|null|
+|**2024-04-15**|**A cut-and-project perspective for linearized Bregman iterations**|Yu-Hong Dai et.al.|[2404.09776v1](http://arxiv.org/abs/2404.09776v1)|null|
+|**2024-04-15**|**Coupled Axial and Transverse Currents Method for Finite Element Modelling of Periodic Superconductors**|Julien Dular et.al.|[2404.09775v1](http://arxiv.org/abs/2404.09775v1)|null|
+|**2024-04-15**|**RandAlign: A Parameter-Free Method for Regularizing Graph Convolutional Networks**|Haimin Zhang et.al.|[2404.09774v1](http://arxiv.org/abs/2404.09774v1)|null|
+|**2024-04-15**|**Squish Jamming**|Samuel Poincloux et.al.|[2404.09773v1](http://arxiv.org/abs/2404.09773v1)|null|
+|**2024-04-15**|**Improved methodology for longitudinal Web analytics using Common Crawl**|Henry S. Thompson et.al.|[2404.09770v1](http://arxiv.org/abs/2404.09770v1)|null|
+|**2024-04-15**|**Contrastive Pretraining for Visual Concept Explanations of Socioeconomic Outcomes**|Ivica Obadic et.al.|[2404.09768v1](http://arxiv.org/abs/2404.09768v1)|null|
 |**2024-04-12**|**Probing the 3D Awareness of Visual Foundation Models**|Mohamed El Banani et.al.|[2404.08636v1](http://arxiv.org/abs/2404.08636v1)|**[link](https://github.com/mbanani/probe3d)**|
 |**2024-04-12**|**Transport properties in non-Fermi liquid phases of nodal-point semimetals**|Ipsita Mandal et.al.|[2404.08635v1](http://arxiv.org/abs/2404.08635v1)|null|
 |**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634v1](http://arxiv.org/abs/2404.08634v1)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|

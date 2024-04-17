@@ -1,4 +1,4 @@
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 
 ## Adversarial Examples
 
@@ -496,7 +496,7 @@
 |**2024-04-15**|**The Devil is in the Few Shots: Iterative Visual Knowledge Completion for Few-shot Learning**|Yaohui Li et.al.|[2404.09778v1](http://arxiv.org/abs/2404.09778v1)|**[link](https://github.com/mark-sky/kcl)**|
 |**2024-04-15**|**A $q$-analog of the Stirling-Eulerian Polynomials**|Yao Dong et.al.|[2404.09777v1](http://arxiv.org/abs/2404.09777v1)|null|
 |**2024-04-15**|**A cut-and-project perspective for linearized Bregman iterations**|Yu-Hong Dai et.al.|[2404.09776v1](http://arxiv.org/abs/2404.09776v1)|null|
-|**2024-04-15**|**Coupled Axial and Transverse Currents Method for Finite Element Modelling of Periodic Superconductors**|Julien Dular et.al.|[2404.09775v1](http://arxiv.org/abs/2404.09775v1)|null|
+|**2024-04-16**|**Coupled Axial and Transverse Currents Method for Finite Element Modelling of Periodic Superconductors**|Julien Dular et.al.|[2404.09775v2](http://arxiv.org/abs/2404.09775v2)|null|
 |**2024-04-15**|**RandAlign: A Parameter-Free Method for Regularizing Graph Convolutional Networks**|Haimin Zhang et.al.|[2404.09774v1](http://arxiv.org/abs/2404.09774v1)|null|
 |**2024-04-15**|**Squish Jamming**|Samuel Poincloux et.al.|[2404.09773v1](http://arxiv.org/abs/2404.09773v1)|null|
 |**2024-04-15**|**Improved methodology for longitudinal Web analytics using Common Crawl**|Henry S. Thompson et.al.|[2404.09770v1](http://arxiv.org/abs/2404.09770v1)|null|

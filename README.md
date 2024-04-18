@@ -1,4 +1,4 @@
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 
 ## Adversarial Examples
 
@@ -496,12 +496,12 @@
 |**2024-04-16**|**Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback**|Qiwei Di et.al.|[2404.10776v1](http://arxiv.org/abs/2404.10776v1)|null|
 |**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775v1](http://arxiv.org/abs/2404.10775v1)|null|
 |**2024-04-16**|**MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents**|Liyan Tang et.al.|[2404.10774v1](http://arxiv.org/abs/2404.10774v1)|**[link](https://github.com/liyan06/minicheck)**|
-|**2024-04-16**|**Searching for cold gas traced by MgII quasar absorbers in massive X-ray-selected galaxy clusters**|A. Y. Fresco et.al.|[2404.10773v1](http://arxiv.org/abs/2404.10773v1)|null|
+|**2024-04-17**|**Searching for cold gas traced by MgII quasar absorbers in massive X-ray-selected galaxy clusters**|A. Y. Fresco et.al.|[2404.10773v2](http://arxiv.org/abs/2404.10773v2)|null|
 |**2024-04-16**|**TENG: Time-Evolving Natural Gradient for Solving PDEs with Deep Neural Net**|Zhuo Chen et.al.|[2404.10771v1](http://arxiv.org/abs/2404.10771v1)|null|
 |**2024-04-16**|**Generalized Linear Response Theory for Pumped Systems and its Application to Transient Optical Properties within DPOA**|Amir Eskandari-asl et.al.|[2404.10768v1](http://arxiv.org/abs/2404.10768v1)|null|
 |**2024-04-16**|**RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting**|Ashkan Mirzaei et.al.|[2404.10765v1](http://arxiv.org/abs/2404.10765v1)|null|
 |**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763v1](http://arxiv.org/abs/2404.10763v1)|**[link](https://github.com/wangyuchi369/ladic)**|
-|**2024-04-16**|**TorchSurv: A Lightweight Package for Deep Survival Analysis**|Melodie Monod et.al.|[2404.10761v1](http://arxiv.org/abs/2404.10761v1)|null|
+|**2024-04-17**|**TorchSurv: A Lightweight Package for Deep Survival Analysis**|Mélodie Monod et.al.|[2404.10761v2](http://arxiv.org/abs/2404.10761v2)|**[link](https://github.com/novartis/torchsurv)**|
 |**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760v1](http://arxiv.org/abs/2404.10760v1)|null|
 |**2024-04-15**|**The Hele-Shaw free boundary limit of Buckley-Leverett System**|André Gomes et.al.|[2404.09781v1](http://arxiv.org/abs/2404.09781v1)|null|
 |**2024-04-15**|**A replica analysis of under-bagging**|Takashi Takahashi et.al.|[2404.09779v1](http://arxiv.org/abs/2404.09779v1)|null|

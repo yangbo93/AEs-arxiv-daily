@@ -1,10 +1,10 @@
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 
 ## Adversarial Examples
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-16**|**Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models**|Qi Guo et.al.|[2404.10335v1](http://arxiv.org/abs/2404.10335v1)|null|
+|**2024-04-18**|**Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models**|Qi Guo et.al.|[2404.10335v2](http://arxiv.org/abs/2404.10335v2)|null|
 |**2024-04-16**|**Towards a Novel Perspective on Adversarial Examples Driven by Frequency**|Zhun Zhang et.al.|[2404.10202v1](http://arxiv.org/abs/2404.10202v1)|null|
 |**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401v1](http://arxiv.org/abs/2404.09401v1)|null|
 |**2024-04-14**|**Counteracting Concept Drift by Learning with Future Malware Predictions**|Branislav Bosansky et.al.|[2404.09352v1](http://arxiv.org/abs/2404.09352v1)|null|
@@ -494,15 +494,15 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-17**|**Factorized Diffusion: Perceptual Illusions by Noise Decomposition**|Daniel Geng et.al.|[2404.11615v1](http://arxiv.org/abs/2404.11615v1)|null|
-|**2024-04-17**|**Dynamic Typography: Bringing Words to Life**|Zichen Liu et.al.|[2404.11614v1](http://arxiv.org/abs/2404.11614v1)|null|
+|**2024-04-18**|**Dynamic Typography: Bringing Text to Life via Video Diffusion Prior**|Zichen Liu et.al.|[2404.11614v2](http://arxiv.org/abs/2404.11614v2)|null|
 |**2024-04-17**|**InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior**|Zhiheng Liu et.al.|[2404.11613v1](http://arxiv.org/abs/2404.11613v1)|null|
 |**2024-04-17**|**Sublinear transport in Kagome metals: Interplay of Dirac cones and Van Hove singularities**|Nikolai Peshcherenko et.al.|[2404.11612v1](http://arxiv.org/abs/2404.11612v1)|null|
 |**2024-04-17**|**Biosignatures from pre-oxygen photosynthesising life on TRAPPIST-1e**|Jake K. Eager-Nash et.al.|[2404.11611v1](http://arxiv.org/abs/2404.11611v1)|null|
 |**2024-04-17**|**Unlocking New Physics with Joint Power Spectrum and Voxel Intensity Distribution Forecasts in Line-Intensity Mapping**|Vivian I. Sabla et.al.|[2404.11609v1](http://arxiv.org/abs/2404.11609v1)|null|
-|**2024-04-17**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607v1](http://arxiv.org/abs/2404.11607v1)|null|
+|**2024-04-18**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607v2](http://arxiv.org/abs/2404.11607v2)|null|
 |**2024-04-17**|**Learning to Solve the Constrained Most Probable Explanation Task in Probabilistic Graphical Models**|Shivvrat Arya et.al.|[2404.11606v1](http://arxiv.org/abs/2404.11606v1)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605v1](http://arxiv.org/abs/2404.11605v1)|**[link](https://github.com/shark0-0/vg4d)**|
-|**2024-04-17**|**Isoparametric Virtual Element Methods**|Andrea Cangiani et.al.|[2404.11603v1](http://arxiv.org/abs/2404.11603v1)|null|
+|**2024-04-18**|**Isoparametric Virtual Element Methods**|Andrea Cangiani et.al.|[2404.11603v2](http://arxiv.org/abs/2404.11603v2)|null|
 |**2024-04-16**|**Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback**|Qiwei Di et.al.|[2404.10776v1](http://arxiv.org/abs/2404.10776v1)|null|
 |**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775v1](http://arxiv.org/abs/2404.10775v1)|null|
 |**2024-04-16**|**MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents**|Liyan Tang et.al.|[2404.10774v1](http://arxiv.org/abs/2404.10774v1)|**[link](https://github.com/liyan06/minicheck)**|

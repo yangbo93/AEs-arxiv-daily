@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.21
+## Updated on 2024.04.22
 
 ## Adversarial Examples
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-04-18**|**Utilizing Adversarial Examples for Bias Mitigation and Accuracy Enhancement**|Pushkar Shukla et.al.|[2404.11819v1](http://arxiv.org/abs/2404.11819v1)|null|
 |**2024-04-18**|**Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models**|Qi Guo et.al.|[2404.10335v2](http://arxiv.org/abs/2404.10335v2)|null|
 |**2024-04-16**|**Towards a Novel Perspective on Adversarial Examples Driven by Frequency**|Zhun Zhang et.al.|[2404.10202v1](http://arxiv.org/abs/2404.10202v1)|null|
-|**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401v1](http://arxiv.org/abs/2404.09401v1)|null|
+|**2024-04-19**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401v2](http://arxiv.org/abs/2404.09401v2)|null|
 |**2024-04-14**|**Counteracting Concept Drift by Learning with Future Malware Predictions**|Branislav Bosansky et.al.|[2404.09352v1](http://arxiv.org/abs/2404.09352v1)|null|
 |**2024-04-09**|**Towards Building a Robust Toxicity Predictor**|Dmitriy Bespalov et.al.|[2404.08690v1](http://arxiv.org/abs/2404.08690v1)|null|
 |**2024-04-11**|**Eliminating Catastrophic Overfitting Via Abnormal Adversarial Examples Regularization**|Runqi Lin et.al.|[2404.08154v1](http://arxiv.org/abs/2404.08154v1)|**[link](https://github.com/tmllab/2023_neurips_aaer)**|

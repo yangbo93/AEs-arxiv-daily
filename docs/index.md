@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**How Real Is Real? A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2404.12653v1](http://arxiv.org/abs/2404.12653v1)|null|
+|**2024-04-19**|**AED-PADA:Improving Generalizability of Adversarial Example Detection via Principal Adversarial Domain Adaptation**|Heqi Peng et.al.|[2404.12635v1](http://arxiv.org/abs/2404.12635v1)|null|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120v1](http://arxiv.org/abs/2404.12120v1)|null|
 |**2024-04-18**|**Utilizing Adversarial Examples for Bias Mitigation and Accuracy Enhancement**|Pushkar Shukla et.al.|[2404.11819v1](http://arxiv.org/abs/2404.11819v1)|null|
 |**2024-04-18**|**Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models**|Qi Guo et.al.|[2404.10335v2](http://arxiv.org/abs/2404.10335v2)|null|
@@ -499,6 +501,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Formation of a $33\,M_{\odot}$ black hole in a low-metallicity binary**|Kareem El-Badry et.al.|[2404.13047v1](http://arxiv.org/abs/2404.13047v1)|null|
+|**2024-04-19**|**MoVA: Adapting Mixture of Vision Experts to Multimodal Context**|Zhuofan Zong et.al.|[2404.13046v1](http://arxiv.org/abs/2404.13046v1)|**[link](https://github.com/templex98/mova)**|
+|**2024-04-19**|**NIRSpec View of the Appearance and Evolution of Balmer Breaks and the Transition from Bursty to Smooth Star Formation Histories from Deep Within the Epoch of Reionization to Cosmic Noon**|Danial Langeroodi et.al.|[2404.13045v1](http://arxiv.org/abs/2404.13045v1)|null|
+|**2024-04-19**|**Unified Scene Representation and Reconstruction for 3D Large Language Models**|Tao Chu et.al.|[2404.13044v1](http://arxiv.org/abs/2404.13044v1)|null|
+|**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043v1](http://arxiv.org/abs/2404.13043v1)|null|
+|**2024-04-19**|**Reduction systems and degree bounds for integration**|Hao Du et.al.|[2404.13042v1](http://arxiv.org/abs/2404.13042v1)|null|
+|**2024-04-19**|**Ab initio tight-binding Models for Mono- and Bilayer Hexagonal Boron Nitride (h-BN)**|Srivani Javvaji et.al.|[2404.13041v1](http://arxiv.org/abs/2404.13041v1)|null|
+|**2024-04-19**|**Analysis of Classifier-Free Guidance Weight Schedulers**|Xi Wang et.al.|[2404.13040v1](http://arxiv.org/abs/2404.13040v1)|null|
+|**2024-04-19**|**LaPA: Latent Prompt Assist Model For Medical Visual Question Answering**|Tiancheng Gu et.al.|[2404.13039v1](http://arxiv.org/abs/2404.13039v1)|**[link](https://github.com/garygutc/lapa_model)**|
+|**2024-04-19**|**Mapping Social Choice Theory to RLHF**|Jessica Dai et.al.|[2404.13038v1](http://arxiv.org/abs/2404.13038v1)|null|
 |**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391v1](http://arxiv.org/abs/2404.12391v1)|null|
 |**2024-04-18**|**BLINK: Multimodal Large Language Models Can See but Not Perceive**|Xingyu Fu et.al.|[2404.12390v1](http://arxiv.org/abs/2404.12390v1)|null|
 |**2024-04-18**|**Moving Object Segmentation: All You Need Is SAM (and Flow)**|Junyu Xie et.al.|[2404.12389v1](http://arxiv.org/abs/2404.12389v1)|null|

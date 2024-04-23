@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-21**|**Fermi-Bose Machine**|Mingshan Xie et.al.|[2404.13631v1](http://arxiv.org/abs/2404.13631v1)|null|
+|**2024-04-21**|**Attack on Scene Flow using Point Clouds**|Haniyeh Ehsani Oskouie et.al.|[2404.13621v1](http://arxiv.org/abs/2404.13621v1)|null|
+|**2024-04-21**|**Reliable Model Watermarking: Defending Against Theft without Compromising on Evasion**|Hongyu Zhu et.al.|[2404.13518v1](http://arxiv.org/abs/2404.13518v1)|null|
+|**2024-04-20**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320v1](http://arxiv.org/abs/2404.13320v1)|**[link](https://github.com/xavihart/pdm-pure)**|
+|**2024-04-20**|**Beyond Score Changes: Adversarial Attack on No-Reference Image Quality Assessment from Two Perspectives**|Chenxi Yang et.al.|[2404.13277v1](http://arxiv.org/abs/2404.13277v1)|null|
 |**2024-04-19**|**How Real Is Real? A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2404.12653v1](http://arxiv.org/abs/2404.12653v1)|null|
 |**2024-04-19**|**AED-PADA:Improving Generalizability of Adversarial Example Detection via Principal Adversarial Domain Adaptation**|Heqi Peng et.al.|[2404.12635v1](http://arxiv.org/abs/2404.12635v1)|null|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120v1](http://arxiv.org/abs/2404.12120v1)|null|
@@ -497,6 +502,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**AutoAD III: The Prequel -- Back to the Pixels**|Tengda Han et.al.|[2404.14412v1](http://arxiv.org/abs/2404.14412v1)|null|
+|**2024-04-22**|**Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses**|Inhee Lee et.al.|[2404.14410v1](http://arxiv.org/abs/2404.14410v1)|null|
+|**2024-04-22**|**CrossScore: Towards Multi-View Image Evaluation and Scoring**|Zirui Wang et.al.|[2404.14409v1](http://arxiv.org/abs/2404.14409v1)|null|
+|**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408v1](http://arxiv.org/abs/2404.14408v1)|**[link](https://github.com/kjslag/spacebyte)**|
+|**2024-04-22**|**Hyp-OC: Hyperbolic One Class Classification for Face Anti-Spoofing**|Kartik Narayan et.al.|[2404.14406v1](http://arxiv.org/abs/2404.14406v1)|null|
+|**2024-04-22**|**Learning H-Infinity Locomotion Control**|Junfeng Long et.al.|[2404.14405v1](http://arxiv.org/abs/2404.14405v1)|null|
+|**2024-04-22**|**Multipolar Skyrmion Crystals in Non-Kramers Doublet Systems**|Hao Zhang et.al.|[2404.14404v1](http://arxiv.org/abs/2404.14404v1)|null|
+|**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403v1](http://arxiv.org/abs/2404.14403v1)|null|
+|**2024-04-22**|**A Python GPU-accelerated solver for the Gross-Pitaevskii equation and applications to many-body cavity QED**|Lorenzo Fioroni et.al.|[2404.14401v1](http://arxiv.org/abs/2404.14401v1)|null|
+|**2024-04-22**|**On the convergence rates of discrete solutions to the Wave Kinetic Equation**|Michele Dolce et.al.|[2404.14400v1](http://arxiv.org/abs/2404.14400v1)|null|
 |**2024-04-19**|**Formation of a $33\,M_{\odot}$ black hole in a low-metallicity binary**|Kareem El-Badry et.al.|[2404.13047v1](http://arxiv.org/abs/2404.13047v1)|null|
 |**2024-04-19**|**MoVA: Adapting Mixture of Vision Experts to Multimodal Context**|Zhuofan Zong et.al.|[2404.13046v1](http://arxiv.org/abs/2404.13046v1)|**[link](https://github.com/templex98/mova)**|
 |**2024-04-19**|**NIRSpec View of the Appearance and Evolution of Balmer Breaks and the Transition from Bursty to Smooth Star Formation Histories from Deep Within the Epoch of Reionization to Cosmic Noon**|Danial Langeroodi et.al.|[2404.13045v1](http://arxiv.org/abs/2404.13045v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 
 ## Adversarial Examples
 
@@ -514,7 +514,7 @@ layout: default
 |**2024-04-22**|**Learning H-Infinity Locomotion Control**|Junfeng Long et.al.|[2404.14405v1](http://arxiv.org/abs/2404.14405v1)|null|
 |**2024-04-22**|**Multipolar Skyrmion Crystals in Non-Kramers Doublet Systems**|Hao Zhang et.al.|[2404.14404v1](http://arxiv.org/abs/2404.14404v1)|null|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403v1](http://arxiv.org/abs/2404.14403v1)|null|
-|**2024-04-22**|**A Python GPU-accelerated solver for the Gross-Pitaevskii equation and applications to many-body cavity QED**|Lorenzo Fioroni et.al.|[2404.14401v1](http://arxiv.org/abs/2404.14401v1)|null|
+|**2024-04-23**|**A Python GPU-accelerated solver for the Gross-Pitaevskii equation and applications to many-body cavity QED**|Lorenzo Fioroni et.al.|[2404.14401v2](http://arxiv.org/abs/2404.14401v2)|null|
 |**2024-04-22**|**On the convergence rates of discrete solutions to the Wave Kinetic Equation**|Michele Dolce et.al.|[2404.14400v1](http://arxiv.org/abs/2404.14400v1)|null|
 |**2024-04-19**|**Formation of a $33\,M_{\odot}$ black hole in a low-metallicity binary**|Kareem El-Badry et.al.|[2404.13047v1](http://arxiv.org/abs/2404.13047v1)|null|
 |**2024-04-19**|**MoVA: Adapting Mixture of Vision Experts to Multimodal Context**|Zhuofan Zong et.al.|[2404.13046v1](http://arxiv.org/abs/2404.13046v1)|**[link](https://github.com/templex98/mova)**|

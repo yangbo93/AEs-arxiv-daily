@@ -8,7 +8,7 @@
 |**2024-04-21**|**Attack on Scene Flow using Point Clouds**|Haniyeh Ehsani Oskouie et.al.|[2404.13621v1](http://arxiv.org/abs/2404.13621v1)|null|
 |**2024-04-21**|**Reliable Model Watermarking: Defending Against Theft without Compromising on Evasion**|Hongyu Zhu et.al.|[2404.13518v1](http://arxiv.org/abs/2404.13518v1)|null|
 |**2024-04-20**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320v1](http://arxiv.org/abs/2404.13320v1)|**[link](https://github.com/xavihart/pdm-pure)**|
-|**2024-04-20**|**Beyond Score Changes: Adversarial Attack on No-Reference Image Quality Assessment from Two Perspectives**|Chenxi Yang et.al.|[2404.13277v1](http://arxiv.org/abs/2404.13277v1)|null|
+|**2024-04-24**|**Beyond Score Changes: Adversarial Attack on No-Reference Image Quality Assessment from Two Perspectives**|Chenxi Yang et.al.|[2404.13277v2](http://arxiv.org/abs/2404.13277v2)|null|
 |**2024-04-19**|**How Real Is Real? A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2404.12653v1](http://arxiv.org/abs/2404.12653v1)|null|
 |**2024-04-19**|**AED-PADA:Improving Generalizability of Adversarial Example Detection via Principal Adversarial Domain Adaptation**|Heqi Peng et.al.|[2404.12635v1](http://arxiv.org/abs/2404.12635v1)|null|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120v1](http://arxiv.org/abs/2404.12120v1)|null|
@@ -502,6 +502,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from Visuotactile Sensors**|Yuni Fuchioka et.al.|[2404.15626v1](http://arxiv.org/abs/2404.15626v1)|null|
+|**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625v1](http://arxiv.org/abs/2404.15625v1)|null|
+|**2024-04-24**|**A new framework of high-order unfitted finite element methods using ALE maps for moving-domain problems**|Wenhao Lu et.al.|[2404.15624v1](http://arxiv.org/abs/2404.15624v1)|null|
+|**2024-04-24**|**Characterizing the Age of Information with Multiple Coexisting Data Streams**|Yoshiaki Inoue et.al.|[2404.15623v1](http://arxiv.org/abs/2404.15623v1)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620v1](http://arxiv.org/abs/2404.15620v1)|null|
+|**2024-04-24**|**A Bi-directional Quantum Search Algorithm**|Debanjan Konar et.al.|[2404.15616v1](http://arxiv.org/abs/2404.15616v1)|**[link](https://github.com/hafeezzwiz21/dfgs-bdgs)**|
+|**2024-04-24**|**MDDD: Manifold-based Domain Adaptation with Dynamic Distribution for Non-Deep Transfer Learning in Cross-subject and Cross-session EEG-based Emotion Recognition**|Ting Luo et.al.|[2404.15615v1](http://arxiv.org/abs/2404.15615v1)|null|
+|**2024-04-24**|**DyGCL: Dynamic Graph Contrastive Learning For Event Prediction**|Muhammed Ifte Khairul Islam et.al.|[2404.15612v1](http://arxiv.org/abs/2404.15612v1)|null|
+|**2024-04-24**|**PoisonedFL: Model Poisoning Attacks to Federated Learning via Multi-Round Consistency**|Yueqi Xie et.al.|[2404.15611v1](http://arxiv.org/abs/2404.15611v1)|null|
+|**2024-04-24**|**Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations**|Elsiddig Awadelkarim. Ajay Jasra et.al.|[2404.15606v1](http://arxiv.org/abs/2404.15606v1)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276v1](http://arxiv.org/abs/2404.15276v1)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-23**|**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**|Xuanhua He et.al.|[2404.15275v1](http://arxiv.org/abs/2404.15275v1)|**[link](https://github.com/id-animator/id-animator)**|
 |**2024-04-23**|**CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**|Jingyang Lin et.al.|[2404.15272v1](http://arxiv.org/abs/2404.15272v1)|null|

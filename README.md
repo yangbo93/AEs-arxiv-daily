@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881v1](http://arxiv.org/abs/2404.15881v1)|null|
+|**2024-04-24**|**An Empirical Study of Aegis**|Daniel Saragih et.al.|[2404.15784v1](http://arxiv.org/abs/2404.15784v1)|null|
 |**2024-04-21**|**Fermi-Bose Machine**|Mingshan Xie et.al.|[2404.13631v1](http://arxiv.org/abs/2404.13631v1)|null|
 |**2024-04-21**|**Attack on Scene Flow using Point Clouds**|Haniyeh Ehsani Oskouie et.al.|[2404.13621v1](http://arxiv.org/abs/2404.13621v1)|null|
 |**2024-04-21**|**Reliable Model Watermarking: Defending Against Theft without Compromising on Evasion**|Hongyu Zhu et.al.|[2404.13518v1](http://arxiv.org/abs/2404.13518v1)|null|
@@ -502,6 +504,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831v1](http://arxiv.org/abs/2404.16831v1)|null|
+|**2024-04-25**|**Double Copy of 3D Chern-Simons Theory and 6D Kodaira-Spencer Gravity**|Roberto Bonezzi et.al.|[2404.16830v1](http://arxiv.org/abs/2404.16830v1)|null|
+|**2024-04-25**|**Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials**|Ye Fang et.al.|[2404.16829v1](http://arxiv.org/abs/2404.16829v1)|null|
+|**2024-04-25**|**Made to Order: Discovering monotonic temporal changes via self-supervised video ordering**|Charig Yang et.al.|[2404.16828v1](http://arxiv.org/abs/2404.16828v1)|null|
+|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango et.al.|[2404.16826v1](http://arxiv.org/abs/2404.16826v1)|null|
+|**2024-04-25**|**V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection**|Xuanyu Zhang et.al.|[2404.16824v1](http://arxiv.org/abs/2404.16824v1)|null|
+|**2024-04-25**|**Cosmological probes of Dark Radiation from Neutrino Mixing**|Itamar J. Allali et.al.|[2404.16822v1](http://arxiv.org/abs/2404.16822v1)|null|
+|**2024-04-25**|**How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites**|Zhe Chen et.al.|[2404.16821v1](http://arxiv.org/abs/2404.16821v1)|**[link](https://github.com/opengvlab/internvl)**|
+|**2024-04-25**|**Revisiting Text-to-Image Evaluation with Gecko: On Metrics, Prompts, and Human Ratings**|Olivia Wiles et.al.|[2404.16820v1](http://arxiv.org/abs/2404.16820v1)|null|
+|**2024-04-25**|**Boosting Unsupervised Semantic Segmentation with Principal Mask Proposals**|Oliver Hahn et.al.|[2404.16818v1](http://arxiv.org/abs/2404.16818v1)|**[link](https://github.com/visinf/primaps)**|
 |**2024-04-24**|**An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from Visuotactile Sensors**|Yuni Fuchioka et.al.|[2404.15626v1](http://arxiv.org/abs/2404.15626v1)|null|
 |**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625v1](http://arxiv.org/abs/2404.15625v1)|null|
 |**2024-04-24**|**A new framework of high-order unfitted finite element methods using ALE maps for moving-domain problems**|Wenhao Lu et.al.|[2404.15624v1](http://arxiv.org/abs/2404.15624v1)|null|

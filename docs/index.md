@@ -512,7 +512,7 @@ layout: default
 |**2024-04-25**|**Double Copy of 3D Chern-Simons Theory and 6D Kodaira-Spencer Gravity**|Roberto Bonezzi et.al.|[2404.16830v1](http://arxiv.org/abs/2404.16830v1)|null|
 |**2024-04-25**|**Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials**|Ye Fang et.al.|[2404.16829v1](http://arxiv.org/abs/2404.16829v1)|null|
 |**2024-04-25**|**Made to Order: Discovering monotonic temporal changes via self-supervised video ordering**|Charig Yang et.al.|[2404.16828v1](http://arxiv.org/abs/2404.16828v1)|null|
-|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango et.al.|[2404.16826v1](http://arxiv.org/abs/2404.16826v1)|null|
+|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango et.al.|[2404.16826v1](http://arxiv.org/abs/2404.16826v1)|**[link](https://github.com/uw-acl/successive-convexification)**|
 |**2024-04-25**|**V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection**|Xuanyu Zhang et.al.|[2404.16824v1](http://arxiv.org/abs/2404.16824v1)|null|
 |**2024-04-25**|**Cosmological probes of Dark Radiation from Neutrino Mixing**|Itamar J. Allali et.al.|[2404.16822v1](http://arxiv.org/abs/2404.16822v1)|null|
 |**2024-04-25**|**How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites**|Zhe Chen et.al.|[2404.16821v1](http://arxiv.org/abs/2404.16821v1)|**[link](https://github.com/opengvlab/internvl)**|

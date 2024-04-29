@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**|Cristopher McIntyre-Garcia et.al.|[2404.17020v1](http://arxiv.org/abs/2404.17020v1)|**[link](https://github.com/cmcin019/tm-evo)**|
 |**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881v1](http://arxiv.org/abs/2404.15881v1)|null|
 |**2024-04-24**|**An Empirical Study of Aegis**|Daniel Saragih et.al.|[2404.15784v1](http://arxiv.org/abs/2404.15784v1)|null|
 |**2024-04-21**|**Fermi-Bose Machine**|Mingshan Xie et.al.|[2404.13631v1](http://arxiv.org/abs/2404.13631v1)|null|
@@ -508,6 +509,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**A tale of two localizations: coexistence of flat bands and Anderson localization in a photonics-inspired amorphous system**|Elizabeth J. Dresselhaus et.al.|[2404.17578v1](http://arxiv.org/abs/2404.17578v1)|null|
+|**2024-04-26**|**On Quasi-Locality and Decay of Correlations for Long-Range Models of Open Quantum Spin Systems**|Eric B. Roon et.al.|[2404.17577v1](http://arxiv.org/abs/2404.17577v1)|null|
+|**2024-04-26**|**Enhancing Longitudinal Clinical Trial Efficiency with Digital Twins and Prognostic Covariate-Adjusted Mixed Models for Repeated Measures (PROCOVA-MMRM)**|Jessica L. Ross et.al.|[2404.17576v1](http://arxiv.org/abs/2404.17576v1)|null|
+|**2024-04-26**|**Low-energy nine-layer rhombohedral stacking of transition metal dichalcogenides**|Rijan Karkee et.al.|[2404.17575v1](http://arxiv.org/abs/2404.17575v1)|null|
+|**2024-04-26**|**"Unification" of BSM Searches and SM Measurements: the case of lepton$+MET$ and $m_W$**|Kaustubh Agashe et.al.|[2404.17574v1](http://arxiv.org/abs/2404.17574v1)|null|
+|**2024-04-26**|**Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos**|Zhengze Xu et.al.|[2404.17571v1](http://arxiv.org/abs/2404.17571v1)|null|
+|**2024-04-26**|**A manufacturable platform for photonic quantum computing**|Koen Alexander et.al.|[2404.17570v1](http://arxiv.org/abs/2404.17570v1)|null|
+|**2024-04-26**|**MaPa: Text-driven Photorealistic Material Painting for 3D Shapes**|Shangzhan Zhang et.al.|[2404.17569v1](http://arxiv.org/abs/2404.17569v1)|null|
+|**2024-04-26**|**Extended genus fields of abelian extensions of rational function fields**|Juan Carlos Hernandez-Bocanegra et.al.|[2404.17566v1](http://arxiv.org/abs/2404.17566v1)|null|
+|**2024-04-26**|**An exactly solvable model for emergence and scaling laws**|Yoonsoo Nam et.al.|[2404.17563v1](http://arxiv.org/abs/2404.17563v1)|null|
 |**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831v1](http://arxiv.org/abs/2404.16831v1)|null|
 |**2024-04-25**|**Double Copy of 3D Chern-Simons Theory and 6D Kodaira-Spencer Gravity**|Roberto Bonezzi et.al.|[2404.16830v1](http://arxiv.org/abs/2404.16830v1)|null|
 |**2024-04-25**|**Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials**|Ye Fang et.al.|[2404.16829v1](http://arxiv.org/abs/2404.16829v1)|null|

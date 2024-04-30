@@ -1,4 +1,4 @@
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 
 ## Adversarial Examples
 
@@ -8,7 +8,7 @@
 |**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881v1](http://arxiv.org/abs/2404.15881v1)|null|
 |**2024-04-24**|**An Empirical Study of Aegis**|Daniel Saragih et.al.|[2404.15784v1](http://arxiv.org/abs/2404.15784v1)|null|
 |**2024-04-21**|**Fermi-Bose Machine**|Mingshan Xie et.al.|[2404.13631v1](http://arxiv.org/abs/2404.13631v1)|null|
-|**2024-04-21**|**Attack on Scene Flow using Point Clouds**|Haniyeh Ehsani Oskouie et.al.|[2404.13621v1](http://arxiv.org/abs/2404.13621v1)|null|
+|**2024-04-28**|**Attack on Scene Flow using Point Clouds**|Haniyeh Ehsani Oskouie et.al.|[2404.13621v2](http://arxiv.org/abs/2404.13621v2)|null|
 |**2024-04-21**|**Reliable Model Watermarking: Defending Against Theft without Compromising on Evasion**|Hongyu Zhu et.al.|[2404.13518v1](http://arxiv.org/abs/2404.13518v1)|null|
 |**2024-04-20**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320v1](http://arxiv.org/abs/2404.13320v1)|**[link](https://github.com/xavihart/pdm-pure)**|
 |**2024-04-24**|**Beyond Score Changes: Adversarial Attack on No-Reference Image Quality Assessment from Two Perspectives**|Chenxi Yang et.al.|[2404.13277v2](http://arxiv.org/abs/2404.13277v2)|null|

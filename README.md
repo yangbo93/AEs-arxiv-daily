@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**A Systematic Evaluation of Adversarial Attacks against Speech Emotion Recognition Models**|Nicolas Facchinetti et.al.|[2404.18514v1](http://arxiv.org/abs/2404.18514v1)|**[link](https://github.com/limunimi/thesis_adversarial_ml_audio)**|
+|**2024-04-27**|**Adversarial Examples: Generation Proposal in the Context of Facial Recognition Systems**|Marina Fuster et.al.|[2404.17760v1](http://arxiv.org/abs/2404.17760v1)|null|
 |**2024-04-25**|**Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**|Cristopher McIntyre-Garcia et.al.|[2404.17020v1](http://arxiv.org/abs/2404.17020v1)|**[link](https://github.com/cmcin019/tm-evo)**|
 |**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881v1](http://arxiv.org/abs/2404.15881v1)|null|
 |**2024-04-24**|**An Empirical Study of Aegis**|Daniel Saragih et.al.|[2404.15784v1](http://arxiv.org/abs/2404.15784v1)|null|
@@ -505,6 +507,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Tunable exciton valley-pseudospin orders in moiré Bose-Hubbard model**|Richen Xiong et.al.|[2404.18931v1](http://arxiv.org/abs/2404.18931v1)|null|
+|**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930v1](http://arxiv.org/abs/2404.18930v1)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
+|**2024-04-29**|**DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing**|Minghao Chen et.al.|[2404.18929v1](http://arxiv.org/abs/2404.18929v1)|null|
+|**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928v1](http://arxiv.org/abs/2404.18928v1)|null|
+|**2024-04-29**|**Symmetry defect of $n$-dimensional complete intersections in $\mathbb{C}^{2n-1}$**|L. R. G. Dias et.al.|[2404.18927v1](http://arxiv.org/abs/2404.18927v1)|null|
+|**2024-04-29**|**Point Cloud Models Improve Visual Robustness in Robotic Learners**|Skand Peri et.al.|[2404.18926v1](http://arxiv.org/abs/2404.18926v1)|null|
+|**2024-04-29**|**Searching for planet-driven dust spirals in ALMA visibilities**|Edward T. Stevenson et.al.|[2404.18925v1](http://arxiv.org/abs/2404.18925v1)|null|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
+|**2024-04-29**|**Holmes: Benchmark the Linguistic Competence of Language Models**|Andreas Waldis et.al.|[2404.18923v1](http://arxiv.org/abs/2404.18923v1)|null|
+|**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922v1](http://arxiv.org/abs/2404.18922v1)|null|
 |**2024-04-26**|**A tale of two localizations: coexistence of flat bands and Anderson localization in a photonics-inspired amorphous system**|Elizabeth J. Dresselhaus et.al.|[2404.17578v1](http://arxiv.org/abs/2404.17578v1)|null|
 |**2024-04-26**|**On Quasi-Locality and Decay of Correlations for Long-Range Models of Open Quantum Spin Systems**|Eric B. Roon et.al.|[2404.17577v1](http://arxiv.org/abs/2404.17577v1)|null|
 |**2024-04-26**|**Enhancing Longitudinal Clinical Trial Efficiency with Digital Twins and Prognostic Covariate-Adjusted Mixed Models for Repeated Measures (PROCOVA-MMRM)**|Jessica L. Ross et.al.|[2404.17576v1](http://arxiv.org/abs/2404.17576v1)|null|

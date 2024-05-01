@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Provably Robust Conformal Prediction with Improved Efficiency**|Ge Yan et.al.|[2404.19651v1](http://arxiv.org/abs/2404.19651v1)|**[link](https://github.com/trustworthy-ml-lab/provably-robust-conformal-prediction)**|
+|**2024-04-27**|**Attacking Bayes: On the Adversarial Robustness of Bayesian Neural Networks**|Yunzhen Feng et.al.|[2404.19640v1](http://arxiv.org/abs/2404.19640v1)|null|
+|**2024-04-30**|**AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples**|Antonio Emanuele Cinà et.al.|[2404.19460v1](http://arxiv.org/abs/2404.19460v1)|null|
 |**2024-04-29**|**A Systematic Evaluation of Adversarial Attacks against Speech Emotion Recognition Models**|Nicolas Facchinetti et.al.|[2404.18514v1](http://arxiv.org/abs/2404.18514v1)|**[link](https://github.com/limunimi/thesis_adversarial_ml_audio)**|
 |**2024-04-27**|**Adversarial Examples: Generation Proposal in the Context of Facial Recognition Systems**|Marina Fuster et.al.|[2404.17760v1](http://arxiv.org/abs/2404.17760v1)|null|
 |**2024-04-25**|**Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**|Cristopher McIntyre-Garcia et.al.|[2404.17020v1](http://arxiv.org/abs/2404.17020v1)|**[link](https://github.com/cmcin019/tm-evo)**|
@@ -507,6 +510,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Generalized Symmetries in 2D from String Theory: SymTFTs, Intrinsic Relativeness, and Anomalies of Non-invertible Symmetries**|Sebastian Franco et.al.|[2404.19761v1](http://arxiv.org/abs/2404.19761v1)|null|
+|**2024-04-30**|**Lightplane: Highly-Scalable Components for Neural 3D Fields**|Ang Cao et.al.|[2404.19760v1](http://arxiv.org/abs/2404.19760v1)|**[link](https://github.com/facebookresearch/lightplane)**|
+|**2024-04-30**|**MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model**|Wenxun Dai et.al.|[2404.19759v1](http://arxiv.org/abs/2404.19759v1)|null|
+|**2024-04-30**|**Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting**|Paul Engstler et.al.|[2404.19758v1](http://arxiv.org/abs/2404.19758v1)|null|
+|**2024-04-30**|**Exact Universal Characterization of Chiral-Symmetric Higher-Order Topological Phases**|Jia-Zheng Li et.al.|[2404.19757v1](http://arxiv.org/abs/2404.19757v1)|null|
+|**2024-04-30**|**KAN: Kolmogorov-Arnold Networks**|Ziming Liu et.al.|[2404.19756v1](http://arxiv.org/abs/2404.19756v1)|**[link](https://github.com/kindxiaoming/pykan)**|
+|**2024-04-30**|**Analysis and Enhancement of Lossless Image Compression in JPEG-XL**|Rustam Mamedov et.al.|[2404.19755v1](http://arxiv.org/abs/2404.19755v1)|null|
+|**2024-04-30**|**Succinct arguments for QMA from standard assumptions via compiled nonlocal games**|Tony Metger et.al.|[2404.19754v1](http://arxiv.org/abs/2404.19754v1)|null|
+|**2024-04-30**|**DOCCI: Descriptions of Connected and Contrasting Images**|Yasumasa Onoe et.al.|[2404.19753v1](http://arxiv.org/abs/2404.19753v1)|null|
+|**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752v1](http://arxiv.org/abs/2404.19752v1)|null|
 |**2024-04-29**|**Tunable exciton valley-pseudospin orders in moiré Bose-Hubbard model**|Richen Xiong et.al.|[2404.18931v1](http://arxiv.org/abs/2404.18931v1)|null|
 |**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930v1](http://arxiv.org/abs/2404.18930v1)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
 |**2024-04-29**|**DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing**|Minghao Chen et.al.|[2404.18929v1](http://arxiv.org/abs/2404.18929v1)|null|

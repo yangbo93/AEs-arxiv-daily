@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256v1](http://arxiv.org/abs/2405.00256v1)|null|
 |**2024-04-30**|**Provably Robust Conformal Prediction with Improved Efficiency**|Ge Yan et.al.|[2404.19651v1](http://arxiv.org/abs/2404.19651v1)|**[link](https://github.com/trustworthy-ml-lab/provably-robust-conformal-prediction)**|
 |**2024-04-27**|**Attacking Bayes: On the Adversarial Robustness of Bayesian Neural Networks**|Yunzhen Feng et.al.|[2404.19640v1](http://arxiv.org/abs/2404.19640v1)|null|
 |**2024-04-30**|**AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples**|Antonio Emanuele Cinà et.al.|[2404.19460v1](http://arxiv.org/abs/2404.19460v1)|null|
@@ -514,6 +515,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Spectrally Pruned Gaussian Fields with Neural Compensation**|Runyi Yang et.al.|[2405.00676v1](http://arxiv.org/abs/2405.00676v1)|**[link](https://github.com/runyiyang/sundae)**|
+|**2024-05-01**|**Self-Play Preference Optimization for Language Model Alignment**|Yue Wu et.al.|[2405.00675v1](http://arxiv.org/abs/2405.00675v1)|null|
+|**2024-05-01**|**Universal Bounds on CFT Distance Conjecture**|Hirosi Ooguri et.al.|[2405.00674v1](http://arxiv.org/abs/2405.00674v1)|null|
+|**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672v1](http://arxiv.org/abs/2405.00672v1)|null|
+|**2024-05-01**|**The scalar product formula for parahoric Deligne--Lusztig induction**|Charlotte Chan et.al.|[2405.00671v1](http://arxiv.org/abs/2405.00671v1)|null|
+|**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670v1](http://arxiv.org/abs/2405.00670v1)|null|
+|**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669v1](http://arxiv.org/abs/2405.00669v1)|null|
+|**2024-05-01**|**Environmental cosmic acceleration from a phase transition in the dark sector**|Øyvind Christiansen et.al.|[2405.00668v1](http://arxiv.org/abs/2405.00668v1)|null|
+|**2024-05-01**|**RGB$\leftrightarrow$X: Image decomposition and synthesis using material- and lighting-aware diffusion models**|Zheng Zeng et.al.|[2405.00666v1](http://arxiv.org/abs/2405.00666v1)|null|
+|**2024-05-01**|**Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3**|Junsang Yoon et.al.|[2405.00664v1](http://arxiv.org/abs/2405.00664v1)|null|
 |**2024-04-30**|**Generalized Symmetries in 2D from String Theory: SymTFTs, Intrinsic Relativeness, and Anomalies of Non-invertible Symmetries**|Sebastian Franco et.al.|[2404.19761v1](http://arxiv.org/abs/2404.19761v1)|null|
 |**2024-04-30**|**Lightplane: Highly-Scalable Components for Neural 3D Fields**|Ang Cao et.al.|[2404.19760v1](http://arxiv.org/abs/2404.19760v1)|**[link](https://github.com/facebookresearch/lightplane)**|
 |**2024-04-30**|**MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model**|Wenxun Dai et.al.|[2404.19759v1](http://arxiv.org/abs/2404.19759v1)|null|

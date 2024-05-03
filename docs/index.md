@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Position Paper: Beyond Robustness Against Single Attack Types**|Sihui Dai et.al.|[2405.01349v1](http://arxiv.org/abs/2405.01349v1)|null|
 |**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256v1](http://arxiv.org/abs/2405.00256v1)|**[link](https://github.com/luckybird1994/ASAM)**|
 |**2024-04-30**|**Provably Robust Conformal Prediction with Improved Efficiency**|Ge Yan et.al.|[2404.19651v1](http://arxiv.org/abs/2404.19651v1)|**[link](https://github.com/trustworthy-ml-lab/provably-robust-conformal-prediction)**|
 |**2024-04-27**|**Attacking Bayes: On the Adversarial Robustness of Bayesian Neural Networks**|Yunzhen Feng et.al.|[2404.19640v1](http://arxiv.org/abs/2404.19640v1)|null|
@@ -515,6 +516,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Multi-Space Alignments Towards Universal LiDAR Segmentation**|Youquan Liu et.al.|[2405.01538v1](http://arxiv.org/abs/2405.01538v1)|null|
+|**2024-05-02**|**Customizing Text-to-Image Models with a Single Image Pair**|Maxwell Jones et.al.|[2405.01536v1](http://arxiv.org/abs/2405.01536v1)|null|
+|**2024-05-02**|**Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models**|Seungone Kim et.al.|[2405.01535v1](http://arxiv.org/abs/2405.01535v1)|**[link](https://github.com/prometheus-eval/prometheus-eval)**|
+|**2024-05-02**|**Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**|Murtaza Dalal et.al.|[2405.01534v1](http://arxiv.org/abs/2405.01534v1)|null|
+|**2024-05-02**|**OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning**|Shihao Wang et.al.|[2405.01533v1](http://arxiv.org/abs/2405.01533v1)|null|
+|**2024-05-02**|**Robustness of Fixed Points of Quantum Channels and Application to Approximate Quantum Markov Chains**|Robert Salzmann et.al.|[2405.01532v1](http://arxiv.org/abs/2405.01532v1)|null|
+|**2024-05-02**|**Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**|Nishad Singhi et.al.|[2405.01531v1](http://arxiv.org/abs/2405.01531v1)|null|
+|**2024-05-02**|**Characterization of Silicon Photomultiplier Photon Detection Efficiency at Liquid Nitrogen Temperature**|S. Borden et.al.|[2405.01529v1](http://arxiv.org/abs/2405.01529v1)|null|
+|**2024-05-02**|**Polarization dependent non-Hermitian atomic grating controlled by dipole blockade effect**|Yi-Mou Liu et.al.|[2405.01528v1](http://arxiv.org/abs/2405.01528v1)|null|
+|**2024-05-02**|**Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation**|Homanga Bharadhwaj et.al.|[2405.01527v1](http://arxiv.org/abs/2405.01527v1)|null|
 |**2024-05-01**|**Spectrally Pruned Gaussian Fields with Neural Compensation**|Runyi Yang et.al.|[2405.00676v1](http://arxiv.org/abs/2405.00676v1)|**[link](https://github.com/runyiyang/sundae)**|
 |**2024-05-01**|**Self-Play Preference Optimization for Language Model Alignment**|Yue Wu et.al.|[2405.00675v1](http://arxiv.org/abs/2405.00675v1)|null|
 |**2024-05-01**|**Universal Bounds on CFT Distance Conjecture**|Hirosi Ooguri et.al.|[2405.00674v1](http://arxiv.org/abs/2405.00674v1)|null|

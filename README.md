@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Cutting through buggy adversarial example defenses: fixing 1 line of code breaks Sabre**|Nicholas Carlini et.al.|[2405.03672v1](http://arxiv.org/abs/2405.03672v1)|null|
+|**2024-05-06**|**Exploring Frequencies via Feature Mixing and Meta-Learning for Improving Adversarial Transferability**|Juanjuan Weng et.al.|[2405.03193v1](http://arxiv.org/abs/2405.03193v1)|**[link](https://github.com/wjjll/metassa)**|
+|**2024-05-03**|**ProFLingo: A Fingerprinting-based Copyright Protection Scheme for Large Language Models**|Heng Jin et.al.|[2405.02466v1](http://arxiv.org/abs/2405.02466v1)|**[link](https://github.com/hengvt/proflingo_arxiv)**|
 |**2024-05-03**|**A Novel Approach to Guard from Adversarial Attacks using Stable Diffusion**|Trinath Sai Subhash Reddy Pittala et.al.|[2405.01838v1](http://arxiv.org/abs/2405.01838v1)|null|
 |**2024-05-02**|**Position Paper: Beyond Robustness Against Single Attack Types**|Sihui Dai et.al.|[2405.01349v1](http://arxiv.org/abs/2405.01349v1)|null|
 |**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256v1](http://arxiv.org/abs/2405.00256v1)|**[link](https://github.com/luckybird1994/ASAM)**|
@@ -513,6 +516,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690v1](http://arxiv.org/abs/2405.03690v1)|null|
+|**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689v1](http://arxiv.org/abs/2405.03689v1)|null|
+|**2024-05-06**|**Large Language Models Reveal Information Operation Goals, Tactics, and Narrative Frames**|Keith Burghardt et.al.|[2405.03688v1](http://arxiv.org/abs/2405.03688v1)|null|
+|**2024-05-06**|**Language-Image Models with 3D Understanding**|Jang Hyun Cho et.al.|[2405.03685v1](http://arxiv.org/abs/2405.03685v1)|null|
+|**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684v1](http://arxiv.org/abs/2405.03684v1)|null|
+|**2024-05-06**|**An Empty Room is All We Want: Automatic Defurnishing of Indoor Panoramas**|Mira Slavcheva et.al.|[2405.03682v1](http://arxiv.org/abs/2405.03682v1)|null|
+|**2024-05-06**|**AtomGPT: Atomistic Generative Pre-trained Transformer for Forward and Inverse Materials Design**|Kamal Choudhary et.al.|[2405.03680v1](http://arxiv.org/abs/2405.03680v1)|null|
+|**2024-05-06**|**A topological model for the HOMFLY-PT polynomial**|Cristina Ana-Maria Anghel et.al.|[2405.03679v1](http://arxiv.org/abs/2405.03679v1)|null|
+|**2024-05-06**|**Superstrings near the conformal boundary of $\rm AdS_3$**|Vit Sriprachyakul et.al.|[2405.03678v1](http://arxiv.org/abs/2405.03678v1)|null|
+|**2024-05-06**|**MemoryMamba: Memory-Augmented State Space Model for Defect Recognition**|Qianning Wang et.al.|[2405.03673v1](http://arxiv.org/abs/2405.03673v1)|null|
 |**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287v1](http://arxiv.org/abs/2405.02287v1)|**[link](https://github.com/reka-ai/reka-vibe-eval)**|
 |**2024-05-03**|**Accurate standard siren cosmology with joint gravitational-wave and $γ$-ray burst observations**|Michele Mancarella et.al.|[2405.02286v1](http://arxiv.org/abs/2405.02286v1)|null|
 |**2024-05-03**|**Thermodynamic constraints on polar active matter hydrodynamics**|Andrea Amoretti et.al.|[2405.02283v1](http://arxiv.org/abs/2405.02283v1)|null|

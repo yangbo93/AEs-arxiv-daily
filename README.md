@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Revisiting character-level adversarial attacks**|Elias Abad Rocamora et.al.|[2405.04346v1](http://arxiv.org/abs/2405.04346v1)|**[link](https://github.com/lions-epfl/charmer)**|
+|**2024-05-06**|**On Adversarial Examples for Text Classification by Perturbing Latent Representations**|Korn Sooksatra et.al.|[2405.03789v1](http://arxiv.org/abs/2405.03789v1)|null|
+|**2024-05-06**|**Is ReLU Adversarially Robust?**|Korn Sooksatra et.al.|[2405.03777v1](http://arxiv.org/abs/2405.03777v1)|null|
 |**2024-05-06**|**Cutting through buggy adversarial example defenses: fixing 1 line of code breaks Sabre**|Nicholas Carlini et.al.|[2405.03672v1](http://arxiv.org/abs/2405.03672v1)|null|
 |**2024-05-06**|**Exploring Frequencies via Feature Mixing and Meta-Learning for Improving Adversarial Transferability**|Juanjuan Weng et.al.|[2405.03193v1](http://arxiv.org/abs/2405.03193v1)|**[link](https://github.com/wjjll/metassa)**|
 |**2024-05-03**|**ProFLingo: A Fingerprinting-based Copyright Protection Scheme for Large Language Models**|Heng Jin et.al.|[2405.02466v1](http://arxiv.org/abs/2405.02466v1)|**[link](https://github.com/hengvt/proflingo_arxiv)**|
@@ -516,6 +519,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534v1](http://arxiv.org/abs/2405.04534v1)|null|
+|**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533v1](http://arxiv.org/abs/2405.04533v1)|null|
+|**2024-05-07**|**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**|Yujun Lin et.al.|[2405.04532v1](http://arxiv.org/abs/2405.04532v1)|**[link](https://github.com/mit-han-lab/qserve)**|
+|**2024-05-07**|**PoW Security-Latency under Random Delays and the Effect of Transaction Fees**|Mustafa Doger et.al.|[2405.04526v1](http://arxiv.org/abs/2405.04526v1)|null|
+|**2024-05-07**|**Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control**|Jacob R. Taylor et.al.|[2405.04524v1](http://arxiv.org/abs/2405.04524v1)|null|
+|**2024-05-07**|**SCExAO/CHARIS Multi-Wavelength, High-Contrast Imaging of the BD+45$^\circ$598 Debris Disk**|Maria Vincent et.al.|[2405.04521v1](http://arxiv.org/abs/2405.04521v1)|null|
+|**2024-05-07**|**NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts**|Shudan Zhang et.al.|[2405.04520v1](http://arxiv.org/abs/2405.04520v1)|null|
+|**2024-05-07**|**Local Advice and Local Decompression**|Alkida Balliu et.al.|[2405.04519v1](http://arxiv.org/abs/2405.04519v1)|null|
+|**2024-05-07**|**Competition between self- and other-regarding preferences in resolving social dilemmas**|Chaoqian Wang et.al.|[2405.04518v1](http://arxiv.org/abs/2405.04518v1)|null|
+|**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517v1](http://arxiv.org/abs/2405.04517v1)|null|
 |**2024-05-06**|**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690v1](http://arxiv.org/abs/2405.03690v1)|null|
 |**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689v1](http://arxiv.org/abs/2405.03689v1)|null|
 |**2024-05-06**|**Large Language Models Reveal Information Operation Goals, Tactics, and Narrative Frames**|Keith Burghardt et.al.|[2405.03688v1](http://arxiv.org/abs/2405.03688v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 
 ## Adversarial Examples
 
@@ -525,7 +525,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-09**|**Gravitational wave signatures of departures from classical black hole scattering**|Kwinten Fransen et.al.|[2405.05970v1](http://arxiv.org/abs/2405.05970v1)|null|
-|**2024-05-09**|**Learned harmonic mean estimation of the Bayesian evidence with normalizing flows**|Alicja Polanska et.al.|[2405.05969v1](http://arxiv.org/abs/2405.05969v1)|null|
+|**2024-05-09**|**Learned harmonic mean estimation of the Bayesian evidence with normalizing flows**|Alicja Polanska et.al.|[2405.05969v1](http://arxiv.org/abs/2405.05969v1)|**[link](https://github.com/astro-informatics/harmonic)**|
 |**2024-05-09**|**A Universal Growth Rate for Learning with Smooth Surrogate Losses**|Anqi Mao et.al.|[2405.05968v1](http://arxiv.org/abs/2405.05968v1)|null|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967v1](http://arxiv.org/abs/2405.05967v1)|null|
 |**2024-05-09**|**Natural Language Processing RELIES on Linguistics**|Juri Opitz et.al.|[2405.05966v1](http://arxiv.org/abs/2405.05966v1)|null|

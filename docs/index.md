@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Exploring the Interplay of Interpretability and Robustness in Deep Neural Networks: A Saliency-guided Approach**|Amira Guesmi et.al.|[2405.06278v1](http://arxiv.org/abs/2405.06278v1)|null|
 |**2024-05-08**|**Adversarial Threats to Automatic Modulation Open Set Recognition in Wireless Networks**|Yandie Yang et.al.|[2405.05022v1](http://arxiv.org/abs/2405.05022v1)|null|
 |**2024-05-07**|**Revisiting character-level adversarial attacks**|Elias Abad Rocamora et.al.|[2405.04346v1](http://arxiv.org/abs/2405.04346v1)|**[link](https://github.com/lions-epfl/charmer)**|
 |**2024-05-06**|**On Adversarial Examples for Text Classification by Perturbing Latent Representations**|Korn Sooksatra et.al.|[2405.03789v1](http://arxiv.org/abs/2405.03789v1)|null|
@@ -524,6 +525,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640v1](http://arxiv.org/abs/2405.06640v1)|**[link](https://github.com/tri-ml/linear_open_lm)**|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639v1](http://arxiv.org/abs/2405.06639v1)|null|
+|**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636v1](http://arxiv.org/abs/2405.06636v1)|null|
+|**2024-05-10**|**Multivariate Interval-Valued Models in Frequentist and Bayesian Schemes**|Ali Sadeghkhani et.al.|[2405.06635v1](http://arxiv.org/abs/2405.06635v1)|null|
+|**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634v1](http://arxiv.org/abs/2405.06634v1)|null|
+|**2024-05-10**|**Testing $f(T)$ cosmologies with HII Hubble diagram and CMB distance priors**|Rodrigo Sandoval-Orozco et.al.|[2405.06633v1](http://arxiv.org/abs/2405.06633v1)|null|
+|**2024-05-10**|**QSpace - An open-source tensor library for Abelian and non-Abelian symmetries**|Andreas Weichselbaum et.al.|[2405.06632v1](http://arxiv.org/abs/2405.06632v1)|null|
+|**2024-05-10**|**Nonlocal correlations transmitted between quantum dots via short topological superconductor**|G. Górski et.al.|[2405.06630v1](http://arxiv.org/abs/2405.06630v1)|null|
+|**2024-05-10**|**A General Hierarchy of Charges at Null Infinity via the Todd Polynomials**|Silvia Nagy et.al.|[2405.06629v1](http://arxiv.org/abs/2405.06629v1)|null|
+|**2024-05-10**|**Optimal epidemic control by social distancing and vaccination of an infection structured by time since infection: the covid-19 case study**|Alberto d'Onofrio et.al.|[2405.06628v1](http://arxiv.org/abs/2405.06628v1)|null|
 |**2024-05-09**|**Gravitational wave signatures of departures from classical black hole scattering**|Kwinten Fransen et.al.|[2405.05970v1](http://arxiv.org/abs/2405.05970v1)|null|
 |**2024-05-09**|**Learned harmonic mean estimation of the Bayesian evidence with normalizing flows**|Alicja Polanska et.al.|[2405.05969v1](http://arxiv.org/abs/2405.05969v1)|**[link](https://github.com/astro-informatics/harmonic)**|
 |**2024-05-09**|**A Universal Growth Rate for Learning with Smooth Surrogate Losses**|Anqi Mao et.al.|[2405.05968v1](http://arxiv.org/abs/2405.05968v1)|null|

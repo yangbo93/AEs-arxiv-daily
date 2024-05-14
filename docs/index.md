@@ -525,6 +525,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992v1](http://arxiv.org/abs/2405.07992v1)|**[link](https://github.com/yuweihao/mambaout)**|
+|**2024-05-13**|**Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots**|Chengyue Wu et.al.|[2405.07990v1](http://arxiv.org/abs/2405.07990v1)|null|
+|**2024-05-13**|**A Generalist Learner for Multifaceted Medical Image Interpretation**|Hong-Yu Zhou et.al.|[2405.07988v1](http://arxiv.org/abs/2405.07988v1)|null|
+|**2024-05-13**|**The Platonic Representation Hypothesis**|Minyoung Huh et.al.|[2405.07987v1](http://arxiv.org/abs/2405.07987v1)|**[link](https://github.com/minyoungg/platonic-rep)**|
+|**2024-05-13**|**Improved LARS algorithm for adaptive LASSO in the linear regression model**|Manickavasagar Kayanan et.al.|[2405.07985v1](http://arxiv.org/abs/2405.07985v1)|null|
+|**2024-05-13**|**Rowmotion on the chain of V's poset and whirling dynamics**|Matthew Plante et.al.|[2405.07984v1](http://arxiv.org/abs/2405.07984v1)|null|
+|**2024-05-13**|**Identifying the minimal sets of distance restraints for FRET-assisted protein structural modeling**|Zhuoyi Liu et.al.|[2405.07983v1](http://arxiv.org/abs/2405.07983v1)|null|
+|**2024-05-13**|**Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly Detection for Curiosity**|Mielad Sabzehi et.al.|[2405.07982v1](http://arxiv.org/abs/2405.07982v1)|null|
+|**2024-05-13**|**Diagnosing and Predicting Autonomous Vehicle Operational Safety Using Multiple Simulation Modalities and a Virtual Environment**|Joe Beck et.al.|[2405.07981v1](http://arxiv.org/abs/2405.07981v1)|null|
+|**2024-05-13**|**Generalizing Quantum Tanner Codes**|Olai Å. Mostad et.al.|[2405.07980v1](http://arxiv.org/abs/2405.07980v1)|null|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640v1](http://arxiv.org/abs/2405.06640v1)|**[link](https://github.com/tri-ml/linear_open_lm)**|
 |**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639v1](http://arxiv.org/abs/2405.06639v1)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636v1](http://arxiv.org/abs/2405.06636v1)|null|

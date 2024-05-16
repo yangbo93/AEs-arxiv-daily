@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 
 ## Adversarial Examples
 
@@ -533,7 +533,7 @@ layout: default
 |**2024-05-14**|**Mock-local energy density of gravitational waves**|Antoine Rignon-Bret et.al.|[2405.08808v1](http://arxiv.org/abs/2405.08808v1)|null|
 |**2024-05-14**|**SciFIBench: Benchmarking Large Multimodal Models for Scientific Figure Interpretation**|Jonathan Roberts et.al.|[2405.08807v1](http://arxiv.org/abs/2405.08807v1)|null|
 |**2024-05-14**|**Photon Ring Interferometric Signatures Beyond The Universal Regime**|He Jia et.al.|[2405.08804v1](http://arxiv.org/abs/2405.08804v1)|null|
-|**2024-05-14**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801v1](http://arxiv.org/abs/2405.08801v1)|null|
+|**2024-05-15**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801v2](http://arxiv.org/abs/2405.08801v2)|null|
 |**2024-05-14**|**Estimation of Participation Factors for Power System Oscillation from Measurements**|Tianwei Xia et.al.|[2405.08800v1](http://arxiv.org/abs/2405.08800v1)|null|
 |**2024-05-14**|**The Flux Hypothesis for Odd Transport Phenomena**|Cory Hargus et.al.|[2405.08798v1](http://arxiv.org/abs/2405.08798v1)|null|
 |**2024-05-14**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992v2](http://arxiv.org/abs/2405.07992v2)|**[link](https://github.com/yuweihao/mambaout)**|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer**|Weifei Jin et.al.|[2405.09470v1](http://arxiv.org/abs/2405.09470v1)|null|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317v1](http://arxiv.org/abs/2405.08317v1)|null|
 |**2024-05-10**|**Exploring the Interplay of Interpretability and Robustness in Deep Neural Networks: A Saliency-guided Approach**|Amira Guesmi et.al.|[2405.06278v1](http://arxiv.org/abs/2405.06278v1)|null|
 |**2024-05-08**|**Adversarial Threats to Automatic Modulation Open Set Recognition in Wireless Networks**|Yandie Yang et.al.|[2405.05022v1](http://arxiv.org/abs/2405.05022v1)|null|
@@ -526,6 +527,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation**|Yunhao Ge et.al.|[2405.09546v1](http://arxiv.org/abs/2405.09546v1)|null|
+|**2024-05-15**|**Classifying geospatial objects from multiview aerial imagery using semantic meshes**|David Russell et.al.|[2405.09544v1](http://arxiv.org/abs/2405.09544v1)|null|
+|**2024-05-15**|**Singular parabolic operators in the half-space with boundary degeneracy: Dirichlet and oblique derivative boundary conditions**|Luigi Negro et.al.|[2405.09540v1](http://arxiv.org/abs/2405.09540v1)|null|
+|**2024-05-15**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539v1](http://arxiv.org/abs/2405.09539v1)|**[link](https://github.com/wuchengyu123/mmfusion)**|
+|**2024-05-15**|**Phonon Inverse Faraday effect from electron-phonon coupling**|Natalia Shabala et.al.|[2405.09538v1](http://arxiv.org/abs/2405.09538v1)|null|
+|**2024-05-15**|**Wasserstein Gradient Boosting: A General Framework with Applications to Posterior Regression**|Takuo Matsubara et.al.|[2405.09536v1](http://arxiv.org/abs/2405.09536v1)|null|
+|**2024-05-15**|**Restoring balance: principled under/oversampling of data for optimal classification**|Emanuele Loffredo et.al.|[2405.09535v1](http://arxiv.org/abs/2405.09535v1)|null|
+|**2024-05-15**|**Learning-Based Compress-and-Forward Schemes for the Relay Channel**|Ezgi Ozyilkan et.al.|[2405.09534v1](http://arxiv.org/abs/2405.09534v1)|null|
+|**2024-05-15**|**Background-induced complex mass states of graviton: quantization and tensor power spectrum**|Anna Tokareva et.al.|[2405.09527v1](http://arxiv.org/abs/2405.09527v1)|null|
+|**2024-05-15**|**Improved classical shadows from local symmetries in the Schur basis**|Daniel Grier et.al.|[2405.09525v1](http://arxiv.org/abs/2405.09525v1)|null|
 |**2024-05-14**|**Quantum oscillations in the hole-doped cuprates and the confinement of spinons**|Pietro M. Bonetti et.al.|[2405.08817v1](http://arxiv.org/abs/2405.08817v1)|null|
 |**2024-05-14**|**Efficient Vision-Language Pre-training by Cluster Masking**|Zihao Wei et.al.|[2405.08815v1](http://arxiv.org/abs/2405.08815v1)|**[link](https://github.com/zi-hao-wei/efficient-vision-language-pre-training-by-cluster-masking)**|
 |**2024-05-14**|**Performance of wave function and Green's functions based methods for non equilibrium many-body dynamics**|Cian C. Reeves et.al.|[2405.08814v1](http://arxiv.org/abs/2405.08814v1)|null|

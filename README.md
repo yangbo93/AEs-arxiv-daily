@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Infrared Adversarial Car Stickers**|Xiaopei Zhu et.al.|[2405.09924v1](http://arxiv.org/abs/2405.09924v1)|null|
+|**2024-05-16**|**DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection**|Yuhao Sun et.al.|[2405.09882v1](http://arxiv.org/abs/2405.09882v1)|**[link](https://github.com/hanssuny/diffam)**|
+|**2024-05-15**|**Properties that allow or prohibit transferability of adversarial attacks among quantized networks**|Abhishek Shrestha et.al.|[2405.09598v1](http://arxiv.org/abs/2405.09598v1)|**[link](https://github.com/Abhishek2271/TransferabilityAnalysis)**|
 |**2024-05-15**|**Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer**|Weifei Jin et.al.|[2405.09470v1](http://arxiv.org/abs/2405.09470v1)|null|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317v1](http://arxiv.org/abs/2405.08317v1)|null|
 |**2024-05-10**|**Exploring the Interplay of Interpretability and Robustness in Deep Neural Networks: A Saliency-guided Approach**|Amira Guesmi et.al.|[2405.06278v1](http://arxiv.org/abs/2405.06278v1)|null|
@@ -523,6 +526,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Probing Hidden Dimensions via Muon Lifetime Measurements**|Jorge G. Russo et.al.|[2405.10321v1](http://arxiv.org/abs/2405.10321v1)|null|
+|**2024-05-16**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320v1](http://arxiv.org/abs/2405.10320v1)|null|
+|**2024-05-16**|**Fast simulation mapping: from standard to modified gravity cosmologies using the bias assignment method**|Jorge Enrique García-Farieta et.al.|[2405.10319v1](http://arxiv.org/abs/2405.10319v1)|null|
+|**2024-05-16**|**Gauge theory of giant phonon magnetic moment in doped Dirac semimetals**|Wenqin Chen et.al.|[2405.10318v1](http://arxiv.org/abs/2405.10318v1)|null|
+|**2024-05-16**|**Text-to-Vector Generation with Neural Path Representation**|Peiying Zhang et.al.|[2405.10317v1](http://arxiv.org/abs/2405.10317v1)|null|
+|**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316v1](http://arxiv.org/abs/2405.10316v1)|null|
+|**2024-05-16**|**CAT3D: Create Anything in 3D with Multi-View Diffusion Models**|Ruiqi Gao et.al.|[2405.10314v1](http://arxiv.org/abs/2405.10314v1)|null|
+|**2024-05-16**|**How Far Are We From AGI**|Tao Feng et.al.|[2405.10313v1](http://arxiv.org/abs/2405.10313v1)|**[link](https://github.com/ulab-uiuc/agi-survey)**|
+|**2024-05-16**|**KiDS-1000 and DES-Y1 combined: Cosmology from peak count statistics**|Joachim Harnois-Deraps et.al.|[2405.10312v1](http://arxiv.org/abs/2405.10312v1)|null|
+|**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311v1](http://arxiv.org/abs/2405.10311v1)|null|
 |**2024-05-15**|**BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation**|Yunhao Ge et.al.|[2405.09546v1](http://arxiv.org/abs/2405.09546v1)|null|
 |**2024-05-15**|**Classifying geospatial objects from multiview aerial imagery using semantic meshes**|David Russell et.al.|[2405.09544v1](http://arxiv.org/abs/2405.09544v1)|null|
 |**2024-05-15**|**Singular parabolic operators in the half-space with boundary degeneracy: Dirichlet and oblique derivative boundary conditions**|Luigi Negro et.al.|[2405.09540v1](http://arxiv.org/abs/2405.09540v1)|null|

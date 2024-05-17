@@ -1,4 +1,4 @@
-## Updated on 2024.05.16
+## Updated on 2024.05.17
 
 ## Adversarial Examples
 
@@ -526,7 +526,7 @@
 |**2024-05-15**|**BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation**|Yunhao Ge et.al.|[2405.09546v1](http://arxiv.org/abs/2405.09546v1)|null|
 |**2024-05-15**|**Classifying geospatial objects from multiview aerial imagery using semantic meshes**|David Russell et.al.|[2405.09544v1](http://arxiv.org/abs/2405.09544v1)|null|
 |**2024-05-15**|**Singular parabolic operators in the half-space with boundary degeneracy: Dirichlet and oblique derivative boundary conditions**|Luigi Negro et.al.|[2405.09540v1](http://arxiv.org/abs/2405.09540v1)|null|
-|**2024-05-15**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539v1](http://arxiv.org/abs/2405.09539v1)|**[link](https://github.com/wuchengyu123/mmfusion)**|
+|**2024-05-16**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539v2](http://arxiv.org/abs/2405.09539v2)|**[link](https://github.com/wuchengyu123/mmfusion)**|
 |**2024-05-15**|**Phonon Inverse Faraday effect from electron-phonon coupling**|Natalia Shabala et.al.|[2405.09538v1](http://arxiv.org/abs/2405.09538v1)|null|
 |**2024-05-15**|**Wasserstein Gradient Boosting: A General Framework with Applications to Posterior Regression**|Takuo Matsubara et.al.|[2405.09536v1](http://arxiv.org/abs/2405.09536v1)|null|
 |**2024-05-15**|**Restoring balance: principled under/oversampling of data for optimal classification**|Emanuele Loffredo et.al.|[2405.09535v1](http://arxiv.org/abs/2405.09535v1)|null|

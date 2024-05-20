@@ -530,6 +530,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Distribution functions for the modelling of accretion remnants in Milky Way-like galaxies: insights from IllustrisTNG**|James M. M. Lane et.al.|[2405.10945v1](http://arxiv.org/abs/2405.10945v1)|null|
+|**2024-05-17**|**Probabilistic transfer learning methodology to expedite high fidelity simulation of reactive flows**|Bruno S. Soriano et.al.|[2405.10944v1](http://arxiv.org/abs/2405.10944v1)|null|
+|**2024-05-17**|**Efficient photon-pair generation in layer-poled lithium niobate nanophotonic waveguides**|Xiaodong Shi et.al.|[2405.10943v1](http://arxiv.org/abs/2405.10943v1)|null|
+|**2024-05-17**|**Scalability enhancement of quantum computing under limited connectivity through distributed quantum computing**|Shao-Hua Hu et.al.|[2405.10942v1](http://arxiv.org/abs/2405.10942v1)|null|
+|**2024-05-17**|**A hide-and-seek game: Looking for Population III stars during the Epoch of Reionization through the HeII$λ$1640 line**|Alessandra Venditti et.al.|[2405.10940v1](http://arxiv.org/abs/2405.10940v1)|null|
+|**2024-05-17**|**DINO as a von Mises-Fisher mixture model**|Hariprasath Govindarajan et.al.|[2405.10939v1](http://arxiv.org/abs/2405.10939v1)|null|
+|**2024-05-17**|**Observational Scaling Laws and the Predictability of Language Model Performance**|Yangjun Ruan et.al.|[2405.10938v1](http://arxiv.org/abs/2405.10938v1)|null|
+|**2024-05-17**|**Gravitational waves from low-scale cosmic strings**|Kai Schmitz et.al.|[2405.10937v1](http://arxiv.org/abs/2405.10937v1)|null|
+|**2024-05-17**|**A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers**|Kaiyu Huang et.al.|[2405.10936v1](http://arxiv.org/abs/2405.10936v1)|**[link](https://github.com/kaiyuhwang/mllm-survey)**|
+|**2024-05-17**|**Reconstruction of Manipulated Garment with Guided Deformation Prior**|Ren Li et.al.|[2405.10934v1](http://arxiv.org/abs/2405.10934v1)|null|
 |**2024-05-16**|**Probing Hidden Dimensions via Muon Lifetime Measurements**|Jorge G. Russo et.al.|[2405.10321v1](http://arxiv.org/abs/2405.10321v1)|null|
 |**2024-05-17**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320v2](http://arxiv.org/abs/2405.10320v2)|null|
 |**2024-05-16**|**Fast simulation mapping: from standard to modified gravity cosmologies using the bias assignment method**|Jorge Enrique García-Farieta et.al.|[2405.10319v1](http://arxiv.org/abs/2405.10319v1)|null|

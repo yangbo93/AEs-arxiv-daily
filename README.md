@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**A Constraint-Enforcing Reward for Adversarial Attacks on Text Classifiers**|Tom Roth et.al.|[2405.11904v1](http://arxiv.org/abs/2405.11904v1)|null|
+|**2024-05-20**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708v1](http://arxiv.org/abs/2405.11708v1)|null|
+|**2024-05-19**|**Certified Robust Accuracy of Neural Networks Are Bounded due to Bayes Errors**|Ruihan Zhang et.al.|[2405.11547v1](http://arxiv.org/abs/2405.11547v1)|null|
+|**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154v1](http://arxiv.org/abs/2405.11154v1)|null|
 |**2024-05-16**|**Infrared Adversarial Car Stickers**|Xiaopei Zhu et.al.|[2405.09924v1](http://arxiv.org/abs/2405.09924v1)|null|
 |**2024-05-16**|**DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection**|Yuhao Sun et.al.|[2405.09882v1](http://arxiv.org/abs/2405.09882v1)|**[link](https://github.com/hanssuny/diffam)**|
 |**2024-05-15**|**Properties that allow or prohibit transferability of adversarial attacks among quantized networks**|Abhishek Shrestha et.al.|[2405.09598v1](http://arxiv.org/abs/2405.09598v1)|**[link](https://github.com/Abhishek2271/TransferabilityAnalysis)**|
@@ -526,6 +530,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Images that Sound: Composing Images and Sounds on a Single Canvas**|Ziyang Chen et.al.|[2405.12221v1](http://arxiv.org/abs/2405.12221v1)|null|
+|**2024-05-20**|**CMB-HD as a Probe of Dark Matter on Sub-Galactic Scales**|Amanda MacInnis et.al.|[2405.12220v1](http://arxiv.org/abs/2405.12220v1)|null|
+|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218v1](http://arxiv.org/abs/2405.12218v1)|null|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217v1](http://arxiv.org/abs/2405.12217v1)|null|
+|**2024-05-20**|**Optimal tail estimates in $β$-ensembles and applications to last passage percolation**|Jnaneshwar Baslingker et.al.|[2405.12215v1](http://arxiv.org/abs/2405.12215v1)|null|
+|**2024-05-20**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213v1](http://arxiv.org/abs/2405.12213v1)|null|
+|**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211v1](http://arxiv.org/abs/2405.12211v1)|null|
+|**2024-05-20**|**MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark**|Hongwei Liu et.al.|[2405.12209v1](http://arxiv.org/abs/2405.12209v1)|**[link](https://github.com/open-compass/mathbench)**|
+|**2024-05-20**|**Modeling Magnetic Flux Emergence in Bipolar Active Regions**|Mariano Poisson et.al.|[2405.12208v1](http://arxiv.org/abs/2405.12208v1)|null|
+|**2024-05-20**|**Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models**|Tong Zeng et.al.|[2405.12206v1](http://arxiv.org/abs/2405.12206v1)|**[link](https://github.com/sciosci/cite-worthiness)**|
 |**2024-05-17**|**Distribution functions for the modelling of accretion remnants in Milky Way-like galaxies: insights from IllustrisTNG**|James M. M. Lane et.al.|[2405.10945v1](http://arxiv.org/abs/2405.10945v1)|null|
 |**2024-05-17**|**Probabilistic transfer learning methodology to expedite high fidelity simulation of reactive flows**|Bruno S. Soriano et.al.|[2405.10944v1](http://arxiv.org/abs/2405.10944v1)|null|
 |**2024-05-17**|**Efficient photon-pair generation in layer-poled lithium niobate nanophotonic waveguides**|Xiaodong Shi et.al.|[2405.10943v1](http://arxiv.org/abs/2405.10943v1)|null|

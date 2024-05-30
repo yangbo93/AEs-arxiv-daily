@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 
 ## Adversarial Examples
 
@@ -551,7 +551,7 @@ layout: default
 |**2024-05-28**|**Feasibility of Privacy-Preserving Entity Resolution on Confidential Healthcare Datasets Using Homomorphic Encryption**|Yixiang Yao et.al.|[2405.18430v1](http://arxiv.org/abs/2405.18430v1)|null|
 |**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428v1](http://arxiv.org/abs/2405.18428v1)|**[link](https://github.com/hustvl/dig)**|
 |**2024-05-28**|**Classifying Overlapping Gaussian Mixtures in High Dimensions: From Optimal Classifiers to Neural Nets**|Khen Cohen et.al.|[2405.18427v1](http://arxiv.org/abs/2405.18427v1)|null|
-|**2024-05-28**|**ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention**|Bencheng Liao et.al.|[2405.18425v1](http://arxiv.org/abs/2405.18425v1)|**[link](https://github.com/hustvl/vig)**|
+|**2024-05-29**|**ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention**|Bencheng Liao et.al.|[2405.18425v2](http://arxiv.org/abs/2405.18425v2)|**[link](https://github.com/hustvl/vig)**|
 |**2024-05-28**|**3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting**|Qihang Zhang et.al.|[2405.18424v1](http://arxiv.org/abs/2405.18424v1)|null|
 |**2024-05-28**|**Afterglow Linear Polarization Signatures from Shallow GRB Jets: Implications for Energetic GRBs**|Gal Birenbaum et.al.|[2405.18423v1](http://arxiv.org/abs/2405.18423v1)|null|
 |**2024-05-28**|**JWST-TST High Contrast: JWST/NIRCam observations of the young giant planet $β$ Pic b**|Jens Kammerer et.al.|[2405.18422v1](http://arxiv.org/abs/2405.18422v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2024.05.30
+## Updated on 2024.05.31
 
 ## Adversarial Examples
 
@@ -550,7 +550,7 @@
 |**2024-05-29**|**NPGA: Neural Parametric Gaussian Avatars**|Simon Giebenhain et.al.|[2405.19331v1](http://arxiv.org/abs/2405.19331v1)|null|
 |**2024-05-29**|**Barium stars as tracers of s-process nucleosynthesis in AGB stars III. Systematic deviations from the AGB models**|B. Világos et.al.|[2405.19330v1](http://arxiv.org/abs/2405.19330v1)|null|
 |**2024-05-29**|**Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation**|Atrisha Sarkar et.al.|[2405.19328v1](http://arxiv.org/abs/2405.19328v1)|null|
-|**2024-05-29**|**MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series**|Ge Zhang et.al.|[2405.19327v1](http://arxiv.org/abs/2405.19327v1)|null|
+|**2024-05-30**|**MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series**|Ge Zhang et.al.|[2405.19327v2](http://arxiv.org/abs/2405.19327v2)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326v1](http://arxiv.org/abs/2405.19326v1)|null|
 |**2024-05-29**|**Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**|Minghan Li et.al.|[2405.19325v1](http://arxiv.org/abs/2405.19325v1)|null|
 |**2024-05-28**|**Notes on Applicability of GPT-4 to Document Understanding**|Łukasz Borchmann et.al.|[2405.18433v1](http://arxiv.org/abs/2405.18433v1)|null|

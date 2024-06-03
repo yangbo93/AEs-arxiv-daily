@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Improved Generation of Adversarial Examples Against Safety-aligned LLMs**|Qizhang Li et.al.|[2405.20778v1](http://arxiv.org/abs/2405.20778v1)|null|
+|**2024-05-31**|**Query Provenance Analysis for Robust and Efficient Query-based Black-box Attack Defense**|Shaofei Li et.al.|[2405.20641v1](http://arxiv.org/abs/2405.20641v1)|null|
+|**2024-05-31**|**Disrupting Diffusion: Token-Level Attention Erasure Attack against Diffusion-based Customization**|Yisu Liu et.al.|[2405.20584v1](http://arxiv.org/abs/2405.20584v1)|null|
 |**2024-05-30**|**Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models**|Hao Cheng et.al.|[2405.20090v1](http://arxiv.org/abs/2405.20090v1)|null|
 |**2024-05-30**|**HOLMES: to Detect Adversarial Examples with Multiple Detectors**|Jing Wen et.al.|[2405.19956v1](http://arxiv.org/abs/2405.19956v1)|null|
 |**2024-05-28**|**PureEBM: Universal Poison Purification via Mid-Run Dynamics of Energy-Based Models**|Omead Pooladzandi et.al.|[2405.19376v1](http://arxiv.org/abs/2405.19376v1)|null|
@@ -550,6 +553,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|null|
+|**2024-05-31**|**Toward Quantum Analogue Simulation of Many-Body Supersymmetry with Rydberg Atom Arrays**|Hrushikesh Sable et.al.|[2405.21073v1](http://arxiv.org/abs/2405.21073v1)|null|
+|**2024-05-31**|**Fast inspirals and the treatment of orbital resonances**|Philip Lynch et.al.|[2405.21072v1](http://arxiv.org/abs/2405.21072v1)|null|
+|**2024-05-31**|**A Multi-wavelength, Multi-epoch Monitoring Campaign of Accretion Variability in T Tauri Stars from the ODYSSEUS Survey. II. Photometric Light Curves**|John Wendeborn et.al.|[2405.21071v1](http://arxiv.org/abs/2405.21071v1)|null|
+|**2024-05-31**|**Generalization Beyond Data Imbalance: A Controlled Study on CLIP for Transferable Insights**|Xin Wen et.al.|[2405.21070v1](http://arxiv.org/abs/2405.21070v1)|**[link](https://github.com/cvmi-lab/clip-beyond-tail)**|
+|**2024-05-31**|**Code Pretraining Improves Entity Tracking Abilities of Language Models**|Najoung Kim et.al.|[2405.21068v1](http://arxiv.org/abs/2405.21068v1)|null|
+|**2024-05-31**|**Brightening and Fading in the Youngest Galactic Supernova Remnant G1.9+0.3: 13 years of monitoring with the Chandra X-ray Observatory**|Kazimierz J. Borkowski et.al.|[2405.21067v1](http://arxiv.org/abs/2405.21067v1)|null|
+|**2024-05-31**|**Mixed Diffusion for 3D Indoor Scene Synthesis**|Siyi Hu et.al.|[2405.21066v1](http://arxiv.org/abs/2405.21066v1)|null|
+|**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064v1](http://arxiv.org/abs/2405.21064v1)|null|
+|**2024-05-31**|**Neural Network Verification with Branch-and-Bound for General Nonlinearities**|Zhouxing Shi et.al.|[2405.21063v1](http://arxiv.org/abs/2405.21063v1)|null|
 |**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343v1](http://arxiv.org/abs/2405.20343v1)|null|
 |**2024-05-30**|**Evaluating Approximations of Count Distributions and Forecasts for Poisson-Lindley Integer Autoregressive Processes**|Rachel D. Gidaro et.al.|[2405.20342v1](http://arxiv.org/abs/2405.20342v1)|null|
 |**2024-05-30**|**From Zero to Hero: Cold-Start Anomaly Detection**|Tal Reiss et.al.|[2405.20341v1](http://arxiv.org/abs/2405.20341v1)|**[link](https://github.com/talreiss/coldfusion)**|

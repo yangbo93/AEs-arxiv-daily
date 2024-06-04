@@ -1,4 +1,4 @@
-## Updated on 2024.06.03
+## Updated on 2024.06.04
 
 ## Adversarial Examples
 
@@ -9,9 +9,9 @@
 |**2024-05-31**|**Disrupting Diffusion: Token-Level Attention Erasure Attack against Diffusion-based Customization**|Yisu Liu et.al.|[2405.20584v1](http://arxiv.org/abs/2405.20584v1)|null|
 |**2024-05-30**|**Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models**|Hao Cheng et.al.|[2405.20090v1](http://arxiv.org/abs/2405.20090v1)|null|
 |**2024-05-30**|**HOLMES: to Detect Adversarial Examples with Multiple Detectors**|Jing Wen et.al.|[2405.19956v1](http://arxiv.org/abs/2405.19956v1)|null|
-|**2024-05-28**|**PureEBM: Universal Poison Purification via Mid-Run Dynamics of Energy-Based Models**|Omead Pooladzandi et.al.|[2405.19376v1](http://arxiv.org/abs/2405.19376v1)|null|
+|**2024-06-02**|**PureEBM: Universal Poison Purification via Mid-Run Dynamics of Energy-Based Models**|Omead Pooladzandi et.al.|[2405.19376v2](http://arxiv.org/abs/2405.19376v2)|null|
 |**2024-05-29**|**Efficient Black-box Adversarial Attacks via Bayesian Optimization Guided by a Function Prior**|Shuyu Cheng et.al.|[2405.19098v1](http://arxiv.org/abs/2405.19098v1)|**[link](https://github.com/yibo-miao/pbo-attack)**|
-|**2024-05-28**|**PureGen: Universal Data Purification for Train-Time Poison Defense via Generative Model Dynamics**|Sunay Bhat et.al.|[2405.18627v1](http://arxiv.org/abs/2405.18627v1)|null|
+|**2024-06-02**|**PureGen: Universal Data Purification for Train-Time Poison Defense via Generative Model Dynamics**|Sunay Bhat et.al.|[2405.18627v2](http://arxiv.org/abs/2405.18627v2)|null|
 |**2024-05-28**|**Towards Unified Robustness Against Both Backdoor and Adversarial Attacks**|Zhenxing Niu et.al.|[2405.17929v1](http://arxiv.org/abs/2405.17929v1)|**[link](https://github.com/john-niu-07/pud)**|
 |**2024-05-27**|**Exploiting the Layered Intrinsic Dimensionality of Deep Models for Practical Adversarial Training**|Enes Altinisik et.al.|[2405.17130v1](http://arxiv.org/abs/2405.17130v1)|null|
 |**2024-05-27**|**Adversarial Attacks on Both Face Recognition and Face Anti-spoofing Models**|Fengfan Zhou et.al.|[2405.16940v1](http://arxiv.org/abs/2405.16940v1)|null|

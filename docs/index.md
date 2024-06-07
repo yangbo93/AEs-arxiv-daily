@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 
 ## Adversarial Examples
 
@@ -566,7 +566,7 @@ layout: default
 |**2024-06-05**|**The Logarithmic Memristor-Based Bayesian Machine**|Clément Turck et.al.|[2406.03492v1](http://arxiv.org/abs/2406.03492v1)|null|
 |**2024-06-05**|**Detecting Phase Coherence of 2D Bose Gases via Noise Correlations**|Shinichi Sunami et.al.|[2406.03491v1](http://arxiv.org/abs/2406.03491v1)|null|
 |**2024-06-05**|**Simultaneous retrieval of orbital phase resolved JWST/MIRI emission spectra of the hot Jupiter WASP-43b: evidence of water, ammonia and carbon monoxide**|Jingxuan Yang et.al.|[2406.03490v1](http://arxiv.org/abs/2406.03490v1)|null|
-|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Sun Ao et.al.|[2406.03488v1](http://arxiv.org/abs/2406.03488v1)|null|
+|**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488v2](http://arxiv.org/abs/2406.03488v2)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487v1](http://arxiv.org/abs/2406.03487v1)|null|
 |**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486v1](http://arxiv.org/abs/2406.03486v1)|null|
 |**2024-06-05**|**Raman effects in Quantum Frequency Conversion using Bragg Scattering**|Mathias Linde Holst Korsgaard et.al.|[2406.03484v1](http://arxiv.org/abs/2406.03484v1)|null|

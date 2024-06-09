@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Interpreting the Second-Order Effects of Neurons in CLIP**|Yossi Gandelsman et.al.|[2406.04341v1](http://arxiv.org/abs/2406.04341v1)|null|
 |**2024-06-05**|**A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models**|Hamidreza Kamkari et.al.|[2406.03537v1](http://arxiv.org/abs/2406.03537v1)|null|
-|**2024-06-05**|**ZeroPur: Succinct Training-Free Adversarial Purification**|Xiuli Bi et.al.|[2406.03143v1](http://arxiv.org/abs/2406.03143v1)|null|
+|**2024-06-05**|**ZeroPur: Succinct Training-Free Adversarial Purification**|Xiuli Bi et.al.|[2406.03143v1](http://arxiv.org/abs/2406.03143v1)|**[link](https://github.com/fra31/auto-attack)**|
 |**2024-06-05**|**DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross Domain**|Jun Liu et.al.|[2406.03017v1](http://arxiv.org/abs/2406.03017v1)|**[link](https://github.com/csjunjun/difattack)**|
 |**2024-06-05**|**Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing**|Youwei Shu et.al.|[2406.02309v2](http://arxiv.org/abs/2406.02309v2)|null|
 |**2024-06-04**|**Advancing Generalized Transfer Attack with Initialization Derived Bilevel Optimization and Dynamic Sequence Truncation**|Yaohua Liu et.al.|[2406.02064v1](http://arxiv.org/abs/2406.02064v1)|**[link](https://github.com/callous-youth/betak)**|

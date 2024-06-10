@@ -1,4 +1,4 @@
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 
 ## Adversarial Examples
 
@@ -565,7 +565,7 @@
 |**2024-06-06**|**Interpreting the Second-Order Effects of Neurons in CLIP**|Yossi Gandelsman et.al.|[2406.04341v1](http://arxiv.org/abs/2406.04341v1)|null|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340v1](http://arxiv.org/abs/2406.04340v1)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339v1](http://arxiv.org/abs/2406.04339v1)|null|
-|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v1](http://arxiv.org/abs/2406.04338v1)|null|
+|**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v2](http://arxiv.org/abs/2406.04338v2)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337v1](http://arxiv.org/abs/2406.04337v1)|null|
 |**2024-06-06**|**Particles and their fluids in $f(R,T)$ gravity**|P. P. Avelino et.al.|[2406.04335v1](http://arxiv.org/abs/2406.04335v1)|null|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496v1](http://arxiv.org/abs/2406.03496v1)|null|

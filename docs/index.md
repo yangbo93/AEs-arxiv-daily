@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-09**|**MeanSparse: Post-Training Robustness Enhancement Through Mean-Centered Feature Sparsification**|Sajjad Amini et.al.|[2406.05927v1](http://arxiv.org/abs/2406.05927v1)|**[link](https://github.com/spin-umass/meansparse)**|
+|**2024-06-08**|**Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization**|Jiancong Xiao et.al.|[2406.05372v1](http://arxiv.org/abs/2406.05372v1)|null|
 |**2024-06-07**|**ADBA:Approximation Decision Boundary Approach for Black-Box Adversarial Attacks**|Feiyang Wang et.al.|[2406.04998v1](http://arxiv.org/abs/2406.04998v1)|null|
 |**2024-06-06**|**Interpreting the Second-Order Effects of Neurons in CLIP**|Yossi Gandelsman et.al.|[2406.04341v1](http://arxiv.org/abs/2406.04341v1)|null|
 |**2024-06-05**|**A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models**|Hamidreza Kamkari et.al.|[2406.03537v1](http://arxiv.org/abs/2406.03537v1)|null|
@@ -563,6 +565,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
+|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526v1](http://arxiv.org/abs/2406.06526v1)|null|
+|**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525v1](http://arxiv.org/abs/2406.06525v1)|**[link](https://github.com/foundationvision/llamagen)**|
+|**2024-06-10**|**Gas Fees on the Ethereum Blockchain: From Foundations to Derivatives Valuations**|Bernhard K Meister et.al.|[2406.06524v1](http://arxiv.org/abs/2406.06524v1)|null|
+|**2024-06-10**|**NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing**|Ting-Hsuan Chen et.al.|[2406.06523v1](http://arxiv.org/abs/2406.06523v1)|null|
+|**2024-06-10**|**Multiple SLEs for $κ\in (0,8)$: Coulomb gas integrals and pure partition functions**|Yu Feng et.al.|[2406.06522v1](http://arxiv.org/abs/2406.06522v1)|null|
+|**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
+|**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520v1](http://arxiv.org/abs/2406.06520v1)|null|
+|**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519v1](http://arxiv.org/abs/2406.06519v1)|**[link](https://github.com/castorini/umbrela)**|
+|**2024-06-10**|**Data Augmentation for Multivariate Time Series Classification: An Experimental Study**|Romain Ilbert et.al.|[2406.06518v1](http://arxiv.org/abs/2406.06518v1)|null|
 |**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132v1](http://arxiv.org/abs/2406.05132v1)|null|
 |**2024-06-07**|**DVOS: Self-Supervised Dense-Pattern Video Object Segmentation**|Keyhan Najafian et.al.|[2406.05131v1](http://arxiv.org/abs/2406.05131v1)|null|
 |**2024-06-07**|**An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models**|Xiongtao Zhou et.al.|[2406.05130v1](http://arxiv.org/abs/2406.05130v1)|null|

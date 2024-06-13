@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Adversarial Evasion Attack Efficiency against Large Language Models**|João Vitorino et.al.|[2406.08050v1](http://arxiv.org/abs/2406.08050v1)|null|
 |**2024-06-11**|**On the Hölder Stability of Multiset and Graph Neural Networks**|Yair Davidson et.al.|[2406.06984v1](http://arxiv.org/abs/2406.06984v1)|null|
 |**2024-06-11**|**Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples**|Kailas Dayanandan et.al.|[2406.06967v1](http://arxiv.org/abs/2406.06967v1)|**[link](https://github.com/kailasdayanandan/dual_thinking)**|
 |**2024-06-09**|**MeanSparse: Post-Training Robustness Enhancement Through Mean-Centered Feature Sparsification**|Sajjad Amini et.al.|[2406.05927v1](http://arxiv.org/abs/2406.05927v1)|**[link](https://github.com/spin-umass/meansparse)**|
@@ -563,6 +564,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|null|
+|**2024-06-12**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487v1](http://arxiv.org/abs/2406.08487v1)|null|
+|**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
+|**2024-06-12**|**Celestial Topology, Symmetry Theories, and Evidence for a Non-SUSY D3-Brane CFT**|Jonathan J. Heckman et.al.|[2406.08485v1](http://arxiv.org/abs/2406.08485v1)|null|
+|**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484v1](http://arxiv.org/abs/2406.08484v1)|null|
+|**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482v1](http://arxiv.org/abs/2406.08482v1)|null|
+|**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[2406.08481v1](http://arxiv.org/abs/2406.08481v1)|null|
+|**2024-06-12**|**Linear equations with monomial constraints and decision problems in abelian-by-cyclic groups**|Ruiwen Dong et.al.|[2406.08480v1](http://arxiv.org/abs/2406.08480v1)|null|
+|**2024-06-12**|**Real3D: Scaling Up Large Reconstruction Models with Real-World Images**|Hanwen Jiang et.al.|[2406.08479v1](http://arxiv.org/abs/2406.08479v1)|null|
+|**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478v1](http://arxiv.org/abs/2406.08478v1)|null|
 |**2024-06-11**|**An Image is Worth 32 Tokens for Reconstruction and Generation**|Qihang Yu et.al.|[2406.07550v1](http://arxiv.org/abs/2406.07550v1)|null|
 |**2024-06-11**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549v1](http://arxiv.org/abs/2406.07549v1)|**[link](https://github.com/changhaonan/a3vlm)**|
 |**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548v1](http://arxiv.org/abs/2406.07548v1)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|

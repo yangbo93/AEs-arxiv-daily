@@ -573,6 +573,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Generalized entropy of photons in AdS**|Sean Colin-Ellerin et.al.|[2406.12851v1](http://arxiv.org/abs/2406.12851v1)|null|
+|**2024-06-18**|**Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation**|Ning-Hsu Wang et.al.|[2406.12849v1](http://arxiv.org/abs/2406.12849v1)|null|
+|**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847v1](http://arxiv.org/abs/2406.12847v1)|**[link](https://github.com/zhuduowang/changevit)**|
+|**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846v1](http://arxiv.org/abs/2406.12846v1)|null|
+|**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845v1](http://arxiv.org/abs/2406.12845v1)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
+|**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844v1](http://arxiv.org/abs/2406.12844v1)|null|
+|**2024-06-18**|**Demystifying Higher-Order Graph Neural Networks**|Maciej Besta et.al.|[2406.12841v1](http://arxiv.org/abs/2406.12841v1)|null|
+|**2024-06-18**|**Towards an Automatic Framework for Solving Optimization Problems with Quantum Computers**|Deborah Volpe et.al.|[2406.12840v1](http://arxiv.org/abs/2406.12840v1)|null|
+|**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839v1](http://arxiv.org/abs/2406.12839v1)|null|
+|**2024-06-18**|**LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging**|Jinuk Kim et.al.|[2406.12837v1](http://arxiv.org/abs/2406.12837v1)|**[link](https://github.com/snu-mllab/layermerge)**|
 |**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840v1](http://arxiv.org/abs/2406.11840v1)|null|
 |**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839v1](http://arxiv.org/abs/2406.11839v1)|null|
 |**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838v1](http://arxiv.org/abs/2406.11838v1)|null|

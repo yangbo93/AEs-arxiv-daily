@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Enhancing robustness of data-driven SHM models: adversarial training with circle loss**|Xiangli Yang et.al.|[2406.14232v1](http://arxiv.org/abs/2406.14232v1)|null|
+|**2024-06-20**|**Exploring Layerwise Adversarial Robustness Through the Lens of t-SNE**|Inês Valentim et.al.|[2406.14073v1](http://arxiv.org/abs/2406.14073v1)|null|
+|**2024-06-20**|**Explainable AI Security: Exploring Robustness of Graph Neural Networks to Adversarial Attacks**|Tao Wu et.al.|[2406.13920v1](http://arxiv.org/abs/2406.13920v1)|null|
+|**2024-06-19**|**Towards Trustworthy Unsupervised Domain Adaptation: A Representation Learning Perspective for Enhancing Robustness, Discrimination, and Generalization**|Jia-Li Yin et.al.|[2406.13180v1](http://arxiv.org/abs/2406.13180v1)|null|
 |**2024-06-17**|**FullCert: Deterministic End-to-End Certification for Training and Inference of Neural Networks**|Tobias Lorenz et.al.|[2406.11522v1](http://arxiv.org/abs/2406.11522v1)|null|
 |**2024-06-17**|**Obfuscating IoT Device Scanning Activity via Adversarial Example Generation**|Haocong Li et.al.|[2406.11515v1](http://arxiv.org/abs/2406.11515v1)|null|
 |**2024-06-16**|**Improving Adversarial Robustness via Decoupled Visual Representation Masking**|Decheng Liu et.al.|[2406.10933v1](http://arxiv.org/abs/2406.10933v1)|**[link](https://github.com/chenboluo/adversarial-defense)**|
@@ -577,6 +581,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Model Merging and Safety Alignment: One Bad Model Spoils the Bunch**|Hasan Abed Al Kader Hammoud et.al.|[2406.14563v1](http://arxiv.org/abs/2406.14563v1)|null|
+|**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562v1](http://arxiv.org/abs/2406.14562v1)|null|
+|**2024-06-20**|**How to Compute the Probability of a Word**|Tiago Pimentel et.al.|[2406.14561v1](http://arxiv.org/abs/2406.14561v1)|null|
+|**2024-06-20**|**OH mid-infrared emission as a diagnostic of H$_2$O UV photodissociation. III. Application to planet-forming disks**|Benoît Tabone et.al.|[2406.14560v1](http://arxiv.org/abs/2406.14560v1)|null|
+|**2024-06-20**|**Generalized upwind summation-by-parts operators and their application to nodal discontinuous Galerkin methods**|Jan Glaubitz et.al.|[2406.14557v1](http://arxiv.org/abs/2406.14557v1)|null|
+|**2024-06-20**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556v1](http://arxiv.org/abs/2406.14556v1)|null|
+|**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555v1](http://arxiv.org/abs/2406.14555v1)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
+|**2024-06-20**|**Neutrino mass bounds from DESI 2024 are relaxed by Planck PR4 and cosmological supernovae**|Itamar J. Allali et.al.|[2406.14554v1](http://arxiv.org/abs/2406.14554v1)|null|
+|**2024-06-20**|**xCOMET-lite: Bridging the Gap Between Efficiency and Quality in Learned MT Evaluation Metrics**|Daniil Larionov et.al.|[2406.14553v1](http://arxiv.org/abs/2406.14553v1)|null|
+|**2024-06-20**|**Exploring the no-hair theorem with LISA**|Chantal Pitte et.al.|[2406.14552v1](http://arxiv.org/abs/2406.14552v1)|null|
 |**2024-06-18**|**Generalized entropy of photons in AdS**|Sean Colin-Ellerin et.al.|[2406.12851v1](http://arxiv.org/abs/2406.12851v1)|null|
 |**2024-06-18**|**Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation**|Ning-Hsu Wang et.al.|[2406.12849v1](http://arxiv.org/abs/2406.12849v1)|null|
 |**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847v1](http://arxiv.org/abs/2406.12847v1)|**[link](https://github.com/zhuduowang/changevit)**|

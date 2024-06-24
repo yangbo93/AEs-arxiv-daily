@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Deciphering the Definition of Adversarial Robustness for post-hoc OOD Detectors**|Peter Lorenz et.al.|[2406.15104v1](http://arxiv.org/abs/2406.15104v1)|null|
 |**2024-06-20**|**Enhancing robustness of data-driven SHM models: adversarial training with circle loss**|Xiangli Yang et.al.|[2406.14232v1](http://arxiv.org/abs/2406.14232v1)|null|
 |**2024-06-20**|**Exploring Layerwise Adversarial Robustness Through the Lens of t-SNE**|Inês Valentim et.al.|[2406.14073v1](http://arxiv.org/abs/2406.14073v1)|null|
 |**2024-06-20**|**Explainable AI Security: Exploring Robustness of Graph Neural Networks to Adversarial Attacks**|Tao Wu et.al.|[2406.13920v1](http://arxiv.org/abs/2406.13920v1)|null|
@@ -577,6 +578,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**A SMART Mnemonic Sounds like "Glue Tonic": Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick**|Nishant Balepur et.al.|[2406.15352v1](http://arxiv.org/abs/2406.15352v1)|null|
+|**2024-06-21**|**Impact & Mitigation of Polarized Extragalactic Foregrounds on Bayesian Cosmic Microwave Background Lensing**|Frank J. Qu et.al.|[2406.15351v1](http://arxiv.org/abs/2406.15351v1)|null|
+|**2024-06-21**|**Chiral Spin Liquid and Quantum Phase Transition in the Triangular Lattice Hofstadter-Hubbard Model**|Stefan Divic et.al.|[2406.15348v1](http://arxiv.org/abs/2406.15348v1)|null|
+|**2024-06-21**|**A model-independent measurement of the expansion and growth rates from BOSS using the FreePower method**|Adrian P. Schirra et.al.|[2406.15347v1](http://arxiv.org/abs/2406.15347v1)|null|
+|**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346v1](http://arxiv.org/abs/2406.15346v1)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
+|**2024-06-21**|**Elucidating Galaxy Population Properties Using a Model-Free Analysis of Quadruply Imaged Quasar Lenses From Large Surveys**|John Miller Jr et.al.|[2406.15344v1](http://arxiv.org/abs/2406.15344v1)|null|
+|**2024-06-21**|**Textured Exciton Insulators**|Yves H. Kwan et.al.|[2406.15343v1](http://arxiv.org/abs/2406.15343v1)|null|
+|**2024-06-21**|**GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians**|Haoyang Liu et.al.|[2406.15341v1](http://arxiv.org/abs/2406.15341v1)|**[link](https://github.com/liu-hy/genotex)**|
+|**2024-06-21**|**Full-Scale Indexing and Semantic Annotation of CT Imaging: Boosting FAIRness**|Hannes Ulrich et.al.|[2406.15340v1](http://arxiv.org/abs/2406.15340v1)|null|
+|**2024-06-21**|**Image Conductor: Precision Control for Interactive Video Synthesis**|Yaowei Li et.al.|[2406.15339v1](http://arxiv.org/abs/2406.15339v1)|null|
 |**2024-06-20**|**Model Merging and Safety Alignment: One Bad Model Spoils the Bunch**|Hasan Abed Al Kader Hammoud et.al.|[2406.14563v1](http://arxiv.org/abs/2406.14563v1)|null|
 |**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562v1](http://arxiv.org/abs/2406.14562v1)|null|
 |**2024-06-20**|**How to Compute the Probability of a Word**|Tiago Pimentel et.al.|[2406.14561v1](http://arxiv.org/abs/2406.14561v1)|null|

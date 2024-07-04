@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**$L_p$-norm Distortion-Efficient Adversarial Attack**|Chao Zhou et.al.|[2407.03115v1](http://arxiv.org/abs/2407.03115v1)|null|
+|**2024-07-03**|**SPLITZ: Certifiable Robustness via Split Lipschitz Randomized Smoothing**|Meiyu Zhong et.al.|[2407.02811v1](http://arxiv.org/abs/2407.02811v1)|null|
 |**2024-07-02**|**EvolBA: Evolutionary Boundary Attack under Hard-label Black Box condition**|Ayane Tajima et.al.|[2407.02248v1](http://arxiv.org/abs/2407.02248v1)|null|
 |**2024-07-02**|**Secure Semantic Communication via Paired Adversarial Residual Networks**|Boxiang He et.al.|[2407.02053v1](http://arxiv.org/abs/2407.02053v1)|null|
 |**2024-06-28**|**Deceptive Diffusion: Generating Synthetic Adversarial Examples**|Lucas Beerens et.al.|[2406.19807v1](http://arxiv.org/abs/2406.19807v1)|null|
@@ -589,6 +591,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages**|Max Zuo et.al.|[2407.03321v1](http://arxiv.org/abs/2407.03321v1)|**[link](https://github.com/batsresearch/planetarium)**|
+|**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320v1](http://arxiv.org/abs/2407.03320v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
+|**2024-07-03**|**Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting**|Maike F. Holthuijzen et.al.|[2407.03312v1](http://arxiv.org/abs/2407.03312v1)|null|
+|**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310v1](http://arxiv.org/abs/2407.03310v1)|null|
+|**2024-07-03**|**Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**|Sijie Xu et.al.|[2407.03308v1](http://arxiv.org/abs/2407.03308v1)|null|
+|**2024-07-03**|**HoloHisto: End-to-end Gigapixel WSI Segmentation with 4K Resolution Sequential Tokenization**|Yucheng Tang et.al.|[2407.03307v1](http://arxiv.org/abs/2407.03307v1)|null|
+|**2024-07-03**|**Macdonald polynomials for super-partitions**|Dmitry Galakhov et.al.|[2407.03301v1](http://arxiv.org/abs/2407.03301v1)|null|
+|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300v1](http://arxiv.org/abs/2407.03300v1)|null|
+|**2024-07-03**|**Novel Pressure-Equilibrium and Kinetic-Energy Preserving fluxes for compressible flows based on the harmonic mean**|Carlo De Michele et.al.|[2407.03299v1](http://arxiv.org/abs/2407.03299v1)|null|
 |**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490v1](http://arxiv.org/abs/2407.02490v1)|**[link](https://github.com/microsoft/MInference)**|
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489v1](http://arxiv.org/abs/2407.02489v1)|null|
 |**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486v1](http://arxiv.org/abs/2407.02486v1)|**[link](https://github.com/alisafaya/neurocache)**|

@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-04**|**Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection**|Xiaokun Luan et.al.|[2407.03883v1](http://arxiv.org/abs/2407.03883v1)|null|
+|**2024-07-04**|**RobQuNNs: A Methodology for Robust Quanvolutional Neural Networks against Adversarial Attacks**|Walid El Maouaki et.al.|[2407.03875v1](http://arxiv.org/abs/2407.03875v1)|null|
 |**2024-07-03**|**$L_p$-norm Distortion-Efficient Adversarial Attack**|Chao Zhou et.al.|[2407.03115v1](http://arxiv.org/abs/2407.03115v1)|null|
 |**2024-07-03**|**SPLITZ: Certifiable Robustness via Split Lipschitz Randomized Smoothing**|Meiyu Zhong et.al.|[2407.02811v1](http://arxiv.org/abs/2407.02811v1)|null|
 |**2024-07-04**|**EvolBA: Evolutionary Boundary Attack under Hard-label Black Box condition**|Ayane Tajima et.al.|[2407.02248v2](http://arxiv.org/abs/2407.02248v2)|null|
@@ -591,6 +593,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|null|
+|**2024-07-05**|**VCoME: Verbal Video Composition with Multimodal Editing Effects**|Weibo Gong et.al.|[2407.04697v1](http://arxiv.org/abs/2407.04697v1)|null|
+|**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694v1](http://arxiv.org/abs/2407.04694v1)|null|
+|**2024-07-05**|**ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models**|Yuzhe Gu et.al.|[2407.04693v1](http://arxiv.org/abs/2407.04693v1)|null|
+|**2024-07-05**|**Eigen-decomposition of Covariance matrices: An application to the BAO Linear Point**|Jaemyoung Jason Lee et.al.|[2407.04692v1](http://arxiv.org/abs/2407.04692v1)|null|
+|**2024-07-05**|**Exceptional Points and Braiding Topology in Non-Hermitian Systems with long-range coupling**|S. M. Rafi-Ul-Islam et.al.|[2407.04691v1](http://arxiv.org/abs/2407.04691v1)|null|
+|**2024-07-05**|**Missed Causes and Ambiguous Effects: Counterfactuals Pose Challenges for Interpreting Neural Networks**|Aaron Mueller et.al.|[2407.04690v1](http://arxiv.org/abs/2407.04690v1)|null|
+|**2024-07-05**|**Enhancing Vehicle Re-identification and Matching for Weaving Analysis**|Mei Qiu et.al.|[2407.04688v1](http://arxiv.org/abs/2407.04688v1)|null|
+|**2024-07-05**|**Embracing Massive Medical Data**|Yu-Cheng Chou et.al.|[2407.04687v1](http://arxiv.org/abs/2407.04687v1)|**[link](https://github.com/mrgiovanni/onlinelearning)**|
+|**2024-07-05**|**Near-optimal hierarchical matrix approximation from matrix-vector products**|Tyler Chen et.al.|[2407.04686v1](http://arxiv.org/abs/2407.04686v1)|null|
 |**2024-07-03**|**Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages**|Max Zuo et.al.|[2407.03321v1](http://arxiv.org/abs/2407.03321v1)|**[link](https://github.com/batsresearch/planetarium)**|
 |**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320v1](http://arxiv.org/abs/2407.03320v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|

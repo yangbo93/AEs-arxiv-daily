@@ -1,4 +1,4 @@
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 
 ## Adversarial Examples
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-07-03**|**$L_p$-norm Distortion-Efficient Adversarial Attack**|Chao Zhou et.al.|[2407.03115v1](http://arxiv.org/abs/2407.03115v1)|null|
 |**2024-07-03**|**SPLITZ: Certifiable Robustness via Split Lipschitz Randomized Smoothing**|Meiyu Zhong et.al.|[2407.02811v1](http://arxiv.org/abs/2407.02811v1)|null|
-|**2024-07-02**|**EvolBA: Evolutionary Boundary Attack under Hard-label Black Box condition**|Ayane Tajima et.al.|[2407.02248v1](http://arxiv.org/abs/2407.02248v1)|null|
+|**2024-07-04**|**EvolBA: Evolutionary Boundary Attack under Hard-label Black Box condition**|Ayane Tajima et.al.|[2407.02248v2](http://arxiv.org/abs/2407.02248v2)|null|
 |**2024-07-02**|**Secure Semantic Communication via Paired Adversarial Residual Networks**|Boxiang He et.al.|[2407.02053v1](http://arxiv.org/abs/2407.02053v1)|null|
 |**2024-06-28**|**Deceptive Diffusion: Generating Synthetic Adversarial Examples**|Lucas Beerens et.al.|[2406.19807v1](http://arxiv.org/abs/2406.19807v1)|null|
 |**2024-06-18**|**Saliency Attention and Semantic Similarity-Driven Adversarial Perturbation**|Hetvi Waghela et.al.|[2406.19413v1](http://arxiv.org/abs/2406.19413v1)|null|

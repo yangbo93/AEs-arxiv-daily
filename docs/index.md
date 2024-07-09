@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-07**|**Rethinking Targeted Adversarial Attacks For Neural Machine Translation**|Junjie Wu et.al.|[2407.05319v1](http://arxiv.org/abs/2407.05319v1)|**[link](https://github.com/wujunjie1998/twga)**|
+|**2024-07-06**|**A Novel Bifurcation Method for Observation Perturbation Attacks on Reinforcement Learning Agents: Load Altering Attacks on a Cyber Physical Power System**|Kiernan Broda-Milian et.al.|[2407.05182v1](http://arxiv.org/abs/2407.05182v1)|null|
 |**2024-07-04**|**Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection**|Xiaokun Luan et.al.|[2407.03883v1](http://arxiv.org/abs/2407.03883v1)|null|
 |**2024-07-04**|**RobQuNNs: A Methodology for Robust Quanvolutional Neural Networks against Adversarial Attacks**|Walid El Maouaki et.al.|[2407.03875v1](http://arxiv.org/abs/2407.03875v1)|null|
 |**2024-07-03**|**$L_p$-norm Distortion-Efficient Adversarial Attack**|Chao Zhou et.al.|[2407.03115v1](http://arxiv.org/abs/2407.03115v1)|null|
@@ -593,6 +595,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192v1](http://arxiv.org/abs/2407.06192v1)|null|
+|**2024-07-08**|**Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images**|Zhangyang Qi et.al.|[2407.06191v1](http://arxiv.org/abs/2407.06191v1)|null|
+|**2024-07-08**|**4D Contrastive Superflows are Dense 3D Representation Learners**|Xiang Xu et.al.|[2407.06190v1](http://arxiv.org/abs/2407.06190v1)|**[link](https://github.com/xiangxu-0103/superflow)**|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|null|
+|**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188v1](http://arxiv.org/abs/2407.06188v1)|null|
+|**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187v1](http://arxiv.org/abs/2407.06187v1)|null|
+|**2024-07-08**|**Stepping on the Edge: Curvature Aware Learning Rate Tuners**|Vincent Roulet et.al.|[2407.06183v1](http://arxiv.org/abs/2407.06183v1)|null|
+|**2024-07-08**|**Left-Linear Rewriting in Adhesive Categories**|Paolo Baldan et.al.|[2407.06181v1](http://arxiv.org/abs/2407.06181v1)|null|
+|**2024-07-08**|**Coherent Acoustic Phonons in Plasmonic Nanoparticles: Elastic Properties and Dissipation at Low Temperatures**|Hilario D. Boggiano et.al.|[2407.06180v1](http://arxiv.org/abs/2407.06180v1)|null|
+|**2024-07-08**|**Non-uniqueness in the Leray-Hopf class for a dyadic Navier-Stokes model**|Stan Palasek et.al.|[2407.06179v1](http://arxiv.org/abs/2407.06179v1)|null|
 |**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|null|
 |**2024-07-05**|**VCoME: Verbal Video Composition with Multimodal Editing Effects**|Weibo Gong et.al.|[2407.04697v1](http://arxiv.org/abs/2407.04697v1)|null|
 |**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694v1](http://arxiv.org/abs/2407.04694v1)|null|

@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification**|Lu Zhang et.al.|[2407.06807v1](http://arxiv.org/abs/2407.06807v1)|null|
+|**2024-07-09**|**Countermeasures Against Adversarial Examples in Radio Signal Classification**|Lu Zhang et.al.|[2407.06796v1](http://arxiv.org/abs/2407.06796v1)|null|
+|**2024-07-09**|**Improving the Transferability of Adversarial Examples by Feature Augmentation**|Donghua Wang et.al.|[2407.06714v1](http://arxiv.org/abs/2407.06714v1)|null|
+|**2024-07-09**|**Universal Multi-view Black-box Attack against Object Detectors via Layout Optimization**|Donghua Wang et.al.|[2407.06688v1](http://arxiv.org/abs/2407.06688v1)|null|
+|**2024-07-08**|**Non-Robust Features are Not Always Useful in One-Class Classification**|Matthew Lau et.al.|[2407.06372v1](http://arxiv.org/abs/2407.06372v1)|null|
 |**2024-07-07**|**Rethinking Targeted Adversarial Attacks For Neural Machine Translation**|Junjie Wu et.al.|[2407.05319v1](http://arxiv.org/abs/2407.05319v1)|**[link](https://github.com/wujunjie1998/twga)**|
 |**2024-07-06**|**A Novel Bifurcation Method for Observation Perturbation Attacks on Reinforcement Learning Agents: Load Altering Attacks on a Cyber Physical Power System**|Kiernan Broda-Milian et.al.|[2407.05182v1](http://arxiv.org/abs/2407.05182v1)|null|
 |**2024-07-04**|**Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection**|Xiaokun Luan et.al.|[2407.03883v1](http://arxiv.org/abs/2407.03883v1)|null|
@@ -595,6 +600,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Pentagonal Photonic Crystal Mirrors: Scalable Lightsails with Enhanced Acceleration via Neural Topology Optimization**|L. Norder et.al.|[2407.07896v1](http://arxiv.org/abs/2407.07896v1)|null|
+|**2024-07-10**|**LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**|Feng Li et.al.|[2407.07895v1](http://arxiv.org/abs/2407.07895v1)|**[link](https://github.com/LLaVA-VL/LLaVA-NeXT)**|
+|**2024-07-10**|**Quasinormal modes and gray-body factors of regular black holes in asymptotically safe gravity**|Oleksandr Stashko et.al.|[2407.07892v1](http://arxiv.org/abs/2407.07892v1)|null|
+|**2024-07-10**|**A proposed crank for $(k+j)$-colored partitions, with $j$ colors having distinct parts**|Samuel Wilson et.al.|[2407.07891v1](http://arxiv.org/abs/2407.07891v1)|null|
+|**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890v1](http://arxiv.org/abs/2407.07890v1)|**[link](https://github.com/socialfoundations/training-on-the-test-task)**|
+|**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889v1](http://arxiv.org/abs/2407.07889v1)|null|
+|**2024-07-10**|**Self-similar Markov trees and scaling limits**|Jean Bertoin et.al.|[2407.07888v1](http://arxiv.org/abs/2407.07888v1)|null|
+|**2024-07-10**|**Controllability problems of a neutral integro-differential equation with memory**|Sumit Arora et.al.|[2407.07886v1](http://arxiv.org/abs/2407.07886v1)|null|
+|**2024-07-10**|**Learning In-Hand Translation Using Tactile Skin With Shear and Normal Force Sensing**|Jessica Yin et.al.|[2407.07885v1](http://arxiv.org/abs/2407.07885v1)|null|
+|**2024-07-10**|**Non-generic components of the Emerton-Gee stack for $\mathrm{GL}_2$**|Kalyani Kansal et.al.|[2407.07883v1](http://arxiv.org/abs/2407.07883v1)|null|
 |**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192v1](http://arxiv.org/abs/2407.06192v1)|null|
 |**2024-07-08**|**Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images**|Zhangyang Qi et.al.|[2407.06191v1](http://arxiv.org/abs/2407.06191v1)|null|
 |**2024-07-08**|**4D Contrastive Superflows are Dense 3D Representation Learners**|Xiang Xu et.al.|[2407.06190v1](http://arxiv.org/abs/2407.06190v1)|**[link](https://github.com/xiangxu-0103/superflow)**|

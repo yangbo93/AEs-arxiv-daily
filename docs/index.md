@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions**|Tingwei Zhang et.al.|[2407.08970v1](http://arxiv.org/abs/2407.08970v1)|**[link](https://github.com/tingwei-zhang/soft-prompts-go-hard)**|
 |**2024-07-11**|**Boosting Adversarial Transferability for Skeleton-based Action Recognition via Exploring the Model Posterior Space**|Yunfeng Diao et.al.|[2407.08572v1](http://arxiv.org/abs/2407.08572v1)|null|
 |**2024-07-11**|**Rethinking the Threat and Accessibility of Adversarial Attacks against Face Recognition Systems**|Yuxin Cao et.al.|[2407.08514v1](http://arxiv.org/abs/2407.08514v1)|**[link](https://github.com/advcolor123/advcolor)**|
 |**2024-07-09**|**A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification**|Lu Zhang et.al.|[2407.06807v1](http://arxiv.org/abs/2407.06807v1)|null|
@@ -602,6 +603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Gauging The Diamond: Integrable Coset Models from Twistor Space**|Lewis T. Cole et.al.|[2407.09479v1](http://arxiv.org/abs/2407.09479v1)|null|
+|**2024-07-12**|**Integer programs with nearly totally unimodular matrices: the cographic case**|Manuel Aprile et.al.|[2407.09477v1](http://arxiv.org/abs/2407.09477v1)|null|
+|**2024-07-12**|**Intrinsically knotted graphs and connected domination**|Gregory Li et.al.|[2407.09476v1](http://arxiv.org/abs/2407.09476v1)|null|
+|**2024-07-12**|**Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting**|Jinning Li et.al.|[2407.09475v1](http://arxiv.org/abs/2407.09475v1)|null|
+|**2024-07-12**|**A Primitive Model for Predicting Membrane Currents in Excitable Cells Based Only on Ion Diffusion Coefficients**|Vivaan Patel et.al.|[2407.09474v1](http://arxiv.org/abs/2407.09474v1)|null|
+|**2024-07-12**|**Galaxy Mergers in the Epoch of Reionization I: A JWST Study of Pair Fractions, Merger Rates, and Stellar Mass Accretion Rates at $z = 4.5-11.5$**|Qiao Duan et.al.|[2407.09472v1](http://arxiv.org/abs/2407.09472v1)|null|
+|**2024-07-12**|**A new approach to principal-agent problems with volatility control**|Alessandro Chiusolo et.al.|[2407.09471v1](http://arxiv.org/abs/2407.09471v1)|null|
+|**2024-07-12**|**Scalar tidal response of a rotating BTZ black hole**|Rajendra Prasad Bhatt et.al.|[2407.09470v1](http://arxiv.org/abs/2407.09470v1)|null|
+|**2024-07-12**|**Learning Coordinated Maneuver in Adversarial Environments**|Zechen Hu et.al.|[2407.09469v1](http://arxiv.org/abs/2407.09469v1)|null|
+|**2024-07-12**|**Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures**|Sophia Sanborn et.al.|[2407.09468v1](http://arxiv.org/abs/2407.09468v1)|null|
 |**2024-07-11**|**MAVIS: Mathematical Visual Instruction Tuning**|Renrui Zhang et.al.|[2407.08739v1](http://arxiv.org/abs/2407.08739v1)|**[link](https://github.com/zrrskywalker/mavis)**|
 |**2024-07-11**|**An Equation of State for Turbulence in the Gross-Pitaevskii model**|Gevorg Martirosyan et.al.|[2407.08738v1](http://arxiv.org/abs/2407.08738v1)|null|
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737v1](http://arxiv.org/abs/2407.08737v1)|**[link](https://github.com/mihirp1998/vader)**|

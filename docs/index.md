@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Variational Randomized Smoothing for Sample-Wise Adversarial Robustness**|Ryo Hase et.al.|[2407.11844v1](http://arxiv.org/abs/2407.11844v1)|null|
+|**2024-07-16**|**AEMIM: Adversarial Examples Meet Masked Image Modeling**|Wenzhao Xiang et.al.|[2407.11537v1](http://arxiv.org/abs/2407.11537v1)|null|
+|**2024-07-16**|**Investigating Imperceptibility of Adversarial Attacks on Tabular Data: An Empirical Analysis**|Zhipeng He et.al.|[2407.11463v1](http://arxiv.org/abs/2407.11463v1)|**[link](https://github.com/zhipenghe/imperceptibility-of-tabular-adversarial-attack)**|
 |**2024-07-14**|**Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning**|Jiakai Tang et.al.|[2407.10184v1](http://arxiv.org/abs/2407.10184v1)|null|
 |**2024-07-14**|**Transferable 3D Adversarial Shape Completion using Diffusion Models**|Xuelong Dai et.al.|[2407.10077v1](http://arxiv.org/abs/2407.10077v1)|null|
 |**2024-07-12**|**Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions**|Tingwei Zhang et.al.|[2407.08970v1](http://arxiv.org/abs/2407.08970v1)|**[link](https://github.com/tingwei-zhang/soft-prompts-go-hard)**|
@@ -605,6 +608,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Quantizing Carrollian field theories**|Jordan Cotler et.al.|[2407.11971v1](http://arxiv.org/abs/2407.11971v1)|null|
+|**2024-07-16**|**Does Refusal Training in LLMs Generalize to the Past Tense?**|Maksym Andriushchenko et.al.|[2407.11969v1](http://arxiv.org/abs/2407.11969v1)|**[link](https://github.com/tml-epfl/llm-past-tense)**|
+|**2024-07-16**|**mochi_class: Modelling Optimisation to Compute Horndeski In class**|Matteo Cataneo et.al.|[2407.11968v1](http://arxiv.org/abs/2407.11968v1)|null|
+|**2024-07-16**|**Hydra: Brokering Cloud and HPC Resources to Support the Execution of Heterogeneous Workloads at Scale**|Aymen Alsaadi et.al.|[2407.11967v1](http://arxiv.org/abs/2407.11967v1)|null|
+|**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966v1](http://arxiv.org/abs/2407.11966v1)|null|
+|**2024-07-16**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965v1](http://arxiv.org/abs/2407.11965v1)|null|
+|**2024-07-16**|**NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?**|Mo Li et.al.|[2407.11963v1](http://arxiv.org/abs/2407.11963v1)|**[link](https://github.com/open-compass/opencompass)**|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v1](http://arxiv.org/abs/2407.11962v1)|null|
+|**2024-07-16**|**Quantum and Classical Dynamics with Random Permutation Circuits**|Bruno Bertini et.al.|[2407.11960v1](http://arxiv.org/abs/2407.11960v1)|null|
+|**2024-07-16**|**Faster Algorithms for Schatten-p Low Rank Approximation**|Praneeth Kacham et.al.|[2407.11959v1](http://arxiv.org/abs/2407.11959v1)|null|
 |**2024-07-15**|**Age and metal gradients in massive quiescent galaxies at $0.6 \lesssim z \lesssim 1.0$: implications for quenching and assembly histories**|Chloe M. Cheng et.al.|[2407.10974v1](http://arxiv.org/abs/2407.10974v1)|null|
 |**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973v1](http://arxiv.org/abs/2407.10973v1)|null|
 |**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972v1](http://arxiv.org/abs/2407.10972v1)|**[link](https://github.com/vgbench/VGBench)**|

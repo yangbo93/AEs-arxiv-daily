@@ -1,9 +1,10 @@
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 
 ## Adversarial Examples
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models**|Yanling Lin et.al.|[2407.13533v1](http://arxiv.org/abs/2407.13533v1)|null|
 |**2024-07-17**|**Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-level Optimization Perspective**|Zhaoxin Wang et.al.|[2407.12443v1](http://arxiv.org/abs/2407.12443v1)|null|
 |**2024-07-17**|**Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models**|Haipeng Wang et.al.|[2407.12428v1](http://arxiv.org/abs/2407.12428v1)|null|
 |**2024-07-17**|**Any Target Can be Offense: Adversarial Example Generation via Generalized Latent Infection**|Youheng Sun et.al.|[2407.12292v1](http://arxiv.org/abs/2407.12292v1)|**[link](https://github.com/vl-group/gaker)**|
@@ -607,6 +608,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772v1](http://arxiv.org/abs/2407.13772v1)|null|
+|**2024-07-18**|**Training-Free Model Merging for Multi-target Domain Adaptation**|Wenyi Li et.al.|[2407.13771v1](http://arxiv.org/abs/2407.13771v1)|null|
+|**2024-07-18**|**Moiré Fractional Chern Insulators IV: Fluctuation-Driven Collapse of FCIs in Multi-Band Exact Diagonalization Calculations on Rhombohedral Graphene**|Jiabin Yu et.al.|[2407.13770v1](http://arxiv.org/abs/2407.13770v1)|null|
+|**2024-07-18**|**Topological insulators on fractal lattices: A general principle of construction**|Daniel J. Salib et.al.|[2407.13767v1](http://arxiv.org/abs/2407.13767v1)|null|
+|**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766v1](http://arxiv.org/abs/2407.13766v1)|null|
+|**2024-07-18**|**Latent Causal Probing: A Formal Perspective on Probing with Causal Models of Data**|Charles Jin et.al.|[2407.13765v1](http://arxiv.org/abs/2407.13765v1)|null|
+|**2024-07-18**|**Shape of Motion: 4D Reconstruction from a Single Video**|Qianqian Wang et.al.|[2407.13764v1](http://arxiv.org/abs/2407.13764v1)|null|
+|**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761v1](http://arxiv.org/abs/2407.13761v1)|null|
+|**2024-07-18**|**Neural Network Tire Force Modeling for Automated Drifting**|Nicholas Drake Broadbent et.al.|[2407.13760v1](http://arxiv.org/abs/2407.13760v1)|null|
+|**2024-07-18**|**Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion**|Boyang Deng et.al.|[2407.13759v1](http://arxiv.org/abs/2407.13759v1)|null|
 |**2024-07-17**|**AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**|Zhaorun Chen et.al.|[2407.12784v1](http://arxiv.org/abs/2407.12784v1)|null|
 |**2024-07-17**|**SMooDi: Stylized Motion Diffusion Model**|Lei Zhong et.al.|[2407.12783v1](http://arxiv.org/abs/2407.12783v1)|null|
 |**2024-07-17**|**Contrastive Adversarial Training for Unsupervised Domain Adaptation**|Jiahong Chen et.al.|[2407.12782v1](http://arxiv.org/abs/2407.12782v1)|null|

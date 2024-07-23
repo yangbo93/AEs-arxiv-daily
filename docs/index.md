@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 
 ## Adversarial Examples
 
@@ -15,7 +15,7 @@ layout: default
 |**2024-07-16**|**Variational Randomized Smoothing for Sample-Wise Adversarial Robustness**|Ryo Hase et.al.|[2407.11844v1](http://arxiv.org/abs/2407.11844v1)|null|
 |**2024-07-16**|**AEMIM: Adversarial Examples Meet Masked Image Modeling**|Wenzhao Xiang et.al.|[2407.11537v1](http://arxiv.org/abs/2407.11537v1)|null|
 |**2024-07-16**|**Investigating Imperceptibility of Adversarial Attacks on Tabular Data: An Empirical Analysis**|Zhipeng He et.al.|[2407.11463v1](http://arxiv.org/abs/2407.11463v1)|**[link](https://github.com/zhipenghe/imperceptibility-of-tabular-adversarial-attack)**|
-|**2024-07-14**|**Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning**|Jiakai Tang et.al.|[2407.10184v1](http://arxiv.org/abs/2407.10184v1)|null|
+|**2024-07-22**|**Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning**|Jiakai Tang et.al.|[2407.10184v2](http://arxiv.org/abs/2407.10184v2)|null|
 |**2024-07-14**|**Transferable 3D Adversarial Shape Completion using Diffusion Models**|Xuelong Dai et.al.|[2407.10077v1](http://arxiv.org/abs/2407.10077v1)|null|
 |**2024-07-12**|**Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions**|Tingwei Zhang et.al.|[2407.08970v1](http://arxiv.org/abs/2407.08970v1)|**[link](https://github.com/tingwei-zhang/soft-prompts-go-hard)**|
 |**2024-07-11**|**Boosting Adversarial Transferability for Skeleton-based Action Recognition via Exploring the Model Posterior Space**|Yunfeng Diao et.al.|[2407.08572v1](http://arxiv.org/abs/2407.08572v1)|null|

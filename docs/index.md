@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Enhancing Transferability of Targeted Adversarial Examples: A Self-Universal Perspective**|Bowen Peng et.al.|[2407.15683v1](http://arxiv.org/abs/2407.15683v1)|null|
+|**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385v1](http://arxiv.org/abs/2407.15385v1)|null|
 |**2024-07-18**|**VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models**|Yanling Lin et.al.|[2407.13533v1](http://arxiv.org/abs/2407.13533v1)|null|
 |**2024-07-17**|**Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-level Optimization Perspective**|Zhaoxin Wang et.al.|[2407.12443v1](http://arxiv.org/abs/2407.12443v1)|null|
 |**2024-07-17**|**Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models**|Haipeng Wang et.al.|[2407.12428v1](http://arxiv.org/abs/2407.12428v1)|**[link](https://github.com/paprep/clover)**|
@@ -612,6 +614,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**|Junyu Xie et.al.|[2407.15850v1](http://arxiv.org/abs/2407.15850v1)|**[link](https://github.com/Jyxarthur/AutoAD-Zero)**|
+|**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847v1](http://arxiv.org/abs/2407.15847v1)|null|
+|**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845v1](http://arxiv.org/abs/2407.15845v1)|null|
+|**2024-07-22**|**CarFormer: Self-Driving with Learned Object-Centric Representations**|Shadi Hamdan et.al.|[2407.15843v1](http://arxiv.org/abs/2407.15843v1)|null|
+|**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842v1](http://arxiv.org/abs/2407.15842v1)|null|
+|**2024-07-22**|**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**|Mingze Xu et.al.|[2407.15841v1](http://arxiv.org/abs/2407.15841v1)|null|
+|**2024-07-22**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840v1](http://arxiv.org/abs/2407.15840v1)|null|
+|**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[2407.15839v1](http://arxiv.org/abs/2407.15839v1)|null|
+|**2024-07-22**|**MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity**|Yangzhou Liu et.al.|[2407.15838v1](http://arxiv.org/abs/2407.15838v1)|null|
+|**2024-07-22**|**Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning**|Yibing Wei et.al.|[2407.15837v1](http://arxiv.org/abs/2407.15837v1)|**[link](https://github.com/yibingwei-1/latentmim)**|
 |**2024-07-19**|**DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks**|Sarah Jabbour et.al.|[2407.14509v1](http://arxiv.org/abs/2407.14509v1)|null|
 |**2024-07-19**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507v1](http://arxiv.org/abs/2407.14507v1)|**[link](https://github.com/iaar-shanghai/icsfsurvey)**|
 |**2024-07-19**|**On Pre-training of Multimodal Language Models Customized for Chart Understanding**|Wan-Cyuan Fan et.al.|[2407.14506v1](http://arxiv.org/abs/2407.14506v1)|null|

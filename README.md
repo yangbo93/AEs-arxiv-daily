@@ -1,4 +1,4 @@
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 
 ## Adversarial Examples
 
@@ -616,7 +616,7 @@
 |**2024-07-22**|**CarFormer: Self-Driving with Learned Object-Centric Representations**|Shadi Hamdan et.al.|[2407.15843v1](http://arxiv.org/abs/2407.15843v1)|null|
 |**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842v1](http://arxiv.org/abs/2407.15842v1)|null|
 |**2024-07-22**|**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**|Mingze Xu et.al.|[2407.15841v1](http://arxiv.org/abs/2407.15841v1)|null|
-|**2024-07-22**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840v1](http://arxiv.org/abs/2407.15840v1)|null|
+|**2024-07-23**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840v2](http://arxiv.org/abs/2407.15840v2)|null|
 |**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[2407.15839v1](http://arxiv.org/abs/2407.15839v1)|null|
 |**2024-07-22**|**MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity**|Yangzhou Liu et.al.|[2407.15838v1](http://arxiv.org/abs/2407.15838v1)|null|
 |**2024-07-22**|**Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning**|Yibing Wei et.al.|[2407.15837v1](http://arxiv.org/abs/2407.15837v1)|**[link](https://github.com/yibingwei-1/latentmim)**|

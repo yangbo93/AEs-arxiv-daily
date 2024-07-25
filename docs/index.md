@@ -615,6 +615,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470v1](http://arxiv.org/abs/2407.17470v1)|null|
+|**2024-07-24**|**I Could've Asked That: Reformulating Unanswerable Questions**|Wenting Zhao et.al.|[2407.17469v1](http://arxiv.org/abs/2407.17469v1)|**[link](https://github.com/wenting-zhao/couldask)**|
+|**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468v1](http://arxiv.org/abs/2407.17468v1)|null|
+|**2024-07-24**|**CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models**|Jiawei Gu et.al.|[2407.17467v1](http://arxiv.org/abs/2407.17467v1)|null|
+|**2024-07-24**|**Traversing Pareto Optimal Policies: Provably Efficient Multi-Objective Reinforcement Learning**|Shuang Qiu et.al.|[2407.17466v1](http://arxiv.org/abs/2407.17466v1)|null|
+|**2024-07-24**|**u-$μ$P: The Unit-Scaled Maximal Update Parametrization**|Charlie Blake et.al.|[2407.17465v1](http://arxiv.org/abs/2407.17465v1)|null|
+|**2024-07-24**|**The HalfDome Multi-Survey Cosmological Simulations: N-body Simulations**|Adrian E. Bayer et.al.|[2407.17462v1](http://arxiv.org/abs/2407.17462v1)|null|
+|**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460v1](http://arxiv.org/abs/2407.17460v1)|null|
+|**2024-07-24**|**Hidden or Inferred: Fair Learning-To-Rank with Unknown Demographics**|Oluseun Olulana et.al.|[2407.17459v1](http://arxiv.org/abs/2407.17459v1)|**[link](https://github.com/sewen007/hoiltr)**|
+|**2024-07-24**|**Why Machines Can't Be Moral: Turing's Halting Problem and the Moral Limits of Artificial Intelligence**|Massimo Passamonti et.al.|[2407.16890v1](http://arxiv.org/abs/2407.16890v1)|null|
 |**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698v1](http://arxiv.org/abs/2407.16698v1)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
 |**2024-07-23**|**AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking**|Wenxuan Li et.al.|[2407.16697v1](http://arxiv.org/abs/2407.16697v1)|null|
 |**2024-07-23**|**PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects**|Junyi Li et.al.|[2407.16696v1](http://arxiv.org/abs/2407.16696v1)|null|

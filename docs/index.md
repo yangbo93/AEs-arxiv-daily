@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 
 ## Adversarial Examples
 
@@ -627,7 +627,7 @@ layout: default
 |**2024-07-29**|**Imprinting spin patterns by local strain control in a van der Waals antiferromagnet**|Zhuoliang Ni et.al.|[2407.20222v1](http://arxiv.org/abs/2407.20222v1)|null|
 |**2024-07-29**|**Ionospheric contributions to the excess power in high-redshift 21-cm power-spectrum observations with LOFAR**|S. A. Brackenhoff et.al.|[2407.20220v1](http://arxiv.org/abs/2407.20220v1)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219v1](http://arxiv.org/abs/2407.20219v1)|**[link](https://github.com/colmap/glomap)**|
-|**2024-07-29**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218v1](http://arxiv.org/abs/2407.20218v1)|null|
+|**2024-07-30**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218v2](http://arxiv.org/abs/2407.20218v2)|null|
 |**2024-07-26**|**Floating No More: Object-Ground Reconstruction from a Single Image**|Yunze Man et.al.|[2407.18914v1](http://arxiv.org/abs/2407.18914v1)|null|
 |**2024-07-26**|**SOAP-RL: Sequential Option Advantage Propagation for Reinforcement Learning in POMDP Environments**|Shu Ishida et.al.|[2407.18913v1](http://arxiv.org/abs/2407.18913v1)|null|
 |**2024-07-26**|**Validating the clustering predictions of empirical models with the FLAMINGO simulations**|Sergio Contreras et.al.|[2407.18912v1](http://arxiv.org/abs/2407.18912v1)|null|

@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**AI Safety in Practice: Enhancing Adversarial Robustness in Multimodal Image Captioning**|Maisha Binte Rashid et.al.|[2407.21174v1](http://arxiv.org/abs/2407.21174v1)|null|
+|**2024-07-29**|**Enhancing Adversarial Text Attacks on BERT Models with Projected Gradient Descent**|Hetvi Waghela et.al.|[2407.21073v1](http://arxiv.org/abs/2407.21073v1)|null|
 |**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836v1](http://arxiv.org/abs/2407.20836v1)|null|
 |**2024-07-30**|**Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks**|Hunmin Yang et.al.|[2407.20657v1](http://arxiv.org/abs/2407.20657v1)|null|
 |**2024-07-30**|**FACL-Attack: Frequency-Aware Contrastive Learning for Transferable Adversarial Attacks**|Hunmin Yang et.al.|[2407.20653v1](http://arxiv.org/abs/2407.20653v1)|null|
@@ -621,6 +623,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794v1](http://arxiv.org/abs/2407.21794v1)|null|
+|**2024-07-31**|**Non-equilibrium dynamics of symmetry-resolved entanglement and entanglement asymmetry: Exact asymptotics in Rule 54**|Katja Klobas et.al.|[2407.21793v1](http://arxiv.org/abs/2407.21793v1)|null|
+|**2024-07-31**|**Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?**|Richard Ren et.al.|[2407.21792v1](http://arxiv.org/abs/2407.21792v1)|null|
+|**2024-07-31**|**Deep Learning for Options Trading: An End-To-End Approach**|Wee Ling Tan et.al.|[2407.21791v1](http://arxiv.org/abs/2407.21791v1)|null|
+|**2024-07-31**|**First measurement of the triaxiality of the inner dark matter halo of the Milky Way**|Hanneke C. Woudenberg et.al.|[2407.21790v1](http://arxiv.org/abs/2407.21790v1)|null|
+|**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788v1](http://arxiv.org/abs/2407.21788v1)|null|
+|**2024-07-31**|**Large Language Monkeys: Scaling Inference Compute with Repeated Sampling**|Bradley Brown et.al.|[2407.21787v1](http://arxiv.org/abs/2407.21787v1)|null|
+|**2024-07-31**|**Non-equilibrium dynamics of charged dual-unitary circuits**|Alessandro Foligno et.al.|[2407.21786v1](http://arxiv.org/abs/2407.21786v1)|null|
+|**2024-07-31**|**The Llama 3 Herd of Models**|Abhimanyu Dubey et.al.|[2407.21783v1](http://arxiv.org/abs/2407.21783v1)|null|
+|**2024-07-31**|**Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**|Felix Ocker et.al.|[2407.21778v1](http://arxiv.org/abs/2407.21778v1)|null|
 |**2024-07-30**|**A Multiwavelength Portrait of the 3C 220.3 Lensed System**|Sóley Ó. Hyman et.al.|[2407.21020v1](http://arxiv.org/abs/2407.21020v1)|null|
 |**2024-07-30**|**Emergent dipole field theory in atomic ladders**|Hernan B. Xavier et.al.|[2407.21019v1](http://arxiv.org/abs/2407.21019v1)|null|
 |**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018v1](http://arxiv.org/abs/2407.21018v1)|null|

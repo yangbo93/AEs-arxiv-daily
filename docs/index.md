@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**On the Robustness of Malware Detectors to Adversarial Samples**|Muhammad Salman et.al.|[2408.02310v1](http://arxiv.org/abs/2408.02310v1)|null|
+|**2024-08-04**|**AdvQDet: Detecting Query-Based Adversarial Attacks with Adversarial Contrastive Prompt Tuning**|Xin Wang et.al.|[2408.01978v1](http://arxiv.org/abs/2408.01978v1)|null|
+|**2024-08-04**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934v1](http://arxiv.org/abs/2408.01934v1)|null|
+|**2024-08-03**|**ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features**|Peng Cheng et.al.|[2408.01808v1](http://arxiv.org/abs/2408.01808v1)|null|
+|**2024-08-03**|**Joint Universal Adversarial Perturbations with Interpretations**|Liang-bo Ning et.al.|[2408.01715v1](http://arxiv.org/abs/2408.01715v1)|null|
+|**2024-08-03**|**Downstream Transfer Attack: Adversarial Attacks on Downstream Models with Pre-trained Vision Transformers**|Weijie Zheng et.al.|[2408.01705v1](http://arxiv.org/abs/2408.01705v1)|null|
+|**2024-08-02**|**Trustworthy Machine Learning under Social and Adversarial Data Sources**|Han Shao et.al.|[2408.01596v1](http://arxiv.org/abs/2408.01596v1)|null|
 |**2024-08-01**|**CERT-ED: Certifiably Robust Text Classification for Edit Distance**|Zhuoqun Huang et.al.|[2408.00728v1](http://arxiv.org/abs/2408.00728v1)|null|
 |**2024-08-01**|**Securing the Diagnosis of Medical Imaging: An In-depth Analysis of AI-Resistant Attacks**|Angona Biswas et.al.|[2408.00348v1](http://arxiv.org/abs/2408.00348v1)|null|
 |**2024-08-01**|**ADBM: Adversarial diffusion bridge model for reliable adversarial purification**|Xiao Li et.al.|[2408.00315v1](http://arxiv.org/abs/2408.00315v1)|null|
@@ -626,6 +633,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics**|Shishira R Maiya et.al.|[2408.02672v1](http://arxiv.org/abs/2408.02672v1)|null|
+|**2024-08-05**|**Systematic bias due to mismodelling precessing binary black hole ringdown**|Cheng Foo et.al.|[2408.02671v1](http://arxiv.org/abs/2408.02671v1)|null|
+|**2024-08-05**|**Searching for dark matter with a 1000 km baseline interferometer**|Daniel Gavilan-Martin et.al.|[2408.02668v1](http://arxiv.org/abs/2408.02668v1)|null|
+|**2024-08-05**|**Evaluating and Utilizing Surrogate Outcomes in Covariate-Adjusted Response-Adaptive Designs**|Wenxin Zhang et.al.|[2408.02667v1](http://arxiv.org/abs/2408.02667v1)|null|
+|**2024-08-05**|**Self-Taught Evaluators**|Tianlu Wang et.al.|[2408.02666v1](http://arxiv.org/abs/2408.02666v1)|null|
+|**2024-08-05**|**Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form**|Hendrik Ranocha et.al.|[2408.02665v1](http://arxiv.org/abs/2408.02665v1)|null|
+|**2024-08-05**|**Noninvertible Gauge Symmetry in (2+1)d Topological Orders: A String-Net Model Realization**|Yu Zhao et.al.|[2408.02664v1](http://arxiv.org/abs/2408.02664v1)|null|
+|**2024-08-05**|**Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion**|Ho Jae Lee et.al.|[2408.02662v1](http://arxiv.org/abs/2408.02662v1)|null|
+|**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661v1](http://arxiv.org/abs/2408.02661v1)|null|
+|**2024-08-05**|**Wavenumber Calibration for an Imaging Refractometer**|A. Rososhek et.al.|[2408.02660v1](http://arxiv.org/abs/2408.02660v1)|null|
 |**2024-08-02**|**Generalised Circuit Partitioning for Distributed Quantum Computing**|Felix Burt et.al.|[2408.01424v1](http://arxiv.org/abs/2408.01424v1)|null|
 |**2024-08-02**|**Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting**|Xiangyu Zhao et.al.|[2408.01423v1](http://arxiv.org/abs/2408.01423v1)|null|
 |**2024-08-02**|**Topological phases of the interacting SSH model: an analytical study**|E. Di Salvo et.al.|[2408.01421v1](http://arxiv.org/abs/2408.01421v1)|null|

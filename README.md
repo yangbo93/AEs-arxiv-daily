@@ -629,6 +629,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326v1](http://arxiv.org/abs/2408.03326v1)|null|
+|**2024-08-06**|**CoverBench: A Challenging Benchmark for Complex Claim Verification**|Alon Jacovi et.al.|[2408.03325v1](http://arxiv.org/abs/2408.03325v1)|null|
+|**2024-08-06**|**ClassiFIM: An Unsupervised Method To Detect Phase Transitions**|Victor Kasatkin et.al.|[2408.03323v1](http://arxiv.org/abs/2408.03323v1)|null|
+|**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322v1](http://arxiv.org/abs/2408.03322v1)|null|
+|**2024-08-06**|**Chasing cosmic inflation: constraints for inflationary models and reheating insights**|Mario Ballardini et.al.|[2408.03321v1](http://arxiv.org/abs/2408.03321v1)|null|
+|**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320v1](http://arxiv.org/abs/2408.03320v1)|null|
+|**2024-08-06**|**Training LLMs to Recognize Hedges in Spontaneous Narratives**|Amie J. Paige et.al.|[2408.03319v1](http://arxiv.org/abs/2408.03319v1)|null|
+|**2024-08-06**|**Robustness of electron charge shuttling: Architectures, pulses, charge defects and noise thresholds**|Minjun Jeon et.al.|[2408.03315v1](http://arxiv.org/abs/2408.03315v1)|null|
+|**2024-08-06**|**Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters**|Charlie Snell et.al.|[2408.03314v1](http://arxiv.org/abs/2408.03314v1)|null|
+|**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312v1](http://arxiv.org/abs/2408.03312v1)|null|
 |**2024-08-05**|**Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics**|Shishira R Maiya et.al.|[2408.02672v1](http://arxiv.org/abs/2408.02672v1)|null|
 |**2024-08-05**|**Systematic bias due to mismodelling precessing binary black hole ringdown**|Cheng Foo et.al.|[2408.02671v1](http://arxiv.org/abs/2408.02671v1)|null|
 |**2024-08-05**|**Searching for dark matter with a 1000 km baseline interferometer**|Daniel Gavilan-Martin et.al.|[2408.02668v1](http://arxiv.org/abs/2408.02668v1)|null|

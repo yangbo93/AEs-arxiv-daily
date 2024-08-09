@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit**|Duanyi Yao et.al.|[2408.04310v1](http://arxiv.org/abs/2408.04310v1)|null|
+|**2024-08-08**|**Stability Analysis of Equivariant Convolutional Representations Through The Lens of Equivariant Multi-layered CKNs**|Soutrik Roy Chowdhury et.al.|[2408.04277v1](http://arxiv.org/abs/2408.04277v1)|null|
+|**2024-08-08**|**Unveiling Hidden Visual Information: A Reconstruction Attack Against Adversarial Visual Information Hiding**|Jonggyu Jang et.al.|[2408.04261v1](http://arxiv.org/abs/2408.04261v1)|null|
+|**2024-08-07**|**Enhancing Output Diversity Improves Conjugate Gradient-based Adversarial Attacks**|Keiichiro Yamamura et.al.|[2408.03972v1](http://arxiv.org/abs/2408.03972v1)|**[link](https://github.com/yamamura-k/reacg)**|
 |**2024-08-07**|**MORTAR: A Model-based Runtime Action Repair Framework for AI-enabled Cyber-Physical Systems**|Renzhi Wang et.al.|[2408.03892v1](http://arxiv.org/abs/2408.03892v1)|null|
 |**2024-08-05**|**On the Robustness of Malware Detectors to Adversarial Samples**|Muhammad Salman et.al.|[2408.02310v1](http://arxiv.org/abs/2408.02310v1)|null|
 |**2024-08-04**|**AdvQDet: Detecting Query-Based Adversarial Attacks with Adversarial Contrastive Prompt Tuning**|Xin Wang et.al.|[2408.01978v1](http://arxiv.org/abs/2408.01978v1)|**[link](https://github.com/xinwong/advqdet)**|
@@ -630,6 +634,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**LiDAR-Event Stereo Fusion with Hallucinations**|Luca Bartolomei et.al.|[2408.04633v1](http://arxiv.org/abs/2408.04633v1)|**[link](https://github.com/bartn8/eventvppstereo)**|
+|**2024-08-08**|**Arctic-TILT. Business Document Understanding at Sub-Billion Scale**|Łukasz Borchmann et.al.|[2408.04632v1](http://arxiv.org/abs/2408.04632v1)|null|
+|**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631v1](http://arxiv.org/abs/2408.04631v1)|null|
+|**2024-08-08**|**Higher derivative SVT theories from Kaluza-Klein reductions of Horndeski theory**|S. Mironov et.al.|[2408.04626v1](http://arxiv.org/abs/2408.04626v1)|null|
+|**2024-08-08**|**Adaptive Sampling Bi-Fidelity Stochastic Trust Region Method for Derivative-Free Stochastic Optimization**|Yunsoo Ha et.al.|[2408.04625v1](http://arxiv.org/abs/2408.04625v1)|null|
+|**2024-08-08**|**Axion production via trapped misalignment from Peccei-Quinn symmetry breaking**|Luca Di Luzio et.al.|[2408.04623v1](http://arxiv.org/abs/2408.04623v1)|null|
+|**2024-08-08**|**On the interactions and equilibrium between Einstein-Maxwell-Dilaton black holes**|Ulrich K. Beckering Vinckers et.al.|[2408.04621v1](http://arxiv.org/abs/2408.04621v1)|null|
+|**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619v1](http://arxiv.org/abs/2408.04619v1)|null|
+|**2024-08-08**|**SSD Set System, Graph Decomposition and Hamiltonian Cycle**|Kan Shota et.al.|[2408.04615v1](http://arxiv.org/abs/2408.04615v1)|null|
+|**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614v1](http://arxiv.org/abs/2408.04614v1)|null|
 |**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940v1](http://arxiv.org/abs/2408.03940v1)|null|
 |**2024-08-07**|**Zeros of $L$-functions and large partial sums of Dirichlet coefficients**|Bryce Kerr et.al.|[2408.03938v1](http://arxiv.org/abs/2408.03938v1)|null|
 |**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936v1](http://arxiv.org/abs/2408.03936v1)|null|

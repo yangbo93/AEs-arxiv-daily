@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Achieving Data Efficient Neural Networks with Hybrid Concept-based Models**|Tobias A. Opsahl et.al.|[2408.07438v1](http://arxiv.org/abs/2408.07438v1)|**[link](https://github.com/tobias-opsahl/hybrid-concept-based-models)**|
 |**2024-08-12**|**Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment**|Kejia Zhang et.al.|[2408.06079v1](http://arxiv.org/abs/2408.06079v1)|null|
 |**2024-08-12**|**Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information**|Mingkun Zhang et.al.|[2408.05900v1](http://arxiv.org/abs/2408.05900v1)|null|
 |**2024-08-11**|**Improving Adversarial Transferability with Neighbourhood Gradient Information**|Haijing Guo et.al.|[2408.05745v1](http://arxiv.org/abs/2408.05745v1)|null|
@@ -641,6 +642,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Knowledge Distillation with Refined Logits**|Wujie Sun et.al.|[2408.07703v1](http://arxiv.org/abs/2408.07703v1)|**[link](https://github.com/zju-swj/rld)**|
+|**2024-08-14**|**The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models**|Karime Maamari et.al.|[2408.07702v1](http://arxiv.org/abs/2408.07702v1)|null|
+|**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700v1](http://arxiv.org/abs/2408.07700v1)|null|
+|**2024-08-14**|**Field-level Emulation of Cosmic Structure Formation with Cosmology and Redshift Dependence**|Drew Jamieson et.al.|[2408.07699v1](http://arxiv.org/abs/2408.07699v1)|null|
+|**2024-08-14**|**Quantifying over Optimum Answer Sets**|Giuseppe Mazzotta et.al.|[2408.07697v1](http://arxiv.org/abs/2408.07697v1)|null|
+|**2024-08-14**|**Model-Based Control of Water Treatment with Pumped Water Storage**|Ryan Mauery et.al.|[2408.07696v1](http://arxiv.org/abs/2408.07696v1)|null|
+|**2024-08-14**|**Generalized Quandle Polynomials and Their Applications to Stuquandles, Stuck Links, and RNA Folding**|Ekaterina Bondarenko et.al.|[2408.07695v1](http://arxiv.org/abs/2408.07695v1)|null|
+|**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694v1](http://arxiv.org/abs/2408.07694v1)|null|
+|**2024-08-14**|**Detecting Near-Duplicate Face Images**|Sudipta Banerjee et.al.|[2408.07689v1](http://arxiv.org/abs/2408.07689v1)|**[link](https://github.com/sudban3089/detectingnear-duplicates)**|
+|**2024-08-14**|**Finite Dimensional Projections of HJB Equations in the Wasserstein Space**|Andrzej Święch et.al.|[2408.07688v1](http://arxiv.org/abs/2408.07688v1)|null|
 |**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071v1](http://arxiv.org/abs/2408.07071v1)|null|
 |**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070v1](http://arxiv.org/abs/2408.07070v1)|null|
 |**2024-08-13**|**Atomic fluorescence collection into planar photonic devices**|Orion Smedley et.al.|[2408.07068v1](http://arxiv.org/abs/2408.07068v1)|null|

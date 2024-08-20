@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Detecting Adversarial Attacks in Semantic Segmentation via Uncertainty Estimation: A Deep Analysis**|Kira Maag et.al.|[2408.10021v1](http://arxiv.org/abs/2408.10021v1)|null|
+|**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839v1](http://arxiv.org/abs/2408.09839v1)|**[link](https://github.com/momo1986/robust_sam_iv)**|
+|**2024-08-18**|**Enhancing Adversarial Transferability with Adversarial Weight Tuning**|Jiahao Chen et.al.|[2408.09469v1](http://arxiv.org/abs/2408.09469v1)|null|
 |**2024-08-16**|**LEVIS: Large Exact Verifiable Input Spaces for Neural Networks**|Mohamad Fares El Hajj Chehade et.al.|[2408.08824v1](http://arxiv.org/abs/2408.08824v1)|null|
 |**2024-08-15**|**Evaluating Text Classification Robustness to Part-of-Speech Adversarial Examples**|Anahita Samadi et.al.|[2408.08374v1](http://arxiv.org/abs/2408.08374v1)|null|
 |**2024-08-14**|**Achieving Data Efficient Neural Networks with Hybrid Concept-based Models**|Tobias A. Opsahl et.al.|[2408.07438v1](http://arxiv.org/abs/2408.07438v1)|**[link](https://github.com/tobias-opsahl/hybrid-concept-based-models)**|
@@ -648,6 +651,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**The Resonant Remains of Broken Chains from Major and Minor Mergers**|Rixin Li et.al.|[2408.10206v1](http://arxiv.org/abs/2408.10206v1)|null|
+|**2024-08-19**|**Criticality Leveraged Adversarial Training (CLAT) for Boosted Performance via Parameter Efficiency**|Bhavna Gopal et.al.|[2408.10204v1](http://arxiv.org/abs/2408.10204v1)|null|
+|**2024-08-19**|**SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP**|Yusuke Hirota et.al.|[2408.10202v1](http://arxiv.org/abs/2408.10202v1)|null|
+|**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198v1](http://arxiv.org/abs/2408.10198v1)|null|
+|**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197v1](http://arxiv.org/abs/2408.10197v1)|null|
+|**2024-08-19**|**Some model theory of quadratic geometries**|Charlotte Kestner et.al.|[2408.10196v1](http://arxiv.org/abs/2408.10196v1)|null|
+|**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195v1](http://arxiv.org/abs/2408.10195v1)|null|
+|**2024-08-19**|**Krylov Complexity as a Probe for Chaos**|Mohsen Alishahiha et.al.|[2408.10194v1](http://arxiv.org/abs/2408.10194v1)|null|
+|**2024-08-19**|**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**|Jing Li et.al.|[2408.10193v1](http://arxiv.org/abs/2408.10193v1)|null|
+|**2024-08-19**|**Superconductivity and spin canting in spin-orbit proximitized rhombohedral trilayer graphene**|Caitlin L. Patterson et.al.|[2408.10190v1](http://arxiv.org/abs/2408.10190v1)|null|
 |**2024-08-16**|**Accelerating Giant Impact Simulations with Machine Learning**|Caleb Lammers et.al.|[2408.08873v1](http://arxiv.org/abs/2408.08873v1)|**[link](https://github.com/caleblammers/ml_for_collisions)**|
 |**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872v1](http://arxiv.org/abs/2408.08872v1)|null|
 |**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870v1](http://arxiv.org/abs/2408.08870v1)|**[link](https://github.com/wzh0120/sam2-unet)**|

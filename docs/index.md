@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 
 ## Adversarial Examples
 
@@ -651,7 +651,7 @@ layout: default
 |**2024-08-16**|**Accelerating Giant Impact Simulations with Machine Learning**|Caleb Lammers et.al.|[2408.08873v1](http://arxiv.org/abs/2408.08873v1)|**[link](https://github.com/caleblammers/ml_for_collisions)**|
 |**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872v1](http://arxiv.org/abs/2408.08872v1)|null|
 |**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870v1](http://arxiv.org/abs/2408.08870v1)|**[link](https://github.com/wzh0120/sam2-unet)**|
-|**2024-08-16**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869v1](http://arxiv.org/abs/2408.08869v1)|null|
+|**2024-08-19**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869v2](http://arxiv.org/abs/2408.08869v2)|null|
 |**2024-08-16**|**A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs**|H. Brendan McMahan et.al.|[2408.08868v1](http://arxiv.org/abs/2408.08868v1)|null|
 |**2024-08-16**|**Quantum Annealing for Enhanced Feature Selection in Single-Cell RNA Sequencing Data Analysis**|Selim Romero et.al.|[2408.08867v1](http://arxiv.org/abs/2408.08867v1)|null|
 |**2024-08-16**|**High-Frequency Options Trading | With Portfolio Optimization**|Sid Bhatia et.al.|[2408.08866v1](http://arxiv.org/abs/2408.08866v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 
 ## Adversarial Examples
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-08-19**|**Detecting Adversarial Attacks in Semantic Segmentation via Uncertainty Estimation: A Deep Analysis**|Kira Maag et.al.|[2408.10021v1](http://arxiv.org/abs/2408.10021v1)|null|
 |**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839v1](http://arxiv.org/abs/2408.09839v1)|**[link](https://github.com/momo1986/robust_sam_iv)**|
-|**2024-08-18**|**Enhancing Adversarial Transferability with Adversarial Weight Tuning**|Jiahao Chen et.al.|[2408.09469v1](http://arxiv.org/abs/2408.09469v1)|null|
+|**2024-08-20**|**Enhancing Adversarial Transferability with Adversarial Weight Tuning**|Jiahao Chen et.al.|[2408.09469v2](http://arxiv.org/abs/2408.09469v2)|null|
 |**2024-08-16**|**LEVIS: Large Exact Verifiable Input Spaces for Neural Networks**|Mohamad Fares El Hajj Chehade et.al.|[2408.08824v1](http://arxiv.org/abs/2408.08824v1)|null|
 |**2024-08-15**|**Evaluating Text Classification Robustness to Part-of-Speech Adversarial Examples**|Anahita Samadi et.al.|[2408.08374v1](http://arxiv.org/abs/2408.08374v1)|null|
 |**2024-08-14**|**Achieving Data Efficient Neural Networks with Hybrid Concept-based Models**|Tobias A. Opsahl et.al.|[2408.07438v1](http://arxiv.org/abs/2408.07438v1)|**[link](https://github.com/tobias-opsahl/hybrid-concept-based-models)**|

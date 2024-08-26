@@ -1,4 +1,4 @@
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 
 ## Adversarial Examples
 
@@ -654,7 +654,7 @@
 |**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599v1](http://arxiv.org/abs/2408.12599v1)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
 |**2024-08-22**|**ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction**|Ziyu Tang et.al.|[2408.12598v1](http://arxiv.org/abs/2408.12598v1)|null|
 |**2024-08-22**|**Quantum Sabotage Complexity**|Arjan Cornelissen et.al.|[2408.12595v1](http://arxiv.org/abs/2408.12595v1)|null|
-|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594v1](http://arxiv.org/abs/2408.12594v1)|null|
+|**2024-08-23**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594v2](http://arxiv.org/abs/2408.12594v2)|null|
 |**2024-08-22**|**Automating Deformable Gasket Assembly**|Simeon Adebola et.al.|[2408.12593v1](http://arxiv.org/abs/2408.12593v1)|null|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590v1](http://arxiv.org/abs/2408.12590v1)|null|
 |**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588v1](http://arxiv.org/abs/2408.12588v1)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|

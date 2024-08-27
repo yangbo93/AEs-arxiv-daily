@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-25**|**On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective**|Tal Alter et.al.|[2408.13809v1](http://arxiv.org/abs/2408.13809v1)|null|
+|**2024-08-23**|**Disentangled Training with Adversarial Examples For Robust Small-footprint Keyword Spotting**|Zhenyu Wang et.al.|[2408.13355v1](http://arxiv.org/abs/2408.13355v1)|null|
+|**2024-08-23**|**Toward Improving Synthetic Audio Spoofing Detection Robustness via Meta-Learning and Disentangled Training With Adversarial Examples**|Zhenyu Wang et.al.|[2408.13341v1](http://arxiv.org/abs/2408.13341v1)|null|
 |**2024-08-23**|**Dynamic Label Adversarial Training for Deep Learning Robustness Against Adversarial Attacks**|Zhenyu Liu et.al.|[2408.13102v1](http://arxiv.org/abs/2408.13102v1)|null|
 |**2024-08-22**|**Leveraging Information Consistency in Frequency and Spatial Domain for Adversarial Attacks**|Zhibo Jin et.al.|[2408.12670v1](http://arxiv.org/abs/2408.12670v1)|**[link](https://github.com/lmbtough/fsa)**|
 |**2024-08-22**|**Query-Efficient Video Adversarial Attack with Stylized Logo**|Duoxun Tang et.al.|[2408.12099v1](http://arxiv.org/abs/2408.12099v1)|null|
@@ -652,6 +655,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Phases and phase transitions in a dimerized spin-$\mathbf{\frac{1}{2}}$ XXZ chain**|Harsh Nigam et.al.|[2408.14474v1](http://arxiv.org/abs/2408.14474v1)|null|
+|**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472v1](http://arxiv.org/abs/2408.14472v1)|null|
+|**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471v1](http://arxiv.org/abs/2408.14471v1)|**[link](https://github.com/explainableml/fomo_in_flux)**|
+|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470v1](http://arxiv.org/abs/2408.14470v1)|null|
+|**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469v1](http://arxiv.org/abs/2408.14469v1)|null|
+|**2024-08-26**|**K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences**|Zhikai Li et.al.|[2408.14468v1](http://arxiv.org/abs/2408.14468v1)|null|
+|**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467v1](http://arxiv.org/abs/2408.14467v1)|null|
+|**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466v1](http://arxiv.org/abs/2408.14466v1)|null|
+|**2024-08-26**|**On the Effects of Modeling on the Sim-to-Real Transfer Gap in Twinning the POWDER Platform**|Maxwell McManus et.al.|[2408.14465v1](http://arxiv.org/abs/2408.14465v1)|null|
+|**2024-08-26**|**Eclipse mapping study of the eclipsing binary KIC~3858884 with hybrid $δ$~Sct/$γ$~Dor component**|A. Bókon et.al.|[2408.14464v1](http://arxiv.org/abs/2408.14464v1)|null|
 |**2024-08-23**|**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**|Yi-Fan Zhang et.al.|[2408.13257v1](http://arxiv.org/abs/2408.13257v1)|null|
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|null|
 |**2024-08-23**|**Ensemble Modeling of Multiple Physical Indicators to Dynamically Phenotype Autism Spectrum Disorder**|Marie Huynh et.al.|[2408.13255v1](http://arxiv.org/abs/2408.13255v1)|null|

@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**TART: Boosting Clean Accuracy Through Tangent Direction Guided Adversarial Training**|Bongsoo Yi et.al.|[2408.14728v1](http://arxiv.org/abs/2408.14728v1)|null|
 |**2024-08-25**|**On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective**|Tal Alter et.al.|[2408.13809v1](http://arxiv.org/abs/2408.13809v1)|null|
 |**2024-08-23**|**Disentangled Training with Adversarial Examples For Robust Small-footprint Keyword Spotting**|Zhenyu Wang et.al.|[2408.13355v1](http://arxiv.org/abs/2408.13355v1)|null|
 |**2024-08-23**|**Toward Improving Synthetic Audio Spoofing Detection Robustness via Meta-Learning and Disentangled Training With Adversarial Examples**|Zhenyu Wang et.al.|[2408.13341v1](http://arxiv.org/abs/2408.13341v1)|null|
@@ -655,6 +656,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243v1](http://arxiv.org/abs/2408.15243v1)|null|
+|**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242v1](http://arxiv.org/abs/2408.15242v1)|**[link](https://github.com/sainingzhang/uc-gs)**|
+|**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241v1](http://arxiv.org/abs/2408.15241v1)|null|
+|**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240v1](http://arxiv.org/abs/2408.15240v1)|null|
+|**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239v1](http://arxiv.org/abs/2408.15239v1)|null|
+|**2024-08-27**|**Weak mixing and sparse equidistribution**|Max Auer et.al.|[2408.15238v1](http://arxiv.org/abs/2408.15238v1)|null|
+|**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237v1](http://arxiv.org/abs/2408.15237v1)|**[link](https://github.com/jxiw/mambainllama)**|
+|**2024-08-27**|**MADNESS Deblender: Maximum A posteriori with Deep NEural networks for Source Separation**|Biswajit Biswas et.al.|[2408.15236v1](http://arxiv.org/abs/2408.15236v1)|null|
+|**2024-08-27**|**Chebotarov continua, Jenkins-Strebel differentials and related problems: a numerical approach**|Marco Bertola et.al.|[2408.15234v1](http://arxiv.org/abs/2408.15234v1)|null|
+|**2024-08-27**|**Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**|Yucheng Jiang et.al.|[2408.15232v1](http://arxiv.org/abs/2408.15232v1)|null|
 |**2024-08-26**|**Phases and phase transitions in a dimerized spin-$\mathbf{\frac{1}{2}}$ XXZ chain**|Harsh Nigam et.al.|[2408.14474v1](http://arxiv.org/abs/2408.14474v1)|null|
 |**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472v1](http://arxiv.org/abs/2408.14472v1)|null|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471v1](http://arxiv.org/abs/2408.14471v1)|**[link](https://github.com/explainableml/fomo_in_flux)**|

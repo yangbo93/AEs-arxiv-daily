@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Evaluating Model Robustness Using Adaptive Sparse L0 Regularization**|Weiyou Liu et.al.|[2408.15702v1](http://arxiv.org/abs/2408.15702v1)|null|
 |**2024-08-27**|**TART: Boosting Clean Accuracy Through Tangent Direction Guided Adversarial Training**|Bongsoo Yi et.al.|[2408.14728v1](http://arxiv.org/abs/2408.14728v1)|null|
 |**2024-08-25**|**On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective**|Tal Alter et.al.|[2408.13809v1](http://arxiv.org/abs/2408.13809v1)|null|
 |**2024-08-23**|**Disentangled Training with Adversarial Examples For Robust Small-footprint Keyword Spotting**|Zhenyu Wang et.al.|[2408.13355v1](http://arxiv.org/abs/2408.13355v1)|null|
@@ -656,6 +657,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999v1](http://arxiv.org/abs/2408.15999v1)|null|
+|**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998v1](http://arxiv.org/abs/2408.15998v1)|**[link](https://github.com/nvlabs/eagle)**|
+|**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997v1](http://arxiv.org/abs/2408.15997v1)|**[link](https://github.com/lunaaa95/mou)**|
+|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v1](http://arxiv.org/abs/2408.15996v1)|null|
+|**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995v1](http://arxiv.org/abs/2408.15995v1)|null|
+|**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994v1](http://arxiv.org/abs/2408.15994v1)|null|
+|**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|null|
+|**2024-08-28**|**CoGen: Learning from Feedback with Coupled Comprehension and Generation**|Mustafa Omer Gul et.al.|[2408.15992v1](http://arxiv.org/abs/2408.15992v1)|**[link](https://github.com/lil-lab/cogen)**|
+|**2024-08-28**|**Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation**|Shengyuan Zhang et.al.|[2408.15991v1](http://arxiv.org/abs/2408.15991v1)|**[link](https://github.com/syzhang0805/disback)**|
+|**2024-08-28**|**A Control Theoretic Approach to Simultaneously Estimate Average Value of Time and Determine Dynamic Price for High-occupancy Toll Lanes**|Xuting Wang et.al.|[2408.15990v1](http://arxiv.org/abs/2408.15990v1)|null|
 |**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243v1](http://arxiv.org/abs/2408.15243v1)|null|
 |**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242v1](http://arxiv.org/abs/2408.15242v1)|**[link](https://github.com/sainingzhang/uc-gs)**|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241v1](http://arxiv.org/abs/2408.15241v1)|null|

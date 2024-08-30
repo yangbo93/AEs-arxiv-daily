@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Improving Adversarial Robustness in Android Malware Detection by Reducing the Impact of Spurious Correlations**|Hamid Bostani et.al.|[2408.16025v1](http://arxiv.org/abs/2408.16025v1)|null|
 |**2024-08-28**|**Evaluating Model Robustness Using Adaptive Sparse L0 Regularization**|Weiyou Liu et.al.|[2408.15702v1](http://arxiv.org/abs/2408.15702v1)|null|
 |**2024-08-27**|**TART: Boosting Clean Accuracy Through Tangent Direction Guided Adversarial Training**|Bongsoo Yi et.al.|[2408.14728v1](http://arxiv.org/abs/2408.14728v1)|null|
 |**2024-08-25**|**On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective**|Tal Alter et.al.|[2408.13809v1](http://arxiv.org/abs/2408.13809v1)|null|
@@ -661,6 +662,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**3D Whole-body Grasp Synthesis with Directional Controllability**|Georgios Paschalidis et.al.|[2408.16770v1](http://arxiv.org/abs/2408.16770v1)|null|
+|**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769v1](http://arxiv.org/abs/2408.16769v1)|**[link](https://github.com/nhussein/promptsmooth)**|
+|**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768v1](http://arxiv.org/abs/2408.16768v1)|**[link](https://github.com/ziyuguo99/sam2point)**|
+|**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|null|
+|**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v1](http://arxiv.org/abs/2408.16766v1)|null|
+|**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765v1](http://arxiv.org/abs/2408.16765v1)|null|
+|**2024-08-29**|**Finite Sample Valid Inference via Calibrated Bootstrap**|Yiran Jiang et.al.|[2408.16763v1](http://arxiv.org/abs/2408.16763v1)|null|
+|**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762v1](http://arxiv.org/abs/2408.16762v1)|**[link](https://github.com/simofoti/uv3-ted)**|
+|**2024-08-29**|**Nonlocal Moments in the Chern Bands of Twisted Bilayer Graphene**|Patrick J. Ledwith et.al.|[2408.16761v1](http://arxiv.org/abs/2408.16761v1)|null|
+|**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760v1](http://arxiv.org/abs/2408.16760v1)|null|
 |**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999v1](http://arxiv.org/abs/2408.15999v1)|null|
 |**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998v1](http://arxiv.org/abs/2408.15998v1)|**[link](https://github.com/nvlabs/eagle)**|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997v1](http://arxiv.org/abs/2408.15997v1)|**[link](https://github.com/lunaaa95/mou)**|

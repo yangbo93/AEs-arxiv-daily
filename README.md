@@ -1,4 +1,4 @@
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 
 ## Adversarial Examples
 
@@ -660,7 +660,7 @@
 |**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999v1](http://arxiv.org/abs/2408.15999v1)|null|
 |**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998v1](http://arxiv.org/abs/2408.15998v1)|**[link](https://github.com/nvlabs/eagle)**|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997v1](http://arxiv.org/abs/2408.15997v1)|**[link](https://github.com/lunaaa95/mou)**|
-|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v1](http://arxiv.org/abs/2408.15996v1)|null|
+|**2024-08-29**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v2](http://arxiv.org/abs/2408.15996v2)|null|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995v1](http://arxiv.org/abs/2408.15995v1)|null|
 |**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994v1](http://arxiv.org/abs/2408.15994v1)|null|
 |**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|null|

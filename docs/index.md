@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-27**|**Improving Adversarial Robustness in Android Malware Detection by Reducing the Impact of Spurious Correlations**|Hamid Bostani et.al.|[2408.16025v1](http://arxiv.org/abs/2408.16025v1)|null|
+|**2024-08-27**|**Improving Adversarial Robustness in Android Malware Detection by Reducing the Impact of Spurious Correlations**|Hamid Bostani et.al.|[2408.16025v1](http://arxiv.org/abs/2408.16025v1)|**[link](https://github.com/hamidbostani2021/robust-feature-space)**|
 |**2024-08-28**|**Evaluating Model Robustness Using Adaptive Sparse L0 Regularization**|Weiyou Liu et.al.|[2408.15702v1](http://arxiv.org/abs/2408.15702v1)|null|
 |**2024-08-27**|**TART: Boosting Clean Accuracy Through Tangent Direction Guided Adversarial Training**|Bongsoo Yi et.al.|[2408.14728v1](http://arxiv.org/abs/2408.14728v1)|null|
 |**2024-08-25**|**On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective**|Tal Alter et.al.|[2408.13809v1](http://arxiv.org/abs/2408.13809v1)|null|
@@ -662,6 +662,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Undulators are ALP Factories**|Wen Yin et.al.|[2408.17451v1](http://arxiv.org/abs/2408.17451v1)|null|
+|**2024-08-30**|**Signatures of topology in generic transport measurements for Rarita-Schwinger-Weyl semimetals**|Ipsita Mandal et.al.|[2408.17447v1](http://arxiv.org/abs/2408.17447v1)|null|
+|**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445v1](http://arxiv.org/abs/2408.17445v1)|null|
+|**2024-08-30**|**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**|Gueter Josmy Faure et.al.|[2408.17443v1](http://arxiv.org/abs/2408.17443v1)|**[link](https://github.com/joslefaure/HERMES)**|
+|**2024-08-30**|**From free idempotent monoids to free multiplicatively idempotent rigs**|Morgan Rogers et.al.|[2408.17440v1](http://arxiv.org/abs/2408.17440v1)|null|
+|**2024-08-30**|**Magnetising galaxies with cold inflows**|Nicolas Ledos et.al.|[2408.17438v1](http://arxiv.org/abs/2408.17438v1)|null|
+|**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437v1](http://arxiv.org/abs/2408.17437v1)|**[link](https://github.com/loreley99/syntheval_checklist)**|
+|**2024-08-30**|**Imprinting New Physics by using Angular profiles of the FCNC process $B_{c}\to D_{s}^{*}\left(\to \;D_{s}π\right)\ell^{+}\ell^{-}$**|Hira Waseem et.al.|[2408.17436v1](http://arxiv.org/abs/2408.17436v1)|null|
+|**2024-08-30**|**DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised Vector-LoRA of the Foundation Model**|Mona Sheikh Zeinoddin et.al.|[2408.17433v1](http://arxiv.org/abs/2408.17433v1)|null|
+|**2024-08-30**|**SelectTTS: Synthesizing Anyone's Voice via Discrete Unit-Based Frame Selection**|Ismail Rasim Ulgen et.al.|[2408.17432v1](http://arxiv.org/abs/2408.17432v1)|null|
 |**2024-08-29**|**3D Whole-body Grasp Synthesis with Directional Controllability**|Georgios Paschalidis et.al.|[2408.16770v1](http://arxiv.org/abs/2408.16770v1)|null|
 |**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769v1](http://arxiv.org/abs/2408.16769v1)|**[link](https://github.com/nhussein/promptsmooth)**|
 |**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768v1](http://arxiv.org/abs/2408.16768v1)|**[link](https://github.com/ziyuguo99/sam2point)**|

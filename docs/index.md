@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-04**|**OpenFact at CheckThat! 2024: Combining Multiple Attack Methods for Effective Adversarial Text Generation**|Włodzimierz Lewoniewski et.al.|[2409.02649v1](http://arxiv.org/abs/2409.02649v1)|null|
+|**2024-09-05**|**OpenFact at CheckThat! 2024: Combining Multiple Attack Methods for Effective Adversarial Text Generation**|Włodzimierz Lewoniewski et.al.|[2409.02649v2](http://arxiv.org/abs/2409.02649v2)|null|
 |**2024-09-02**|**Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness**|Giorgio Piras et.al.|[2409.01249v1](http://arxiv.org/abs/2409.01249v1)|**[link](https://github.com/pralab/adversarialpruningbenchmark)**|
 |**2024-09-01**|**Accurate Forgetting for All-in-One Image Restoration Model**|Xin Su et.al.|[2409.00685v1](http://arxiv.org/abs/2409.00685v1)|null|
 |**2024-09-01**|**Comprehensive Botnet Detection by Mitigating Adversarial Attacks, Navigating the Subtleties of Perturbation Distances and Fortifying Predictions with Conformal Layers**|Rahul Yumlembam et.al.|[2409.00667v1](http://arxiv.org/abs/2409.00667v1)|null|

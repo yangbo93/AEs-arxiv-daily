@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Learning to Learn Transferable Generative Attack for Person Re-Identification**|Yuan Bian et.al.|[2409.04208v1](http://arxiv.org/abs/2409.04208v1)|null|
 |**2024-09-05**|**Bypassing DARCY Defense: Indistinguishable Universal Adversarial Triggers**|Zuquan Peng et.al.|[2409.03183v1](http://arxiv.org/abs/2409.03183v1)|null|
 |**2024-09-05**|**OpenFact at CheckThat! 2024: Combining Multiple Attack Methods for Effective Adversarial Text Generation**|Włodzimierz Lewoniewski et.al.|[2409.02649v2](http://arxiv.org/abs/2409.02649v2)|null|
 |**2024-09-02**|**Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness**|Giorgio Piras et.al.|[2409.01249v1](http://arxiv.org/abs/2409.01249v1)|**[link](https://github.com/pralab/adversarialpruningbenchmark)**|
@@ -667,6 +668,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Ab initio quantum dynamics as a scalable solution to the exoplanet opacity challenge: A case study of CO$_2$ in hydrogen atmosphere**|Laurent Wiesenfeld et.al.|[2409.04439v1](http://arxiv.org/abs/2409.04439v1)|null|
+|**2024-09-06**|**Memory burden effect mimics reheating signatures on SGWB from ultra-low mass PBH domination**|Nilanjandev Bhaumik et.al.|[2409.04436v1](http://arxiv.org/abs/2409.04436v1)|null|
+|**2024-09-06**|**Holographic Air-quality Monitor (HAM)**|Nicholas Bravo-Frank et.al.|[2409.04435v1](http://arxiv.org/abs/2409.04435v1)|null|
+|**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434v1](http://arxiv.org/abs/2409.04434v1)|**[link](https://github.com/samsungsailmontreal/nino)**|
+|**2024-09-06**|**Constrained local Hamiltonians: quantum generalizations of Vertex Cover**|Ojas Parekh et.al.|[2409.04433v1](http://arxiv.org/abs/2409.04433v1)|null|
+|**2024-09-06**|**Theory, Analysis, and Best Practices for Sigmoid Self-Attention**|Jason Ramapuram et.al.|[2409.04431v1](http://arxiv.org/abs/2409.04431v1)|null|
+|**2024-09-06**|**Highly efficient path-integral molecular dynamics simulations with GPUMD using neuroevolution potentials: Case studies on thermal properties of materials**|Penghua Ying et.al.|[2409.04430v1](http://arxiv.org/abs/2409.04430v1)|null|
+|**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429v1](http://arxiv.org/abs/2409.04429v1)|null|
+|**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428v1](http://arxiv.org/abs/2409.04428v1)|null|
+|**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424v1](http://arxiv.org/abs/2409.04424v1)|null|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757v1](http://arxiv.org/abs/2409.03757v1)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**Spectra of adjacency and Laplacian matrices of Erdős-Rényi hypergraphs**|Soumendu Sundar Mukherjee et.al.|[2409.03756v1](http://arxiv.org/abs/2409.03756v1)|null|
 |**2024-09-05**|**DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation**|Wenliang Zhao et.al.|[2409.03755v1](http://arxiv.org/abs/2409.03755v1)|**[link](https://github.com/wl-zhao/dc-solver)**|

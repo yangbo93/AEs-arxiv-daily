@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Unrevealed Threats: A Comprehensive Study of the Adversarial Robustness of Underwater Image Enhancement Models**|Siyu Zhai et.al.|[2409.06420v1](http://arxiv.org/abs/2409.06420v1)|null|
 |**2024-09-09**|**Input Space Mode Connectivity in Deep Neural Networks**|Jakub Vrabel et.al.|[2409.05800v1](http://arxiv.org/abs/2409.05800v1)|null|
 |**2024-09-09**|**Adversarial Attacks on Data Attribution**|Xinhe Wang et.al.|[2409.05657v1](http://arxiv.org/abs/2409.05657v1)|null|
 |**2024-09-09**|**Seeing Through the Mask: Rethinking Adversarial Examples for CAPTCHAs**|Yahya Jabary et.al.|[2409.05558v1](http://arxiv.org/abs/2409.05558v1)|null|
@@ -673,6 +674,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704v1](http://arxiv.org/abs/2409.06704v1)|**[link](https://github.com/cvg/geocalib)**|
+|**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703v1](http://arxiv.org/abs/2409.06703v1)|null|
+|**2024-09-10**|**Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving**|Kairui Ding et.al.|[2409.06702v1](http://arxiv.org/abs/2409.06702v1)|null|
+|**2024-09-10**|**Intravalley spin-polarized superconductivity in rhombohedral tetralayer graphene**|Yang-Zhi Chou et.al.|[2409.06701v1](http://arxiv.org/abs/2409.06701v1)|null|
+|**2024-09-10**|**A study on Deep Convolutional Neural Networks, Transfer Learning and Ensemble Model for Breast Cancer Detection**|Md Taimur Ahad et.al.|[2409.06699v1](http://arxiv.org/abs/2409.06699v1)|null|
+|**2024-09-10**|**The Operational Meaning of Total Energy of Isolated Systems in General Relativity**|Abhay Ashtekar et.al.|[2409.06698v1](http://arxiv.org/abs/2409.06698v1)|null|
+|**2024-09-10**|**Slow Rotation for the Super-Puff Planet Kepler-51d**|Caleb Lammers et.al.|[2409.06697v1](http://arxiv.org/abs/2409.06697v1)|null|
+|**2024-09-10**|**Cooptimizing Safety and Performance with a Control-Constrained Formulation**|Hao Wang et.al.|[2409.06696v1](http://arxiv.org/abs/2409.06696v1)|null|
+|**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694v1](http://arxiv.org/abs/2409.06694v1)|null|
+|**2024-09-10**|**Geometric-Averaged Preference Optimization for Soft Preference Labels**|Hiroki Furuta et.al.|[2409.06691v1](http://arxiv.org/abs/2409.06691v1)|null|
 |**2024-09-09**|**Flash Cache: Reducing Bias in Radiance Cache Based Inverse Rendering**|Benjamin Attal et.al.|[2409.05867v1](http://arxiv.org/abs/2409.05867v1)|null|
 |**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865v1](http://arxiv.org/abs/2409.05865v1)|null|
 |**2024-09-09**|**Neural MP: A Generalist Neural Motion Planner**|Murtaza Dalal et.al.|[2409.05864v1](http://arxiv.org/abs/2409.05864v1)|null|

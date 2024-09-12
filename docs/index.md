@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 
 ## Adversarial Examples
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-09-10**|**Unrevealed Threats: A Comprehensive Study of the Adversarial Robustness of Underwater Image Enhancement Models**|Siyu Zhai et.al.|[2409.06420v1](http://arxiv.org/abs/2409.06420v1)|null|
 |**2024-09-09**|**Input Space Mode Connectivity in Deep Neural Networks**|Jakub Vrabel et.al.|[2409.05800v1](http://arxiv.org/abs/2409.05800v1)|null|
 |**2024-09-09**|**Adversarial Attacks on Data Attribution**|Xinhe Wang et.al.|[2409.05657v1](http://arxiv.org/abs/2409.05657v1)|null|
-|**2024-09-09**|**Seeing Through the Mask: Rethinking Adversarial Examples for CAPTCHAs**|Yahya Jabary et.al.|[2409.05558v1](http://arxiv.org/abs/2409.05558v1)|null|
+|**2024-09-09**|**Seeing Through the Mask: Rethinking Adversarial Examples for CAPTCHAs**|Yahya Jabary et.al.|[2409.05558v1](http://arxiv.org/abs/2409.05558v1)|**[link](https://github.com/ETH-DISCO/advx-bench)**|
 |**2024-09-08**|**PIP: Detecting Adversarial Examples in Large Vision-Language Models via Attention Patterns of Irrelevant Probe Questions**|Yudong Zhang et.al.|[2409.05076v1](http://arxiv.org/abs/2409.05076v1)|null|
 |**2024-09-07**|**Phrase-Level Adversarial Training for Mitigating Bias in Neural Network-based Automatic Essay Scoring**|Haddad Philip et.al.|[2409.04795v1](http://arxiv.org/abs/2409.04795v1)|null|
 |**2024-09-06**|**Learning to Learn Transferable Generative Attack for Person Re-Identification**|Yuan Bian et.al.|[2409.04208v1](http://arxiv.org/abs/2409.04208v1)|null|

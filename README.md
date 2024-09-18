@@ -673,6 +673,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Non-Universality from Conserved Superoperators in Unitary Circuits**|Marco Lastres et.al.|[2409.11407v1](http://arxiv.org/abs/2409.11407v1)|null|
+|**2024-09-17**|**Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion**|Zhenwei Wang et.al.|[2409.11406v1](http://arxiv.org/abs/2409.11406v1)|null|
+|**2024-09-17**|**Black-box Stealthy GPS Attacks on Unmanned Aerial Vehicles**|Amir Khazraei et.al.|[2409.11405v1](http://arxiv.org/abs/2409.11405v1)|null|
+|**2024-09-17**|**AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs**|Basel Mousi et.al.|[2409.11404v1](http://arxiv.org/abs/2409.11404v1)|null|
+|**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403v1](http://arxiv.org/abs/2409.11403v1)|null|
+|**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402v1](http://arxiv.org/abs/2409.11402v1)|null|
+|**2024-09-17**|**Teaching dark matter simulations to speak the halo language**|Shivam Pandey et.al.|[2409.11401v1](http://arxiv.org/abs/2409.11401v1)|null|
+|**2024-09-17**|**Systematic analysis of Parity-Violating modes**|Hong-Ming Zhu et.al.|[2409.11400v1](http://arxiv.org/abs/2409.11400v1)|null|
+|**2024-09-17**|**$L^2$-vanishing theorem and a conjecture of Kollár**|Ya Deng et.al.|[2409.11399v1](http://arxiv.org/abs/2409.11399v1)|null|
+|**2024-09-17**|**The dynamics of spherically symmetric black holes in scalar-Gauss-Bonnet gravity with a Ricci coupling**|Farid Thaalba et.al.|[2409.11398v1](http://arxiv.org/abs/2409.11398v1)|null|
 |**2024-09-16**|**The VIRUS-dE Survey I: Stars in dwarf elliptical galaxies - 3D dynamics and radially resolved stellar initial mass functions**|Mathias Lipka et.al.|[2409.10518v1](http://arxiv.org/abs/2409.10518v1)|null|
 |**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516v1](http://arxiv.org/abs/2409.10516v1)|null|
 |**2024-09-16**|**An Efficient Self-Learning Framework For Interactive Spoken Dialog Systems**|Hitesh Tulsiani et.al.|[2409.10515v1](http://arxiv.org/abs/2409.10515v1)|null|

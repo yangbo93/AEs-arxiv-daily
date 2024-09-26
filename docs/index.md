@@ -2,12 +2,20 @@
 layout: default
 ---
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Adversarial Backdoor Defense in CLIP**|Junhao Kuang et.al.|[2409.15968v1](http://arxiv.org/abs/2409.15968v1)|null|
+|**2024-09-21**|**Cloud Adversarial Example Generation for Remote Sensing Image Classification**|Fei Ma et.al.|[2409.14240v1](http://arxiv.org/abs/2409.14240v1)|null|
+|**2024-09-20**|**ViTGuard: Attention-aware Detection against Adversarial Examples for Vision Transformer**|Shihua Sun et.al.|[2409.13828v1](http://arxiv.org/abs/2409.13828v1)|null|
+|**2024-09-20**|**Efficient Visualization of Neural Networks with Generative Models and Adversarial Perturbations**|Athanasios Karagounis et.al.|[2409.13559v1](http://arxiv.org/abs/2409.13559v1)|null|
+|**2024-09-20**|**Hidden Activations Are Not Enough: A General Approach to Neural Network Predictions**|Samuel Leblanc et.al.|[2409.13163v1](http://arxiv.org/abs/2409.13163v1)|**[link](https://github.com/marcoarmenta/hidden-activations-are-not-enough)**|
+|**2024-09-19**|**Deep generative models as an adversarial attack strategy for tabular machine learning**|Salijona Dyrmishi et.al.|[2409.12642v1](http://arxiv.org/abs/2409.12642v1)|null|
+|**2024-09-19**|**TEAM: Temporal Adversarial Examples Attack Model against Network Intrusion Detection System Applied to RNN**|Ziyi Liu et.al.|[2409.12472v1](http://arxiv.org/abs/2409.12472v1)|null|
+|**2024-09-19**|**Enhancing 3D Robotic Vision Robustness by Minimizing Adversarial Mutual Information through a Curriculum Training Approach**|Nastaran Darabi et.al.|[2409.12379v1](http://arxiv.org/abs/2409.12379v1)|**[link](https://github.com/nstrndrbi/mine-n-learn)**|
 |**2024-09-12**|**FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning**|Minxue Tang et.al.|[2409.08372v1](http://arxiv.org/abs/2409.08372v1)|null|
 |**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255v1](http://arxiv.org/abs/2409.08255v1)|null|
 |**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne et.al.|[2409.07936v1](http://arxiv.org/abs/2409.07936v1)|null|
@@ -677,6 +685,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Self-Supervised Any-Point Tracking by Contrastive Random Walks**|Ayush Shrivastava et.al.|[2409.16288v1](http://arxiv.org/abs/2409.16288v1)|**[link](https://github.com/ayshrv/gmrw)**|
+|**2024-09-24**|**Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**|Xi Wang et.al.|[2409.16287v1](http://arxiv.org/abs/2409.16287v1)|null|
+|**2024-09-24**|**Age of Gossip in Networks with Multiple Views of a Source**|Kian J. Khojastepour et.al.|[2409.16285v1](http://arxiv.org/abs/2409.16285v1)|null|
+|**2024-09-24**|**Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**|Homanga Bharadhwaj et.al.|[2409.16283v1](http://arxiv.org/abs/2409.16283v1)|null|
+|**2024-09-24**|**An Explicit Consistency-Preserving Loss Function for Phase Reconstruction and Speech Enhancement**|Pin-Jui Ku et.al.|[2409.16282v1](http://arxiv.org/abs/2409.16282v1)|null|
+|**2024-09-24**|**Heavy $K^*$ mesons with open charm from $KD^{(*)}D^*$ interactions**|Xiu-Lei Ren et.al.|[2409.16281v1](http://arxiv.org/abs/2409.16281v1)|null|
+|**2024-09-24**|**MonoFormer: One Transformer for Both Diffusion and Autoregression**|Chuyang Zhao et.al.|[2409.16280v1](http://arxiv.org/abs/2409.16280v1)|null|
+|**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278v1](http://arxiv.org/abs/2409.16278v1)|null|
+|**2024-09-24**|**Bayesian Variable Selection and Sparse Estimation for High-Dimensional Graphical Models**|Anwesha Chakravarti et.al.|[2409.16276v1](http://arxiv.org/abs/2409.16276v1)|null|
+|**2024-09-24**|**Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph**|Utkarsh A. Mishra et.al.|[2409.16275v1](http://arxiv.org/abs/2409.16275v1)|null|
 |**2024-09-20**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v3](http://arxiv.org/abs/2409.12194v3)|null|
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193v1](http://arxiv.org/abs/2409.12193v1)|**[link](https://github.com/florinshen/vista3d)**|
 |**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192v1](http://arxiv.org/abs/2409.12192v1)|null|

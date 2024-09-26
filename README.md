@@ -9,7 +9,7 @@
 |**2024-09-20**|**ViTGuard: Attention-aware Detection against Adversarial Examples for Vision Transformer**|Shihua Sun et.al.|[2409.13828v1](http://arxiv.org/abs/2409.13828v1)|null|
 |**2024-09-20**|**Efficient Visualization of Neural Networks with Generative Models and Adversarial Perturbations**|Athanasios Karagounis et.al.|[2409.13559v1](http://arxiv.org/abs/2409.13559v1)|null|
 |**2024-09-20**|**Hidden Activations Are Not Enough: A General Approach to Neural Network Predictions**|Samuel Leblanc et.al.|[2409.13163v1](http://arxiv.org/abs/2409.13163v1)|**[link](https://github.com/marcoarmenta/hidden-activations-are-not-enough)**|
-|**2024-09-19**|**Deep generative models as an adversarial attack strategy for tabular machine learning**|Salijona Dyrmishi et.al.|[2409.12642v1](http://arxiv.org/abs/2409.12642v1)|null|
+|**2024-09-19**|**Deep generative models as an adversarial attack strategy for tabular machine learning**|Salijona Dyrmishi et.al.|[2409.12642v1](http://arxiv.org/abs/2409.12642v1)|**[link](https://github.com/salijona/c-advdgm)**|
 |**2024-09-19**|**TEAM: Temporal Adversarial Examples Attack Model against Network Intrusion Detection System Applied to RNN**|Ziyi Liu et.al.|[2409.12472v1](http://arxiv.org/abs/2409.12472v1)|null|
 |**2024-09-19**|**Enhancing 3D Robotic Vision Robustness by Minimizing Adversarial Mutual Information through a Curriculum Training Approach**|Nastaran Darabi et.al.|[2409.12379v1](http://arxiv.org/abs/2409.12379v1)|**[link](https://github.com/nstrndrbi/mine-n-learn)**|
 |**2024-09-12**|**FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning**|Minxue Tang et.al.|[2409.08372v1](http://arxiv.org/abs/2409.08372v1)|null|
@@ -681,6 +681,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**|Matt Deitke et.al.|[2409.17146v1](http://arxiv.org/abs/2409.17146v1)|null|
+|**2024-09-25**|**DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**|Yukun Huang et.al.|[2409.17145v1](http://arxiv.org/abs/2409.17145v1)|null|
+|**2024-09-25**|**Differential Privacy Regularization: Protecting Training Data Through Loss Function Regularization**|Francisco Aguilera-Martínez et.al.|[2409.17144v1](http://arxiv.org/abs/2409.17144v1)|null|
+|**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|Runpeng Yu et.al.|[2409.17143v1](http://arxiv.org/abs/2409.17143v1)|**[link](https://github.com/yu-rp/apiprompting)**|
+|**2024-09-25**|**Visualizing Dynamics of Charges and Strings in (2+1)D Lattice Gauge Theories**|Tyler A. Cochran et.al.|[2409.17142v1](http://arxiv.org/abs/2409.17142v1)|null|
+|**2024-09-25**|**FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression**|Fazal Mittu et.al.|[2409.17141v1](http://arxiv.org/abs/2409.17141v1)|**[link](https://github.com/fazalmittu/finezip)**|
+|**2024-09-25**|**Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents**|Junting Lu et.al.|[2409.17140v1](http://arxiv.org/abs/2409.17140v1)|null|
+|**2024-09-25**|**Learning with Dynamics: Autonomous Regulation of UAV Based Communication Networks with Dynamic UAV Crew**|Ran Zhang et.al.|[2409.17139v1](http://arxiv.org/abs/2409.17139v1)|null|
+|**2024-09-25**|**Landscape of Policy Optimization for Finite Horizon MDPs with General State and Action**|Xin Chen et.al.|[2409.17138v1](http://arxiv.org/abs/2409.17138v1)|null|
+|**2024-09-25**|**PACE: marrying generalization in PArameter-efficient fine-tuning with Consistency rEgularization**|Yao Ni et.al.|[2409.17137v1](http://arxiv.org/abs/2409.17137v1)|null|
 |**2024-09-24**|**Self-Supervised Any-Point Tracking by Contrastive Random Walks**|Ayush Shrivastava et.al.|[2409.16288v1](http://arxiv.org/abs/2409.16288v1)|**[link](https://github.com/ayshrv/gmrw)**|
 |**2024-09-24**|**Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**|Xi Wang et.al.|[2409.16287v1](http://arxiv.org/abs/2409.16287v1)|null|
 |**2024-09-24**|**Age of Gossip in Networks with Multiple Views of a Source**|Kian J. Khojastepour et.al.|[2409.16285v1](http://arxiv.org/abs/2409.16285v1)|null|

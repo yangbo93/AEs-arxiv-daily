@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Discovering New Shadow Patterns for Black-Box Attacks on Lane Detection of Autonomous Vehicles**|Pedram MohajerAnsari et.al.|[2409.18248v1](http://arxiv.org/abs/2409.18248v1)|null|
 |**2024-09-26**|**Showing Many Labels in Multi-label Classification Models: An Empirical Study of Adversarial Examples**|Yujiang Liu et.al.|[2409.17568v1](http://arxiv.org/abs/2409.17568v1)|null|
 |**2024-09-24**|**Adversarial Backdoor Defense in CLIP**|Junhao Kuang et.al.|[2409.15968v1](http://arxiv.org/abs/2409.15968v1)|null|
 |**2024-09-21**|**Cloud Adversarial Example Generation for Remote Sensing Image Classification**|Fei Ma et.al.|[2409.14240v1](http://arxiv.org/abs/2409.14240v1)|null|
@@ -682,6 +683,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964v1](http://arxiv.org/abs/2409.18964v1)|**[link](https://github.com/stevenlsw/physgen)**|
+|**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962v1](http://arxiv.org/abs/2409.18962v1)|null|
+|**2024-09-27**|**ProMerge: Prompt and Merge for Unsupervised Instance Segmentation**|Dylan Li et.al.|[2409.18961v1](http://arxiv.org/abs/2409.18961v1)|null|
+|**2024-09-27**|**$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions**|Gen Li et.al.|[2409.18959v1](http://arxiv.org/abs/2409.18959v1)|null|
+|**2024-09-27**|**Generalized HMC using Nambu mechanics for lattice QCD**|Erik Lundstrum et.al.|[2409.18958v1](http://arxiv.org/abs/2409.18958v1)|null|
+|**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957v1](http://arxiv.org/abs/2409.18957v1)|**[link](https://github.com/pro-genai/lml-dap)**|
+|**2024-09-27**|**Tree height and the asymptotic mean of the Colijn-Plazzotta rank of unlabeled binary rooted trees**|Luc Devroye et.al.|[2409.18956v1](http://arxiv.org/abs/2409.18956v1)|null|
+|**2024-09-27**|**Radiative cooling induced coherent maser emission in relativistic plasmas**|Pablo J. Bilbao et.al.|[2409.18955v1](http://arxiv.org/abs/2409.18955v1)|null|
+|**2024-09-27**|**RepairBench: Leaderboard of Frontier Models for Program Repair**|André Silva et.al.|[2409.18952v1](http://arxiv.org/abs/2409.18952v1)|null|
+|**2024-09-27**|**Spectral Wavelet Dropout: Regularization in the Wavelet Domain**|Rinor Cakaj et.al.|[2409.18951v1](http://arxiv.org/abs/2409.18951v1)|null|
 |**2024-09-26**|**Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models**|Tizian Blatz et.al.|[2409.18131v1](http://arxiv.org/abs/2409.18131v1)|null|
 |**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali et.al.|[2409.18130v1](http://arxiv.org/abs/2409.18130v1)|null|
 |**2024-09-26**|**TOI-5005 b: A super-Neptune in the savanna near the ridge**|A. Castro-González et.al.|[2409.18129v1](http://arxiv.org/abs/2409.18129v1)|null|

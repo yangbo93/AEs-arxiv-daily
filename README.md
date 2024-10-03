@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697v1](http://arxiv.org/abs/2410.01697v1)|**[link](https://github.com/salomonhotegni/MOREL)**|
+|**2024-10-02**|**On Using Certified Training towards Empirical Robustness**|Alessandro De Palma et.al.|[2410.01617v1](http://arxiv.org/abs/2410.01617v1)|null|
+|**2024-10-02**|**Fake It Until You Break It: On the Adversarial Robustness of AI-generated Image Detectors**|Sina Mavali et.al.|[2410.01574v1](http://arxiv.org/abs/2410.01574v1)|**[link](https://github.com/smavali/aigi-break)**|
+|**2024-10-02**|**Signal Adversarial Examples Generation for Signal Detection Network via White-Box Attack**|Dongyang Li et.al.|[2410.01393v1](http://arxiv.org/abs/2410.01393v1)|null|
 |**2024-09-29**|**Adversarial Examples for DNA Classification**|Hyunwoo Yoo et.al.|[2409.19788v1](http://arxiv.org/abs/2409.19788v1)|null|
 |**2024-09-29**|**MASKDROID: Robust Android Malware Detection with Masked Graph Representations**|Jingnan Zheng et.al.|[2409.19594v1](http://arxiv.org/abs/2409.19594v1)|**[link](https://github.com/SophieZheng998/MaskDroid)**|
 |**2024-09-26**|**Discovering New Shadow Patterns for Black-Box Attacks on Lane Detection of Autonomous Vehicles**|Pedram MohajerAnsari et.al.|[2409.18248v1](http://arxiv.org/abs/2409.18248v1)|null|
@@ -685,6 +689,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**A Catalog of Pulsar X-ray Filaments**|Jack T. Dinsmore et.al.|[2410.01807v1](http://arxiv.org/abs/2410.01807v1)|null|
+|**2024-10-02**|**Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking**|Mattia Segu et.al.|[2410.01806v1](http://arxiv.org/abs/2410.01806v1)|null|
+|**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805v1](http://arxiv.org/abs/2410.01805v1)|**[link](https://github.com/huangyuxiang03/Locret)**|
+|**2024-10-02**|**On the expressiveness and spectral bias of KANs**|Yixuan Wang et.al.|[2410.01803v1](http://arxiv.org/abs/2410.01803v1)|null|
+|**2024-10-02**|**PROXI: Challenging the GNNs for Link Prediction**|Astrit Tola et.al.|[2410.01802v1](http://arxiv.org/abs/2410.01802v1)|**[link](https://github.com/workrep20232/proxi)**|
+|**2024-10-02**|**FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Clothing Images**|Cheng Zhang et.al.|[2410.01801v1](http://arxiv.org/abs/2410.01801v1)|null|
+|**2024-10-02**|**The Newtonian limit of orthonormal frames in metric theories of gravity**|Philip K. Schwartz et.al.|[2410.01800v1](http://arxiv.org/abs/2410.01800v1)|null|
+|**2024-10-02**|**Efficient $1$-bit tensor approximations**|Alex W. Neal Riasanovsky et.al.|[2410.01799v1](http://arxiv.org/abs/2410.01799v1)|null|
+|**2024-10-02**|**Statistical mechanics of the flexural Ising model in $D$ dimensions**|Abigail Plummer et.al.|[2410.01797v1](http://arxiv.org/abs/2410.01797v1)|null|
+|**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796v1](http://arxiv.org/abs/2410.01796v1)|null|
 |**2024-09-30**|**Continuously Improving Mobile Manipulation with Autonomous Real-World RL**|Russell Mendonca et.al.|[2409.20568v1](http://arxiv.org/abs/2409.20568v1)|null|
 |**2024-09-30**|**Doping a fractional quantum anomalous Hall insulator**|Zhengyan Darius Shi et.al.|[2409.20567v1](http://arxiv.org/abs/2409.20567v1)|null|
 |**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566v1](http://arxiv.org/abs/2409.20566v1)|null|

@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-02**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697v1](http://arxiv.org/abs/2410.01697v1)|**[link](https://github.com/salomonhotegni/MOREL)**|
+|**2024-10-03**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697v2](http://arxiv.org/abs/2410.01697v2)|**[link](https://github.com/salomonhotegni/MOREL)**|
 |**2024-10-02**|**On Using Certified Training towards Empirical Robustness**|Alessandro De Palma et.al.|[2410.01617v1](http://arxiv.org/abs/2410.01617v1)|null|
-|**2024-10-02**|**Fake It Until You Break It: On the Adversarial Robustness of AI-generated Image Detectors**|Sina Mavali et.al.|[2410.01574v1](http://arxiv.org/abs/2410.01574v1)|**[link](https://github.com/smavali/aigi-break)**|
+|**2024-10-03**|**Fake It Until You Break It: On the Adversarial Robustness of AI-generated Image Detectors**|Sina Mavali et.al.|[2410.01574v2](http://arxiv.org/abs/2410.01574v2)|**[link](https://github.com/smavali/aigi-break)**|
 |**2024-10-02**|**Signal Adversarial Examples Generation for Signal Detection Network via White-Box Attack**|Dongyang Li et.al.|[2410.01393v1](http://arxiv.org/abs/2410.01393v1)|null|
 |**2024-09-29**|**Adversarial Examples for DNA Classification**|Hyunwoo Yoo et.al.|[2409.19788v1](http://arxiv.org/abs/2409.19788v1)|null|
 |**2024-09-29**|**MASKDROID: Robust Android Malware Detection with Masked Graph Representations**|Jingnan Zheng et.al.|[2409.19594v1](http://arxiv.org/abs/2409.19594v1)|**[link](https://github.com/SophieZheng998/MaskDroid)**|

@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**LOTOS: Layer-wise Orthogonalization for Training Robust Ensembles**|Ali Ebrahimpour-Boroojeny et.al.|[2410.05136v1](http://arxiv.org/abs/2410.05136v1)|null|
+|**2024-10-06**|**Suspiciousness of Adversarial Texts to Human**|Shakila Mahjabin Tonni et.al.|[2410.04377v1](http://arxiv.org/abs/2410.04377v1)|null|
+|**2024-10-05**|**Adversarial Attacks and Robust Defenses in Speaker Embedding based Zero-Shot Text-to-Speech System**|Ze Li et.al.|[2410.04017v1](http://arxiv.org/abs/2410.04017v1)|null|
 |**2024-10-04**|**SCA: Highly Efficient Semantic-Consistent Unrestricted Adversarial Attack**|Zihao Pan et.al.|[2410.02240v2](http://arxiv.org/abs/2410.02240v2)|**[link](https://github.com/pan-zihao/sca)**|
 |**2024-10-03**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697v2](http://arxiv.org/abs/2410.01697v2)|**[link](https://github.com/salomonhotegni/MOREL)**|
 |**2024-10-02**|**On Using Certified Training towards Empirical Robustness**|Alessandro De Palma et.al.|[2410.01617v1](http://arxiv.org/abs/2410.01617v1)|null|
@@ -694,6 +697,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**|Mohammad Fahes et.al.|[2410.05270v1](http://arxiv.org/abs/2410.05270v1)|**[link](https://github.com/astra-vision/prolip)**|
+|**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269v1](http://arxiv.org/abs/2410.05269v1)|null|
+|**2024-10-07**|**Anomalous continuous symmetries and quantum topology of Goldstone modes**|Naren Manjunath et.al.|[2410.05268v1](http://arxiv.org/abs/2410.05268v1)|null|
+|**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267v1](http://arxiv.org/abs/2410.05267v1)|null|
+|**2024-10-07**|**Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers**|Andrew F. Luo et.al.|[2410.05266v1](http://arxiv.org/abs/2410.05266v1)|null|
+|**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265v1](http://arxiv.org/abs/2410.05265v1)|**[link](https://github.com/chenmnz/prefixquant)**|
+|**2024-10-07**|**Generalization of Modular Spread Complexity for Non-Hermitian Density Matrices**|Aneek Jana et.al.|[2410.05264v1](http://arxiv.org/abs/2410.05264v1)|null|
+|**2024-10-07**|**Regression Conformal Prediction under Bias**|Matt Y. Cheung et.al.|[2410.05263v1](http://arxiv.org/abs/2410.05263v1)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
+|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262v1](http://arxiv.org/abs/2410.05262v1)|null|
+|**2024-10-07**|**TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**|Ya-Qi Yu et.al.|[2410.05261v1](http://arxiv.org/abs/2410.05261v1)|null|
 |**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665v1](http://arxiv.org/abs/2410.03665v1)|null|
 |**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663v1](http://arxiv.org/abs/2410.03663v1)|null|
 |**2024-10-04**|**System 2 reasoning capabilities are nigh**|Scott C. Lowe et.al.|[2410.03662v1](http://arxiv.org/abs/2410.03662v1)|null|

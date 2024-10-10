@@ -1,4 +1,4 @@
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 
 ## Adversarial Examples
 
@@ -701,7 +701,7 @@
 |**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265v1](http://arxiv.org/abs/2410.05265v1)|**[link](https://github.com/chenmnz/prefixquant)**|
 |**2024-10-07**|**Generalization of Modular Spread Complexity for Non-Hermitian Density Matrices**|Aneek Jana et.al.|[2410.05264v1](http://arxiv.org/abs/2410.05264v1)|null|
 |**2024-10-07**|**Regression Conformal Prediction under Bias**|Matt Y. Cheung et.al.|[2410.05263v1](http://arxiv.org/abs/2410.05263v1)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
-|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262v1](http://arxiv.org/abs/2410.05262v1)|null|
+|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262v1](http://arxiv.org/abs/2410.05262v1)|**[link](https://github.com/mazzzystar/TurtleBench)**|
 |**2024-10-07**|**TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**|Ya-Qi Yu et.al.|[2410.05261v1](http://arxiv.org/abs/2410.05261v1)|null|
 |**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665v1](http://arxiv.org/abs/2410.03665v1)|null|
 |**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663v1](http://arxiv.org/abs/2410.03663v1)|null|

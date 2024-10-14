@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 
 ## Adversarial Examples
 
@@ -706,7 +706,7 @@ layout: default
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211v1](http://arxiv.org/abs/2410.08211v1)|null|
 |**2024-10-10**|**PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection**|Botao Ren et.al.|[2410.08210v1](http://arxiv.org/abs/2410.08210v1)|null|
 |**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209v1](http://arxiv.org/abs/2410.08209v1)|null|
-|**2024-10-10**|**SPA: 3D Spatial-Awareness Enables Effective Embodied Representation**|Haoyi Zhu et.al.|[2410.08208v1](http://arxiv.org/abs/2410.08208v1)|null|
+|**2024-10-11**|**SPA: 3D Spatial-Awareness Enables Effective Embodied Representation**|Haoyi Zhu et.al.|[2410.08208v2](http://arxiv.org/abs/2410.08208v2)|**[link](https://github.com/haoyizhu/realrobot)**|
 |**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207v1](http://arxiv.org/abs/2410.08207v1)|null|
 |**2024-10-10**|**Interactive4D: Interactive 4D LiDAR Segmentation**|Ilya Fradlin et.al.|[2410.08206v1](http://arxiv.org/abs/2410.08206v1)|null|
 |**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202v1](http://arxiv.org/abs/2410.08202v1)|null|

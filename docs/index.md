@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**On the Adversarial Transferability of Generalized "Skip Connections"**|Yisen Wang et.al.|[2410.08950v1](http://arxiv.org/abs/2410.08950v1)|null|
+|**2024-10-11**|**Natural Language Induced Adversarial Images**|Xiaopei Zhu et.al.|[2410.08620v1](http://arxiv.org/abs/2410.08620v1)|**[link](https://github.com/zxp555/natural-language-induced-adversarial-images)**|
+|**2024-10-11**|**Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data**|Binghui Li et.al.|[2410.08503v1](http://arxiv.org/abs/2410.08503v1)|null|
+|**2024-10-10**|**Bilinear MLPs enable weight-based mechanistic interpretability**|Michael T. Pearce et.al.|[2410.08417v1](http://arxiv.org/abs/2410.08417v1)|null|
+|**2024-10-10**|**Time Traveling to Defend Against Adversarial Example Attacks in Image Classification**|Anthony Etim et.al.|[2410.08338v1](http://arxiv.org/abs/2410.08338v1)|null|
 |**2024-10-10**|**Understanding Adversarially Robust Generalization via Weight-Curvature Index**|Yuelin Xu et.al.|[2410.07719v1](http://arxiv.org/abs/2410.07719v1)|null|
 |**2024-10-09**|**Understanding Model Ensemble in Transferable Adversarial Attack**|Wei Yao et.al.|[2410.06851v1](http://arxiv.org/abs/2410.06851v1)|null|
 |**2024-10-09**|**Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models**|Yubo Wang et.al.|[2410.06699v1](http://arxiv.org/abs/2410.06699v1)|null|
@@ -703,6 +708,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Horizon causality from holographic scattering in asymptotically dS$_3$**|Victor Franken et.al.|[2410.09050v1](http://arxiv.org/abs/2410.09050v1)|null|
+|**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049v1](http://arxiv.org/abs/2410.09049v1)|**[link](https://github.com/orangesodahub/scenecraft)**|
+|**2024-10-11**|**Towards Trustworthy LLMs for Code: A Data-Centric Synergistic Auditing Framework**|Chong Wang et.al.|[2410.09048v1](http://arxiv.org/abs/2410.09048v1)|null|
+|**2024-10-11**|**Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models**|Qin Liu et.al.|[2410.09047v1](http://arxiv.org/abs/2410.09047v1)|null|
+|**2024-10-11**|**Linear Convergence of Diffusion Models Under the Manifold Hypothesis**|Peter Potaptchik et.al.|[2410.09046v1](http://arxiv.org/abs/2410.09046v1)|null|
+|**2024-10-11**|**MiRAGeNews: Multimodal Realistic AI-Generated News Detection**|Runsheng Huang et.al.|[2410.09045v1](http://arxiv.org/abs/2410.09045v1)|null|
+|**2024-10-11**|**Systematic construction of stabilizer codes via gauging abelian boundary symmetries**|Bram Vancraeynest-De Cuiper et.al.|[2410.09044v1](http://arxiv.org/abs/2410.09044v1)|null|
+|**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043v1](http://arxiv.org/abs/2410.09043v1)|null|
+|**2024-10-11**|**Hidden under a warm blanket: If planets existed in protostellar disks, they would hardly produce observable substructures**|P. Nazari et.al.|[2410.09042v1](http://arxiv.org/abs/2410.09042v1)|null|
+|**2024-10-11**|**Inferring birth versus death dynamics for ecological interactions in stochastic heterogeneous populations**|Erin Beckman et.al.|[2410.09041v1](http://arxiv.org/abs/2410.09041v1)|null|
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211v1](http://arxiv.org/abs/2410.08211v1)|null|
 |**2024-10-10**|**PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection**|Botao Ren et.al.|[2410.08210v1](http://arxiv.org/abs/2410.08210v1)|null|
 |**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209v1](http://arxiv.org/abs/2410.08209v1)|null|

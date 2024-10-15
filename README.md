@@ -7,7 +7,7 @@
 |**2024-10-11**|**On the Adversarial Transferability of Generalized "Skip Connections"**|Yisen Wang et.al.|[2410.08950v1](http://arxiv.org/abs/2410.08950v1)|null|
 |**2024-10-11**|**Natural Language Induced Adversarial Images**|Xiaopei Zhu et.al.|[2410.08620v1](http://arxiv.org/abs/2410.08620v1)|**[link](https://github.com/zxp555/natural-language-induced-adversarial-images)**|
 |**2024-10-11**|**Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data**|Binghui Li et.al.|[2410.08503v1](http://arxiv.org/abs/2410.08503v1)|null|
-|**2024-10-10**|**Bilinear MLPs enable weight-based mechanistic interpretability**|Michael T. Pearce et.al.|[2410.08417v1](http://arxiv.org/abs/2410.08417v1)|null|
+|**2024-10-10**|**Bilinear MLPs enable weight-based mechanistic interpretability**|Michael T. Pearce et.al.|[2410.08417v1](http://arxiv.org/abs/2410.08417v1)|**[link](https://github.com/tdooms/bilinear-decomposition)**|
 |**2024-10-10**|**Time Traveling to Defend Against Adversarial Example Attacks in Image Classification**|Anthony Etim et.al.|[2410.08338v1](http://arxiv.org/abs/2410.08338v1)|null|
 |**2024-10-10**|**Understanding Adversarially Robust Generalization via Weight-Curvature Index**|Yuelin Xu et.al.|[2410.07719v1](http://arxiv.org/abs/2410.07719v1)|null|
 |**2024-10-09**|**Understanding Model Ensemble in Transferable Adversarial Attack**|Wei Yao et.al.|[2410.06851v1](http://arxiv.org/abs/2410.06851v1)|null|
@@ -704,6 +704,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821v1](http://arxiv.org/abs/2410.10821v1)|null|
+|**2024-10-14**|**High-resolution transmission spectroscopy of the hot-Saturn HD 149026b**|Federico Biassoni et.al.|[2410.10820v1](http://arxiv.org/abs/2410.10820v1)|null|
+|**2024-10-14**|**DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads**|Guangxuan Xiao et.al.|[2410.10819v1](http://arxiv.org/abs/2410.10819v1)|**[link](https://github.com/mit-han-lab/duo-attention)**|
+|**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818v1](http://arxiv.org/abs/2410.10818v1)|null|
+|**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817v1](http://arxiv.org/abs/2410.10817v1)|null|
+|**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816v1](http://arxiv.org/abs/2410.10816v1)|**[link](https://github.com/silentview/lvd-2m)**|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815v1](http://arxiv.org/abs/2410.10815v1)|null|
+|**2024-10-14**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814v1](http://arxiv.org/abs/2410.10814v1)|null|
+|**2024-10-14**|**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**|Di Wu et.al.|[2410.10813v1](http://arxiv.org/abs/2410.10813v1)|**[link](https://github.com/xiaowu0162/longmemeval)**|
+|**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812v1](http://arxiv.org/abs/2410.10812v1)|**[link](https://github.com/mit-han-lab/hart)**|
 |**2024-10-11**|**Horizon causality from holographic scattering in asymptotically dS$_3$**|Victor Franken et.al.|[2410.09050v1](http://arxiv.org/abs/2410.09050v1)|null|
 |**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049v1](http://arxiv.org/abs/2410.09049v1)|**[link](https://github.com/orangesodahub/scenecraft)**|
 |**2024-10-11**|**Towards Trustworthy LLMs for Code: A Data-Centric Synergistic Auditing Framework**|Chong Wang et.al.|[2410.09048v1](http://arxiv.org/abs/2410.09048v1)|null|

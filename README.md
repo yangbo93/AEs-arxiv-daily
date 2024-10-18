@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Golyadkin's Torment: Doppelgängers and Adversarial Vulnerability**|George I. Kamberov et.al.|[2410.13193v1](http://arxiv.org/abs/2410.13193v1)|null|
+|**2024-10-17**|**Boosting Imperceptibility of Stable Diffusion-based Adversarial Examples Generation with Momentum**|Nashrah Haque et.al.|[2410.13122v1](http://arxiv.org/abs/2410.13122v1)|**[link](https://github.com/nashrahhaque/sd-miae)**|
 |**2024-10-16**|**DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain**|Fengpeng Li et.al.|[2410.12307v1](http://arxiv.org/abs/2410.12307v1)|null|
 |**2024-10-11**|**On the Adversarial Transferability of Generalized "Skip Connections"**|Yisen Wang et.al.|[2410.08950v1](http://arxiv.org/abs/2410.08950v1)|null|
 |**2024-10-11**|**Natural Language Induced Adversarial Images**|Xiaopei Zhu et.al.|[2410.08620v1](http://arxiv.org/abs/2410.08620v1)|**[link](https://github.com/zxp555/natural-language-induced-adversarial-images)**|
@@ -705,6 +707,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**UniDrive: Towards Universal Driving Perception Across Camera Configurations**|Ye Li et.al.|[2410.13864v1](http://arxiv.org/abs/2410.13864v1)|**[link](https://github.com/ywyeli/unidrive)**|
+|**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863v1](http://arxiv.org/abs/2410.13863v1)|null|
+|**2024-10-17**|**DepthSplat: Connecting Gaussian Splatting and Depth**|Haofei Xu et.al.|[2410.13862v1](http://arxiv.org/abs/2410.13862v1)|**[link](https://github.com/cvg/depthsplat)**|
+|**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|Rongyao Fang et.al.|[2410.13861v1](http://arxiv.org/abs/2410.13861v1)|**[link](https://github.com/rongyaofang/puma)**|
+|**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860v1](http://arxiv.org/abs/2410.13860v1)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
+|**2024-10-17**|**$γ-$MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**|Yaxin Luo et.al.|[2410.13859v1](http://arxiv.org/abs/2410.13859v1)|null|
+|**2024-10-17**|**Monte Carlo Study of Critical Fermi Surface with Spatial Disorder Interactions**|Tu Hong et.al.|[2410.13858v1](http://arxiv.org/abs/2410.13858v1)|null|
+|**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857v1](http://arxiv.org/abs/2410.13857v1)|null|
+|**2024-10-17**|**A Fourier analysis framework for approximate classical simulations of quantum circuits**|Cristina Cirstoiu et.al.|[2410.13856v1](http://arxiv.org/abs/2410.13856v1)|null|
+|**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855v1](http://arxiv.org/abs/2410.13855v1)|**[link](https://github.com/ziqian2000/smiling)**|
 |**2024-10-16**|**Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media**|Ross Deans Kristensen-McLachlan et.al.|[2410.12791v1](http://arxiv.org/abs/2410.12791v1)|null|
 |**2024-10-16**|**Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models**|Ce Zhang et.al.|[2410.12790v1](http://arxiv.org/abs/2410.12790v1)|null|
 |**2024-10-16**|**Altermagnetic Instabilities from Quantum Geometry**|Niclas Heinsdorf et.al.|[2410.12789v1](http://arxiv.org/abs/2410.12789v1)|null|

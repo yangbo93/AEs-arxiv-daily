@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Metric as Transform: Exploring beyond Affine Transform for Interpretable Neural Network**|Suman Sapkota et.al.|[2410.16159v1](http://arxiv.org/abs/2410.16159v1)|null|
+|**2024-10-21**|**Model Mimic Attack: Knowledge Distillation for Provably Transferable Adversarial Examples**|Kirill Lukyanov et.al.|[2410.15889v1](http://arxiv.org/abs/2410.15889v1)|null|
+|**2024-10-20**|**Efficient Model Extraction via Boundary Sampling**|Maor Biton Dor et.al.|[2410.15429v1](http://arxiv.org/abs/2410.15429v1)|null|
+|**2024-10-20**|**PEAS: A Strategy for Crafting Transferable Adversarial Examples**|Bar Avraham et.al.|[2410.15409v1](http://arxiv.org/abs/2410.15409v1)|null|
+|**2024-10-19**|**Adversarial Training: A Survey**|Mengnan Zhao et.al.|[2410.15042v1](http://arxiv.org/abs/2410.15042v1)|null|
+|**2024-10-18**|**A Hybrid Defense Strategy for Boosting Adversarial Robustness in Vision-Language Models**|Yuhan Liang et.al.|[2410.14911v1](http://arxiv.org/abs/2410.14911v1)|null|
 |**2024-10-17**|**MMAD-Purify: A Precision-Optimized Framework for Efficient and Scalable Multi-Modal Attacks**|Xinxin Liu et.al.|[2410.14089v1](http://arxiv.org/abs/2410.14089v1)|null|
 |**2024-10-13**|**S$^4$ST: A Strong, Self-transferable, faSt, and Simple Scale Transformation for Transferable Targeted Attack**|Yongxiang Liu et.al.|[2410.13891v1](http://arxiv.org/abs/2410.13891v1)|null|
 |**2024-10-17**|**Golyadkin's Torment: Doppelgängers and Adversarial Vulnerability**|George I. Kamberov et.al.|[2410.13193v1](http://arxiv.org/abs/2410.13193v1)|null|
@@ -713,6 +719,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Multiparticle scalar dark matter with $\mathbb{Z}_N$ symmetry**|Subhaditya Bhattacharya et.al.|[2410.16275v1](http://arxiv.org/abs/2410.16275v1)|null|
+|**2024-10-21**|**Cosmic Shimmering: the Gravitational Wave Signal of Time-Resolved Cosmic Shear Observations**|Giorgio Mentasti et.al.|[2410.16274v1](http://arxiv.org/abs/2410.16274v1)|null|
+|**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272v1](http://arxiv.org/abs/2410.16272v1)|null|
+|**2024-10-21**|**Reflection-Bench: probing AI intelligence with reflection**|Lingyu Li et.al.|[2410.16270v1](http://arxiv.org/abs/2410.16270v1)|**[link](https://github.com/yabyum/reflectionbench)**|
+|**2024-10-21**|**SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree**|Shuangrui Ding et.al.|[2410.16268v1](http://arxiv.org/abs/2410.16268v1)|**[link](https://github.com/mark12ding/sam2long)**|
+|**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267v1](http://arxiv.org/abs/2410.16267v1)|null|
+|**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266v1](http://arxiv.org/abs/2410.16266v1)|null|
+|**2024-10-21**|**Quantifying the advantages of applying quantum approximate algorithms to portfolio optimisation**|Haomu Yuan et.al.|[2410.16265v1](http://arxiv.org/abs/2410.16265v1)|null|
+|**2024-10-21**|**Hyperbolicity in scalar-Gauss-Bonnet gravity: a gauge invariant study for spherical evolution**|Farid Thaalba et.al.|[2410.16264v1](http://arxiv.org/abs/2410.16264v1)|null|
+|**2024-10-21**|**Surface acoustic waves Brillouin photonics on a silicon nitride chip**|Yvan Klaver et.al.|[2410.16263v1](http://arxiv.org/abs/2410.16263v1)|null|
 |**2024-10-18**|**Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts**|German Gritsai et.al.|[2410.14677v1](http://arxiv.org/abs/2410.14677v1)|null|
 |**2024-10-18**|**SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment**|Qin Liu et.al.|[2410.14676v1](http://arxiv.org/abs/2410.14676v1)|null|
 |**2024-10-18**|**Enhancing Large Language Models' Situated Faithfulness to External Contexts**|Yukun Huang et.al.|[2410.14675v1](http://arxiv.org/abs/2410.14675v1)|**[link](https://github.com/kkkevinkkkkk/situated_faithfulness)**|

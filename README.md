@@ -715,6 +715,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Cosmic Ray Mediated Thermal Fronts in the Warm-Hot Circumgalactic Medium**|Hanjue Zhu et.al.|[2410.17252v1](http://arxiv.org/abs/2410.17252v1)|null|
+|**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251v1](http://arxiv.org/abs/2410.17251v1)|null|
+|**2024-10-22**|**JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark for Culture-aware Evaluation**|Shota Onohara et.al.|[2410.17250v1](http://arxiv.org/abs/2410.17250v1)|null|
+|**2024-10-22**|**SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes**|Cheng-De Fan et.al.|[2410.17249v1](http://arxiv.org/abs/2410.17249v1)|null|
+|**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248v1](http://arxiv.org/abs/2410.17248v1)|null|
+|**2024-10-22**|**PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction**|Long Xing et.al.|[2410.17247v1](http://arxiv.org/abs/2410.17247v1)|**[link](https://github.com/cooperx521/pyramiddrop)**|
+|**2024-10-22**|**Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins**|Venkatesh Pattabiraman et.al.|[2410.17246v1](http://arxiv.org/abs/2410.17246v1)|null|
+|**2024-10-22**|**Towards Reliable Evaluation of Behavior Steering Interventions in LLMs**|Itamar Pres et.al.|[2410.17245v1](http://arxiv.org/abs/2410.17245v1)|null|
+|**2024-10-22**|**Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss**|Zesen Cheng et.al.|[2410.17243v1](http://arxiv.org/abs/2410.17243v1)|**[link](https://github.com/damo-nlp-sg/inf-clip)**|
+|**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242v1](http://arxiv.org/abs/2410.17242v1)|null|
 |**2024-10-21**|**Multiparticle scalar dark matter with $\mathbb{Z}_N$ symmetry**|Subhaditya Bhattacharya et.al.|[2410.16275v1](http://arxiv.org/abs/2410.16275v1)|null|
 |**2024-10-21**|**Cosmic Shimmering: the Gravitational Wave Signal of Time-Resolved Cosmic Shear Observations**|Giorgio Mentasti et.al.|[2410.16274v1](http://arxiv.org/abs/2410.16274v1)|null|
 |**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272v1](http://arxiv.org/abs/2410.16272v1)|null|

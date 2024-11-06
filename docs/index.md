@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Enhancing Adversarial Robustness via Uncertainty-Aware Distributional Adversarial Training**|Junhao Dong et.al.|[2411.02871v1](http://arxiv.org/abs/2411.02871v1)|null|
+|**2024-11-04**|**Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack**|Xiaojun Jia et.al.|[2411.02669v1](http://arxiv.org/abs/2411.02669v1)|**[link](https://github.com/jiaxiaojunqaq/sa-aet)**|
 |**2024-11-04**|**LiDAttack: Robust Black-box Attack on LiDAR-based Object Detection**|Jinyin Chen et.al.|[2411.01889v1](http://arxiv.org/abs/2411.01889v1)|**[link](https://github.com/cinderyl/lidattack)**|
 |**2024-11-01**|**Replace-then-Perturb: Targeted Adversarial Attacks With Visual Reasoning for Vision-Language Models**|Jonggyu Jang et.al.|[2411.00898v1](http://arxiv.org/abs/2411.00898v1)|null|
 |**2024-10-29**|**CausAdv: A Causal-based Framework for Detecting Adversarial Examples**|Hichem Debbi et.al.|[2411.00839v1](http://arxiv.org/abs/2411.00839v1)|null|
@@ -736,6 +738,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning**|Ziliang Gan et.al.|[2411.03314v1](http://arxiv.org/abs/2411.03314v1)|null|
+|**2024-11-05**|**Classification Done Right for Vision-Language Pre-Training**|Huang Zilong et.al.|[2411.03313v1](http://arxiv.org/abs/2411.03313v1)|**[link](https://github.com/x-cls/superclass)**|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312v1](http://arxiv.org/abs/2411.03312v1)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**Minkowski ideals and rings**|Geir Agnarsson et.al.|[2411.03310v1](http://arxiv.org/abs/2411.03310v1)|null|
+|**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307v1](http://arxiv.org/abs/2411.03307v1)|null|
+|**2024-11-05**|**Spontaneous Flows and Quantum Analogies in Heterogeneous Active Nematic Films**|Alexander J. H. Houston et.al.|[2411.03306v1](http://arxiv.org/abs/2411.03306v1)|null|
+|**2024-11-05**|**Quantum One-Time Protection of any Randomized Algorithm**|Sam Gunn et.al.|[2411.03305v1](http://arxiv.org/abs/2411.03305v1)|null|
+|**2024-11-05**|**Bayesian Controlled FDR Variable Selection via Knockoffs**|Lorenzo Focardi-Olmi et.al.|[2411.03304v1](http://arxiv.org/abs/2411.03304v1)|null|
+|**2024-11-05**|**Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor**|Anish Bhattacharya et.al.|[2411.03303v1](http://arxiv.org/abs/2411.03303v1)|null|
+|**2024-11-05**|**Low-Overhead Entangling Gates from Generalised Dehn Twists**|Ryan Tiew et.al.|[2411.03302v1](http://arxiv.org/abs/2411.03302v1)|null|
 |**2024-11-04**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397v1](http://arxiv.org/abs/2411.02397v1)|null|
 |**2024-11-04**|**Fusion of Tree-induced Regressions for Clinico-genomic Data**|Jeroen M. Goedhart et.al.|[2411.02396v1](http://arxiv.org/abs/2411.02396v1)|null|
 |**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395v1](http://arxiv.org/abs/2411.02395v1)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|

@@ -738,6 +738,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125v1](http://arxiv.org/abs/2411.04125v1)|null|
+|**2024-11-06**|**The monoid representation of upho posets and total positivity**|Ziyao Fu et.al.|[2411.04123v1](http://arxiv.org/abs/2411.04123v1)|null|
+|**2024-11-06**|**Second order cone relaxations for quantum Max Cut**|Felix Huber et.al.|[2411.04120v1](http://arxiv.org/abs/2411.04120v1)|null|
+|**2024-11-06**|**Marcinkiewicz-Zygmund inequalities in quasi-Banach function spaces**|Yurii Kolomoitsev et.al.|[2411.04119v1](http://arxiv.org/abs/2411.04119v1)|null|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v1](http://arxiv.org/abs/2411.04118v1)|null|
+|**2024-11-06**|**Poisson genericity in numeration systems with exponentially mixing probabilities**|Nicolás Álvarez et.al.|[2411.04116v1](http://arxiv.org/abs/2411.04116v1)|null|
+|**2024-11-06**|**Condensing Against Online Adversaries**|Eshan Chattopadhyay et.al.|[2411.04115v1](http://arxiv.org/abs/2411.04115v1)|null|
+|**2024-11-06**|**Age of Gossip With Time-Varying Topologies**|Arunabh Srivastava et.al.|[2411.04114v1](http://arxiv.org/abs/2411.04114v1)|null|
+|**2024-11-06**|**Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**|Shreya Gummadi et.al.|[2411.04112v1](http://arxiv.org/abs/2411.04112v1)|null|
+|**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109v1](http://arxiv.org/abs/2411.04109v1)|null|
 |**2024-11-05**|**MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning**|Ziliang Gan et.al.|[2411.03314v1](http://arxiv.org/abs/2411.03314v1)|null|
 |**2024-11-06**|**Classification Done Right for Vision-Language Pre-Training**|Zilong Huang et.al.|[2411.03313v2](http://arxiv.org/abs/2411.03313v2)|**[link](https://github.com/x-cls/superclass)**|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312v1](http://arxiv.org/abs/2411.03312v1)|**[link](https://github.com/locuslab/llava-token-compression)**|

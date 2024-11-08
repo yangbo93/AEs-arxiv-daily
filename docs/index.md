@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 
 ## Adversarial Examples
 
@@ -739,7 +739,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125v1](http://arxiv.org/abs/2411.04125v1)|null|
-|**2024-11-06**|**The monoid representation of upho posets and total positivity**|Ziyao Fu et.al.|[2411.04123v1](http://arxiv.org/abs/2411.04123v1)|null|
+|**2024-11-07**|**The monoid representation of upho posets and total positivity**|Ziyao Fu et.al.|[2411.04123v2](http://arxiv.org/abs/2411.04123v2)|null|
 |**2024-11-06**|**Second order cone relaxations for quantum Max Cut**|Felix Huber et.al.|[2411.04120v1](http://arxiv.org/abs/2411.04120v1)|null|
 |**2024-11-06**|**Marcinkiewicz-Zygmund inequalities in quasi-Banach function spaces**|Yurii Kolomoitsev et.al.|[2411.04119v1](http://arxiv.org/abs/2411.04119v1)|null|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v1](http://arxiv.org/abs/2411.04118v1)|null|

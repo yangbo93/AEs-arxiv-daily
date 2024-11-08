@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Neural Fingerprints for Adversarial Attack Detection**|Haim Fisher et.al.|[2411.04533v1](http://arxiv.org/abs/2411.04533v1)|null|
 |**2024-11-05**|**Enhancing Adversarial Robustness via Uncertainty-Aware Distributional Adversarial Training**|Junhao Dong et.al.|[2411.02871v1](http://arxiv.org/abs/2411.02871v1)|null|
 |**2024-11-04**|**Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack**|Xiaojun Jia et.al.|[2411.02669v1](http://arxiv.org/abs/2411.02669v1)|**[link](https://github.com/jiaxiaojunqaq/sa-aet)**|
 |**2024-11-04**|**LiDAttack: Robust Black-box Attack on LiDAR-based Object Detection**|Jinyin Chen et.al.|[2411.01889v1](http://arxiv.org/abs/2411.01889v1)|**[link](https://github.com/cinderyl/lidattack)**|
@@ -734,6 +735,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007v1](http://arxiv.org/abs/2411.05007v1)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
+|**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006v1](http://arxiv.org/abs/2411.05006v1)|null|
+|**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005v1](http://arxiv.org/abs/2411.05005v1)|null|
+|**2024-11-07**|**Long-range entanglement from spontaneous non-onsite symmetry breaking**|Zhehao Zhang et.al.|[2411.05004v1](http://arxiv.org/abs/2411.05004v1)|null|
+|**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003v1](http://arxiv.org/abs/2411.05003v1)|null|
+|**2024-11-07**|**Extracting Axion String Network Parameters from Simulated CMB Birefringence Maps using Convolutional Neural Networks**|Ray Hagimoto et.al.|[2411.05002v1](http://arxiv.org/abs/2411.05002v1)|null|
+|**2024-11-07**|**Analyzing The Language of Visual Tokens**|David M. Chan et.al.|[2411.05001v1](http://arxiv.org/abs/2411.05001v1)|null|
+|**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000v1](http://arxiv.org/abs/2411.05000v1)|null|
+|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999v1](http://arxiv.org/abs/2411.04999v1)|null|
+|**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997v1](http://arxiv.org/abs/2411.04997v1)|**[link](https://github.com/microsoft/LLM2CLIP)**|
 |**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125v1](http://arxiv.org/abs/2411.04125v1)|null|
 |**2024-11-07**|**The monoid representation of upho posets and total positivity**|Ziyao Fu et.al.|[2411.04123v2](http://arxiv.org/abs/2411.04123v2)|null|
 |**2024-11-06**|**Second order cone relaxations for quantum Max Cut**|Felix Huber et.al.|[2411.04120v1](http://arxiv.org/abs/2411.04120v1)|null|

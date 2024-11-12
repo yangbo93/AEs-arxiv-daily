@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Boosting the Targeted Transferability of Adversarial Examples via Salient Region & Weighted Feature Drop**|Shanjun Xu et.al.|[2411.06784v1](http://arxiv.org/abs/2411.06784v1)|null|
+|**2024-11-11**|**Adversarial Detection with a Dynamically Stable System**|Xiaowei Long et.al.|[2411.06666v1](http://arxiv.org/abs/2411.06666v1)|null|
 |**2024-11-07**|**Neural Fingerprints for Adversarial Attack Detection**|Haim Fisher et.al.|[2411.04533v1](http://arxiv.org/abs/2411.04533v1)|**[link](https://github.com/HaimFisher/fingerprints-armor)**|
 |**2024-11-05**|**Enhancing Adversarial Robustness via Uncertainty-Aware Distributional Adversarial Training**|Junhao Dong et.al.|[2411.02871v1](http://arxiv.org/abs/2411.02871v1)|null|
 |**2024-11-04**|**Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack**|Xiaojun Jia et.al.|[2411.02669v1](http://arxiv.org/abs/2411.02669v1)|**[link](https://github.com/jiaxiaojunqaq/sa-aet)**|
@@ -735,6 +737,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**A novel approach to understanding the link between supermassive black holes and host galaxies**|Gabriel Sasseville et.al.|[2411.07242v1](http://arxiv.org/abs/2411.07242v1)|null|
+|**2024-11-11**|**A necessary and sufficient condition for $k$-transversals**|Daniel McGinnis et.al.|[2411.07241v1](http://arxiv.org/abs/2411.07241v1)|null|
+|**2024-11-11**|**UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**|Bo Yang et.al.|[2411.07240v1](http://arxiv.org/abs/2411.07240v1)|null|
+|**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239v1](http://arxiv.org/abs/2411.07239v1)|null|
+|**2024-11-11**|**OpenThaiGPT 1.5: A Thai-Centric Open Source Large Language Model**|Sumeth Yuenyong et.al.|[2411.07238v1](http://arxiv.org/abs/2411.07238v1)|null|
+|**2024-11-11**|**Contextualized Evaluations: Taking the Guesswork Out of Language Model Evaluations**|Chaitanya Malaviya et.al.|[2411.07237v1](http://arxiv.org/abs/2411.07237v1)|null|
+|**2024-11-11**|**Floquet Topological Dissipative Kerr Solitons and Incommensurate Frequency Combs**|Seyed Danial Hashemi et.al.|[2411.07236v1](http://arxiv.org/abs/2411.07236v1)|null|
+|**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233v1](http://arxiv.org/abs/2411.07233v1)|null|
+|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232v1](http://arxiv.org/abs/2411.07232v1)|null|
+|**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231v1](http://arxiv.org/abs/2411.07231v1)|null|
 |**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787v1](http://arxiv.org/abs/2411.05787v1)|null|
 |**2024-11-08**|**Phases of decodability in the surface code with unitary errors**|Yimu Bao et.al.|[2411.05785v1](http://arxiv.org/abs/2411.05785v1)|null|
 |**2024-11-08**|**Safe Reinforcement Learning of Robot Trajectories in the Presence of Moving Obstacles**|Jonas Kiemel et.al.|[2411.05784v1](http://arxiv.org/abs/2411.05784v1)|null|

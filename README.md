@@ -1,4 +1,4 @@
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 
 ## Adversarial Examples
 
@@ -745,7 +745,7 @@
 |**2024-11-11**|**Contextualized Evaluations: Taking the Guesswork Out of Language Model Evaluations**|Chaitanya Malaviya et.al.|[2411.07237v1](http://arxiv.org/abs/2411.07237v1)|null|
 |**2024-11-11**|**Floquet Topological Dissipative Kerr Solitons and Incommensurate Frequency Combs**|Seyed Danial Hashemi et.al.|[2411.07236v1](http://arxiv.org/abs/2411.07236v1)|null|
 |**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233v1](http://arxiv.org/abs/2411.07233v1)|null|
-|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232v1](http://arxiv.org/abs/2411.07232v1)|null|
+|**2024-11-12**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232v2](http://arxiv.org/abs/2411.07232v2)|null|
 |**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231v1](http://arxiv.org/abs/2411.07231v1)|null|
 |**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787v1](http://arxiv.org/abs/2411.05787v1)|null|
 |**2024-11-08**|**Phases of decodability in the surface code with unitary errors**|Yimu Bao et.al.|[2411.05785v1](http://arxiv.org/abs/2411.05785v1)|null|

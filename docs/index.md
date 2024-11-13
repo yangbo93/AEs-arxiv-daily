@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**IAE: Irony-based Adversarial Examples for Sentiment Analysis Systems**|Xiaoyin Yi et.al.|[2411.07850v1](http://arxiv.org/abs/2411.07850v1)|null|
+|**2024-11-12**|**Chain Association-based Attacking and Shielding Natural Language Processing Systems**|Jiacheng Huang et.al.|[2411.07843v1](http://arxiv.org/abs/2411.07843v1)|null|
 |**2024-11-11**|**Boosting the Targeted Transferability of Adversarial Examples via Salient Region & Weighted Feature Drop**|Shanjun Xu et.al.|[2411.06784v1](http://arxiv.org/abs/2411.06784v1)|null|
 |**2024-11-11**|**Adversarial Detection with a Dynamically Stable System**|Xiaowei Long et.al.|[2411.06666v1](http://arxiv.org/abs/2411.06666v1)|null|
 |**2024-11-07**|**Neural Fingerprints for Adversarial Attack Detection**|Haim Fisher et.al.|[2411.04533v1](http://arxiv.org/abs/2411.04533v1)|**[link](https://github.com/HaimFisher/fingerprints-armor)**|
@@ -741,6 +743,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034v1](http://arxiv.org/abs/2411.08034v1)|null|
+|**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033v1](http://arxiv.org/abs/2411.08033v1)|null|
+|**2024-11-12**|**$\tildeξ$-attractors in metric-affine gravity**|Antonio Racioppi et.al.|[2411.08031v1](http://arxiv.org/abs/2411.08031v1)|null|
+|**2024-11-12**|**Integrable fishnet circuits and Brownian solitons**|Žiga Krajnik et.al.|[2411.08030v1](http://arxiv.org/abs/2411.08030v1)|null|
+|**2024-11-12**|**The discovery and characterization of minimoon 2024 PT$_5$**|Bryce T. Bolin et.al.|[2411.08029v1](http://arxiv.org/abs/2411.08029v1)|null|
+|**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028v1](http://arxiv.org/abs/2411.08028v1)|null|
+|**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027v1](http://arxiv.org/abs/2411.08027v1)|null|
+|**2024-11-12**|**Incentive Design with Spillovers**|Krishna Dasaratha et.al.|[2411.08026v1](http://arxiv.org/abs/2411.08026v1)|null|
+|**2024-11-12**|**Leonardo vindicated: Pythagorean trees for minimal reconstruction of the natural branching structures**|Dymitr Ruta et.al.|[2411.08024v1](http://arxiv.org/abs/2411.08024v1)|null|
+|**2024-11-12**|**How neutron star properties disfavor a nuclear chiral density wave**|Orestis Papadopoulos et.al.|[2411.08023v1](http://arxiv.org/abs/2411.08023v1)|null|
 |**2024-11-11**|**A novel approach to understanding the link between supermassive black holes and host galaxies**|Gabriel Sasseville et.al.|[2411.07242v1](http://arxiv.org/abs/2411.07242v1)|null|
 |**2024-11-11**|**A necessary and sufficient condition for $k$-transversals**|Daniel McGinnis et.al.|[2411.07241v1](http://arxiv.org/abs/2411.07241v1)|null|
 |**2024-11-11**|**UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**|Bo Yang et.al.|[2411.07240v1](http://arxiv.org/abs/2411.07240v1)|null|

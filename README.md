@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Theoretical Corrections and the Leveraging of Reinforcement Learning to Enhance Triangle Attack**|Nicole Meng et.al.|[2411.12071v1](http://arxiv.org/abs/2411.12071v1)|null|
 |**2024-11-15**|**Continual Adversarial Reinforcement Learning (CARL) of False Data Injection detection: forgetting and explainability**|Pooja Aslami et.al.|[2411.10367v1](http://arxiv.org/abs/2411.10367v1)|null|
 |**2024-11-15**|**A Hard-Label Cryptanalytic Extraction of Non-Fully Connected Deep Neural Networks using Side-Channel Attacks**|Benoit Coqueret et.al.|[2411.10174v1](http://arxiv.org/abs/2411.10174v1)|null|
 |**2024-11-12**|**IAE: Irony-based Adversarial Examples for Sentiment Analysis Systems**|Xiaoyin Yi et.al.|[2411.07850v1](http://arxiv.org/abs/2411.07850v1)|null|
@@ -741,6 +742,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**RR Lyrae Stars in Intermediate-age Magellanic Clusters: Membership Probabilities and Delay Time Distribution**|Bolivia Cuevas-Otahola et.al.|[2411.12741v1](http://arxiv.org/abs/2411.12741v1)|null|
+|**2024-11-19**|**Improving the solver for the Balitsky-Kovchegov evolution equation with Automatic Differentiation**|Florian Cougoulic et.al.|[2411.12739v1](http://arxiv.org/abs/2411.12739v1)|null|
+|**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736v1](http://arxiv.org/abs/2411.12736v1)|null|
+|**2024-11-19**|**The More the Merrier: On Evolving Five-valued Spectra Boolean Functions**|Claude Carlet et.al.|[2411.12735v1](http://arxiv.org/abs/2411.12735v1)|null|
+|**2024-11-19**|**Soft Robotic Dynamic In-Hand Pen Spinning**|Yunchao Yao et.al.|[2411.12734v1](http://arxiv.org/abs/2411.12734v1)|null|
+|**2024-11-19**|**Benchmarking Positional Encodings for GNNs and Graph Transformers**|Florian Grötschla et.al.|[2411.12732v1](http://arxiv.org/abs/2411.12732v1)|null|
+|**2024-11-19**|**Testing classical properties from quantum data**|Matthias C. Caro et.al.|[2411.12730v1](http://arxiv.org/abs/2411.12730v1)|null|
+|**2024-11-19**|**Precise study of triply charmed baryons ($Ω_{ccc}$)**|Navdeep Singh Dhindsa et.al.|[2411.12729v1](http://arxiv.org/abs/2411.12729v1)|null|
+|**2024-11-19**|**Information Theory of Meaningful Communication**|Doron Sivan et.al.|[2411.12728v1](http://arxiv.org/abs/2411.12728v1)|null|
+|**2024-11-19**|**Reinforcement Learning, Collusion, and the Folk Theorem**|Galit Askenazi-Golan et.al.|[2411.12725v1](http://arxiv.org/abs/2411.12725v1)|null|
 |**2024-11-18**|**High-precision black hole scattering with Calabi-Yau manifolds**|Mathias Driesse et.al.|[2411.11846v1](http://arxiv.org/abs/2411.11846v1)|null|
 |**2024-11-18**|**UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction**|Menghe Zhang et.al.|[2411.11845v1](http://arxiv.org/abs/2411.11845v1)|null|
 |**2024-11-18**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844v1](http://arxiv.org/abs/2411.11844v1)|null|

@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Generating Realistic Adversarial Examples for Business Processes using Variational Autoencoders**|Alexander Stevens et.al.|[2411.14263v1](http://arxiv.org/abs/2411.14263v1)|null|
 |**2024-11-18**|**Theoretical Corrections and the Leveraging of Reinforcement Learning to Enhance Triangle Attack**|Nicole Meng et.al.|[2411.12071v1](http://arxiv.org/abs/2411.12071v1)|null|
 |**2024-11-15**|**Continual Adversarial Reinforcement Learning (CARL) of False Data Injection detection: forgetting and explainability**|Pooja Aslami et.al.|[2411.10367v1](http://arxiv.org/abs/2411.10367v1)|null|
 |**2024-11-15**|**A Hard-Label Cryptanalytic Extraction of Non-Fully Connected Deep Neural Networks using Side-Channel Attacks**|Benoit Coqueret et.al.|[2411.10174v1](http://arxiv.org/abs/2411.10174v1)|null|
@@ -742,6 +743,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432v1](http://arxiv.org/abs/2411.14432v1)|**[link](https://github.com/dongyh20/insight-v)**|
+|**2024-11-21**|**On Optimal Testing of Linearity**|Vipul Arora et.al.|[2411.14431v1](http://arxiv.org/abs/2411.14431v1)|null|
+|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430v1](http://arxiv.org/abs/2411.14430v1)|null|
+|**2024-11-21**|**Transformer-based Heuristic for Advanced Air Mobility Planning**|Jun Xiang et.al.|[2411.14427v1](http://arxiv.org/abs/2411.14427v1)|null|
+|**2024-11-21**|**Quantum States Imaging of Magnetic Field Contours based on Autler-Townes Effect in Yb Atoms**|Tanaporn Na Narong et.al.|[2411.14426v1](http://arxiv.org/abs/2411.14426v1)|null|
+|**2024-11-21**|**Whack-a-Chip: The Futility of Hardware-Centric Export Controls**|Ritwik Gupta et.al.|[2411.14425v1](http://arxiv.org/abs/2411.14425v1)|null|
+|**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423v1](http://arxiv.org/abs/2411.14423v1)|null|
+|**2024-11-21**|**Bootstrapping the Chiral-Gravitational Anomaly**|Zi-Yu Dong et.al.|[2411.14422v1](http://arxiv.org/abs/2411.14422v1)|null|
+|**2024-11-21**|**From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption**|Shourya Bose et.al.|[2411.14421v1](http://arxiv.org/abs/2411.14421v1)|null|
+|**2024-11-21**|**Combining summary statistics with simulation-based inference for the 21 cm signal from the Epoch of Reionization**|Benoit Semelin et.al.|[2411.14419v1](http://arxiv.org/abs/2411.14419v1)|null|
 |**2024-11-20**|**AI-generated Image Detection: Passive or Watermark?**|Moyang Guo et.al.|[2411.13553v1](http://arxiv.org/abs/2411.13553v1)|null|
 |**2024-11-20**|**REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552v1](http://arxiv.org/abs/2411.13552v1)|**[link](https://github.com/microsoft/reducio-vae)**|
 |**2024-11-20**|**Find Any Part in 3D**|Ziqi Ma et.al.|[2411.13550v1](http://arxiv.org/abs/2411.13550v1)|null|

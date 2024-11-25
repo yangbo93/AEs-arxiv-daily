@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Gradient Masking All-at-Once: Ensemble Everything Everywhere Is Not Robust**|Jie Zhang et.al.|[2411.14834v1](http://arxiv.org/abs/2411.14834v1)|null|
 |**2024-11-21**|**Generating Realistic Adversarial Examples for Business Processes using Variational Autoencoders**|Alexander Stevens et.al.|[2411.14263v1](http://arxiv.org/abs/2411.14263v1)|null|
 |**2024-11-18**|**Theoretical Corrections and the Leveraging of Reinforcement Learning to Enhance Triangle Attack**|Nicole Meng et.al.|[2411.12071v1](http://arxiv.org/abs/2411.12071v1)|null|
 |**2024-11-15**|**Continual Adversarial Reinforcement Learning (CARL) of False Data Injection detection: forgetting and explainability**|Pooja Aslami et.al.|[2411.10367v1](http://arxiv.org/abs/2411.10367v1)|null|
@@ -747,6 +748,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Emulating Recombination with Neural Networks using Universal Differential Equations**|Ben Pennell et.al.|[2411.15140v1](http://arxiv.org/abs/2411.15140v1)|null|
+|**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139v1](http://arxiv.org/abs/2411.15139v1)|**[link](https://github.com/hustvl/diffusiondrive)**|
+|**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138v1](http://arxiv.org/abs/2411.15138v1)|null|
+|**2024-11-22**|**On Approximability of Satisfiable $k$-CSPs: VI**|Amey Bhangale et.al.|[2411.15133v1](http://arxiv.org/abs/2411.15133v1)|null|
+|**2024-11-22**|**Efficient Eigenstate Preparation in an Integrable Model with Hilbert Space Fragmentation**|Roberto Ruiz et.al.|[2411.15132v1](http://arxiv.org/abs/2411.15132v1)|null|
+|**2024-11-22**|**WildLMa: Long Horizon Loco-Manipulation in the Wild**|Ri-Zhao Qiu et.al.|[2411.15131v1](http://arxiv.org/abs/2411.15131v1)|null|
+|**2024-11-22**|**Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing Robots**|Jiaze Cai et.al.|[2411.15130v1](http://arxiv.org/abs/2411.15130v1)|null|
+|**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129v1](http://arxiv.org/abs/2411.15129v1)|null|
+|**2024-11-22**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128v1](http://arxiv.org/abs/2411.15128v1)|null|
+|**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127v1](http://arxiv.org/abs/2411.15127v1)|null|
 |**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432v1](http://arxiv.org/abs/2411.14432v1)|**[link](https://github.com/dongyh20/insight-v)**|
 |**2024-11-21**|**On Optimal Testing of Linearity**|Vipul Arora et.al.|[2411.14431v1](http://arxiv.org/abs/2411.14431v1)|null|
 |**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430v1](http://arxiv.org/abs/2411.14430v1)|null|

@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Imperceptible Adversarial Examples in the Physical World**|Weilin Xu et.al.|[2411.16622v1](http://arxiv.org/abs/2411.16622v1)|null|
+|**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598v1](http://arxiv.org/abs/2411.16598v1)|null|
+|**2024-11-24**|**Chain of Attack: On the Robustness of Vision-Language Models Against Transfer-Based Adversarial Attacks**|Peng Xie et.al.|[2411.15720v1](http://arxiv.org/abs/2411.15720v1)|null|
+|**2024-11-23**|**Enhancing the Transferability of Adversarial Attacks on Face Recognition with Diverse Parameters Augmentation**|Fengfan Zhou et.al.|[2411.15555v1](http://arxiv.org/abs/2411.15555v1)|null|
+|**2024-11-23**|**Improving Transferable Targeted Attacks with Feature Tuning Mixup**|Kaisheng Liang et.al.|[2411.15553v1](http://arxiv.org/abs/2411.15553v1)|null|
 |**2024-11-22**|**Gradient Masking All-at-Once: Ensemble Everything Everywhere Is Not Robust**|Jie Zhang et.al.|[2411.14834v1](http://arxiv.org/abs/2411.14834v1)|null|
 |**2024-11-21**|**Generating Realistic Adversarial Examples for Business Processes using Variational Autoencoders**|Alexander Stevens et.al.|[2411.14263v1](http://arxiv.org/abs/2411.14263v1)|null|
 |**2024-11-18**|**Theoretical Corrections and the Leveraging of Reinforcement Learning to Enhance Triangle Attack**|Nicole Meng et.al.|[2411.12071v1](http://arxiv.org/abs/2411.12071v1)|null|
@@ -748,6 +753,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**The impact of resistivity on the variability of black hole accretion flows**|Antonios Nathanail et.al.|[2411.16684v1](http://arxiv.org/abs/2411.16684v1)|null|
+|**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683v1](http://arxiv.org/abs/2411.16683v1)|null|
+|**2024-11-25**|**Contrasting and comparing the efficacy of non-pharmaceutical interventions on air-borne and vector-borne diseases**|Bibandhan Poudyal et.al.|[2411.16682v1](http://arxiv.org/abs/2411.16682v1)|null|
+|**2024-11-25**|**Factorized Visual Tokenization and Generation**|Zechen Bai et.al.|[2411.16681v1](http://arxiv.org/abs/2411.16681v1)|null|
+|**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680v1](http://arxiv.org/abs/2411.16680v1)|null|
+|**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679v1](http://arxiv.org/abs/2411.16679v1)|null|
+|**2024-11-25**|**Modified recombination and the Hubble tension**|Seyed Hamidreza Mirpoorian et.al.|[2411.16678v1](http://arxiv.org/abs/2411.16678v1)|null|
+|**2024-11-25**|**A Sound Horizon-Free Measurement of $H_0$ in DESI 2024**|E. A. Zaborowski et.al.|[2411.16677v1](http://arxiv.org/abs/2411.16677v1)|null|
+|**2024-11-25**|**Interpolation for degree 2 Veroneses of odd dimension**|Ray Shang et.al.|[2411.16672v1](http://arxiv.org/abs/2411.16672v1)|null|
+|**2024-11-25**|**Winning opinion: Following Your Friends' Advice or That of Their Friends?**|Francisco J. Muñoz et.al.|[2411.16671v1](http://arxiv.org/abs/2411.16671v1)|null|
 |**2024-11-22**|**Emulating Recombination with Neural Networks using Universal Differential Equations**|Ben Pennell et.al.|[2411.15140v1](http://arxiv.org/abs/2411.15140v1)|null|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139v1](http://arxiv.org/abs/2411.15139v1)|**[link](https://github.com/hustvl/diffusiondrive)**|
 |**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138v1](http://arxiv.org/abs/2411.15138v1)|null|

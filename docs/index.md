@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Adversarial Training in Low-Label Regimes with Margin-Based Interpolation**|Tian Ye et.al.|[2411.17959v1](http://arxiv.org/abs/2411.17959v1)|null|
 |**2024-11-25**|**Scaling Laws for Black box Adversarial Attacks**|Chuan Liu et.al.|[2411.16782v1](http://arxiv.org/abs/2411.16782v1)|null|
 |**2024-11-25**|**Imperceptible Adversarial Examples in the Physical World**|Weilin Xu et.al.|[2411.16622v1](http://arxiv.org/abs/2411.16622v1)|null|
 |**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598v1](http://arxiv.org/abs/2411.16598v1)|**[link](https://github.com/andrekassis/DiffBreak)**|
@@ -754,6 +755,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Textured Gaussians for Enhanced 3D Scene Appearance Modeling**|Brian Chao et.al.|[2411.18625v1](http://arxiv.org/abs/2411.18625v1)|null|
+|**2024-11-27**|**GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data**|Wentao Wang et.al.|[2411.18624v1](http://arxiv.org/abs/2411.18624v1)|null|
+|**2024-11-27**|**Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation**|Yueru Jia et.al.|[2411.18623v1](http://arxiv.org/abs/2411.18623v1)|null|
+|**2024-11-27**|**Leveraging Semi-Supervised Learning to Enhance Data Mining for Image Classification under Limited Labeled Data**|Aoran Shen et.al.|[2411.18622v1](http://arxiv.org/abs/2411.18622v1)|null|
+|**2024-11-27**|**Yukawa-Lorentz Symmetry of Tilted Non-Hermitian Dirac Semimetals at Quantum Criticality**|Sergio Pino-Alarcón et.al.|[2411.18621v1](http://arxiv.org/abs/2411.18621v1)|null|
+|**2024-11-27**|**Cross-modal Information Flow in Multimodal Large Language Models**|Zhi Zhang et.al.|[2411.18620v1](http://arxiv.org/abs/2411.18620v1)|null|
+|**2024-11-27**|**Anatomy of the Real Higgs Triplet Model**|Saiyad Ashanujjaman et.al.|[2411.18618v1](http://arxiv.org/abs/2411.18618v1)|null|
+|**2024-11-27**|**Online versus Offline Adversaries in Property Testing**|Esty Kelman et.al.|[2411.18617v1](http://arxiv.org/abs/2411.18617v1)|null|
+|**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|Shengqu Cai et.al.|[2411.18616v1](http://arxiv.org/abs/2411.18616v1)|null|
+|**2024-11-27**|**Proactive Gradient Conflict Mitigation in Multi-Task Learning: A Sparse Training Perspective**|Zhi Zhang et.al.|[2411.18615v1](http://arxiv.org/abs/2411.18615v1)|null|
 |**2024-11-26**|**Mock modularity of Calabi-Yau threefolds**|Sergey Alexandrov et.al.|[2411.17699v1](http://arxiv.org/abs/2411.17699v1)|null|
 |**2024-11-26**|**Video-Guided Foley Sound Generation with Multimodal Controls**|Ziyang Chen et.al.|[2411.17698v1](http://arxiv.org/abs/2411.17698v1)|null|
 |**2024-11-27**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v2](http://arxiv.org/abs/2411.17697v2)|**[link](https://github.com/Francis-Rings/StableAnimator)**|

@@ -1,4 +1,4 @@
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 
 ## Adversarial Examples
 
@@ -752,11 +752,11 @@
 |---|---|---|---|---|
 |**2024-11-26**|**Mock modularity of Calabi-Yau threefolds**|Sergey Alexandrov et.al.|[2411.17699v1](http://arxiv.org/abs/2411.17699v1)|null|
 |**2024-11-26**|**Video-Guided Foley Sound Generation with Multimodal Controls**|Ziyang Chen et.al.|[2411.17698v1](http://arxiv.org/abs/2411.17698v1)|null|
-|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v1](http://arxiv.org/abs/2411.17697v1)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-27**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v2](http://arxiv.org/abs/2411.17697v2)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
 |**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696v1](http://arxiv.org/abs/2411.17696v1)|null|
 |**2024-11-26**|**Ensemble reliability and the signal-to-noise paradox in large-ensemble subseasonal forecasts**|Christopher David Roberts et.al.|[2411.17694v1](http://arxiv.org/abs/2411.17694v1)|null|
 |**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693v1](http://arxiv.org/abs/2411.17693v1)|null|
-|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v1](http://arxiv.org/abs/2411.17691v1)|null|
+|**2024-11-27**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v2](http://arxiv.org/abs/2411.17691v2)|null|
 |**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690v1](http://arxiv.org/abs/2411.17690v1)|null|
 |**2024-11-26**|**Cornering in the Water: An Investigation of Dolphin Swimming Performance**|Mingkai Xia et.al.|[2411.17688v1](http://arxiv.org/abs/2411.17688v1)|null|
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687v1](http://arxiv.org/abs/2411.17687v1)|null|

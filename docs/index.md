@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Sustainable Self-evolution Adversarial Training**|Wenxuan Wang et.al.|[2412.02270v1](http://arxiv.org/abs/2412.02270v1)|null|
+|**2024-12-02**|**Traversing the Subspace of Adversarial Patches**|Jens Bayer et.al.|[2412.01527v1](http://arxiv.org/abs/2412.01527v1)|null|
+|**2024-12-01**|**Exposing LLM Vulnerabilities: Adversarial Scam Detection and Performance**|Chen-Wei Chang et.al.|[2412.00621v1](http://arxiv.org/abs/2412.00621v1)|null|
+|**2024-11-30**|**Robust Table Integration in Data Lakes**|Daomin Ji et.al.|[2412.00324v1](http://arxiv.org/abs/2412.00324v1)|null|
 |**2024-11-29**|**Towards Class-wise Robustness Analysis**|Tejaswini Medi et.al.|[2411.19853v1](http://arxiv.org/abs/2411.19853v1)|null|
 |**2024-11-27**|**Adversarial Training in Low-Label Regimes with Margin-Based Interpolation**|Tian Ye et.al.|[2411.17959v1](http://arxiv.org/abs/2411.17959v1)|null|
 |**2024-11-25**|**Scaling Laws for Black box Adversarial Attacks**|Chuan Liu et.al.|[2411.16782v1](http://arxiv.org/abs/2411.16782v1)|null|
@@ -756,6 +760,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700v1](http://arxiv.org/abs/2412.02700v1)|null|
+|**2024-12-03**|**UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping**|Wenbo Wang et.al.|[2412.02699v1](http://arxiv.org/abs/2412.02699v1)|null|
+|**2024-12-03**|**Scaling BERT Models for Turkish Automatic Punctuation and Capitalization Correction**|Abdulkader Saoud et.al.|[2412.02698v1](http://arxiv.org/abs/2412.02698v1)|null|
+|**2024-12-03**|**Stage IV CMB forecasts for warm inflation**|F. B. M. dos Santos et.al.|[2412.02696v1](http://arxiv.org/abs/2412.02696v1)|null|
+|**2024-12-03**|**An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques**|Medha Pappula et.al.|[2412.02695v1](http://arxiv.org/abs/2412.02695v1)|null|
+|**2024-12-03**|**Increased Surface Temperatures of Habitable White Dwarf Worlds Relative to Main-Sequence Exoplanets**|Aomawa L. Shields et.al.|[2412.02694v1](http://arxiv.org/abs/2412.02694v1)|null|
+|**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693v1](http://arxiv.org/abs/2412.02693v1)|**[link](https://github.com/pixtella/anagram-mtl)**|
+|**2024-12-03**|**Taming Scalable Visual Tokenizer for Autoregressive Image Generation**|Fengyuan Shi et.al.|[2412.02692v1](http://arxiv.org/abs/2412.02692v1)|null|
+|**2024-12-03**|**Chow-Lam Recovery**|Elizabeth Pratt et.al.|[2412.02691v1](http://arxiv.org/abs/2412.02691v1)|null|
+|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690v1](http://arxiv.org/abs/2412.02690v1)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951v2](http://arxiv.org/abs/2411.19951v2)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos**|Yuze He et.al.|[2411.19950v1](http://arxiv.org/abs/2411.19950v1)|null|
 |**2024-11-29**|**Efficient short-wave infrared upconversion by self-sensitized holmium-doped nanoparticles**|Rakesh Arul et.al.|[2411.19949v1](http://arxiv.org/abs/2411.19949v1)|null|

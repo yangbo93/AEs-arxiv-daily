@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**NODE-AdvGAN: Improving the transferability and perceptual similarity of adversarial examples by dynamic-system-driven adversarial generative model**|Xinheng Xie et.al.|[2412.03539v1](http://arxiv.org/abs/2412.03539v1)|null|
 |**2024-12-03**|**Sustainable Self-evolution Adversarial Training**|Wenxuan Wang et.al.|[2412.02270v1](http://arxiv.org/abs/2412.02270v1)|null|
 |**2024-12-02**|**Traversing the Subspace of Adversarial Patches**|Jens Bayer et.al.|[2412.01527v1](http://arxiv.org/abs/2412.01527v1)|null|
 |**2024-12-01**|**Exposing LLM Vulnerabilities: Adversarial Scam Detection and Performance**|Chen-Wei Chang et.al.|[2412.00621v1](http://arxiv.org/abs/2412.00621v1)|null|
@@ -756,6 +757,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572v1](http://arxiv.org/abs/2412.03572v1)|null|
+|**2024-12-04**|**Style3D: Attention-guided Multi-view Style Transfer for 3D Object Generation**|Bingjie Song et.al.|[2412.03571v1](http://arxiv.org/abs/2412.03571v1)|null|
+|**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570v1](http://arxiv.org/abs/2412.03570v1)|null|
+|**2024-12-04**|**Critical behavior of the Schwinger model via gauge-invariant VUMPS**|Hirotsugu Fujii et.al.|[2412.03569v1](http://arxiv.org/abs/2412.03569v1)|null|
+|**2024-12-04**|**The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**|Ruili Feng et.al.|[2412.03568v1](http://arxiv.org/abs/2412.03568v1)|null|
+|**2024-12-04**|**Streaming Detection of Queried Event Start**|Cristobal Eyzaguirre et.al.|[2412.03567v1](http://arxiv.org/abs/2412.03567v1)|null|
+|**2024-12-04**|**FreeSim: Toward Free-viewpoint Camera Simulation in Driving Scenes**|Lue Fan et.al.|[2412.03566v1](http://arxiv.org/abs/2412.03566v1)|null|
+|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565v1](http://arxiv.org/abs/2412.03565v1)|null|
+|**2024-12-04**|**Improving Perturbation Theory with the Sum-of-Squares: Third Order**|M. B. Hastings et.al.|[2412.03564v1](http://arxiv.org/abs/2412.03564v1)|null|
+|**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563v1](http://arxiv.org/abs/2412.03563v1)|null|
 |**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700v1](http://arxiv.org/abs/2412.02700v1)|null|
 |**2024-12-03**|**UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping**|Wenbo Wang et.al.|[2412.02699v1](http://arxiv.org/abs/2412.02699v1)|null|
 |**2024-12-03**|**Scaling BERT Models for Turkish Automatic Punctuation and Capitalization Correction**|Abdulkader Saoud et.al.|[2412.02698v1](http://arxiv.org/abs/2412.02698v1)|null|

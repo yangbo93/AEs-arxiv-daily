@@ -762,6 +762,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280v1](http://arxiv.org/abs/2412.05280v1)|**[link](https://github.com/wzzheng/stag)**|
+|**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279v1](http://arxiv.org/abs/2412.05279v1)|null|
+|**2024-12-06**|**Birth and Death of a Rose**|Chen Geng et.al.|[2412.05278v1](http://arxiv.org/abs/2412.05278v1)|null|
+|**2024-12-06**|**Text to Blind Motion**|Hee Jae Kim et.al.|[2412.05277v1](http://arxiv.org/abs/2412.05277v1)|null|
+|**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276v1](http://arxiv.org/abs/2412.05276v1)|**[link](https://github.com/dynamical-inference/patchsae)**|
+|**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275v1](http://arxiv.org/abs/2412.05275v1)|null|
+|**2024-12-06**|**Real-space chirality from crystalline topological defects in the Kitaev spin liquid**|Fay Borhani et.al.|[2412.05272v1](http://arxiv.org/abs/2412.05272v1)|null|
+|**2024-12-06**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271v1](http://arxiv.org/abs/2412.05271v1)|null|
+|**2024-12-06**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270v1](http://arxiv.org/abs/2412.05270v1)|null|
+|**2024-12-06**|**Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases**|Krzysztof Maziarz et.al.|[2412.05269v1](http://arxiv.org/abs/2412.05269v1)|null|
 |**2024-12-05**|**Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail**|Luca Bartolomei et.al.|[2412.04472v1](http://arxiv.org/abs/2412.04472v1)|**[link](https://github.com/bartn8/stereoanywhere)**|
 |**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471v1](http://arxiv.org/abs/2412.04471v1)|null|
 |**2024-12-05**|**Turbo3D: Ultra-fast Text-to-3D Generation**|Hanzhe Hu et.al.|[2412.04470v1](http://arxiv.org/abs/2412.04470v1)|null|

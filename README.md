@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727v1](http://arxiv.org/abs/2412.06727v1)|null|
 |**2024-12-05**|**Intriguing Properties of Robust Classification**|Bernd Prach et.al.|[2412.04245v1](http://arxiv.org/abs/2412.04245v1)|null|
 |**2024-12-04**|**NODE-AdvGAN: Improving the transferability and perceptual similarity of adversarial examples by dynamic-system-driven adversarial generative model**|Xinheng Xie et.al.|[2412.03539v1](http://arxiv.org/abs/2412.03539v1)|null|
 |**2024-12-03**|**Sustainable Self-evolution Adversarial Training**|Wenxuan Wang et.al.|[2412.02270v1](http://arxiv.org/abs/2412.02270v1)|null|
@@ -758,6 +759,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787v1](http://arxiv.org/abs/2412.06787v1)|null|
+|**2024-12-09**|**Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis**|M. Hamza Mughal et.al.|[2412.06786v1](http://arxiv.org/abs/2412.06786v1)|null|
+|**2024-12-09**|**Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**|Ruihan Gao et.al.|[2412.06785v1](http://arxiv.org/abs/2412.06785v1)|**[link](https://github.com/ruihangao/tactiledreamfusion)**|
+|**2024-12-09**|**P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of Robot Policies**|Mara Levy et.al.|[2412.06784v1](http://arxiv.org/abs/2412.06784v1)|null|
+|**2024-12-09**|**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**|Zhefei Gong et.al.|[2412.06782v1](http://arxiv.org/abs/2412.06782v1)|null|
+|**2024-12-09**|**Around the World in 80 Timesteps: A Generative Approach to Global Visual Geolocation**|Nicolas Dufour et.al.|[2412.06781v1](http://arxiv.org/abs/2412.06781v1)|null|
+|**2024-12-09**|**Diverse Score Distillation**|Yanbo Xu et.al.|[2412.06780v1](http://arxiv.org/abs/2412.06780v1)|null|
+|**2024-12-09**|**AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation**|Guanxing Lu et.al.|[2412.06779v1](http://arxiv.org/abs/2412.06779v1)|null|
+|**2024-12-09**|**Dark Matter Freeze-In during Warm Inflation and the Seesaw Mechanism**|Rayff de Souza et.al.|[2412.06778v1](http://arxiv.org/abs/2412.06778v1)|null|
+|**2024-12-09**|**Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models**|Yi-Lun Lee et.al.|[2412.06775v1](http://arxiv.org/abs/2412.06775v1)|**[link](https://github.com/yilunlee/vcd_analysis)**|
 |**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280v1](http://arxiv.org/abs/2412.05280v1)|**[link](https://github.com/wzzheng/stag)**|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279v1](http://arxiv.org/abs/2412.05279v1)|null|
 |**2024-12-06**|**Birth and Death of a Rose**|Chen Geng et.al.|[2412.05278v1](http://arxiv.org/abs/2412.05278v1)|null|

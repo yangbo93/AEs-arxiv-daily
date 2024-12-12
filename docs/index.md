@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time**|Jin Hu et.al.|[2412.08053v1](http://arxiv.org/abs/2412.08053v1)|null|
 |**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727v1](http://arxiv.org/abs/2412.06727v1)|null|
 |**2024-12-05**|**Intriguing Properties of Robust Classification**|Bernd Prach et.al.|[2412.04245v1](http://arxiv.org/abs/2412.04245v1)|null|
 |**2024-12-04**|**NODE-AdvGAN: Improving the transferability and perceptual similarity of adversarial examples by dynamic-system-driven adversarial generative model**|Xinheng Xie et.al.|[2412.03539v1](http://arxiv.org/abs/2412.03539v1)|null|
@@ -763,6 +764,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**SegFace: Face Segmentation of Long-Tail Classes**|Kartik Narayan et.al.|[2412.08647v1](http://arxiv.org/abs/2412.08647v1)|**[link](https://github.com/kartik-3004/segface)**|
+|**2024-12-11**|**StreamChat: Chatting with Streaming Video**|Jihao Liu et.al.|[2412.08646v1](http://arxiv.org/abs/2412.08646v1)|null|
+|**2024-12-11**|**ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation**|Daniel Winter et.al.|[2412.08645v1](http://arxiv.org/abs/2412.08645v1)|null|
+|**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643v1](http://arxiv.org/abs/2412.08643v1)|**[link](https://github.com/wzzheng/gpd)**|
+|**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642v1](http://arxiv.org/abs/2412.08642v1)|null|
+|**2024-12-11**|**3D Mesh Editing using Masked LRMs**|Will Gao et.al.|[2412.08641v1](http://arxiv.org/abs/2412.08641v1)|null|
+|**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639v1](http://arxiv.org/abs/2412.08639v1)|**[link](https://github.com/tiktok/fast_prompt_alignment)**|
+|**2024-12-11**|**An Improved Precision Calculation of the $0νββ$ Contact Term within Chiral Effective Field Theory**|Graham Van Goffrier et.al.|[2412.08638v1](http://arxiv.org/abs/2412.08638v1)|null|
+|**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637v1](http://arxiv.org/abs/2412.08637v1)|null|
+|**2024-12-11**|**Deformation Openness of Big Fundamental Groups and Applications**|Ya Deng et.al.|[2412.08636v1](http://arxiv.org/abs/2412.08636v1)|null|
 |**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776v1](http://arxiv.org/abs/2412.07776v1)|**[link](https://github.com/ditflow/ditflow)**|
 |**2024-12-10**|**Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**|Zhen Liu et.al.|[2412.07775v1](http://arxiv.org/abs/2412.07775v1)|null|
 |**2024-12-10**|**UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics**|Xi Chen et.al.|[2412.07774v1](http://arxiv.org/abs/2412.07774v1)|null|

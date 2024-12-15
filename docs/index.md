@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v1](http://arxiv.org/abs/2412.08969v1)|null|
 |**2024-12-11**|**DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time**|Jin Hu et.al.|[2412.08053v1](http://arxiv.org/abs/2412.08053v1)|null|
-|**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727v1](http://arxiv.org/abs/2412.06727v1)|null|
+|**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727v1](http://arxiv.org/abs/2412.06727v1)|**[link](https://github.com/xcy-github/R2BA_Evade_AIGC_Detection)**|
 |**2024-12-05**|**Intriguing Properties of Robust Classification**|Bernd Prach et.al.|[2412.04245v1](http://arxiv.org/abs/2412.04245v1)|null|
 |**2024-12-04**|**NODE-AdvGAN: Improving the transferability and perceptual similarity of adversarial examples by dynamic-system-driven adversarial generative model**|Xinheng Xie et.al.|[2412.03539v1](http://arxiv.org/abs/2412.03539v1)|null|
 |**2024-12-03**|**Sustainable Self-evolution Adversarial Training**|Wenxuan Wang et.al.|[2412.02270v1](http://arxiv.org/abs/2412.02270v1)|null|

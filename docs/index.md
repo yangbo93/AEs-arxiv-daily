@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353v1](http://arxiv.org/abs/2412.10353v1)|null|
+|**2024-12-13**|**Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images**|Yasamin Medghalchi et.al.|[2412.09910v1](http://arxiv.org/abs/2412.09910v1)|**[link](https://github.com/yasamin-med/p2p)**|
+|**2024-12-12**|**TOAP: Towards Better Robustness in Universal Transferable Anti-Facial Retrieval**|Yunna Lv et.al.|[2412.09692v1](http://arxiv.org/abs/2412.09692v1)|null|
 |**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v1](http://arxiv.org/abs/2412.08969v1)|null|
 |**2024-12-11**|**DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time**|Jin Hu et.al.|[2412.08053v1](http://arxiv.org/abs/2412.08053v1)|null|
 |**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727v1](http://arxiv.org/abs/2412.06727v1)|**[link](https://github.com/xcy-github/R2BA_Evade_AIGC_Detection)**|
@@ -765,6 +768,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373v1](http://arxiv.org/abs/2412.10373v1)|**[link](https://github.com/zuosc19/gaussianworld)**|
+|**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372v1](http://arxiv.org/abs/2412.10372v1)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
+|**2024-12-13**|**Computational Explorations of Total Variation Distance**|Arnab Bhattacharyya et.al.|[2412.10370v1](http://arxiv.org/abs/2412.10370v1)|null|
+|**2024-12-13**|**A Grounded Typology of Word Classes**|Coleman Haley et.al.|[2412.10369v1](http://arxiv.org/abs/2412.10369v1)|null|
+|**2024-12-13**|**Black holes and gravitational waves from phase transitions in realistic models**|Marek Lewicki et.al.|[2412.10366v1](http://arxiv.org/abs/2412.10366v1)|null|
+|**2024-12-13**|**Real-Time Simulation of Asymmetry Generation in Fermion-Bubble Collisions**|Marcela Carena et.al.|[2412.10365v1](http://arxiv.org/abs/2412.10365v1)|null|
+|**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362v1](http://arxiv.org/abs/2412.10362v1)|null|
+|**2024-12-13**|**Apollo: An Exploration of Video Understanding in Large Multimodal Models**|Orr Zohar et.al.|[2412.10360v1](http://arxiv.org/abs/2412.10360v1)|null|
+|**2024-12-13**|**Modeling $(\infty,1)$-categories with Segal spaces**|Lyne Moser et.al.|[2412.10359v1](http://arxiv.org/abs/2412.10359v1)|null|
+|**2024-12-13**|**Critical Point Criteria and Dynamically Monogenic Polynomials**|Joachim König et.al.|[2412.10358v1](http://arxiv.org/abs/2412.10358v1)|null|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627v1](http://arxiv.org/abs/2412.09627v1)|**[link](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**|Haonan Qiu et.al.|[2412.09626v1](http://arxiv.org/abs/2412.09626v1)|null|
 |**2024-12-12**|**Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors**|Yue Feng et.al.|[2412.09625v1](http://arxiv.org/abs/2412.09625v1)|null|

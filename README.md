@@ -4,12 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Transferable Adversarial Face Attack with Text Controlled Attribute**|Wenyun Li et.al.|[2412.11735v1](http://arxiv.org/abs/2412.11735v1)|null|
+|**2024-12-15**|**Unpacking the Resilience of SNLI Contradiction Examples to Attacks**|Chetan Verma et.al.|[2412.11172v1](http://arxiv.org/abs/2412.11172v1)|**[link](https://github.com/ckvermaai/snli-attack-analysis)**|
+|**2024-12-15**|**Learning Robust and Privacy-Preserving Representations via Information Theory**|Binghui Zhang et.al.|[2412.11066v1](http://arxiv.org/abs/2412.11066v1)|null|
+|**2024-12-13**|**Err on the Side of Texture: Texture Bias on Real Data**|Blaine Hoak et.al.|[2412.10597v1](http://arxiv.org/abs/2412.10597v1)|**[link](https://github.com/blainehoak/err-on-textures)**|
 |**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353v1](http://arxiv.org/abs/2412.10353v1)|null|
 |**2024-12-13**|**Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images**|Yasamin Medghalchi et.al.|[2412.09910v1](http://arxiv.org/abs/2412.09910v1)|**[link](https://github.com/yasamin-med/p2p)**|
 |**2024-12-12**|**TOAP: Towards Better Robustness in Universal Transferable Anti-Facial Retrieval**|Yunna Lv et.al.|[2412.09692v1](http://arxiv.org/abs/2412.09692v1)|null|
-|**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v1](http://arxiv.org/abs/2412.08969v1)|null|
+|**2024-12-16**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969v2](http://arxiv.org/abs/2412.08969v2)|null|
 |**2024-12-11**|**DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time**|Jin Hu et.al.|[2412.08053v1](http://arxiv.org/abs/2412.08053v1)|null|
-|**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727v1](http://arxiv.org/abs/2412.06727v1)|**[link](https://github.com/xcy-github/R2BA_Evade_AIGC_Detection)**|
+|**2024-12-16**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727v2](http://arxiv.org/abs/2412.06727v2)|**[link](https://github.com/xcy-github/R2BA_Evade_AIGC_Detection)**|
 |**2024-12-05**|**Intriguing Properties of Robust Classification**|Bernd Prach et.al.|[2412.04245v1](http://arxiv.org/abs/2412.04245v1)|null|
 |**2024-12-04**|**NODE-AdvGAN: Improving the transferability and perceptual similarity of adversarial examples by dynamic-system-driven adversarial generative model**|Xinheng Xie et.al.|[2412.03539v1](http://arxiv.org/abs/2412.03539v1)|null|
 |**2024-12-03**|**Sustainable Self-evolution Adversarial Training**|Wenxuan Wang et.al.|[2412.02270v1](http://arxiv.org/abs/2412.02270v1)|null|
@@ -764,6 +768,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098v1](http://arxiv.org/abs/2412.12098v1)|null|
+|**2024-12-16**|**There is more to the de Sitter horizon than just the area**|Willy Fischler et.al.|[2412.12097v1](http://arxiv.org/abs/2412.12097v1)|null|
+|**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095v1](http://arxiv.org/abs/2412.12095v1)|**[link](https://github.com/causalfusion/causalfusion)**|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094v1](http://arxiv.org/abs/2412.12094v1)|null|
+|**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093v1](http://arxiv.org/abs/2412.12093v1)|null|
+|**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091v1](http://arxiv.org/abs/2412.12091v1)|null|
+|**2024-12-16**|**Geometry of 3-dimensional del Pezzo fibrations in positive characteristic**|Fabio Bernasconi et.al.|[2412.12090v1](http://arxiv.org/abs/2412.12090v1)|null|
+|**2024-12-16**|**Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation**|Eliot Xing et.al.|[2412.12089v1](http://arxiv.org/abs/2412.12089v1)|null|
+|**2024-12-16**|**Nonlinear Reduced-Order Modeling of Compressible Flow Fields Using Deep Learning and Manifold Learning**|Bilal Mufti et.al.|[2412.12088v1](http://arxiv.org/abs/2412.12088v1)|null|
+|**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087v1](http://arxiv.org/abs/2412.12087v1)|null|
 |**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373v1](http://arxiv.org/abs/2412.10373v1)|**[link](https://github.com/zuosc19/gaussianworld)**|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372v1](http://arxiv.org/abs/2412.10372v1)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**Computational Explorations of Total Variation Distance**|Arnab Bhattacharyya et.al.|[2412.10370v1](http://arxiv.org/abs/2412.10370v1)|null|

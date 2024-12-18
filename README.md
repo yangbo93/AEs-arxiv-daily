@@ -1,12 +1,15 @@
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 
 ## Adversarial Examples
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Improving the Transferability of 3D Point Cloud Attack via Spectral-aware Admix and Optimization Designs**|Shiyu Hu et.al.|[2412.12626v1](http://arxiv.org/abs/2412.12626v1)|null|
+|**2024-12-17**|**Human-in-the-Loop Generation of Adversarial Texts: A Case Study on Tibetan Script**|Xi Cao et.al.|[2412.12478v1](http://arxiv.org/abs/2412.12478v1)|**[link](https://github.com/CMLI-NLP/HITL-GAT)**|
+|**2024-12-16**|**Comprehensive Survey on Adversarial Examples in Cybersecurity: Impacts, Challenges, and Mitigation Strategies**|Li Li et.al.|[2412.12217v1](http://arxiv.org/abs/2412.12217v1)|null|
 |**2024-12-16**|**Transferable Adversarial Face Attack with Text Controlled Attribute**|Wenyun Li et.al.|[2412.11735v1](http://arxiv.org/abs/2412.11735v1)|null|
 |**2024-12-15**|**Unpacking the Resilience of SNLI Contradiction Examples to Attacks**|Chetan Verma et.al.|[2412.11172v1](http://arxiv.org/abs/2412.11172v1)|**[link](https://github.com/ckvermaai/snli-attack-analysis)**|
-|**2024-12-15**|**Learning Robust and Privacy-Preserving Representations via Information Theory**|Binghui Zhang et.al.|[2412.11066v1](http://arxiv.org/abs/2412.11066v1)|null|
+|**2024-12-15**|**Learning Robust and Privacy-Preserving Representations via Information Theory**|Binghui Zhang et.al.|[2412.11066v1](http://arxiv.org/abs/2412.11066v1)|**[link](https://github.com/arprl/arprl)**|
 |**2024-12-13**|**Err on the Side of Texture: Texture Bias on Real Data**|Blaine Hoak et.al.|[2412.10597v1](http://arxiv.org/abs/2412.10597v1)|**[link](https://github.com/blainehoak/err-on-textures)**|
 |**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353v1](http://arxiv.org/abs/2412.10353v1)|null|
 |**2024-12-13**|**Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images**|Yasamin Medghalchi et.al.|[2412.09910v1](http://arxiv.org/abs/2412.09910v1)|**[link](https://github.com/yasamin-med/p2p)**|
@@ -768,6 +771,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**ExBody2: Advanced Expressive Humanoid Whole-Body Control**|Mazeyu Ji et.al.|[2412.13196v1](http://arxiv.org/abs/2412.13196v1)|null|
+|**2024-12-17**|**CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models**|Gaoyang Zhang et.al.|[2412.13195v1](http://arxiv.org/abs/2412.13195v1)|**[link](https://github.com/blurgyy/compass)**|
+|**2024-12-17**|**Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents**|Yifei Zhou et.al.|[2412.13194v1](http://arxiv.org/abs/2412.13194v1)|null|
+|**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193v1](http://arxiv.org/abs/2412.13193v1)|**[link](https://github.com/hustvl/gausstr)**|
+|**2024-12-17**|**How to Falsify String Theory at a Collider**|Matthew Baumgart et.al.|[2412.13192v1](http://arxiv.org/abs/2412.13192v1)|null|
+|**2024-12-17**|**MotionBridge: Dynamic Video Inbetweening with Flexible Controls**|Maham Tanveer et.al.|[2412.13190v1](http://arxiv.org/abs/2412.13190v1)|null|
+|**2024-12-17**|**Binary properties of the globular cluster 47 Tuc (NGC 104). A dearth of short-period binaries**|Johanna Müller-Horn et.al.|[2412.13189v1](http://arxiv.org/abs/2412.13189v1)|null|
+|**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188v1](http://arxiv.org/abs/2412.13188v1)|null|
+|**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187v1](http://arxiv.org/abs/2412.13187v1)|null|
+|**2024-12-17**|**Efficiently measuring $d$-wave pairing and beyond in quantum gas microscopes**|Daniel K. Mark et.al.|[2412.13186v1](http://arxiv.org/abs/2412.13186v1)|null|
 |**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098v1](http://arxiv.org/abs/2412.12098v1)|null|
 |**2024-12-16**|**There is more to the de Sitter horizon than just the area**|Willy Fischler et.al.|[2412.12097v1](http://arxiv.org/abs/2412.12097v1)|null|
 |**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095v1](http://arxiv.org/abs/2412.12095v1)|**[link](https://github.com/causalfusion/causalfusion)**|

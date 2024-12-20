@@ -776,6 +776,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency**|Enis Simsar et.al.|[2412.15216v1](http://arxiv.org/abs/2412.15216v1)|null|
+|**2024-12-19**|**EnvGS: Modeling View-Dependent Appearance with Environment Gaussian**|Tao Xie et.al.|[2412.15215v1](http://arxiv.org/abs/2412.15215v1)|null|
+|**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214v1](http://arxiv.org/abs/2412.15214v1)|null|
+|**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
+|**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|
+|**2024-12-19**|**Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**|Hadi Alzayer et.al.|[2412.15211v1](http://arxiv.org/abs/2412.15211v1)|null|
+|**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209v1](http://arxiv.org/abs/2412.15209v1)|null|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208v1](http://arxiv.org/abs/2412.15208v1)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206v1](http://arxiv.org/abs/2412.15206v1)|null|
+|**2024-12-19**|**FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching**|Sucheng Ren et.al.|[2412.15205v1](http://arxiv.org/abs/2412.15205v1)|**[link](https://github.com/oliverrensu/flowar)**|
 |**2024-12-18**|**AniDoc: Animation Creation Made Easier**|Yihao Meng et.al.|[2412.14173v1](http://arxiv.org/abs/2412.14173v1)|null|
 |**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172v1](http://arxiv.org/abs/2412.14172v1)|null|
 |**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171v1](http://arxiv.org/abs/2412.14171v1)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|

@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**|Sipeng Shen et.al.|[2412.17038v1](http://arxiv.org/abs/2412.17038v1)|null|
+|**2024-12-22**|**Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature**|Yichen Wang et.al.|[2412.16958v1](http://arxiv.org/abs/2412.16958v1)|**[link](https://github.com/cgcl-codes/rfcoa)**|
+|**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[2412.16955v1](http://arxiv.org/abs/2412.16955v1)|**[link](https://github.com/cgcl-codes/numbod)**|
+|**2024-12-21**|**PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation**|Yufei Song et.al.|[2412.16651v1](http://arxiv.org/abs/2412.16651v1)|null|
 |**2024-12-17**|**Targeted View-Invariant Adversarial Perturbations for 3D Object Recognition**|Christian Green et.al.|[2412.13376v1](http://arxiv.org/abs/2412.13376v1)|null|
 |**2024-12-17**|**Improving the Transferability of 3D Point Cloud Attack via Spectral-aware Admix and Optimization Designs**|Shiyu Hu et.al.|[2412.12626v1](http://arxiv.org/abs/2412.12626v1)|null|
 |**2024-12-17**|**Human-in-the-Loop Generation of Adversarial Texts: A Case Study on Tibetan Script**|Xi Cao et.al.|[2412.12478v1](http://arxiv.org/abs/2412.12478v1)|**[link](https://github.com/CMLI-NLP/HITL-GAT)**|
@@ -776,6 +780,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812v1](http://arxiv.org/abs/2412.17812v1)|null|
+|**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811v1](http://arxiv.org/abs/2412.17811v1)|null|
+|**2024-12-23**|**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**|Rui Chen et.al.|[2412.17808v1](http://arxiv.org/abs/2412.17808v1)|null|
+|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806v1](http://arxiv.org/abs/2412.17806v1)|null|
+|**2024-12-23**|**Large Motion Video Autoencoding with Cross-modal Video VAE**|Yazhou Xing et.al.|[2412.17805v1](http://arxiv.org/abs/2412.17805v1)|null|
+|**2024-12-23**|**GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**|Yidi Shao et.al.|[2412.17804v1](http://arxiv.org/abs/2412.17804v1)|null|
+|**2024-12-23**|**Examining Imbalance Effects on Performance and Demographic Fairness of Clinical Language Models**|Precious Jones et.al.|[2412.17803v1](http://arxiv.org/abs/2412.17803v1)|null|
+|**2024-12-23**|**Feebly-Interacting Peccei-Quinn Model**|Wen Yin et.al.|[2412.17802v1](http://arxiv.org/abs/2412.17802v1)|null|
+|**2024-12-23**|**Probing the magnetic origin of the pseudogap using a Fermi-Hubbard quantum simulator**|Thomas Chalopin et.al.|[2412.17801v1](http://arxiv.org/abs/2412.17801v1)|null|
+|**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800v1](http://arxiv.org/abs/2412.17800v1)|**[link](https://github.com/row11n/prova)**|
 |**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158v1](http://arxiv.org/abs/2412.16158v1)|null|
 |**2024-12-20**|**Stochastic Analysis of Entanglement-assisted Quantum Communication Channels**|Karim S. Elsayed et.al.|[2412.16157v1](http://arxiv.org/abs/2412.16157v1)|null|
 |**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156v1](http://arxiv.org/abs/2412.16156v1)|**[link](https://github.com/ssundaram21/personalized-rep)**|

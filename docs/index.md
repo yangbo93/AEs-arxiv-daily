@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Efficient Contrastive Explanations on Demand**|Yacine Izza et.al.|[2412.18262v1](http://arxiv.org/abs/2412.18262v1)|null|
 |**2024-12-24**|**ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**|Sipeng Shen et.al.|[2412.17038v2](http://arxiv.org/abs/2412.17038v2)|null|
 |**2024-12-22**|**Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature**|Yichen Wang et.al.|[2412.16958v1](http://arxiv.org/abs/2412.16958v1)|**[link](https://github.com/cgcl-codes/rfcoa)**|
 |**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[2412.16955v1](http://arxiv.org/abs/2412.16955v1)|**[link](https://github.com/cgcl-codes/numbod)**|
@@ -780,6 +781,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models**|Jinhui Yi et.al.|[2412.18609v1](http://arxiv.org/abs/2412.18609v1)|**[link](https://github.com/jh-yi/video-panda)**|
+|**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608v1](http://arxiv.org/abs/2412.18608v1)|null|
+|**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607v1](http://arxiv.org/abs/2412.18607v1)|null|
+|**2024-12-24**|**Lattice T-duality from non-invertible symmetries in quantum spin chains**|Salvatore D. Pace et.al.|[2412.18606v1](http://arxiv.org/abs/2412.18606v1)|null|
+|**2024-12-24**|**Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models**|Zehan Wang et.al.|[2412.18605v1](http://arxiv.org/abs/2412.18605v1)|null|
+|**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604v1](http://arxiv.org/abs/2412.18604v1)|null|
+|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603v1](http://arxiv.org/abs/2412.18603v1)|**[link](https://github.com/google-deepmind/librispeech-long)**|
+|**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601v1](http://arxiv.org/abs/2412.18601v1)|null|
+|**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600v1](http://arxiv.org/abs/2412.18600v1)|null|
+|**2024-12-24**|**Double Spending Analysis of Nakamoto Consensus for Time-Varying Mining Rates with Ruin Theory**|Mustafa Doger et.al.|[2412.18599v1](http://arxiv.org/abs/2412.18599v1)|null|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812v1](http://arxiv.org/abs/2412.17812v1)|null|
 |**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811v1](http://arxiv.org/abs/2412.17811v1)|null|
 |**2024-12-24**|**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**|Rui Chen et.al.|[2412.17808v2](http://arxiv.org/abs/2412.17808v2)|null|

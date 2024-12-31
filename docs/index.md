@@ -8,11 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability**|Hui Zeng et.al.|[2412.20807v1](http://arxiv.org/abs/2412.20807v1)|**[link](https://github.com/zengh5/avg_ft)**|
+|**2024-12-30**|**Sample Correlation for Fingerprinting Deep Face Recognition**|Jiyang Guan et.al.|[2412.20768v1](http://arxiv.org/abs/2412.20768v1)|**[link](https://github.com/guanjiyang/sac_jc)**|
+|**2024-12-28**|**A Robust Adversarial Ensemble with Causal (Feature Interaction) Interpretations for Image Classification**|Chunheng Zhao et.al.|[2412.20025v1](http://arxiv.org/abs/2412.20025v1)|null|
+|**2024-12-27**|**Standard-Deviation-Inspired Regularization for Improving Adversarial Robustness**|Olukorede Fakorede et.al.|[2412.19947v1](http://arxiv.org/abs/2412.19947v1)|null|
 |**2024-12-25**|**Improving Integrated Gradient-based Transferable Adversarial Examples by Refining the Integration Path**|Yuchen Ren et.al.|[2412.18844v1](http://arxiv.org/abs/2412.18844v1)|null|
 |**2024-12-25**|**Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors**|Pham Phuc et.al.|[2412.18815v1](http://arxiv.org/abs/2412.18815v1)|**[link](https://github.com/anonymous20210106/attack_detector)**|
 |**2024-12-25**|**Attack-in-the-Chain: Bootstrapping Large Language Models for Attacks Against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2412.18770v1](http://arxiv.org/abs/2412.18770v1)|null|
 |**2024-12-24**|**Efficient Contrastive Explanations on Demand**|Yacine Izza et.al.|[2412.18262v1](http://arxiv.org/abs/2412.18262v1)|null|
-|**2024-12-24**|**ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**|Sipeng Shen et.al.|[2412.17038v2](http://arxiv.org/abs/2412.17038v2)|null|
+|**2024-12-29**|**ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**|Sipeng Shen et.al.|[2412.17038v3](http://arxiv.org/abs/2412.17038v3)|null|
 |**2024-12-22**|**Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature**|Yichen Wang et.al.|[2412.16958v1](http://arxiv.org/abs/2412.16958v1)|**[link](https://github.com/cgcl-codes/rfcoa)**|
 |**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[2412.16955v1](http://arxiv.org/abs/2412.16955v1)|**[link](https://github.com/cgcl-codes/numbod)**|
 |**2024-12-21**|**PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation**|Yufei Song et.al.|[2412.16651v1](http://arxiv.org/abs/2412.16651v1)|null|
@@ -784,6 +788,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206v1](http://arxiv.org/abs/2412.21206v1)|null|
+|**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|null|
+|**2024-12-30**|**Branes Screening Quarks and Defect Operators**|Andreas Karch et.al.|[2412.21204v1](http://arxiv.org/abs/2412.21204v1)|null|
+|**2024-12-30**|**SoS Certificates for Sparse Singular Values and Their Applications: Robust Statistics, Subspace Distortion, and More**|Ilias Diakonikolas et.al.|[2412.21203v1](http://arxiv.org/abs/2412.21203v1)|null|
+|**2024-12-30**|**Two-component Dark Matter and low scale Thermal Leptogenesis**|Subhaditya Bhattacharya et.al.|[2412.21202v1](http://arxiv.org/abs/2412.21202v1)|null|
+|**2024-12-30**|**Vector-like quark doublets, weak-basis invariants and CP violation**|F. Albergaria et.al.|[2412.21201v1](http://arxiv.org/abs/2412.21201v1)|null|
+|**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200v1](http://arxiv.org/abs/2412.21200v1)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
+|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v1](http://arxiv.org/abs/2412.21199v1)|null|
+|**2024-12-30**|**Topological Responses of the Standard Model Gauge Group**|Zheyan Wan et.al.|[2412.21196v1](http://arxiv.org/abs/2412.21196v1)|null|
+|**2024-12-30**|**Rough differential equations for volatility**|Ofelia Bonesini et.al.|[2412.21192v1](http://arxiv.org/abs/2412.21192v1)|null|
 |**2024-12-27**|**Computing Direct Sum Decompositions**|Devlin Mallory et.al.|[2412.19799v1](http://arxiv.org/abs/2412.19799v1)|null|
 |**2024-12-27**|**Non-Scaling Topological Defects and Gravitational Waves in Higgs Portal**|Wen Yin et.al.|[2412.19798v1](http://arxiv.org/abs/2412.19798v1)|null|
 |**2024-12-27**|**Streamlined Krylov construction and classification of ergodic Floquet systems**|Nikita Kolganov et.al.|[2412.19797v1](http://arxiv.org/abs/2412.19797v1)|null|

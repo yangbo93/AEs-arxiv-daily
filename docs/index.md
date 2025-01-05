@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**AIM: Additional Image Guided Generation of Transferable Adversarial Attacks**|Teng Li et.al.|[2501.01106v1](http://arxiv.org/abs/2501.01106v1)|null|
+|**2025-01-02**|**Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs**|Linhao Huang et.al.|[2501.01042v1](http://arxiv.org/abs/2501.01042v1)|null|
+|**2025-01-02**|**Towards Adversarially Robust Deep Metric Learning**|Xiaopeng Ke et.al.|[2501.01025v1](http://arxiv.org/abs/2501.01025v1)|null|
+|**2025-01-02**|**Boosting Adversarial Transferability with Spatial Adversarial Alignment**|Zhaoyu Chen et.al.|[2501.01015v1](http://arxiv.org/abs/2501.01015v1)|null|
+|**2025-01-01**|**Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability**|Hui Zeng et.al.|[2501.00707v1](http://arxiv.org/abs/2501.00707v1)|null|
+|**2024-12-31**|**Extending XReason: Formal Explanations for Adversarial Detection**|Amira Jemaa et.al.|[2501.00537v1](http://arxiv.org/abs/2501.00537v1)|null|
 |**2024-12-30**|**Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability**|Hui Zeng et.al.|[2412.20807v1](http://arxiv.org/abs/2412.20807v1)|**[link](https://github.com/zengh5/avg_ft)**|
 |**2024-12-30**|**Sample Correlation for Fingerprinting Deep Face Recognition**|Jiyang Guan et.al.|[2412.20768v1](http://arxiv.org/abs/2412.20768v1)|**[link](https://github.com/guanjiyang/sac_jc)**|
 |**2024-12-28**|**A Robust Adversarial Ensemble with Causal (Feature Interaction) Interpretations for Image Classification**|Chunheng Zhao et.al.|[2412.20025v1](http://arxiv.org/abs/2412.20025v1)|null|
@@ -788,6 +794,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428v1](http://arxiv.org/abs/2501.01428v1)|null|
+|**2025-01-02**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427v1](http://arxiv.org/abs/2501.01427v1)|null|
+|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|null|
+|**2025-01-02**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425v1](http://arxiv.org/abs/2501.01425v1)|null|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|null|
+|**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423v1](http://arxiv.org/abs/2501.01423v1)|**[link](https://github.com/hustvl/LightningDiT)**|
+|**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422v1](http://arxiv.org/abs/2501.01422v1)|null|
+|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420v1](http://arxiv.org/abs/2501.01420v1)|null|
+|**2025-01-02**|**Riemann-Hilbert problems, Fredholm determinants, explicit combinatorial expansions, and connection formulas for the general $q$-Painlevé III$_3$ tau functions**|Pavlo Gavrylenko et.al.|[2501.01419v1](http://arxiv.org/abs/2501.01419v1)|null|
+|**2025-01-02**|**The Bayesian Global Sky Model (B-GSM): Validation of a Data Driven Bayesian Simultaneous Component Separation and Calibration Algorithm for EoR Foreground Modelling**|George Carter et.al.|[2501.01417v1](http://arxiv.org/abs/2501.01417v1)|null|
 |**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206v1](http://arxiv.org/abs/2412.21206v1)|null|
 |**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|**[link](https://github.com/smy-nec/aapl)**|
 |**2024-12-30**|**Branes Screening Quarks and Defect Operators**|Andreas Karch et.al.|[2412.21204v1](http://arxiv.org/abs/2412.21204v1)|null|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Improving Robustness Estimates in Natural Language Explainable AI though Synonymity Weighted Similarity Measures**|Christopher Burger et.al.|[2501.01516v1](http://arxiv.org/abs/2501.01516v1)|null|
 |**2025-01-02**|**AIM: Additional Image Guided Generation of Transferable Adversarial Attacks**|Teng Li et.al.|[2501.01106v1](http://arxiv.org/abs/2501.01106v1)|null|
 |**2025-01-02**|**Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs**|Linhao Huang et.al.|[2501.01042v1](http://arxiv.org/abs/2501.01042v1)|null|
 |**2025-01-02**|**Towards Adversarially Robust Deep Metric Learning**|Xiaopeng Ke et.al.|[2501.01025v1](http://arxiv.org/abs/2501.01025v1)|null|
@@ -794,6 +795,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957v1](http://arxiv.org/abs/2501.01957v1)|null|
+|**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956v1](http://arxiv.org/abs/2501.01956v1)|null|
+|**2025-01-03**|**Positive determinacy of h-Shuhan matrices with $h<2$**|Weicai Wu et.al.|[2501.01955v1](http://arxiv.org/abs/2501.01955v1)|null|
+|**2025-01-03**|**Grid-level impacts of renewable energy on thermal generation: efficiency, emissions and flexibility**|Dhruv Suri et.al.|[2501.01954v1](http://arxiv.org/abs/2501.01954v1)|null|
+|**2025-01-03**|**Semigroups of holomorphic functions; rectifiability and Lipschitz properties of the orbits**|Dimitrios Betsakos et.al.|[2501.01952v1](http://arxiv.org/abs/2501.01952v1)|null|
+|**2025-01-03**|**MADGEN -- Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950v1](http://arxiv.org/abs/2501.01950v1)|null|
+|**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949v1](http://arxiv.org/abs/2501.01949v1)|null|
+|**2025-01-03**|**A New Approach to the Analysis of Cosmological Parameters in Multifield Cosmology**|Katerina Bolshakova et.al.|[2501.01948v1](http://arxiv.org/abs/2501.01948v1)|null|
+|**2025-01-03**|**A uniform action of the dihedral group $ Z_2\times D_3$ on Littlewood--Richardson coefficients**|Olga Azenhas et.al.|[2501.01947v1](http://arxiv.org/abs/2501.01947v1)|null|
+|**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945v1](http://arxiv.org/abs/2501.01945v1)|null|
 |**2025-01-03**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428v2](http://arxiv.org/abs/2501.01428v2)|null|
 |**2025-01-02**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427v1](http://arxiv.org/abs/2501.01427v1)|null|
 |**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|null|

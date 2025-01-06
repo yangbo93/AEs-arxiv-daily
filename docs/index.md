@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 
 ## Adversarial Examples
 
@@ -794,10 +794,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428v1](http://arxiv.org/abs/2501.01428v1)|null|
+|**2025-01-03**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428v2](http://arxiv.org/abs/2501.01428v2)|null|
 |**2025-01-02**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427v1](http://arxiv.org/abs/2501.01427v1)|null|
 |**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|null|
-|**2025-01-02**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425v1](http://arxiv.org/abs/2501.01425v1)|null|
+|**2025-01-03**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425v2](http://arxiv.org/abs/2501.01425v2)|null|
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|null|
 |**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423v1](http://arxiv.org/abs/2501.01423v1)|**[link](https://github.com/hustvl/LightningDiT)**|
 |**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422v1](http://arxiv.org/abs/2501.01422v1)|null|

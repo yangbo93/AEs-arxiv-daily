@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Towards Robust and Accurate Stability Estimation of Local Surrogate Models in Text-based Explainable AI**|Christopher Burger et.al.|[2501.02042v1](http://arxiv.org/abs/2501.02042v1)|null|
 |**2025-01-02**|**Improving Robustness Estimates in Natural Language Explainable AI though Synonymity Weighted Similarity Measures**|Christopher Burger et.al.|[2501.01516v1](http://arxiv.org/abs/2501.01516v1)|null|
 |**2025-01-02**|**AIM: Additional Image Guided Generation of Transferable Adversarial Attacks**|Teng Li et.al.|[2501.01106v1](http://arxiv.org/abs/2501.01106v1)|null|
 |**2025-01-02**|**Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs**|Linhao Huang et.al.|[2501.01042v1](http://arxiv.org/abs/2501.01042v1)|null|
@@ -795,6 +796,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229v1](http://arxiv.org/abs/2501.03229v1)|null|
+|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228v1](http://arxiv.org/abs/2501.03228v1)|null|
+|**2025-01-06**|**When Should Selfish Miners Double-Spend?**|Mustafa Doger et.al.|[2501.03227v1](http://arxiv.org/abs/2501.03227v1)|null|
+|**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226v1](http://arxiv.org/abs/2501.03226v1)|**[link](https://github.com/beichenzbc/booststep)**|
+|**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225v1](http://arxiv.org/abs/2501.03225v1)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
+|**2025-01-06**|**Testing Approximate Stationarity Concepts for Piecewise Affine Functions**|Lai Tian et.al.|[2501.03224v1](http://arxiv.org/abs/2501.03224v1)|null|
+|**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223v1](http://arxiv.org/abs/2501.03223v1)|null|
+|**2025-01-06**|**RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet Transform Projection-based Network**|Haosheng Zhang et.al.|[2501.03221v1](http://arxiv.org/abs/2501.03221v1)|null|
+|**2025-01-06**|**ProTracker: Probabilistic Integration for Robust and Accurate Point Tracking**|Tingyang Zhang et.al.|[2501.03220v1](http://arxiv.org/abs/2501.03220v1)|null|
+|**2025-01-06**|**Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction**|Rui Qian et.al.|[2501.03218v1](http://arxiv.org/abs/2501.03218v1)|**[link](https://github.com/mark12ding/dispider)**|
 |**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957v1](http://arxiv.org/abs/2501.01957v1)|**[link](https://github.com/VITA-MLLM/VITA)**|
 |**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956v1](http://arxiv.org/abs/2501.01956v1)|null|
 |**2025-01-03**|**Positive determinacy of h-Shuhan matrices with $h<2$**|Weicai Wu et.al.|[2501.01955v1](http://arxiv.org/abs/2501.01955v1)|null|

@@ -792,6 +792,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453v1](http://arxiv.org/abs/2501.05453v1)|null|
+|**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452v1](http://arxiv.org/abs/2501.05452v1)|null|
+|**2025-01-09**|**Interplay between altermagnetism and topological superconductivity in an unconventional superconducting platform**|Pritam Chatterjee et.al.|[2501.05451v1](http://arxiv.org/abs/2501.05451v1)|null|
+|**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450v1](http://arxiv.org/abs/2501.05450v1)|null|
+|**2025-01-09**|**Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures**|Md. Arafat Alam Khandaker et.al.|[2501.05449v1](http://arxiv.org/abs/2501.05449v1)|null|
+|**2025-01-09**|**Fortuity in the D1-D5 system**|Chi-Ming Chang et.al.|[2501.05448v1](http://arxiv.org/abs/2501.05448v1)|null|
+|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446v1](http://arxiv.org/abs/2501.05446v1)|null|
+|**2025-01-09**|**Consistent Flow Distillation for Text-to-3D Generation**|Runjie Yan et.al.|[2501.05445v1](http://arxiv.org/abs/2501.05445v1)|null|
+|**2025-01-09**|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao et.al.|[2501.05444v1](http://arxiv.org/abs/2501.05444v1)|null|
+|**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443v1](http://arxiv.org/abs/2501.05443v1)|null|
 |**2025-01-08**|**Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria Shaping Modern Artificial Neural Network Architectures**|Ziyuan Huang et.al.|[2501.04700v1](http://arxiv.org/abs/2501.04700v1)|null|
 |**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699v1](http://arxiv.org/abs/2501.04699v1)|null|
 |**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698v1](http://arxiv.org/abs/2501.04698v1)|null|

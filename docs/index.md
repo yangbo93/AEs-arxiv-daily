@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.13
+## Updated on 2025.01.14
 
 ## Adversarial Examples
 
@@ -12,7 +12,7 @@ layout: default
 |**2025-01-02**|**Improving Robustness Estimates in Natural Language Explainable AI though Synonymity Weighted Similarity Measures**|Christopher Burger et.al.|[2501.01516v1](http://arxiv.org/abs/2501.01516v1)|null|
 |**2025-01-02**|**AIM: Additional Image Guided Generation of Transferable Adversarial Attacks**|Teng Li et.al.|[2501.01106v1](http://arxiv.org/abs/2501.01106v1)|null|
 |**2025-01-10**|**Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs**|Linhao Huang et.al.|[2501.01042v2](http://arxiv.org/abs/2501.01042v2)|null|
-|**2025-01-02**|**Towards Adversarially Robust Deep Metric Learning**|Xiaopeng Ke et.al.|[2501.01025v1](http://arxiv.org/abs/2501.01025v1)|null|
+|**2025-01-12**|**Towards Adversarially Robust Deep Metric Learning**|Xiaopeng Ke et.al.|[2501.01025v2](http://arxiv.org/abs/2501.01025v2)|null|
 |**2025-01-02**|**Boosting Adversarial Transferability with Spatial Adversarial Alignment**|Zhaoyu Chen et.al.|[2501.01015v1](http://arxiv.org/abs/2501.01015v1)|null|
 |**2025-01-01**|**Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability**|Hui Zeng et.al.|[2501.00707v1](http://arxiv.org/abs/2501.00707v1)|null|
 |**2024-12-31**|**Extending XReason: Formal Explanations for Adversarial Detection**|Amira Jemaa et.al.|[2501.00537v1](http://arxiv.org/abs/2501.00537v1)|null|

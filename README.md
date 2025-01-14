@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**|Ping Guo et.al.|[2501.07251v1](http://arxiv.org/abs/2501.07251v1)|null|
+|**2025-01-13**|**Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities**|Jialin Wu et.al.|[2501.07044v1](http://arxiv.org/abs/2501.07044v1)|null|
 |**2025-01-03**|**Towards Robust and Accurate Stability Estimation of Local Surrogate Models in Text-based Explainable AI**|Christopher Burger et.al.|[2501.02042v1](http://arxiv.org/abs/2501.02042v1)|null|
 |**2025-01-02**|**Improving Robustness Estimates in Natural Language Explainable AI though Synonymity Weighted Similarity Measures**|Christopher Burger et.al.|[2501.01516v1](http://arxiv.org/abs/2501.01516v1)|null|
 |**2025-01-02**|**AIM: Additional Image Guided Generation of Transferable Adversarial Attacks**|Teng Li et.al.|[2501.01106v1](http://arxiv.org/abs/2501.01106v1)|null|
@@ -792,6 +794,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**The Guitar's Magnetic Field Revealed by Starlight Polarization**|Jack T. Dinsmore et.al.|[2501.07577v1](http://arxiv.org/abs/2501.07577v1)|null|
+|**2025-01-13**|**Dataset Distillation via Committee Voting**|Jiacheng Cui et.al.|[2501.07575v1](http://arxiv.org/abs/2501.07575v1)|**[link](https://github.com/jiacheng8/cv-dd)**|
+|**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574v1](http://arxiv.org/abs/2501.07574v1)|**[link](https://github.com/facebookresearch/uco3d)**|
+|**2025-01-13**|**A generalized Lalanne--Kreweras involution for rectangular and staircase tableaux**|Sergi Elizalde et.al.|[2501.07573v1](http://arxiv.org/abs/2501.07573v1)|null|
+|**2025-01-13**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572v1](http://arxiv.org/abs/2501.07572v1)|**[link](https://github.com/alibaba-nlp/webwalker)**|
+|**2025-01-13**|**Digital Twin for Smart Societies: A Catalyst for Inclusive and Accessible Healthcare**|Joshit Mohanty et.al.|[2501.07570v1](http://arxiv.org/abs/2501.07570v1)|null|
+|**2025-01-13**|**A reference framework for extremely metal-poor OB star studies: calibrations for stellar parameters and intrinsic colours**|Marta Lorenzo et.al.|[2501.07569v1](http://arxiv.org/abs/2501.07569v1)|null|
+|**2025-01-13**|**From Fiber to Fabric: Designing the Mechanics of Machine Knitting**|Cosima du Pasquier et.al.|[2501.07567v1](http://arxiv.org/abs/2501.07567v1)|null|
+|**2025-01-13**|**E2ESlack: An End-to-End Graph-Based Framework for Pre-Routing Slack Prediction**|Saurabh Bodhe et.al.|[2501.07564v1](http://arxiv.org/abs/2501.07564v1)|null|
+|**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563v1](http://arxiv.org/abs/2501.07563v1)|null|
 |**2025-01-10**|**Multi-subject Open-set Personalization in Video Generation**|Tsai-Shien Chen et.al.|[2501.06187v1](http://arxiv.org/abs/2501.06187v1)|null|
 |**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186v1](http://arxiv.org/abs/2501.06186v1)|**[link](https://github.com/mbzuai-oryx/llamav-o1)**|
 |**2025-01-10**|**QPEs as Lense-Thirring precession of super-Eddington flows**|M. Middleton et.al.|[2501.06185v1](http://arxiv.org/abs/2501.06185v1)|null|

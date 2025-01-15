@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 
 ## Adversarial Examples
 
@@ -806,7 +806,7 @@ layout: default
 |**2025-01-13**|**Digital Twin for Smart Societies: A Catalyst for Inclusive and Accessible Healthcare**|Joshit Mohanty et.al.|[2501.07570v1](http://arxiv.org/abs/2501.07570v1)|null|
 |**2025-01-13**|**A reference framework for extremely metal-poor OB star studies: calibrations for stellar parameters and intrinsic colours**|Marta Lorenzo et.al.|[2501.07569v1](http://arxiv.org/abs/2501.07569v1)|null|
 |**2025-01-13**|**From Fiber to Fabric: Designing the Mechanics of Machine Knitting**|Cosima du Pasquier et.al.|[2501.07567v1](http://arxiv.org/abs/2501.07567v1)|null|
-|**2025-01-13**|**E2ESlack: An End-to-End Graph-Based Framework for Pre-Routing Slack Prediction**|Saurabh Bodhe et.al.|[2501.07564v1](http://arxiv.org/abs/2501.07564v1)|null|
+|**2025-01-14**|**E2ESlack: An End-to-End Graph-Based Framework for Pre-Routing Slack Prediction**|Saurabh Bodhe et.al.|[2501.07564v2](http://arxiv.org/abs/2501.07564v2)|null|
 |**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563v1](http://arxiv.org/abs/2501.07563v1)|null|
 |**2025-01-10**|**Multi-subject Open-set Personalization in Video Generation**|Tsai-Shien Chen et.al.|[2501.06187v1](http://arxiv.org/abs/2501.06187v1)|null|
 |**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186v1](http://arxiv.org/abs/2501.06186v1)|**[link](https://github.com/mbzuai-oryx/llamav-o1)**|

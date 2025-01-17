@@ -800,6 +800,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757v1](http://arxiv.org/abs/2501.09757v1)|null|
+|**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756v1](http://arxiv.org/abs/2501.09756v1)|null|
+|**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755v1](http://arxiv.org/abs/2501.09755v1)|null|
+|**2025-01-16**|**Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**|Youngjoon Jang et.al.|[2501.09754v1](http://arxiv.org/abs/2501.09754v1)|null|
+|**2025-01-16**|**SRE-Conv: Symmetric Rotation Equivariant Convolution for Biomedical Image Classification**|Yuexi Du et.al.|[2501.09753v1](http://arxiv.org/abs/2501.09753v1)|**[link](https://github.com/xypb/sre-conv)**|
+|**2025-01-16**|**A vertical slice frontogenesis test case for compressible nonhydrostatic dynamical cores of atmospheric models**|Hiroe Yamazaki et.al.|[2501.09752v1](http://arxiv.org/abs/2501.09752v1)|null|
+|**2025-01-16**|**OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking**|Zekun Xi et.al.|[2501.09751v1](http://arxiv.org/abs/2501.09751v1)|null|
+|**2025-01-16**|**Enhancing Lexicon-Based Text Embeddings with Large Language Models**|Yibin Lei et.al.|[2501.09749v1](http://arxiv.org/abs/2501.09749v1)|null|
+|**2025-01-16**|**PyPLUTO: a data analysis Python package for the PLUTO code**|Giancarlo Mattia et.al.|[2501.09748v1](http://arxiv.org/abs/2501.09748v1)|null|
+|**2025-01-16**|**FAST: Efficient Action Tokenization for Vision-Language-Action Models**|Karl Pertsch et.al.|[2501.09747v1](http://arxiv.org/abs/2501.09747v1)|null|
 |**2025-01-15**|**Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**|Jingyuan Chen et.al.|[2501.09019v1](http://arxiv.org/abs/2501.09019v1)|null|
 |**2025-01-15**|**Improving the stellar age determination through joint modeling of binarity and asteroseismology - Grid modeling of the seismic red-giant binary KIC 9163796**|D. H. Grossmann et.al.|[2501.09018v1](http://arxiv.org/abs/2501.09018v1)|null|
 |**2025-01-15**|**An Ensemble Information Filter: Retrieving Markov-information from the SPDE discretisation**|Berent Ånund Strømnes Lunde et.al.|[2501.09016v1](http://arxiv.org/abs/2501.09016v1)|null|

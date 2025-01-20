@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers**|Matan Ben-Tov et.al.|[2501.10013v1](http://arxiv.org/abs/2501.10013v1)|null|
 |**2025-01-14**|**Cross-Modal Transferable Image-to-Video Attack on Video Quality Metrics**|Georgii Gotin et.al.|[2501.08415v1](http://arxiv.org/abs/2501.08415v1)|null|
 |**2025-01-14**|**VENOM: Text-driven Unrestricted Adversarial Example Generation with Diffusion Models**|Hui Kuurila-Zhang et.al.|[2501.07922v1](http://arxiv.org/abs/2501.07922v1)|**[link](https://github.com/huizhg/VENOM)**|
 |**2025-01-13**|**MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**|Ping Guo et.al.|[2501.07251v1](http://arxiv.org/abs/2501.07251v1)|null|
@@ -800,6 +801,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360v1](http://arxiv.org/abs/2501.10360v1)|**[link](https://github.com/kartik-3004/facexbench)**|
+|**2025-01-17**|**Parton distributions confront LHC Run II data: a quantitative appraisal**|Amedeo Chiefa et.al.|[2501.10359v1](http://arxiv.org/abs/2501.10359v1)|null|
+|**2025-01-17**|**Zero-Shot Monocular Scene Flow Estimation in the Wild**|Yiqing Liang et.al.|[2501.10357v1](http://arxiv.org/abs/2501.10357v1)|null|
+|**2025-01-17**|**Exploring the Standard Model and Beyond from the Evidence of CE$ν$NS with Reactor Antineutrinos in CONUS+**|M. Alpízar-Venegas et.al.|[2501.10355v1](http://arxiv.org/abs/2501.10355v1)|null|
+|**2025-01-17**|**I Zw 1 and H0557-385: The Dusty Tori of Two High Eddington AGNs Observed in the MATISSE LM-Bands**|Farin Drewes et.al.|[2501.10352v1](http://arxiv.org/abs/2501.10352v1)|null|
+|**2025-01-17**|**Purcell-Enhanced, Directional Light-Matter Interaction in a Waveguide-Coupled Nanocavity**|Nicholas J. Martin et.al.|[2501.10351v1](http://arxiv.org/abs/2501.10351v1)|null|
+|**2025-01-17**|**Resolving discrepancies in bang-time predictions for ICF experiments on the NIF: Insights from the Build-A-Hohlraum Campaign**|G. F. Swadling et.al.|[2501.10350v1](http://arxiv.org/abs/2501.10350v1)|null|
+|**2025-01-17**|**Photonic chiral state transfer near the Liouvillian exceptional point**|Huixia Gao et.al.|[2501.10349v1](http://arxiv.org/abs/2501.10349v1)|null|
+|**2025-01-17**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348v1](http://arxiv.org/abs/2501.10348v1)|null|
+|**2025-01-17**|**ColNet: Collaborative Optimization in Decentralized Federated Multi-task Learning Systems**|Chao Feng et.al.|[2501.10347v1](http://arxiv.org/abs/2501.10347v1)|null|
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757v1](http://arxiv.org/abs/2501.09757v1)|null|
 |**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756v1](http://arxiv.org/abs/2501.09756v1)|null|
 |**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755v1](http://arxiv.org/abs/2501.09755v1)|null|

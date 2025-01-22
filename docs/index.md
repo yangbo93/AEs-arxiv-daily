@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Extend Adversarial Policy Against Neural Machine Translation via Unknown Token**|Wei Zou et.al.|[2501.12183v1](http://arxiv.org/abs/2501.12183v1)|null|
+|**2025-01-21**|**Enhancing Adversarial Transferability via Component-Wise Augmentation Method**|Hangyu Liu et.al.|[2501.11901v1](http://arxiv.org/abs/2501.11901v1)|null|
+|**2025-01-19**|**Effectiveness of Adversarial Benign and Malware Examples in Evasion and Poisoning Attacks**|Matouš Kozák et.al.|[2501.10996v1](http://arxiv.org/abs/2501.10996v1)|null|
 |**2025-01-17**|**CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers**|Matan Ben-Tov et.al.|[2501.10013v1](http://arxiv.org/abs/2501.10013v1)|null|
 |**2025-01-14**|**Cross-Modal Transferable Image-to-Video Attack on Video Quality Metrics**|Georgii Gotin et.al.|[2501.08415v1](http://arxiv.org/abs/2501.08415v1)|null|
 |**2025-01-14**|**VENOM: Text-driven Unrestricted Adversarial Example Generation with Diffusion Models**|Hui Kuurila-Zhang et.al.|[2501.07922v1](http://arxiv.org/abs/2501.07922v1)|**[link](https://github.com/huizhg/VENOM)**|
@@ -801,6 +804,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393v1](http://arxiv.org/abs/2501.12393v1)|null|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392v1](http://arxiv.org/abs/2501.12392v1)|null|
+|**2025-01-21**|**Physics of Skill Learning**|Ziming Liu et.al.|[2501.12391v1](http://arxiv.org/abs/2501.12391v1)|**[link](https://github.com/kindxiaoming/physics_of_skill_learning)**|
+|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390v1](http://arxiv.org/abs/2501.12390v1)|null|
+|**2025-01-21**|**Taming Teacher Forcing for Masked Autoregressive Video Generation**|Deyu Zhou et.al.|[2501.12389v1](http://arxiv.org/abs/2501.12389v1)|null|
+|**2025-01-21**|**Continuous 3D Perception Model with Persistent State**|Qianqian Wang et.al.|[2501.12387v1](http://arxiv.org/abs/2501.12387v1)|null|
+|**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386v1](http://arxiv.org/abs/2501.12386v1)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385v1](http://arxiv.org/abs/2501.12385v1)|null|
+|**2025-01-21**|**CCESAR: Coastline Classification-Extraction From SAR Images Using CNN-U-Net Combination**|Vidhu Arora et.al.|[2501.12384v1](http://arxiv.org/abs/2501.12384v1)|null|
+|**2025-01-21**|**Accelerating Pulsar Parameter Estimation Using Convolutional Neural Networks**|Greg Olmschenk et.al.|[2501.12383v1](http://arxiv.org/abs/2501.12383v1)|null|
 |**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360v1](http://arxiv.org/abs/2501.10360v1)|**[link](https://github.com/kartik-3004/facexbench)**|
 |**2025-01-17**|**Parton distributions confront LHC Run II data: a quantitative appraisal**|Amedeo Chiefa et.al.|[2501.10359v1](http://arxiv.org/abs/2501.10359v1)|null|
 |**2025-01-17**|**Zero-Shot Monocular Scene Flow Estimation in the Wild**|Yiqing Liang et.al.|[2501.10357v1](http://arxiv.org/abs/2501.10357v1)|null|

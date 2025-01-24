@@ -1,4 +1,4 @@
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 
 ## Adversarial Examples
 
@@ -11,7 +11,7 @@
 |**2025-01-17**|**CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers**|Matan Ben-Tov et.al.|[2501.10013v1](http://arxiv.org/abs/2501.10013v1)|null|
 |**2025-01-14**|**Cross-Modal Transferable Image-to-Video Attack on Video Quality Metrics**|Georgii Gotin et.al.|[2501.08415v1](http://arxiv.org/abs/2501.08415v1)|null|
 |**2025-01-14**|**VENOM: Text-driven Unrestricted Adversarial Example Generation with Diffusion Models**|Hui Kuurila-Zhang et.al.|[2501.07922v1](http://arxiv.org/abs/2501.07922v1)|**[link](https://github.com/huizhg/VENOM)**|
-|**2025-01-13**|**MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**|Ping Guo et.al.|[2501.07251v1](http://arxiv.org/abs/2501.07251v1)|null|
+|**2025-01-23**|**MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**|Ping Guo et.al.|[2501.07251v2](http://arxiv.org/abs/2501.07251v2)|null|
 |**2025-01-13**|**Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities**|Jialin Wu et.al.|[2501.07044v1](http://arxiv.org/abs/2501.07044v1)|null|
 |**2025-01-03**|**Towards Robust and Accurate Stability Estimation of Local Surrogate Models in Text-based Explainable AI**|Christopher Burger et.al.|[2501.02042v1](http://arxiv.org/abs/2501.02042v1)|null|
 |**2025-01-02**|**Improving Robustness Estimates in Natural Language Explainable AI though Synonymity Weighted Similarity Measures**|Christopher Burger et.al.|[2501.01516v1](http://arxiv.org/abs/2501.01516v1)|null|

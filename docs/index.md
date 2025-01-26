@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 
 ## Adversarial Examples
 
@@ -12,7 +12,7 @@ layout: default
 |**2025-01-21**|**Extend Adversarial Policy Against Neural Machine Translation via Unknown Token**|Wei Zou et.al.|[2501.12183v1](http://arxiv.org/abs/2501.12183v1)|null|
 |**2025-01-21**|**Enhancing Adversarial Transferability via Component-Wise Augmentation Method**|Hangyu Liu et.al.|[2501.11901v1](http://arxiv.org/abs/2501.11901v1)|null|
 |**2025-01-19**|**Effectiveness of Adversarial Benign and Malware Examples in Evasion and Poisoning Attacks**|Matouš Kozák et.al.|[2501.10996v1](http://arxiv.org/abs/2501.10996v1)|null|
-|**2025-01-17**|**CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers**|Matan Ben-Tov et.al.|[2501.10013v1](http://arxiv.org/abs/2501.10013v1)|null|
+|**2025-01-17**|**CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers**|Matan Ben-Tov et.al.|[2501.10013v1](http://arxiv.org/abs/2501.10013v1)|**[link](https://github.com/matanbt/attack-tabular)**|
 |**2025-01-14**|**Cross-Modal Transferable Image-to-Video Attack on Video Quality Metrics**|Georgii Gotin et.al.|[2501.08415v1](http://arxiv.org/abs/2501.08415v1)|null|
 |**2025-01-14**|**VENOM: Text-driven Unrestricted Adversarial Example Generation with Diffusion Models**|Hui Kuurila-Zhang et.al.|[2501.07922v1](http://arxiv.org/abs/2501.07922v1)|**[link](https://github.com/huizhg/VENOM)**|
 |**2025-01-23**|**MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**|Ping Guo et.al.|[2501.07251v2](http://arxiv.org/abs/2501.07251v2)|null|

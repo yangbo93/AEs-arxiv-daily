@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-26**|**A general, flexible and harmonious framework to construct interpretable functions in regression analysis**|Tianyu Zhan et.al.|[2501.15526v1](http://arxiv.org/abs/2501.15526v1)|null|
+|**2025-01-25**|**Pre-trained Model Guided Mixture Knowledge Distillation for Adversarial Federated Learning**|Yu Qiao et.al.|[2501.15257v1](http://arxiv.org/abs/2501.15257v1)|null|
+|**2025-01-25**|**VideoPure: Diffusion-based Adversarial Purification for Video Recognition**|Kaixun Jiang et.al.|[2501.14999v1](http://arxiv.org/abs/2501.14999v1)|**[link](https://github.com/deep-kaixun/videopure)**|
 |**2025-01-24**|**GreedyPixel: Fine-Grained Black-Box Adversarial Attack Via Greedy Algorithm**|Hanrui Wang et.al.|[2501.14230v1](http://arxiv.org/abs/2501.14230v1)|null|
 |**2025-01-23**|**Reinforcement Learning Platform for Adversarial Black-box Attacks with Custom Distortion Filters**|Soumyendu Sarkar et.al.|[2501.14122v1](http://arxiv.org/abs/2501.14122v1)|null|
 |**2025-01-23**|**Device-aware Optical Adversarial Attack for a Portable Projector-camera System**|Ning Jiang et.al.|[2501.14005v1](http://arxiv.org/abs/2501.14005v1)|null|
@@ -804,6 +807,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330v1](http://arxiv.org/abs/2501.16330v1)|null|
+|**2025-01-27**|**sDREAMER: Self-distilled Mixture-of-Modality-Experts Transformer for Automatic Sleep Staging**|Jingyuan Chen et.al.|[2501.16329v1](http://arxiv.org/abs/2501.16329v1)|null|
+|**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327v1](http://arxiv.org/abs/2501.16327v1)|**[link](https://github.com/vita-mllm/lucy)**|
+|**2025-01-27**|**Tailored Forecasting from Short Time Series via Meta-learning**|Declan A. Norton et.al.|[2501.16325v1](http://arxiv.org/abs/2501.16325v1)|null|
+|**2025-01-27**|**Efficient evaluation of real-time path integrals**|Job Feldbrugge et.al.|[2501.16323v1](http://arxiv.org/abs/2501.16323v1)|null|
+|**2025-01-27**|**Implicit Bias in Matrix Factorization and its Explicit Realization in a New Architecture**|Yikun Hou et.al.|[2501.16322v1](http://arxiv.org/abs/2501.16322v1)|null|
+|**2025-01-27**|**The SEA algorithm for endomorphisms of supersingular elliptic curves**|Travis Morrison et.al.|[2501.16321v1](http://arxiv.org/abs/2501.16321v1)|null|
+|**2025-01-27**|**Adaptive Iterative Compression for High-Resolution Files: an Approach Focused on Preserving Visual Quality in Cinematic Workflows**|Leonardo Melo et.al.|[2501.16319v1](http://arxiv.org/abs/2501.16319v1)|null|
+|**2025-01-27**|**A MARVEL-ous study of how well galaxy shapes reflect Dark Matter halo shapes in Cold Dark Matter Simulations**|Blake Keith et.al.|[2501.16317v1](http://arxiv.org/abs/2501.16317v1)|null|
+|**2025-01-27**|**The Fundamental Theorem of Weak Optimal Transport**|Mathias Beiglböck et.al.|[2501.16316v1](http://arxiv.org/abs/2501.16316v1)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729v1](http://arxiv.org/abs/2501.14729v1)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**Mitigating GenAI-powered Evidence Pollution for Out-of-Context Multimodal Misinformation Detection**|Zehong Yan et.al.|[2501.14728v1](http://arxiv.org/abs/2501.14728v1)|null|
 |**2025-01-24**|**Estimation-theoretic analysis of lensless imaging**|Leyla A. Kabuli et.al.|[2501.14727v1](http://arxiv.org/abs/2501.14727v1)|null|

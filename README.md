@@ -808,6 +808,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Direct Search signal of two-component Dark Matter**|Subhaditya Bhattacharya et.al.|[2501.17862v1](http://arxiv.org/abs/2501.17862v1)|null|
+|**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|null|
+|**2025-01-29**|**rEGGression: an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models**|Fabricio Olivetti de Franca et.al.|[2501.17859v1](http://arxiv.org/abs/2501.17859v1)|null|
+|**2025-01-29**|**Improving Your Model Ranking on Chatbot Arena by Vote Rigging**|Rui Min et.al.|[2501.17858v1](http://arxiv.org/abs/2501.17858v1)|**[link](https://github.com/sail-sg/rigging-chatbotarena)**|
+|**2025-01-29**|**Planetesimal formation in a pressure bump induced by infall**|Haichen Zhao et.al.|[2501.17857v1](http://arxiv.org/abs/2501.17857v1)|null|
+|**2025-01-29**|**GRACE: Generalizing Robot-Assisted Caregiving with User Functionality Embeddings**|Ziang Liu et.al.|[2501.17855v1](http://arxiv.org/abs/2501.17855v1)|null|
+|**2025-01-29**|**Enriched Immersed Finite Element and Isogeometric Analysis -- Algorithms and Data Structures**|Nils Wunsch et.al.|[2501.17853v1](http://arxiv.org/abs/2501.17853v1)|null|
+|**2025-01-29**|**Holographic Fluctuation-Dissipation Relations in Finite Density Systems**|Shivam K. Sharma et.al.|[2501.17852v1](http://arxiv.org/abs/2501.17852v1)|null|
+|**2025-01-29**|**UGSim: Autonomous Buoyancy-Driven Underwater Glider Simulator with LQR Control Strategy and Recursive Guidance System**|Zhizun Xu et.al.|[2501.17851v1](http://arxiv.org/abs/2501.17851v1)|null|
+|**2025-01-29**|**Twisted torus knots with Horadam parameters**|Brandy Doleshal et.al.|[2501.17850v1](http://arxiv.org/abs/2501.17850v1)|null|
 |**2025-01-28**|**Nonlinear fitting of undersampled discrete datasets in astronomy**|Igor Chilingarian et.al.|[2501.17163v1](http://arxiv.org/abs/2501.17163v1)|null|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162v1](http://arxiv.org/abs/2501.17162v1)|null|
 |**2025-01-28**|**SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training**|Tianzhe Chu et.al.|[2501.17161v1](http://arxiv.org/abs/2501.17161v1)|null|

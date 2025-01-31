@@ -812,6 +812,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Boosting galaxy clustering analyses with non-perturbative modelling of redshift-space distortions**|Alexander Eggemeier et.al.|[2501.18597v1](http://arxiv.org/abs/2501.18597v1)|null|
+|**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596v1](http://arxiv.org/abs/2501.18596v1)|null|
+|**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594v1](http://arxiv.org/abs/2501.18594v1)|null|
+|**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593v1](http://arxiv.org/abs/2501.18593v1)|null|
+|**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592v1](http://arxiv.org/abs/2501.18592v1)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
+|**2025-01-30**|**Non-Hermitian catalysis of density-wave orders on Euclidean and hyperbolic lattices**|Christopher A. Leong et.al.|[2501.18591v1](http://arxiv.org/abs/2501.18591v1)|null|
+|**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590v1](http://arxiv.org/abs/2501.18590v1)|null|
+|**2025-01-30**|**Inkspire: Supporting Design Exploration with Generative AI through Analogical Sketching**|David Chuan-En Lin et.al.|[2501.18588v1](http://arxiv.org/abs/2501.18588v1)|null|
+|**2025-01-30**|**Entropy functionals and equilibrium states in mixed quantum-classical dynamics**|Cesare Tronci et.al.|[2501.18587v1](http://arxiv.org/abs/2501.18587v1)|null|
+|**2025-01-30**|**Towards more accurate $B_{(s)}\rightarrowπ(K)$ and $D_{(s)}\rightarrowπ(K)$ form factors**|Logan Roberts et.al.|[2501.18586v1](http://arxiv.org/abs/2501.18586v1)|null|
 |**2025-01-29**|**Direct Search signal of two-component Dark Matter**|Subhaditya Bhattacharya et.al.|[2501.17862v1](http://arxiv.org/abs/2501.17862v1)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|null|
 |**2025-01-29**|**rEGGression: an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models**|Fabricio Olivetti de Franca et.al.|[2501.17859v1](http://arxiv.org/abs/2501.17859v1)|null|

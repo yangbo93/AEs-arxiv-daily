@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-28**|**Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems**|Yuxin Cao et.al.|[2501.16843v1](http://arxiv.org/abs/2501.16843v1)|null|
-|**2025-01-26**|**A general, flexible and harmonious framework to construct interpretable functions in regression analysis**|Tianyu Zhan et.al.|[2501.15526v1](http://arxiv.org/abs/2501.15526v1)|null|
+|**2025-01-26**|**A general, flexible and harmonious framework to construct interpretable functions in regression analysis**|Tianyu Zhan et.al.|[2501.15526v1](http://arxiv.org/abs/2501.15526v1)|**[link](https://github.com/tian-yu-zhan/dnn_interpretation)**|
 |**2025-01-25**|**Pre-trained Model Guided Mixture Knowledge Distillation for Adversarial Federated Learning**|Yu Qiao et.al.|[2501.15257v1](http://arxiv.org/abs/2501.15257v1)|null|
 |**2025-01-25**|**VideoPure: Diffusion-based Adversarial Purification for Video Recognition**|Kaixun Jiang et.al.|[2501.14999v1](http://arxiv.org/abs/2501.14999v1)|**[link](https://github.com/deep-kaixun/videopure)**|
 |**2025-01-24**|**GreedyPixel: Fine-Grained Black-Box Adversarial Attack Via Greedy Algorithm**|Hanrui Wang et.al.|[2501.14230v1](http://arxiv.org/abs/2501.14230v1)|null|

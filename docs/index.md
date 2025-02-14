@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Pulling Back the Curtain: Unsupervised Adversarial Detection via Contrastive Auxiliary Networks**|Eylon Mizrahi et.al.|[2502.09110v1](http://arxiv.org/abs/2502.09110v1)|null|
 |**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638v1](http://arxiv.org/abs/2502.08638v1)|null|
 |**2025-02-11**|**Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models**|Stanislav Fort et.al.|[2502.07753v1](http://arxiv.org/abs/2502.07753v1)|null|
 |**2025-02-11**|**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**|Sen Peng et.al.|[2502.07225v1](http://arxiv.org/abs/2502.07225v1)|**[link](https://github.com/senp98/cat)**|
@@ -821,6 +822,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622v1](http://arxiv.org/abs/2502.09622v1)|null|
+|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621v1](http://arxiv.org/abs/2502.09621v1)|null|
+|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620v1](http://arxiv.org/abs/2502.09620v1)|null|
+|**2025-02-13**|**Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**|Jonathan Kahana et.al.|[2502.09619v1](http://arxiv.org/abs/2502.09619v1)|null|
+|**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616v1](http://arxiv.org/abs/2502.09616v1)|null|
+|**2025-02-13**|**RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets**|Isabella Liu et.al.|[2502.09615v1](http://arxiv.org/abs/2502.09615v1)|null|
+|**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614v1](http://arxiv.org/abs/2502.09614v1)|null|
+|**2025-02-13**|**Latent Radiance Fields with 3D-aware 2D Representations**|Chaoyi Zhou et.al.|[2502.09613v1](http://arxiv.org/abs/2502.09613v1)|null|
+|**2025-02-13**|**Superspin Renormalization and Slow Relaxation in Random Spin Systems**|Yi J. Zhao et.al.|[2502.09612v1](http://arxiv.org/abs/2502.09612v1)|null|
+|**2025-02-13**|**Designing a Conditional Prior Distribution for Flow-Based Generative Models**|Noam Issachar et.al.|[2502.09611v1](http://arxiv.org/abs/2502.09611v1)|null|
 |**2025-02-12**|**Poly-Autoregressive Prediction for Modeling Interactions**|Neerja Thakkar et.al.|[2502.08646v1](http://arxiv.org/abs/2502.08646v1)|null|
 |**2025-02-13**|**Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645v2](http://arxiv.org/abs/2502.08645v2)|null|
 |**2025-02-13**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644v2](http://arxiv.org/abs/2502.08644v2)|null|

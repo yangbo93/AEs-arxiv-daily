@@ -12,7 +12,7 @@ layout: default
 |**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638v1](http://arxiv.org/abs/2502.08638v1)|null|
 |**2025-02-11**|**Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models**|Stanislav Fort et.al.|[2502.07753v1](http://arxiv.org/abs/2502.07753v1)|null|
 |**2025-02-11**|**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**|Sen Peng et.al.|[2502.07225v1](http://arxiv.org/abs/2502.07225v1)|**[link](https://github.com/senp98/cat)**|
-|**2025-02-10**|**SMAB: MAB based word Sensitivity Estimation Framework and its Applications in Adversarial Text Generation**|Saurabh Kumar Pandey et.al.|[2502.07101v1](http://arxiv.org/abs/2502.07101v1)|null|
+|**2025-02-10**|**SMAB: MAB based word Sensitivity Estimation Framework and its Applications in Adversarial Text Generation**|Saurabh Kumar Pandey et.al.|[2502.07101v1](http://arxiv.org/abs/2502.07101v1)|**[link](https://github.com/skp1999/SMAB)**|
 |**2025-02-04**|**CoRPA: Adversarial Image Generation for Chest X-rays Using Concept Vector Perturbations and Generative Models**|Amy Rafferty et.al.|[2502.05214v1](http://arxiv.org/abs/2502.05214v1)|null|
 |**2025-02-07**|**Mechanistic Understandings of Representation Vulnerabilities and Engineering Robust Vision Transformers**|Chashi Mahiul Islam et.al.|[2502.04679v1](http://arxiv.org/abs/2502.04679v1)|null|
 |**2025-02-03**|**FSPGD: Rethinking Black-box Attacks on Semantic Segmentation**|Eun-Sol Park et.al.|[2502.01262v1](http://arxiv.org/abs/2502.01262v1)|**[link](https://github.com/ku-aivs/fspgd)**|
@@ -822,6 +822,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391v1](http://arxiv.org/abs/2502.10391v1)|null|
+|**2025-02-14**|**(How) Can Transformers Predict Pseudo-Random Numbers?**|Tao Tao et.al.|[2502.10390v1](http://arxiv.org/abs/2502.10390v1)|null|
+|**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389v1](http://arxiv.org/abs/2502.10389v1)|null|
+|**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388v1](http://arxiv.org/abs/2502.10388v1)|null|
+|**2025-02-14**|**Unconventional Transport in a System with a Tower of Quantum Many-Body Scars**|Gianluca Morettini et.al.|[2502.10387v1](http://arxiv.org/abs/2502.10387v1)|null|
+|**2025-02-14**|**Simplifying DINO via Coding Rate Regularization**|Ziyang Wu et.al.|[2502.10385v1](http://arxiv.org/abs/2502.10385v1)|null|
+|**2025-02-14**|**Scaling limit and tail bounds for a random walk model of SOS level lines**|Milind Hegde et.al.|[2502.10384v1](http://arxiv.org/abs/2502.10384v1)|null|
+|**2025-02-14**|**Balancing the Scales: A Theoretical and Algorithmic Framework for Learning from Imbalanced Data**|Corinna Cortes et.al.|[2502.10381v1](http://arxiv.org/abs/2502.10381v1)|null|
+|**2025-02-14**|**Unknown Word Detection for English as a Second Language (ESL) Learners Using Gaze and Pre-trained Language Models**|Jiexin Ding et.al.|[2502.10378v1](http://arxiv.org/abs/2502.10378v1)|null|
+|**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377v1](http://arxiv.org/abs/2502.10377v1)|null|
 |**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622v1](http://arxiv.org/abs/2502.09622v1)|null|
 |**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621v1](http://arxiv.org/abs/2502.09621v1)|null|
 |**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620v1](http://arxiv.org/abs/2502.09620v1)|null|

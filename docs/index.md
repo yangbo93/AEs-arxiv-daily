@@ -822,6 +822,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Sampling the full hierarchical population posterior distribution in gravitational-wave astronomy**|Michele Mancarella et.al.|[2502.12156v1](http://arxiv.org/abs/2502.12156v1)|null|
+|**2025-02-17**|**Observation of a zero-energy excitation mode in the open Dicke model**|Anton Bolian et.al.|[2502.12155v1](http://arxiv.org/abs/2502.12155v1)|null|
+|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154v1](http://arxiv.org/abs/2502.12154v1)|null|
+|**2025-02-17**|**Gravitational waves from the Axiverse**|Saurav Das et.al.|[2502.12153v1](http://arxiv.org/abs/2502.12153v1)|null|
+|**2025-02-17**|**Learning Getting-Up Policies for Real-World Humanoid Robots**|Xialin He et.al.|[2502.12152v1](http://arxiv.org/abs/2502.12152v1)|null|
+|**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150v1](http://arxiv.org/abs/2502.12150v1)|null|
+|**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148v1](http://arxiv.org/abs/2502.12148v1)|null|
+|**2025-02-17**|**Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction**|Xiang Fu et.al.|[2502.12147v1](http://arxiv.org/abs/2502.12147v1)|null|
+|**2025-02-17**|**Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**|Ye Tian et.al.|[2502.12146v1](http://arxiv.org/abs/2502.12146v1)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145v1](http://arxiv.org/abs/2502.12145v1)|null|
 |**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391v1](http://arxiv.org/abs/2502.10391v1)|null|
 |**2025-02-14**|**(How) Can Transformers Predict Pseudo-Random Numbers?**|Tao Tao et.al.|[2502.10390v1](http://arxiv.org/abs/2502.10390v1)|null|
 |**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389v1](http://arxiv.org/abs/2502.10389v1)|null|

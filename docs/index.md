@@ -825,6 +825,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**|Roman Bachmann et.al.|[2502.13967v1](http://arxiv.org/abs/2502.13967v1)|null|
+|**2025-02-19**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966v1](http://arxiv.org/abs/2502.13966v1)|null|
+|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965v1](http://arxiv.org/abs/2502.13965v1)|null|
+|**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964v1](http://arxiv.org/abs/2502.13964v1)|null|
+|**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963v1](http://arxiv.org/abs/2502.13963v1)|null|
+|**2025-02-19**|**Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering**|William Jurayj et.al.|[2502.13962v1](http://arxiv.org/abs/2502.13962v1)|null|
+|**2025-02-19**|**The Computational Advantage of Depth: Learning High-Dimensional Hierarchical Functions with Gradient Descent**|Yatin Dandi et.al.|[2502.13961v1](http://arxiv.org/abs/2502.13961v1)|null|
+|**2025-02-19**|**Extended $s$-wave pairing from an emergent Feshbach resonanc in bilayer nickelate superconductors**|Pietro Borchia et.al.|[2502.13960v1](http://arxiv.org/abs/2502.13960v1)|null|
+|**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959v1](http://arxiv.org/abs/2502.13959v1)|null|
+|**2025-02-19**|**Local and Non-local Entanglement Witnesses of Fermi Liquid**|Yiming Wang et.al.|[2502.13958v1](http://arxiv.org/abs/2502.13958v1)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146v1](http://arxiv.org/abs/2502.13146v1)|null|
 |**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145v1](http://arxiv.org/abs/2502.13145v1)|null|
 |**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143v1](http://arxiv.org/abs/2502.13143v1)|null|

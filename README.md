@@ -1,4 +1,4 @@
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 
 ## Adversarial Examples
 
@@ -8,7 +8,7 @@
 |**2025-02-17**|**Alignment and Adversarial Robustness: Are More Human-Like Models More Secure?**|Blaine Hoak et.al.|[2502.12377v1](http://arxiv.org/abs/2502.12377v1)|null|
 |**2025-02-16**|**PAR-AdvGAN: Improving Adversarial Attack Capability with Progressive Auto-Regression AdvGAN**|Jiayu Zhang et.al.|[2502.12207v1](http://arxiv.org/abs/2502.12207v1)|null|
 |**2025-02-13**|**Pulling Back the Curtain: Unsupervised Adversarial Detection via Contrastive Auxiliary Networks**|Eylon Mizrahi et.al.|[2502.09110v1](http://arxiv.org/abs/2502.09110v1)|null|
-|**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638v1](http://arxiv.org/abs/2502.08638v1)|null|
+|**2025-02-19**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638v2](http://arxiv.org/abs/2502.08638v2)|null|
 |**2025-02-11**|**Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models**|Stanislav Fort et.al.|[2502.07753v1](http://arxiv.org/abs/2502.07753v1)|null|
 |**2025-02-11**|**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**|Sen Peng et.al.|[2502.07225v1](http://arxiv.org/abs/2502.07225v1)|**[link](https://github.com/senp98/cat)**|
 |**2025-02-10**|**SMAB: MAB based word Sensitivity Estimation Framework and its Applications in Adversarial Text Generation**|Saurabh Kumar Pandey et.al.|[2502.07101v1](http://arxiv.org/abs/2502.07101v1)|**[link](https://github.com/skp1999/SMAB)**|

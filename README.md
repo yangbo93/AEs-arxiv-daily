@@ -1,4 +1,4 @@
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 
 ## Adversarial Examples
 
@@ -831,8 +831,8 @@
 |**2025-02-24**|**FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning**|Jason Jingzhou Liu et.al.|[2502.17432v1](http://arxiv.org/abs/2502.17432v1)|null|
 |**2025-02-24**|**Joint Beamforming and 3D Location Optimization for Multi-User Holographic UAV Communications**|Chandan Kumar Sheemar et.al.|[2502.17428v1](http://arxiv.org/abs/2502.17428v1)|null|
 |**2025-02-24**|**Mind the gap: addressing data gaps and assessing noise mismodeling in LISA**|Ollie Burke et.al.|[2502.17426v1](http://arxiv.org/abs/2502.17426v1)|null|
-|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425v1](http://arxiv.org/abs/2502.17425v1)|null|
-|**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424v1](http://arxiv.org/abs/2502.17424v1)|null|
+|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425v1](http://arxiv.org/abs/2502.17425v1)|**[link](https://github.com/yu-rp/visualperceptiontoken)**|
+|**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424v1](http://arxiv.org/abs/2502.17424v1)|**[link](https://github.com/emergent-misalignment/emergent-misalignment)**|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682v1](http://arxiv.org/abs/2502.15682v1)|null|
 |**2025-02-21**|**One-step Diffusion Models with $f$-Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681v1](http://arxiv.org/abs/2502.15681v1)|null|
 |**2025-02-21**|**Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training**|Jaydeep Borkar et.al.|[2502.15680v1](http://arxiv.org/abs/2502.15680v1)|null|

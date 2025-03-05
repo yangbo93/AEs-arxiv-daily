@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**DDAD: A Two-pronged Adversarial Defense Based on Distributional Discrepancy**|Jiacheng Zhang et.al.|[2503.02169v1](http://arxiv.org/abs/2503.02169v1)|null|
+|**2025-03-03**|**AutoAdvExBench: Benchmarking autonomous exploitation of adversarial example defenses**|Nicholas Carlini et.al.|[2503.01811v1](http://arxiv.org/abs/2503.01811v1)|null|
+|**2025-03-03**|**Adversarial Agents: Black-Box Evasion Attacks with Reinforcement Learning**|Kyle Domico et.al.|[2503.01734v1](http://arxiv.org/abs/2503.01734v1)|null|
+|**2025-03-02**|**Improving the Transferability of Adversarial Attacks by an Input Transpose**|Qing Wan et.al.|[2503.00932v1](http://arxiv.org/abs/2503.00932v1)|null|
+|**2025-03-02**|**AMUN: Adversarial Machine UNlearning**|Ali Ebrahimpour-Boroojeny et.al.|[2503.00917v1](http://arxiv.org/abs/2503.00917v1)|null|
 |**2025-02-28**|**QFAL: Quantum Federated Adversarial Learning**|Walid El Maouaki et.al.|[2502.21171v1](http://arxiv.org/abs/2502.21171v1)|null|
 |**2025-02-27**|**LISArD: Learning Image Similarity to Defend Against Gray-box Adversarial Attacks**|Joana C. Costa et.al.|[2502.20562v1](http://arxiv.org/abs/2502.20562v1)|null|
 |**2025-03-04**|**Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion**|Yuan Bian et.al.|[2502.19697v2](http://arxiv.org/abs/2502.19697v2)|null|
@@ -828,6 +833,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models**|Qinyu Zhao et.al.|[2503.02883v1](http://arxiv.org/abs/2503.02883v1)|null|
+|**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881v1](http://arxiv.org/abs/2503.02881v1)|null|
+|**2025-03-04**|**A New $\sim 5σ$ Tension at Characteristic Redshift from DESI DR1 and DES-SN5YR observations**|Purba Mukherjee et.al.|[2503.02880v1](http://arxiv.org/abs/2503.02880v1)|null|
+|**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879v1](http://arxiv.org/abs/2503.02879v1)|null|
+|**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878v1](http://arxiv.org/abs/2503.02878v1)|null|
+|**2025-03-04**|**Weak-to-Strong Generalization Even in Random Feature Networks, Provably**|Marko Medvedev et.al.|[2503.02877v1](http://arxiv.org/abs/2503.02877v1)|null|
+|**2025-03-04**|**SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models**|Dmitry Nechaev et.al.|[2503.02876v1](http://arxiv.org/abs/2503.02876v1)|null|
+|**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875v1](http://arxiv.org/abs/2503.02875v1)|null|
+|**2025-03-04**|**Prompting Generative AI with Interaction-Augmented Instructions**|Leixian Shen et.al.|[2503.02874v1](http://arxiv.org/abs/2503.02874v1)|null|
+|**2025-03-04**|**Multiaccuracy and Multicalibration via Proxy Groups**|Beepul Bharti et.al.|[2503.02870v1](http://arxiv.org/abs/2503.02870v1)|null|
 |**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321v1](http://arxiv.org/abs/2502.21321v1)|null|
 |**2025-02-28**|**Topological Quantum Dark Matter via Global Anomaly Cancellation**|Juven Wang et.al.|[2502.21319v1](http://arxiv.org/abs/2502.21319v1)|null|
 |**2025-02-28**|**How far can we go with ImageNet for Text-to-Image generation?**|L. Degeorge et.al.|[2502.21318v1](http://arxiv.org/abs/2502.21318v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 
 ## Adversarial Examples
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2025-02-28**|**QFAL: Quantum Federated Adversarial Learning**|Walid El Maouaki et.al.|[2502.21171v1](http://arxiv.org/abs/2502.21171v1)|null|
 |**2025-02-27**|**LISArD: Learning Image Similarity to Defend Against Gray-box Adversarial Attacks**|Joana C. Costa et.al.|[2502.20562v1](http://arxiv.org/abs/2502.20562v1)|null|
-|**2025-02-27**|**Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion**|Yuan Bian et.al.|[2502.19697v1](http://arxiv.org/abs/2502.19697v1)|null|
+|**2025-03-04**|**Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion**|Yuan Bian et.al.|[2502.19697v2](http://arxiv.org/abs/2502.19697v2)|null|
 |**2025-02-27**|**Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack**|Chenhe Gu et.al.|[2502.19672v1](http://arxiv.org/abs/2502.19672v1)|null|
 |**2025-02-25**|**Model-Free Adversarial Purification via Coarse-To-Fine Tensor Network Representation**|Guang Lin et.al.|[2502.17972v1](http://arxiv.org/abs/2502.17972v1)|null|
 |**2025-02-24**|**Improving the Transferability of Adversarial Examples by Inverse Knowledge Distillation**|Wenyuan Wu et.al.|[2502.17003v1](http://arxiv.org/abs/2502.17003v1)|null|

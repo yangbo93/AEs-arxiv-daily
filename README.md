@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Provable Robust Overfitting Mitigation in Wasserstein Distributionally Robust Optimization**|Shuang Liu et.al.|[2503.04315v1](http://arxiv.org/abs/2503.04315v1)|null|
+|**2025-03-05**|**Task-Agnostic Attacks Against Vision Foundation Models**|Brian Pulfer et.al.|[2503.03842v1](http://arxiv.org/abs/2503.03842v1)|null|
 |**2025-03-05**|**Towards Robust Universal Information Extraction: Benchmark, Evaluation, and Solution**|Jizhao Zhu et.al.|[2503.03201v1](http://arxiv.org/abs/2503.03201v1)|null|
 |**2025-03-04**|**DDAD: A Two-pronged Adversarial Defense Based on Distributional Discrepancy**|Jiacheng Zhang et.al.|[2503.02169v1](http://arxiv.org/abs/2503.02169v1)|null|
 |**2025-03-03**|**AutoAdvExBench: Benchmarking autonomous exploitation of adversarial example defenses**|Nicholas Carlini et.al.|[2503.01811v1](http://arxiv.org/abs/2503.01811v1)|null|
@@ -834,6 +836,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Double Narrow-Line Signatures of Dark Matter Decay and New Constraints from XRISM Observations**|Wen Yin et.al.|[2503.04726v1](http://arxiv.org/abs/2503.04726v1)|null|
+|**2025-03-06**|**L$^2$M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725v1](http://arxiv.org/abs/2503.04725v1)|null|
+|**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724v1](http://arxiv.org/abs/2503.04724v1)|null|
+|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723v1](http://arxiv.org/abs/2503.04723v1)|null|
+|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722v1](http://arxiv.org/abs/2503.04722v1)|null|
+|**2025-03-06**|**Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities**|Guan-Ting Lin et.al.|[2503.04721v1](http://arxiv.org/abs/2503.04721v1)|null|
+|**2025-03-06**|**FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**|Yue Gao et.al.|[2503.04720v1](http://arxiv.org/abs/2503.04720v1)|null|
+|**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718v1](http://arxiv.org/abs/2503.04718v1)|null|
+|**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717v1](http://arxiv.org/abs/2503.04717v1)|null|
+|**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715v1](http://arxiv.org/abs/2503.04715v1)|null|
 |**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751v1](http://arxiv.org/abs/2503.03751v1)|**[link](https://github.com/nv-tlabs/GEN3C)**|
 |**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750v1](http://arxiv.org/abs/2503.03750v1)|null|
 |**2025-03-05**|**Quantum effects on pyrochlore higher-rank U(1) spin liquids: pinch-line singularities, spin nematics, and connections to oxide materials**|Lasse Gresista et.al.|[2503.03749v1](http://arxiv.org/abs/2503.03749v1)|null|

@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**From Pixels to Trajectory: Universal Adversarial Example Detection via Temporal Imprints**|Yansong Gao et.al.|[2503.04853v1](http://arxiv.org/abs/2503.04853v1)|null|
+|**2025-03-05**|**Adversarial Example Based Fingerprinting for Robust Copyright Protection in Split Learning**|Zhangting Lin et.al.|[2503.04825v1](http://arxiv.org/abs/2503.04825v1)|null|
 |**2025-03-06**|**Provable Robust Overfitting Mitigation in Wasserstein Distributionally Robust Optimization**|Shuang Liu et.al.|[2503.04315v1](http://arxiv.org/abs/2503.04315v1)|null|
 |**2025-03-05**|**Task-Agnostic Attacks Against Vision Foundation Models**|Brian Pulfer et.al.|[2503.03842v1](http://arxiv.org/abs/2503.03842v1)|null|
 |**2025-03-05**|**Towards Robust Universal Information Extraction: Benchmark, Evaluation, and Solution**|Jizhao Zhu et.al.|[2503.03201v1](http://arxiv.org/abs/2503.03201v1)|null|
@@ -836,6 +838,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Fast and memory efficient strong simulation of noisy adaptive linear optical circuits**|Timothée Goubault de Brugière et.al.|[2503.05699v1](http://arxiv.org/abs/2503.05699v1)|null|
+|**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell et.al.|[2503.05698v1](http://arxiv.org/abs/2503.05698v1)|null|
+|**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696v1](http://arxiv.org/abs/2503.05696v1)|null|
+|**2025-03-07**|**On Almost Fair and Equitable Allocations of Indivisible Items for Non-monotone Valuations**|Vittorio Bilò et.al.|[2503.05695v1](http://arxiv.org/abs/2503.05695v1)|null|
+|**2025-03-07**|**The discovery and characterization of Earth-crossing asteroid 2024 YR$_4$**|Bryce T. Bolin et.al.|[2503.05694v1](http://arxiv.org/abs/2503.05694v1)|null|
+|**2025-03-07**|**Dynamics of disordered quantum systems with two- and three-dimensional tensor networks**|Joseph Tindall et.al.|[2503.05693v1](http://arxiv.org/abs/2503.05693v1)|null|
+|**2025-03-07**|**Reionization and the Hubble Constant: Correlations in the Cosmic Microwave Background**|Itamar J. Allali et.al.|[2503.05691v1](http://arxiv.org/abs/2503.05691v1)|null|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v1](http://arxiv.org/abs/2503.05689v1)|null|
+|**2025-03-07**|**Quantum gas microscopy of three-flavor Hubbard systems**|Jirayu Mongkolkiattichai et.al.|[2503.05687v1](http://arxiv.org/abs/2503.05687v1)|null|
+|**2025-03-07**|**First order non-instantaneous corrections in collisional kinetic alignment models**|Laura Kanzler et.al.|[2503.05686v1](http://arxiv.org/abs/2503.05686v1)|null|
 |**2025-03-06**|**Double Narrow-Line Signatures of Dark Matter Decay and New Constraints from XRISM Observations**|Wen Yin et.al.|[2503.04726v1](http://arxiv.org/abs/2503.04726v1)|null|
 |**2025-03-06**|**L$^2$M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725v1](http://arxiv.org/abs/2503.04725v1)|null|
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724v1](http://arxiv.org/abs/2503.04724v1)|null|

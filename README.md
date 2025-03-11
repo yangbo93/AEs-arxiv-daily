@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**MMARD: Improving the Min-Max Optimization Process in Adversarial Robustness Distillation**|Yuzheng Wang et.al.|[2503.06559v1](http://arxiv.org/abs/2503.06559v1)|null|
+|**2025-03-08**|**Boosting the Local Invariance for Better Adversarial Transferability**|Bohan Liu et.al.|[2503.06140v1](http://arxiv.org/abs/2503.06140v1)|null|
 |**2025-03-06**|**From Pixels to Trajectory: Universal Adversarial Example Detection via Temporal Imprints**|Yansong Gao et.al.|[2503.04853v1](http://arxiv.org/abs/2503.04853v1)|null|
 |**2025-03-05**|**Adversarial Example Based Fingerprinting for Robust Copyright Protection in Split Learning**|Zhangting Lin et.al.|[2503.04825v1](http://arxiv.org/abs/2503.04825v1)|null|
 |**2025-03-06**|**Provable Robust Overfitting Mitigation in Wasserstein Distributionally Robust Optimization**|Shuang Liu et.al.|[2503.04315v1](http://arxiv.org/abs/2503.04315v1)|null|
@@ -838,6 +840,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587v1](http://arxiv.org/abs/2503.07587v1)|null|
+|**2025-03-10**|**Slow-fast systems with stochastic resetting**|Paul C Bressloff et.al.|[2503.07585v1](http://arxiv.org/abs/2503.07585v1)|null|
+|**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584v1](http://arxiv.org/abs/2503.07584v1)|null|
+|**2025-03-10**|**Towards construction of superintegrable basis in matrix models**|Azheev Batukhan et.al.|[2503.07583v1](http://arxiv.org/abs/2503.07583v1)|null|
+|**2025-03-10**|**Complexity Analysis of Environmental Time Series**|Holger Lange et.al.|[2503.07582v1](http://arxiv.org/abs/2503.07582v1)|null|
+|**2025-03-10**|**Neural Combinatorial Optimization via Preference Optimization**|Zijun Liao et.al.|[2503.07580v1](http://arxiv.org/abs/2503.07580v1)|null|
+|**2025-03-10**|**Phase Diagram of the Non-Reciprocal Cahn-Hilliard Model and the Effects of Symmetry**|Martin Kjøllesdal Johnsrud et.al.|[2503.07579v1](http://arxiv.org/abs/2503.07579v1)|null|
+|**2025-03-10**|**Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation**|Tianyu Chen et.al.|[2503.07578v1](http://arxiv.org/abs/2503.07578v1)|null|
+|**2025-03-10**|**Analyzing Symmetries of Swarms of Mobile Robots Using Equivariant Dynamical Systems**|Raphael Gerlach et.al.|[2503.07576v1](http://arxiv.org/abs/2503.07576v1)|null|
+|**2025-03-10**|**VisBias: Measuring Explicit and Implicit Social Biases in Vision Language Models**|Jen-tse Huang et.al.|[2503.07575v1](http://arxiv.org/abs/2503.07575v1)|null|
 |**2025-03-07**|**Fast and memory efficient strong simulation of noisy adaptive linear optical circuits**|Timothée Goubault de Brugière et.al.|[2503.05699v1](http://arxiv.org/abs/2503.05699v1)|null|
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell et.al.|[2503.05698v1](http://arxiv.org/abs/2503.05698v1)|null|
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696v1](http://arxiv.org/abs/2503.05696v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 
 ## Adversarial Examples
 
@@ -12,8 +12,8 @@
 |**2025-03-08**|**Boosting the Local Invariance for Better Adversarial Transferability**|Bohan Liu et.al.|[2503.06140v1](http://arxiv.org/abs/2503.06140v1)|null|
 |**2025-03-06**|**From Pixels to Trajectory: Universal Adversarial Example Detection via Temporal Imprints**|Yansong Gao et.al.|[2503.04853v1](http://arxiv.org/abs/2503.04853v1)|null|
 |**2025-03-05**|**Adversarial Example Based Fingerprinting for Robust Copyright Protection in Split Learning**|Zhangting Lin et.al.|[2503.04825v1](http://arxiv.org/abs/2503.04825v1)|null|
-|**2025-03-06**|**Provable Robust Overfitting Mitigation in Wasserstein Distributionally Robust Optimization**|Shuang Liu et.al.|[2503.04315v1](http://arxiv.org/abs/2503.04315v1)|null|
-|**2025-03-05**|**Task-Agnostic Attacks Against Vision Foundation Models**|Brian Pulfer et.al.|[2503.03842v1](http://arxiv.org/abs/2503.03842v1)|null|
+|**2025-03-06**|**Provable Robust Overfitting Mitigation in Wasserstein Distributionally Robust Optimization**|Shuang Liu et.al.|[2503.04315v1](http://arxiv.org/abs/2503.04315v1)|**[link](https://github.com/hong-xian/SR-WDRO)**|
+|**2025-03-05**|**Task-Agnostic Attacks Against Vision Foundation Models**|Brian Pulfer et.al.|[2503.03842v1](http://arxiv.org/abs/2503.03842v1)|**[link](https://github.com/BrianPulfer/fsaa)**|
 |**2025-03-05**|**Towards Robust Universal Information Extraction: Benchmark, Evaluation, and Solution**|Jizhao Zhu et.al.|[2503.03201v1](http://arxiv.org/abs/2503.03201v1)|null|
 |**2025-03-04**|**DDAD: A Two-pronged Adversarial Defense Based on Distributional Discrepancy**|Jiacheng Zhang et.al.|[2503.02169v1](http://arxiv.org/abs/2503.02169v1)|null|
 |**2025-03-03**|**AutoAdvExBench: Benchmarking autonomous exploitation of adversarial example defenses**|Nicholas Carlini et.al.|[2503.01811v1](http://arxiv.org/abs/2503.01811v1)|**[link](https://github.com/ethz-spylab/autoadvexbench)**|

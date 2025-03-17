@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|null|
-|**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629v1](http://arxiv.org/abs/2503.10629v1)|null|
+|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|**[link](https://github.com/vila-lab/m-attack)**|
+|**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629v1](http://arxiv.org/abs/2503.10629v1)|**[link](https://github.com/hashmatshadab/hsat)**|
 |**2025-03-12**|**Enhancing Adversarial Example Detection Through Model Explanation**|Qian Ma et.al.|[2503.09735v1](http://arxiv.org/abs/2503.09735v1)|null|
 |**2025-03-12**|**AdvAD: Exploring Non-Parametric Diffusion for Imperceptible Adversarial Attacks**|Jin Li et.al.|[2503.09124v1](http://arxiv.org/abs/2503.09124v1)|null|
 |**2025-03-09**|**MMARD: Improving the Min-Max Optimization Process in Adversarial Robustness Distillation**|Yuzheng Wang et.al.|[2503.06559v1](http://arxiv.org/abs/2503.06559v1)|null|
@@ -848,16 +848,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639v1](http://arxiv.org/abs/2503.10639v1)|null|
+|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639v1](http://arxiv.org/abs/2503.10639v1)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638v1](http://arxiv.org/abs/2503.10638v1)|null|
-|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637v1](http://arxiv.org/abs/2503.10637v1)|null|
-|**2025-03-13**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636v1](http://arxiv.org/abs/2503.10636v1)|**[link](https://github.com/hkchengrex/C2OT)**|
-|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|null|
+|**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637v2](http://arxiv.org/abs/2503.10637v2)|null|
+|**2025-03-14**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636v2](http://arxiv.org/abs/2503.10636v2)|**[link](https://github.com/hkchengrex/C2OT)**|
+|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**Charting and Navigating Hugging Face's Model Atlas**|Eliahu Horwitz et.al.|[2503.10633v1](http://arxiv.org/abs/2503.10633v1)|null|
 |**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632v1](http://arxiv.org/abs/2503.10632v1)|null|
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631v1](http://arxiv.org/abs/2503.10631v1)|null|
 |**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630v1](http://arxiv.org/abs/2503.10630v1)|null|
-|**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629v1](http://arxiv.org/abs/2503.10629v1)|null|
+|**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629v1](http://arxiv.org/abs/2503.10629v1)|**[link](https://github.com/hashmatshadab/hsat)**|
 |**2025-03-12**|**Odd-parity altermagnetism through sublattice currents: From Haldane-Hubbard model to general bipartite lattices**|Yu-Ping Lin et.al.|[2503.09602v1](http://arxiv.org/abs/2503.09602v1)|null|
 |**2025-03-13**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v2](http://arxiv.org/abs/2503.09601v2)|null|
 |**2025-03-12**|**MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System**|Jihao Zhao et.al.|[2503.09600v1](http://arxiv.org/abs/2503.09600v1)|null|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data**|Lilin Zhang et.al.|[2503.11032v1](http://arxiv.org/abs/2503.11032v1)|null|
 |**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629v1](http://arxiv.org/abs/2503.10629v1)|**[link](https://github.com/hashmatshadab/hsat)**|
 |**2025-03-12**|**Enhancing Adversarial Example Detection Through Model Explanation**|Qian Ma et.al.|[2503.09735v1](http://arxiv.org/abs/2503.09735v1)|null|
@@ -848,6 +849,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652v1](http://arxiv.org/abs/2503.11652v1)|null|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|null|
+|**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650v1](http://arxiv.org/abs/2503.11650v1)|null|
+|**2025-03-14**|**Scalable Video Conferencing Using SDN Principles**|Oliver Michel et.al.|[2503.11649v1](http://arxiv.org/abs/2503.11649v1)|null|
+|**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647v1](http://arxiv.org/abs/2503.11647v1)|null|
+|**2025-03-14**|**Adversarial Data Collection: Human-Collaborative Perturbations for Efficient and Robust Robotic Imitation Learning**|Siyuan Huang et.al.|[2503.11646v1](http://arxiv.org/abs/2503.11646v1)|null|
+|**2025-03-14**|**Mechanical Sensors for Ultraheavy Dark Matter Searches via Long-range Forces**|Juehang Qin et.al.|[2503.11645v1](http://arxiv.org/abs/2503.11645v1)|null|
+|**2025-03-14**|**The waves-in-space Purcell effect for superconducting qubits**|Param Patel et.al.|[2503.11644v1](http://arxiv.org/abs/2503.11644v1)|null|
+|**2025-03-14**|**From few to many maps: A fast map-level emulator for extreme augmentation of CMB systematics datasets**|P. Campeti et.al.|[2503.11643v1](http://arxiv.org/abs/2503.11643v1)|null|
+|**2025-03-14**|**Ladder Operator Block-Encoding**|William A. Simon et.al.|[2503.11641v1](http://arxiv.org/abs/2503.11641v1)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639v1](http://arxiv.org/abs/2503.10639v1)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638v1](http://arxiv.org/abs/2503.10638v1)|null|
 |**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637v2](http://arxiv.org/abs/2503.10637v2)|null|

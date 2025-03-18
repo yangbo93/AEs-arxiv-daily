@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Evolution-based Region Adversarial Prompt Learning for Robustness Enhancement in Vision-Language Models**|Xiaojun Jia et.al.|[2503.12874v1](http://arxiv.org/abs/2503.12874v1)|null|
+|**2025-03-17**|**GSBAK$^K$: $top$-$K$ Geometric Score-based Black-box Attack**|Md Farhamdur Reza et.al.|[2503.12827v1](http://arxiv.org/abs/2503.12827v1)|null|
+|**2025-03-17**|**Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization**|Yechao Zhang et.al.|[2503.12793v1](http://arxiv.org/abs/2503.12793v1)|null|
+|**2025-03-16**|**Algebraic Adversarial Attacks on Explainability Models**|Lachlan Simpson et.al.|[2503.12683v1](http://arxiv.org/abs/2503.12683v1)|null|
 |**2025-03-14**|**Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data**|Lilin Zhang et.al.|[2503.11032v1](http://arxiv.org/abs/2503.11032v1)|null|
 |**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629v1](http://arxiv.org/abs/2503.10629v1)|**[link](https://github.com/hashmatshadab/hsat)**|
@@ -849,6 +853,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447v1](http://arxiv.org/abs/2503.13447v1)|null|
+|**2025-03-17**|**MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation**|Zhenyu Wu et.al.|[2503.13446v1](http://arxiv.org/abs/2503.13446v1)|null|
+|**2025-03-17**|**Faithfulness of LLM Self-Explanations for Commonsense Tasks: Larger Is Better, and Instruction-Tuning Allows Trade-Offs but Not Pareto Dominance**|Noah Y. Siegel et.al.|[2503.13445v1](http://arxiv.org/abs/2503.13445v1)|null|
+|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444v1](http://arxiv.org/abs/2503.13444v1)|null|
+|**2025-03-17**|**DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models**|Haoyang Li et.al.|[2503.13443v1](http://arxiv.org/abs/2503.13443v1)|null|
+|**2025-03-17**|**Humanoid Policy ~ Human Policy**|Ri-Zhao Qiu et.al.|[2503.13441v1](http://arxiv.org/abs/2503.13441v1)|null|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v1](http://arxiv.org/abs/2503.13440v1)|**[link](https://github.com/hustvl/MaTVLM)**|
+|**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439v1](http://arxiv.org/abs/2503.13439v1)|null|
+|**2025-03-17**|**Deep Belief Markov Models for POMDP Inference**|Giacomo Arcieri et.al.|[2503.13438v1](http://arxiv.org/abs/2503.13438v1)|null|
+|**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436v1](http://arxiv.org/abs/2503.13436v1)|null|
 |**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652v1](http://arxiv.org/abs/2503.11652v1)|null|
 |**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|null|
 |**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650v1](http://arxiv.org/abs/2503.11650v1)|null|

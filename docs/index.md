@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 
 ## Adversarial Examples
 
@@ -14,7 +14,7 @@ layout: default
 |**2025-03-18**|**GSBA$^K$: $top$-$K$ Geometric Score-based Black-box Attack**|Md Farhamdur Reza et.al.|[2503.12827v2](http://arxiv.org/abs/2503.12827v2)|null|
 |**2025-03-19**|**Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization**|Yechao Zhang et.al.|[2503.12793v2](http://arxiv.org/abs/2503.12793v2)|**[link](https://github.com/yechao-zhang/dm-uap)**|
 |**2025-03-16**|**Algebraic Adversarial Attacks on Explainability Models**|Lachlan Simpson et.al.|[2503.12683v1](http://arxiv.org/abs/2503.12683v1)|null|
-|**2025-03-14**|**Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data**|Lilin Zhang et.al.|[2503.11032v1](http://arxiv.org/abs/2503.11032v1)|null|
+|**2025-03-20**|**Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data**|Lilin Zhang et.al.|[2503.11032v2](http://arxiv.org/abs/2503.11032v2)|null|
 |**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629v1](http://arxiv.org/abs/2503.10629v1)|**[link](https://github.com/hashmatshadab/hsat)**|
 |**2025-03-12**|**Enhancing Adversarial Example Detection Through Model Explanation**|Qian Ma et.al.|[2503.09735v1](http://arxiv.org/abs/2503.09735v1)|null|

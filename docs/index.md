@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models**|YangTian Yan et.al.|[2503.22205v1](http://arxiv.org/abs/2503.22205v1)|null|
 |**2025-03-27**|**Adversarial Wear and Tear: Exploiting Natural Damage for Generating Physical-World Adversarial Examples**|Samra Irshad et.al.|[2503.21164v1](http://arxiv.org/abs/2503.21164v1)|null|
 |**2025-03-26**|**Enabling Heterogeneous Adversarial Transferability via Feature Permutation Attacks**|Tao Wu et.al.|[2503.20310v1](http://arxiv.org/abs/2503.20310v1)|null|
 |**2025-03-25**|**Boosting the Transferability of Audio Adversarial Examples with Acoustic Representation Optimization**|Weifei Jin et.al.|[2503.19591v1](http://arxiv.org/abs/2503.19591v1)|null|
@@ -863,6 +864,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679v1](http://arxiv.org/abs/2503.22679v1)|**[link](https://github.com/lwq20020127/q-insight)**|
+|**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678v1](http://arxiv.org/abs/2503.22678v1)|null|
+|**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677v1](http://arxiv.org/abs/2503.22677v1)|null|
+|**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676v1](http://arxiv.org/abs/2503.22676v1)|null|
+|**2025-03-28**|**Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**|Jiakai Tang et.al.|[2503.22675v1](http://arxiv.org/abs/2503.22675v1)|null|
+|**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674v1](http://arxiv.org/abs/2503.22674v1)|null|
+|**2025-03-28**|**ActionStudio: A Lightweight Framework for Data and Training of Action Models**|Jianguo Zhang et.al.|[2503.22673v1](http://arxiv.org/abs/2503.22673v1)|**[link](https://github.com/SalesforceAIResearch/xLAM)**|
+|**2025-03-28**|**Exploring the Effectiveness of Multi-stage Fine-tuning for Cross-encoder Re-rankers**|Francesca Pezzuti et.al.|[2503.22672v1](http://arxiv.org/abs/2503.22672v1)|**[link](https://github.com/fpezzuti/multistage-finetuning)**|
+|**2025-03-28**|**Non-Archimedean Hilbert geometry and degenerations of real Hilbert geometries**|Xenia Flamm et.al.|[2503.22671v1](http://arxiv.org/abs/2503.22671v1)|null|
+|**2025-03-28**|**Light Tree Covers, Routing, and Path-Reporting Oracles via Spanning Tree Covers in Doubling Graphs**|Hsien-Chih Chang et.al.|[2503.22669v1](http://arxiv.org/abs/2503.22669v1)|null|
 |**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782v1](http://arxiv.org/abs/2503.21782v1)|**[link](https://github.com/amshaker/mobile-videogpt)**|
 |**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781v1](http://arxiv.org/abs/2503.21781v1)|null|
 |**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|**[link](https://github.com/rezaqorbani/semla)**|

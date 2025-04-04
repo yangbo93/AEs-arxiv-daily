@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**|Seif Mzoughi et.al.|[2504.02335v1](http://arxiv.org/abs/2504.02335v1)|null|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735v1](http://arxiv.org/abs/2504.01735v1)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Zhaochen Wang et.al.|[2504.01589v1](http://arxiv.org/abs/2504.01589v1)|null|
 |**2025-04-01**|**TenAd: A Tensor-based Low-rank Black Box Adversarial Attack for Video Classification**|Kimia haghjooei et.al.|[2504.01228v1](http://arxiv.org/abs/2504.01228v1)|null|
@@ -868,6 +869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Bubbles in a box: Eliminating edge nucleation in cold-atom simulators of vacuum decay**|Alexander C. Jenkins et.al.|[2504.02829v1](http://arxiv.org/abs/2504.02829v1)|null|
+|**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828v1](http://arxiv.org/abs/2504.02828v1)|null|
+|**2025-04-03**|**On Vanishing Variance in Transformer Length Generalization**|Ruining Li et.al.|[2504.02827v1](http://arxiv.org/abs/2504.02827v1)|null|
+|**2025-04-03**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826v1](http://arxiv.org/abs/2504.02826v1)|null|
+|**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823v1](http://arxiv.org/abs/2504.02823v1)|null|
+|**2025-04-03**|**Do Two AI Scientists Agree?**|Xinghong Fu et.al.|[2504.02822v1](http://arxiv.org/abs/2504.02822v1)|null|
+|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821v1](http://arxiv.org/abs/2504.02821v1)|null|
+|**2025-04-03**|**Excitation of the Glashow resonance without neutrino beams**|I. Alikhanov et.al.|[2504.02820v1](http://arxiv.org/abs/2504.02820v1)|null|
+|**2025-04-03**|**Universal Log-Optimality for General Classes of e-processes and Sequential Hypothesis Tests**|Ian Waudby-Smith et.al.|[2504.02818v1](http://arxiv.org/abs/2504.02818v1)|null|
+|**2025-04-03**|**Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization**|Kangle Deng et.al.|[2504.02817v1](http://arxiv.org/abs/2504.02817v1)|null|
 |**2025-04-02**|**Learning from Streaming Video with Orthogonal Gradients**|Tengda Han et.al.|[2504.01961v1](http://arxiv.org/abs/2504.01961v1)|null|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960v1](http://arxiv.org/abs/2504.01960v1)|null|
 |**2025-04-02**|**Slot-Level Robotic Placement via Visual Imitation from Single Human Video**|Dandan Shan et.al.|[2504.01959v1](http://arxiv.org/abs/2504.01959v1)|null|

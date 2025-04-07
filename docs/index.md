@@ -869,6 +869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641v1](http://arxiv.org/abs/2504.03641v1)|null|
+|**2025-04-04**|**Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**|Kate Sanders et.al.|[2504.03640v1](http://arxiv.org/abs/2504.03640v1)|null|
+|**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639v1](http://arxiv.org/abs/2504.03639v1)|null|
+|**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635v1](http://arxiv.org/abs/2504.03635v1)|null|
+|**2025-04-04**|**Maximal Entropy Formalism and the Restricted Boltzmann Machine**|Vinit Singh et.al.|[2504.03634v1](http://arxiv.org/abs/2504.03634v1)|null|
+|**2025-04-04**|**Modeling Charging Demand and Quantifying Flexibility Bounds for Large-Scale BEV Fleets**|Maria Parajeles Herrera et.al.|[2504.03633v1](http://arxiv.org/abs/2504.03633v1)|null|
+|**2025-04-04**|**Towards data analysis with diagrammatics**|Tobias Kühn et.al.|[2504.03631v1](http://arxiv.org/abs/2504.03631v1)|null|
+|**2025-04-04**|**Enhancing Causal Effect Estimation with Diffusion-Generated Data**|Li Chen et.al.|[2504.03630v1](http://arxiv.org/abs/2504.03630v1)|null|
+|**2025-04-04**|**Improving Interoperability in Scientific Computing via MaRDI Open Interfaces**|Dmitry I. Kabanov et.al.|[2504.03628v1](http://arxiv.org/abs/2504.03628v1)|null|
+|**2025-04-04**|**Richardson's model and the contact process with stirring: long time behavior**|Régine Marchand et.al.|[2504.03627v1](http://arxiv.org/abs/2504.03627v1)|null|
 |**2025-04-03**|**Bubbles in a box: Eliminating edge nucleation in cold-atom simulators of vacuum decay**|Alexander C. Jenkins et.al.|[2504.02829v1](http://arxiv.org/abs/2504.02829v1)|null|
 |**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828v1](http://arxiv.org/abs/2504.02828v1)|null|
 |**2025-04-03**|**On Vanishing Variance in Transformer Length Generalization**|Ruining Li et.al.|[2504.02827v1](http://arxiv.org/abs/2504.02827v1)|null|

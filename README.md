@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141v1](http://arxiv.org/abs/2504.06141v1)|null|
+|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838v1](http://arxiv.org/abs/2504.05838v1)|null|
 |**2025-04-06**|**Selective Masking Adversarial Attack on Automatic Speech Recognition Systems**|Zheng Fang et.al.|[2504.04394v1](http://arxiv.org/abs/2504.04394v1)|null|
 |**2025-04-03**|**Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**|Seif Mzoughi et.al.|[2504.02335v1](http://arxiv.org/abs/2504.02335v1)|null|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735v1](http://arxiv.org/abs/2504.01735v1)|null|
@@ -866,6 +868,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Constraining the [CII] luminosity function from the power spectrum of line intensity maps at redshift 3.6**|Elena Marcuzzo et.al.|[2504.06266v1](http://arxiv.org/abs/2504.06266v1)|null|
+|**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265v1](http://arxiv.org/abs/2504.06265v1)|null|
+|**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263v1](http://arxiv.org/abs/2504.06263v1)|null|
+|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261v1](http://arxiv.org/abs/2504.06261v1)|null|
+|**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260v1](http://arxiv.org/abs/2504.06260v1)|null|
+|**2025-04-08**|**Realization and Calibration of Continuously Parameterized Two-Qubit Gates on a Trapped-Ion Quantum Processor**|Christopher G. Yale et.al.|[2504.06259v1](http://arxiv.org/abs/2504.06259v1)|null|
+|**2025-04-08**|**Two-Dimensional Ferroelectric Altermagnets: From Model to Material Realization**|Ziye Zhu et.al.|[2504.06258v1](http://arxiv.org/abs/2504.06258v1)|null|
+|**2025-04-08**|**PainNet: Statistical Relation Network with Episode-Based Training for Pain Estimation**|Mina Bishay et.al.|[2504.06257v1](http://arxiv.org/abs/2504.06257v1)|null|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256v1](http://arxiv.org/abs/2504.06256v1)|null|
+|**2025-04-08**|**Diagrammatic expansion for the mutual-information rate in the realm of limited statistics**|Tobias Kühn et.al.|[2504.06255v1](http://arxiv.org/abs/2504.06255v1)|null|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306v1](http://arxiv.org/abs/2504.05306v1)|null|
 |**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305v1](http://arxiv.org/abs/2504.05305v1)|null|
 |**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304v1](http://arxiv.org/abs/2504.05304v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 
 ## Adversarial Examples
 
@@ -11,7 +11,7 @@ layout: default
 |**2025-04-06**|**Selective Masking Adversarial Attack on Automatic Speech Recognition Systems**|Zheng Fang et.al.|[2504.04394v1](http://arxiv.org/abs/2504.04394v1)|null|
 |**2025-04-03**|**Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**|Seif Mzoughi et.al.|[2504.02335v1](http://arxiv.org/abs/2504.02335v1)|null|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735v1](http://arxiv.org/abs/2504.01735v1)|null|
-|**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Zhaochen Wang et.al.|[2504.01589v1](http://arxiv.org/abs/2504.01589v1)|null|
+|**2025-04-07**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Zhaochen Wang et.al.|[2504.01589v2](http://arxiv.org/abs/2504.01589v2)|null|
 |**2025-04-01**|**TenAd: A Tensor-based Low-rank Black Box Adversarial Attack for Video Classification**|Kimia haghjooei et.al.|[2504.01228v1](http://arxiv.org/abs/2504.01228v1)|null|
 |**2025-04-01**|**Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems**|Weifei Jin et.al.|[2504.00858v1](http://arxiv.org/abs/2504.00858v1)|**[link](https://github.com/WeifeiJin/AudioShield)**|
 |**2025-03-28**|**Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models**|YangTian Yan et.al.|[2503.22205v1](http://arxiv.org/abs/2503.22205v1)|**[link](https://github.com/yyt0718/Intri_Attack)**|

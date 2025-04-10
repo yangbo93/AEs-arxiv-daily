@@ -1,4 +1,4 @@
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 
 ## Adversarial Examples
 
@@ -871,7 +871,7 @@
 |**2025-04-08**|**Constraining the [CII] luminosity function from the power spectrum of line intensity maps at redshift 3.6**|Elena Marcuzzo et.al.|[2504.06266v1](http://arxiv.org/abs/2504.06266v1)|null|
 |**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265v1](http://arxiv.org/abs/2504.06265v1)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263v1](http://arxiv.org/abs/2504.06263v1)|null|
-|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261v1](http://arxiv.org/abs/2504.06261v1)|null|
+|**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261v2](http://arxiv.org/abs/2504.06261v2)|null|
 |**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260v1](http://arxiv.org/abs/2504.06260v1)|null|
 |**2025-04-08**|**Realization and Calibration of Continuously Parameterized Two-Qubit Gates on a Trapped-Ion Quantum Processor**|Christopher G. Yale et.al.|[2504.06259v1](http://arxiv.org/abs/2504.06259v1)|null|
 |**2025-04-08**|**Two-Dimensional Ferroelectric Altermagnets: From Model to Material Realization**|Ziye Zhu et.al.|[2504.06258v1](http://arxiv.org/abs/2504.06258v1)|null|

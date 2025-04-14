@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Toward Realistic Adversarial Attacks in IDS: A Novel Feasibility Metric for Transferability**|Sabrine Ennaji et.al.|[2504.08480v1](http://arxiv.org/abs/2504.08480v1)|null|
+|**2025-04-11**|**Adversarial Examples in Environment Perception for Automated Driving (Review)**|Jun Yan et.al.|[2504.08414v1](http://arxiv.org/abs/2504.08414v1)|null|
 |**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141v1](http://arxiv.org/abs/2504.06141v1)|null|
 |**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838v1](http://arxiv.org/abs/2504.05838v1)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
 |**2025-04-06**|**Selective Masking Adversarial Attack on Automatic Speech Recognition Systems**|Zheng Fang et.al.|[2504.04394v1](http://arxiv.org/abs/2504.04394v1)|null|
@@ -872,6 +874,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736v1](http://arxiv.org/abs/2504.08736v1)|null|
+|**2025-04-11**|**Emergent phases in the Yao-Lee model via coupling to topological spin textures**|Muhammad Akram et.al.|[2504.08735v1](http://arxiv.org/abs/2504.08735v1)|null|
+|**2025-04-11**|**Towards an Understanding of Context Utilization in Code Intelligence**|Yanlin Wang et.al.|[2504.08734v1](http://arxiv.org/abs/2504.08734v1)|null|
+|**2025-04-11**|**Quantum Large Language Model Fine-Tuning**|Sang Hyub Kim et.al.|[2504.08732v1](http://arxiv.org/abs/2504.08732v1)|null|
+|**2025-04-11**|**ExoMolHR: A Relational Database of Empirical High-Resolution Molecular Spectra**|Jingxin Zhang et.al.|[2504.08731v1](http://arxiv.org/abs/2504.08731v1)|null|
+|**2025-04-11**|**Dimension reduction for derivative-informed operator learning: An analysis of approximation errors**|Dingcheng Luo et.al.|[2504.08730v1](http://arxiv.org/abs/2504.08730v1)|null|
+|**2025-04-11**|**Steering CLIP's vision transformer with sparse autoencoders**|Sonia Joseph et.al.|[2504.08729v1](http://arxiv.org/abs/2504.08729v1)|null|
+|**2025-04-11**|**End-to-End Demonstration of Quantum Generative Adversarial Networks for Steel Microstructure Image Augmentation on a Trapped-Ion Quantum Computer**|Samwel Sekwao et.al.|[2504.08728v1](http://arxiv.org/abs/2504.08728v1)|null|
+|**2025-04-11**|**Interaction-Required Suggestions for Control, Ownership, and Awareness in Human-AI Co-Writing**|Kenneth C. Arnold et.al.|[2504.08726v1](http://arxiv.org/abs/2504.08726v1)|null|
+|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725v1](http://arxiv.org/abs/2504.08725v1)|null|
 |**2025-04-10**|**Cat, Rat, Meow: On the Alignment of Language Model and Human Term-Similarity Judgments**|Lorenz Linhardt et.al.|[2504.07965v1](http://arxiv.org/abs/2504.07965v1)|null|
 |**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964v1](http://arxiv.org/abs/2504.07964v1)|**[link](https://github.com/tianyi-lab/c3po)**|
 |**2025-04-10**|**PixelFlow: Pixel-Space Generative Models with Flow**|Shoufa Chen et.al.|[2504.07963v1](http://arxiv.org/abs/2504.07963v1)|**[link](https://github.com/shoufachen/pixelflow)**|

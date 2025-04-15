@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Toward Spiking Neural Network Local Learning Modules Resistant to Adversarial Attacks**|Jiaqi Lin et.al.|[2504.08897v1](http://arxiv.org/abs/2504.08897v1)|null|
+|**2025-04-08**|**Exploring Gradient-Guided Masked Language Model to Detect Textual Adversarial Attacks**|Xiaomei Zhang et.al.|[2504.08798v1](http://arxiv.org/abs/2504.08798v1)|null|
 |**2025-04-11**|**Toward Realistic Adversarial Attacks in IDS: A Novel Feasibility Metric for Transferability**|Sabrine Ennaji et.al.|[2504.08480v1](http://arxiv.org/abs/2504.08480v1)|null|
 |**2025-04-11**|**Adversarial Examples in Environment Perception for Automated Driving (Review)**|Jun Yan et.al.|[2504.08414v1](http://arxiv.org/abs/2504.08414v1)|null|
 |**2025-04-11**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141v2](http://arxiv.org/abs/2504.06141v2)|null|
@@ -870,6 +872,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Independent connection in ACTion during inflation**|Alberto Salvio et.al.|[2504.10488v1](http://arxiv.org/abs/2504.10488v1)|null|
+|**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487v1](http://arxiv.org/abs/2504.10487v1)|null|
+|**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486v1](http://arxiv.org/abs/2504.10486v1)|null|
+|**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485v1](http://arxiv.org/abs/2504.10485v1)|null|
+|**2025-04-14**|**Generalized Symmetries of Non-SUSY and Discrete Torsion String Backgrounds**|Noah Braeger et.al.|[2504.10484v1](http://arxiv.org/abs/2504.10484v1)|null|
+|**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483v1](http://arxiv.org/abs/2504.10483v1)|null|
+|**2025-04-14**|**Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey**|Alessandro Pedrotti et.al.|[2504.10482v1](http://arxiv.org/abs/2504.10482v1)|null|
+|**2025-04-14**|**xVerify: Efficient Answer Verifier for Reasoning Model Evaluations**|Ding Chen et.al.|[2504.10481v1](http://arxiv.org/abs/2504.10481v1)|null|
+|**2025-04-14**|**Probing Long-Range Forces in Neutrino Oscillations at the ESSnuSB Experiment**|ESSnuSB et.al.|[2504.10480v1](http://arxiv.org/abs/2504.10480v1)|null|
+|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479v1](http://arxiv.org/abs/2504.10479v1)|null|
 |**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736v1](http://arxiv.org/abs/2504.08736v1)|null|
 |**2025-04-11**|**Emergent phases in the Yao-Lee model via coupling to topological spin textures**|Muhammad Akram et.al.|[2504.08735v1](http://arxiv.org/abs/2504.08735v1)|null|
 |**2025-04-11**|**Towards an Understanding of Context Utilization in Code Intelligence**|Yanlin Wang et.al.|[2504.08734v1](http://arxiv.org/abs/2504.08734v1)|null|

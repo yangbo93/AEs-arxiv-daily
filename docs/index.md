@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-11**|**Toward Realistic Adversarial Attacks in IDS: A Novel Feasibility Metric for Transferability**|Sabrine Ennaji et.al.|[2504.08480v1](http://arxiv.org/abs/2504.08480v1)|null|
 |**2025-04-11**|**Adversarial Examples in Environment Perception for Automated Driving (Review)**|Jun Yan et.al.|[2504.08414v1](http://arxiv.org/abs/2504.08414v1)|null|
-|**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141v1](http://arxiv.org/abs/2504.06141v1)|null|
+|**2025-04-11**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141v2](http://arxiv.org/abs/2504.06141v2)|null|
 |**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838v1](http://arxiv.org/abs/2504.05838v1)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
 |**2025-04-06**|**Selective Masking Adversarial Attack on Automatic Speech Recognition Systems**|Zheng Fang et.al.|[2504.04394v1](http://arxiv.org/abs/2504.04394v1)|null|
 |**2025-04-03**|**Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**|Seif Mzoughi et.al.|[2504.02335v1](http://arxiv.org/abs/2504.02335v1)|null|

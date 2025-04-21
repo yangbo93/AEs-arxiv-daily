@@ -8,8 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Q-FAKER: Query-free Hard Black-box Attack via Controlled Generation**|CheolWon Na et.al.|[2504.13551v1](http://arxiv.org/abs/2504.13551v1)|null|
+|**2025-04-14**|**Investigating cybersecurity incidents using large language models in latest-generation wireless networks**|Leonid Legashev et.al.|[2504.13196v1](http://arxiv.org/abs/2504.13196v1)|null|
 |**2025-04-16**|**SemDiff: Generating Natural Unrestricted Adversarial Examples via Semantic Attributes Optimization in Diffusion Models**|Zeyu Dai et.al.|[2504.11923v1](http://arxiv.org/abs/2504.11923v1)|null|
-|**2025-04-16**|**Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset**|Muhammad Shahid Muneer et.al.|[2504.11707v1](http://arxiv.org/abs/2504.11707v1)|null|
+|**2025-04-16**|**Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset**|Muhammad Shahid Muneer et.al.|[2504.11707v1](http://arxiv.org/abs/2504.11707v1)|**[link](https://github.com/shahidmuneer/multimodal-nsfw-defense)**|
 |**2025-04-15**|**Exploring Backdoor Attack and Defense for LLM-empowered Recommendations**|Liangbo Ning et.al.|[2504.11182v1](http://arxiv.org/abs/2504.11182v1)|null|
 |**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yudong Zhang et.al.|[2504.11038v1](http://arxiv.org/abs/2504.11038v1)|**[link](https://github.com/btzyd/qava)**|
 |**2025-04-15**|**Towards Spatially-Aware and Optimally Faithful Concept-Based Explanations**|Shubham Kumar et.al.|[2504.10833v1](http://arxiv.org/abs/2504.10833v1)|null|
@@ -882,6 +884,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Audit Cards: Contextualizing AI Evaluations**|Leon Staufer et.al.|[2504.13839v1](http://arxiv.org/abs/2504.13839v1)|null|
+|**2025-04-18**|**Directed homotopy modules**|Eric Goubault et.al.|[2504.13838v1](http://arxiv.org/abs/2504.13838v1)|null|
+|**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837v1](http://arxiv.org/abs/2504.13837v1)|null|
+|**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836v1](http://arxiv.org/abs/2504.13836v1)|null|
+|**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835v1](http://arxiv.org/abs/2504.13835v1)|null|
+|**2025-04-18**|**Quasi-Keplerian parametrization for compact binaries on hyperbolic orbits in scalar-tensor theories at second post-Newtonian order**|Davide Usseglio et.al.|[2504.13829v1](http://arxiv.org/abs/2504.13829v1)|null|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828v1](http://arxiv.org/abs/2504.13828v1)|null|
+|**2025-04-18**|**Free Inhomogeneous Wreath Product of Compact Quantum Groups**|Josse van Dobben de Bruyn et.al.|[2504.13826v1](http://arxiv.org/abs/2504.13826v1)|null|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825v1](http://arxiv.org/abs/2504.13825v1)|null|
+|**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822v1](http://arxiv.org/abs/2504.13822v1)|null|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181v1](http://arxiv.org/abs/2504.13181v1)|null|
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|null|
 |**2025-04-17**|**ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation**|Hongyu Li et.al.|[2504.13179v1](http://arxiv.org/abs/2504.13179v1)|null|

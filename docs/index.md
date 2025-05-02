@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 
 ## Adversarial Examples
 
@@ -898,7 +898,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-30**|**Holography and Causality in the Karch-Randall Braneworld**|Hao Geng et.al.|[2504.21856v1](http://arxiv.org/abs/2504.21856v1)|null|
 |**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855v1](http://arxiv.org/abs/2504.21855v1)|null|
-|**2025-04-30**|**SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing**|Shuwen Kan et.al.|[2504.21854v1](http://arxiv.org/abs/2504.21854v1)|null|
+|**2025-05-01**|**SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing**|Shuwen Kan et.al.|[2504.21854v2](http://arxiv.org/abs/2504.21854v2)|null|
 |**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[2504.21853v1](http://arxiv.org/abs/2504.21853v1)|null|
 |**2025-04-30**|**Polka-dotted Stars: a Hierarchical Model for Mapping Stellar Surfaces Using Occultation Light Curves and the Case of TOI-3884**|Sabina Sagynbayeva et.al.|[2504.21852v1](http://arxiv.org/abs/2504.21852v1)|null|
 |**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851v1](http://arxiv.org/abs/2504.21851v1)|null|

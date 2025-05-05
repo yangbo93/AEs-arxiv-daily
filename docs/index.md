@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability**|Anass Grini et.al.|[2505.01328v1](http://arxiv.org/abs/2505.01328v1)|null|
+|**2025-05-02**|**Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability**|Zhaoyang Ma et.al.|[2505.01168v1](http://arxiv.org/abs/2505.01168v1)|null|
+|**2025-05-02**|**Transferable Adversarial Attacks on Black-Box Vision-Language Models**|Kai Hu et.al.|[2505.01050v1](http://arxiv.org/abs/2505.01050v1)|null|
+|**2025-05-01**|**OET: Optimization-based prompt injection Evaluation Toolkit**|Jinsheng Pan et.al.|[2505.00843v1](http://arxiv.org/abs/2505.00843v1)|null|
 |**2025-04-30**|**How to Backdoor the Knowledge Distillation**|Chen Wu et.al.|[2504.21323v1](http://arxiv.org/abs/2504.21323v1)|null|
 |**2025-04-28**|**Evaluate-and-Purify: Fortifying Code Language Models Against Adversarial Attacks Using LLM-as-a-Judge**|Wenhan Mu et.al.|[2504.19730v1](http://arxiv.org/abs/2504.19730v1)|null|
 |**2025-04-26**|**Unveiling and Mitigating Adversarial Vulnerabilities in Iterative Optimizers**|Elad Sofer et.al.|[2504.19000v1](http://arxiv.org/abs/2504.19000v1)|null|
@@ -896,6 +900,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**GENMO: A GENeralist Model for Human MOtion**|Jiefeng Li et.al.|[2505.01425v1](http://arxiv.org/abs/2505.01425v1)|null|
+|**2025-05-02**|**Computational, Data-Driven, and Physics-Informed Machine Learning Approaches for Microstructure Modeling in Metal Additive Manufacturing**|D. Patel et.al.|[2505.01424v1](http://arxiv.org/abs/2505.01424v1)|null|
+|**2025-05-02**|**Neutrino mass generation in asymptotically safe gravity**|Gustavo P. de Brito et.al.|[2505.01422v1](http://arxiv.org/abs/2505.01422v1)|null|
+|**2025-05-02**|**Evaluating Frontier Models for Stealth and Situational Awareness**|Mary Phuong et.al.|[2505.01420v1](http://arxiv.org/abs/2505.01420v1)|null|
+|**2025-05-02**|**Propagation and circulating modes of reciprocal non-Hermitian skin effect**|Issei Takeda et.al.|[2505.01417v1](http://arxiv.org/abs/2505.01417v1)|null|
+|**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415v1](http://arxiv.org/abs/2505.01415v1)|null|
+|**2025-05-02**|**Predicting Plasma Temperature From Line Intensities Using ML Models**|Ashwini Malviya et.al.|[2505.01414v1](http://arxiv.org/abs/2505.01414v1)|null|
+|**2025-05-02**|**Collection of fluorescence from an ion using trap-integrated photonics**|Felix W. Knollmann et.al.|[2505.01412v1](http://arxiv.org/abs/2505.01412v1)|null|
+|**2025-05-02**|**Conciseness of first-order formulae**|Martina Conte et.al.|[2505.01411v1](http://arxiv.org/abs/2505.01411v1)|null|
+|**2025-05-02**|**Towards Optimal Deterministic LOCAL Algorithms on Trees**|Sebastian Brandt et.al.|[2505.01410v1](http://arxiv.org/abs/2505.01410v1)|null|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704v1](http://arxiv.org/abs/2505.00704v1)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703v1](http://arxiv.org/abs/2505.00703v1)|null|
 |**2025-05-01**|**RayZer: A Self-supervised Large View Synthesis Model**|Hanwen Jiang et.al.|[2505.00702v1](http://arxiv.org/abs/2505.00702v1)|null|

@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**ALMA: Aggregated Lipschitz Maximization Attack on Auto-encoders**|Chethan Krishnamurthy Ramanaik et.al.|[2505.03646v1](http://arxiv.org/abs/2505.03646v1)|null|
+|**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435v1](http://arxiv.org/abs/2505.03435v1)|null|
+|**2025-05-06**|**Attention-aggregated Attack for Boosting the Transferability of Facial Adversarial Examples**|Jian-Wei Li et.al.|[2505.03383v1](http://arxiv.org/abs/2505.03383v1)|null|
+|**2025-05-06**|**Adversarial Sample Generation for Anomaly Detection in Industrial Control Systems**|Abdul Mustafa et.al.|[2505.03120v1](http://arxiv.org/abs/2505.03120v1)|null|
 |**2025-05-06**|**Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images**|Siddharth Kothari et.al.|[2505.01884v2](http://arxiv.org/abs/2505.01884v2)|null|
 |**2025-05-02**|**Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability**|Anass Grini et.al.|[2505.01328v1](http://arxiv.org/abs/2505.01328v1)|null|
 |**2025-05-02**|**Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability**|Zhaoyang Ma et.al.|[2505.01168v1](http://arxiv.org/abs/2505.01168v1)|null|
@@ -897,6 +901,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|null|
+|**2025-05-06**|**Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements**|Irene Abril-Cabezas et.al.|[2505.03737v1](http://arxiv.org/abs/2505.03737v1)|null|
+|**2025-05-06**|**Decentralized Nonconvex Optimization under Heavy-Tailed Noise: Normalization and Optimal Convergence**|Shuhua Yu et.al.|[2505.03736v1](http://arxiv.org/abs/2505.03736v1)|null|
+|**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734v1](http://arxiv.org/abs/2505.03734v1)|null|
+|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733v1](http://arxiv.org/abs/2505.03733v1)|null|
+|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730v1](http://arxiv.org/abs/2505.03730v1)|null|
+|**2025-05-06**|**Critical habitat size of organisms diffusing with stochastic resetting**|Luiz Menon et.al.|[2505.03727v1](http://arxiv.org/abs/2505.03727v1)|null|
+|**2025-05-06**|**Anomalous proximity effect under Andreev and Majorana bound states**|Eslam Ahmed et.al.|[2505.03726v1](http://arxiv.org/abs/2505.03726v1)|null|
+|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725v1](http://arxiv.org/abs/2505.03725v1)|null|
+|**2025-05-06**|**Stay Positive: Neural Refinement of Sample Weights**|Benjamin Nachman et.al.|[2505.03724v1](http://arxiv.org/abs/2505.03724v1)|null|
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836v1](http://arxiv.org/abs/2505.02836v1)|null|
 |**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835v1](http://arxiv.org/abs/2505.02835v1)|null|
 |**2025-05-05**|**What is a Gaussian channel, and when is it physically implementable using a multiport interferometer?**|Repana Devendra et.al.|[2505.02834v1](http://arxiv.org/abs/2505.02834v1)|null|

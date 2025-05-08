@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 
 ## Adversarial Examples
 
@@ -12,7 +12,7 @@ layout: default
 |**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435v1](http://arxiv.org/abs/2505.03435v1)|null|
 |**2025-05-06**|**Attention-aggregated Attack for Boosting the Transferability of Facial Adversarial Examples**|Jian-Wei Li et.al.|[2505.03383v1](http://arxiv.org/abs/2505.03383v1)|null|
 |**2025-05-06**|**Adversarial Sample Generation for Anomaly Detection in Industrial Control Systems**|Abdul Mustafa et.al.|[2505.03120v1](http://arxiv.org/abs/2505.03120v1)|null|
-|**2025-05-06**|**Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images**|Siddharth Kothari et.al.|[2505.01884v2](http://arxiv.org/abs/2505.01884v2)|null|
+|**2025-05-06**|**Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images**|Siddharth Kothari et.al.|[2505.01884v2](http://arxiv.org/abs/2505.01884v2)|**[link](https://github.com/gvcl/iwseg-sar-poison)**|
 |**2025-05-02**|**Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability**|Anass Grini et.al.|[2505.01328v1](http://arxiv.org/abs/2505.01328v1)|null|
 |**2025-05-02**|**Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability**|Zhaoyang Ma et.al.|[2505.01168v1](http://arxiv.org/abs/2505.01168v1)|null|
 |**2025-05-02**|**Transferable Adversarial Attacks on Black-Box Vision-Language Models**|Kai Hu et.al.|[2505.01050v1](http://arxiv.org/abs/2505.01050v1)|null|
@@ -905,7 +905,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|null|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements**|Irene Abril-Cabezas et.al.|[2505.03737v1](http://arxiv.org/abs/2505.03737v1)|null|
 |**2025-05-06**|**Decentralized Nonconvex Optimization under Heavy-Tailed Noise: Normalization and Optimal Convergence**|Shuhua Yu et.al.|[2505.03736v1](http://arxiv.org/abs/2505.03736v1)|null|
 |**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734v1](http://arxiv.org/abs/2505.03734v1)|null|

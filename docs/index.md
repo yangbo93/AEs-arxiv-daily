@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Crafting Physical Adversarial Examples by Combining Differentiable and Physically Based Renders**|Yuqiu Liu et.al.|[2505.04662v1](http://arxiv.org/abs/2505.04662v1)|null|
 |**2025-05-06**|**ALMA: Aggregated Lipschitz Maximization Attack on Auto-encoders**|Chethan Krishnamurthy Ramanaik et.al.|[2505.03646v1](http://arxiv.org/abs/2505.03646v1)|null|
 |**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435v1](http://arxiv.org/abs/2505.03435v1)|null|
 |**2025-05-06**|**Attention-aggregated Attack for Boosting the Transferability of Facial Adversarial Examples**|Jian-Wei Li et.al.|[2505.03383v1](http://arxiv.org/abs/2505.03383v1)|null|
@@ -905,6 +906,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475v1](http://arxiv.org/abs/2505.05475v1)|**[link](https://github.com/yc4ny/SVAD)**|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474v1](http://arxiv.org/abs/2505.05474v1)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473v1](http://arxiv.org/abs/2505.05473v1)|null|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472v1](http://arxiv.org/abs/2505.05472v1)|null|
+|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470v1](http://arxiv.org/abs/2505.05470v1)|**[link](https://github.com/yifan123/flow_grpo)**|
+|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469v1](http://arxiv.org/abs/2505.05469v1)|null|
+|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467v1](http://arxiv.org/abs/2505.05467v1)|null|
+|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465v1](http://arxiv.org/abs/2505.05465v1)|null|
+|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464v1](http://arxiv.org/abs/2505.05464v1)|**[link](https://github.com/shiqichen17/vlm_merging)**|
+|**2025-05-08**|**Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe**|M. Gonin et.al.|[2505.05463v1](http://arxiv.org/abs/2505.05463v1)|null|
 |**2025-05-07**|**Testing Thermal-Relic Dark Matter with a Dark Photon Mediator**|Gordan Krnjaic et.al.|[2505.04626v1](http://arxiv.org/abs/2505.04626v1)|null|
 |**2025-05-07**|**First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**|Tim Linden et.al.|[2505.04625v1](http://arxiv.org/abs/2505.04625v1)|null|
 |**2025-05-07**|**Dissipative solitons in parity-time symmetric laser cavities**|Jesús Yelo-Sarrión et.al.|[2505.04624v1](http://arxiv.org/abs/2505.04624v1)|null|

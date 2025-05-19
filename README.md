@@ -906,6 +906,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems**|Lucas Sá et.al.|[2505.11501v1](http://arxiv.org/abs/2505.11501v1)|null|
+|**2025-05-16**|**NVSS J151002+570243: accretion and spin of a z > 4 Fermi detected blazar**|Gabriele Alzati et.al.|[2505.11500v1](http://arxiv.org/abs/2505.11500v1)|null|
+|**2025-05-16**|**Gauged $τ$-lepton chiral currents and $B \to K^{(*)} E_{\rm miss}$**|Luca Di Luzio et.al.|[2505.11499v1](http://arxiv.org/abs/2505.11499v1)|null|
+|**2025-05-16**|**QVGen: Pushing the Limit of Quantized Video Generative Models**|Yushi Huang et.al.|[2505.11497v1](http://arxiv.org/abs/2505.11497v1)|null|
+|**2025-05-16**|**Desirability of outcome ranking (DOOR) analysis for multivariate survival outcomes with application to ACTT-1 trial**|Shiyu Shu et.al.|[2505.11496v1](http://arxiv.org/abs/2505.11496v1)|null|
+|**2025-05-16**|**Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models**|Lizhi Yang et.al.|[2505.11495v1](http://arxiv.org/abs/2505.11495v1)|null|
+|**2025-05-16**|**SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics**|Lizhi Yang et.al.|[2505.11494v1](http://arxiv.org/abs/2505.11494v1)|null|
+|**2025-05-16**|**GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing**|Yusu Qian et.al.|[2505.11493v1](http://arxiv.org/abs/2505.11493v1)|null|
+|**2025-05-16**|**Anomalies in Hadronic $B$ Decays: an Update**|Bhubanjyoti Bhattacharya et.al.|[2505.11492v1](http://arxiv.org/abs/2505.11492v1)|null|
+|**2025-05-16**|**Potential failures of physics-informed machine learning in traffic flow modeling: theoretical and experimental analysis**|Yuan-Zheng Lei et.al.|[2505.11491v1](http://arxiv.org/abs/2505.11491v1)|null|
 |**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566v1](http://arxiv.org/abs/2505.10566v1)|null|
 |**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang et.al.|[2505.10565v1](http://arxiv.org/abs/2505.10565v1)|null|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562v1](http://arxiv.org/abs/2505.10562v1)|null|

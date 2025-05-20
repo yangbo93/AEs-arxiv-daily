@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280v1](http://arxiv.org/abs/2505.13280v1)|**[link](https://github.com/distrinet/flowpure)**|
+|**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873v1](http://arxiv.org/abs/2505.12873v1)|null|
+|**2025-05-19**|**On the Mechanisms of Adversarial Data Augmentation for Robust and Adaptive Transfer Learning**|Hana Satou et.al.|[2505.12681v1](http://arxiv.org/abs/2505.12681v1)|null|
+|**2025-05-19**|**A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection**|Sanggeon Yun et.al.|[2505.12586v1](http://arxiv.org/abs/2505.12586v1)|null|
+|**2025-05-17**|**Adversarial Robustness for Unified Multi-Modal Encoders via Efficient Calibration**|Chih-Ting Liao et.al.|[2505.11895v1](http://arxiv.org/abs/2505.11895v1)|null|
 |**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[2505.08999v1](http://arxiv.org/abs/2505.08999v1)|**[link](https://github.com/pgao-lab/amga)**|
 |**2025-05-08**|**Unpacking Robustness in Inflectional Languages: Adversarial Evaluation and Mechanistic Insights**|Paweł Walkowiak et.al.|[2505.07856v1](http://arxiv.org/abs/2505.07856v1)|null|
 |**2025-05-12**|**No Query, No Access**|Wenqiang Wang et.al.|[2505.07258v1](http://arxiv.org/abs/2505.07258v1)|null|
@@ -910,6 +915,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448v1](http://arxiv.org/abs/2505.13448v1)|**[link](https://github.com/vsamuel2003/cie)**|
+|**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447v1](http://arxiv.org/abs/2505.13447v1)|null|
+|**2025-05-19**|**Unlocking Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[2505.13446v1](http://arxiv.org/abs/2505.13446v1)|null|
+|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445v1](http://arxiv.org/abs/2505.13445v1)|null|
+|**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444v1](http://arxiv.org/abs/2505.13444v1)|null|
+|**2025-05-19**|**Wonderings on Wiggly Bispectra: Non-linear Evolution and Reconstruction of Oscillations in the Squeezed Bispectrum**|Samuel Goldstein et.al.|[2505.13443v1](http://arxiv.org/abs/2505.13443v1)|null|
+|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|null|
+|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|**[link](https://github.com/dwawayu/pensieve)**|
+|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|null|
+|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438v1](http://arxiv.org/abs/2505.13438v1)|**[link](https://github.com/sail-sg/anytimereasoner)**|
 |**2025-05-16**|**Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems**|Lucas Sá et.al.|[2505.11501v1](http://arxiv.org/abs/2505.11501v1)|null|
 |**2025-05-16**|**NVSS J151002+570243: accretion and spin of a z > 4 Fermi detected blazar**|Gabriele Alzati et.al.|[2505.11500v1](http://arxiv.org/abs/2505.11500v1)|null|
 |**2025-05-16**|**Gauged $τ$-lepton chiral currents and $B \to K^{(*)} E_{\rm miss}$**|Luca Di Luzio et.al.|[2505.11499v1](http://arxiv.org/abs/2505.11499v1)|null|

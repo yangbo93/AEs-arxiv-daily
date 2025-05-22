@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword Spotting Examples**|Harry Zhang et.al.|[2505.14814v1](http://arxiv.org/abs/2505.14814v1)|null|
 |**2025-05-20**|**Adversarial Training from Mean Field Perspective**|Soichiro Kumano et.al.|[2505.14021v1](http://arxiv.org/abs/2505.14021v1)|null|
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280v1](http://arxiv.org/abs/2505.13280v1)|**[link](https://github.com/distrinet/flowpure)**|
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873v1](http://arxiv.org/abs/2505.12873v1)|null|
@@ -912,6 +913,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818v1](http://arxiv.org/abs/2505.15818v1)|null|
+|**2025-05-21**|**Learning to Reason via Mixture-of-Thought for Logical Reasoning**|Tong Zheng et.al.|[2505.15817v1](http://arxiv.org/abs/2505.15817v1)|**[link](https://github.com/zhengkid/Truth_Table_Logical_Reasoning)**|
+|**2025-05-21**|**Streamline Without Sacrifice -- Squeeze out Computation Redundancy in LMM**|Penghao Wu et.al.|[2505.15816v1](http://arxiv.org/abs/2505.15816v1)|**[link](https://github.com/penghao-wu/proxyv)**|
+|**2025-05-21**|**Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex**|Muquan Yu et.al.|[2505.15813v1](http://arxiv.org/abs/2505.15813v1)|null|
+|**2025-05-21**|**Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization**|Satoshi Kosugi et.al.|[2505.15812v1](http://arxiv.org/abs/2505.15812v1)|**[link](https://github.com/satoshi-kosugi/powerful-attention)**|
+|**2025-05-21**|**On the creation of narrow AI: hierarchy and nonlocality of neural network skills**|Eric J. Michaud et.al.|[2505.15811v1](http://arxiv.org/abs/2505.15811v1)|null|
+|**2025-05-21**|**GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**|Yuqi Zhou et.al.|[2505.15810v1](http://arxiv.org/abs/2505.15810v1)|**[link](https://github.com/yuqi-zhou/gui-g1)**|
+|**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809v1](http://arxiv.org/abs/2505.15809v1)|**[link](https://github.com/gen-verse/mmada)**|
+|**2025-05-21**|**Neural Conditional Transport Maps**|Carlos Rodriguez-Pardo et.al.|[2505.15808v1](http://arxiv.org/abs/2505.15808v1)|null|
+|**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807v1](http://arxiv.org/abs/2505.15807v1)|null|
 |**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687v1](http://arxiv.org/abs/2505.14687v1)|**[link](https://github.com/oliverrensu/grat)**|
 |**2025-05-20**|**Language Models use Lookbacks to Track Beliefs**|Nikhil Prakash et.al.|[2505.14685v1](http://arxiv.org/abs/2505.14685v1)|null|
 |**2025-05-21**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684v2](http://arxiv.org/abs/2505.14684v2)|null|

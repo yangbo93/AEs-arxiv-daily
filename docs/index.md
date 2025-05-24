@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.23
+## Updated on 2025.05.24
 
 ## Adversarial Examples
 
@@ -15,7 +15,7 @@ layout: default
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280v1](http://arxiv.org/abs/2505.13280v1)|**[link](https://github.com/distrinet/flowpure)**|
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873v1](http://arxiv.org/abs/2505.12873v1)|null|
 |**2025-05-19**|**On the Mechanisms of Adversarial Data Augmentation for Robust and Adaptive Transfer Learning**|Hana Satou et.al.|[2505.12681v1](http://arxiv.org/abs/2505.12681v1)|null|
-|**2025-05-22**|**A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection**|Sanggeon Yun et.al.|[2505.12586v3](http://arxiv.org/abs/2505.12586v3)|null|
+|**2025-05-22**|**A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection**|Sanggeon Yun et.al.|[2505.12586v3](http://arxiv.org/abs/2505.12586v3)|**[link](https://github.com/c0510gy/AFLS-AED)**|
 |**2025-05-17**|**Adversarial Robustness for Unified Multi-Modal Encoders via Efficient Calibration**|Chih-Ting Liao et.al.|[2505.11895v1](http://arxiv.org/abs/2505.11895v1)|null|
 |**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[2505.08999v1](http://arxiv.org/abs/2505.08999v1)|**[link](https://github.com/pgao-lab/amga)**|
 |**2025-05-08**|**Unpacking Robustness in Inflectional Languages: Adversarial Evaluation and Mechanistic Insights**|Paweł Walkowiak et.al.|[2505.07856v1](http://arxiv.org/abs/2505.07856v1)|null|

@@ -1,11 +1,11 @@
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 
 ## Adversarial Examples
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402v1](http://arxiv.org/abs/2505.16402v1)|null|
-|**2025-05-22**|**Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings**|Arjhun Swaminathan et.al.|[2505.16313v1](http://arxiv.org/abs/2505.16313v1)|null|
+|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402v1](http://arxiv.org/abs/2505.16402v1)|**[link](https://github.com/huangyh98/advreal)**|
+|**2025-05-22**|**Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings**|Arjhun Swaminathan et.al.|[2505.16313v1](http://arxiv.org/abs/2505.16313v1)|**[link](https://github.com/mdppml/tea)**|
 |**2025-05-20**|**GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword Spotting Examples**|Harry Zhang et.al.|[2505.14814v1](http://arxiv.org/abs/2505.14814v1)|null|
 |**2025-05-20**|**Adversarial Training from Mean Field Perspective**|Soichiro Kumano et.al.|[2505.14021v1](http://arxiv.org/abs/2505.14021v1)|null|
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280v1](http://arxiv.org/abs/2505.13280v1)|**[link](https://github.com/distrinet/flowpure)**|
@@ -915,12 +915,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|null|
-|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021v1](http://arxiv.org/abs/2505.17021v1)|null|
-|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|null|
-|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019v1](http://arxiv.org/abs/2505.17019v1)|null|
-|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018v1](http://arxiv.org/abs/2505.17018v1)|null|
-|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|null|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|**[link](https://github.com/gogoduan/got-r1)**|
+|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021v1](http://arxiv.org/abs/2505.17021v1)|**[link](https://github.com/mbzuai-oryx/arb)**|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|**[link](https://github.com/shilinyan99/crosslmm)**|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019v1](http://arxiv.org/abs/2505.17019v1)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
+|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018v1](http://arxiv.org/abs/2505.17018v1)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016v1](http://arxiv.org/abs/2505.17016v1)|null|
 |**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015v1](http://arxiv.org/abs/2505.17015v1)|null|
 |**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi et.al.|[2505.17014v1](http://arxiv.org/abs/2505.17014v1)|null|

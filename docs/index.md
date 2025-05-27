@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 
 ## Adversarial Examples
 
@@ -14,7 +14,7 @@ layout: default
 |**2025-05-23**|**VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models**|Hefei Mei et.al.|[2505.17440v1](http://arxiv.org/abs/2505.17440v1)|null|
 |**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402v1](http://arxiv.org/abs/2505.16402v1)|**[link](https://github.com/huangyh98/advreal)**|
 |**2025-05-22**|**Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings**|Arjhun Swaminathan et.al.|[2505.16313v1](http://arxiv.org/abs/2505.16313v1)|**[link](https://github.com/mdppml/tea)**|
-|**2025-05-20**|**GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword Spotting Examples**|Harry Zhang et.al.|[2505.14814v1](http://arxiv.org/abs/2505.14814v1)|null|
+|**2025-05-25**|**GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword Spotting Examples**|Harry Zhang et.al.|[2505.14814v2](http://arxiv.org/abs/2505.14814v2)|null|
 |**2025-05-20**|**Adversarial Training from Mean Field Perspective**|Soichiro Kumano et.al.|[2505.14021v1](http://arxiv.org/abs/2505.14021v1)|null|
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280v1](http://arxiv.org/abs/2505.13280v1)|**[link](https://github.com/distrinet/flowpure)**|
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873v1](http://arxiv.org/abs/2505.12873v1)|null|

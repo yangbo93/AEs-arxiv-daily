@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494v1](http://arxiv.org/abs/2505.21494v1)|null|
+|**2025-05-27**|**Breaking Dataset Boundaries: Class-Agnostic Targeted Adversarial Attacks**|Taïga Gonçalves et.al.|[2505.20782v1](http://arxiv.org/abs/2505.20782v1)|null|
+|**2025-05-26**|**Comparing Neural Network Encodings for Logic-based Explainability**|Levi Cordeiro Carvalho et.al.|[2505.20269v1](http://arxiv.org/abs/2505.20269v1)|null|
 |**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911v1](http://arxiv.org/abs/2505.19911v1)|null|
 |**2025-05-26**|**One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP**|Binyan Xu et.al.|[2505.19840v1](http://arxiv.org/abs/2505.19840v1)|null|
 |**2025-05-24**|**Mal-D2GAN: Double-Detector based GAN for Malware Generation**|Nam Hoang Thanh et.al.|[2505.18806v1](http://arxiv.org/abs/2505.18806v1)|null|
@@ -923,6 +926,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective**|Shimao Zhang et.al.|[2505.21505v1](http://arxiv.org/abs/2505.21505v1)|null|
+|**2025-05-27**|**Tunable intertwining via collective excitations**|Andras Szabo et.al.|[2505.21504v1](http://arxiv.org/abs/2505.21504v1)|null|
+|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503v1](http://arxiv.org/abs/2505.21503v1)|null|
+|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502v1](http://arxiv.org/abs/2505.21502v1)|null|
+|**2025-05-27**|**Vision Transformers with Self-Distilled Registers**|Yinjie Chen et.al.|[2505.21501v1](http://arxiv.org/abs/2505.21501v1)|null|
+|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500v1](http://arxiv.org/abs/2505.21500v1)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499v1](http://arxiv.org/abs/2505.21499v1)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497v1](http://arxiv.org/abs/2505.21497v1)|null|
+|**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496v1](http://arxiv.org/abs/2505.21496v1)|null|
+|**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Pranav N. Thakkar et.al.|[2505.21495v1](http://arxiv.org/abs/2505.21495v1)|null|
 |**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246v1](http://arxiv.org/abs/2505.20246v1)|null|
 |**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245v1](http://arxiv.org/abs/2505.20245v1)|null|
 |**2025-05-26**|**It's High Time: A Survey of Temporal Information Retrieval and Question Answering**|Bhawna Piryani et.al.|[2505.20243v1](http://arxiv.org/abs/2505.20243v1)|null|

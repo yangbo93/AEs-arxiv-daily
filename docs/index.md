@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 
 ## Adversarial Examples
 
@@ -927,6 +927,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246v1](http://arxiv.org/abs/2505.20246v1)|null|
+|**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245v1](http://arxiv.org/abs/2505.20245v1)|null|
+|**2025-05-26**|**It's High Time: A Survey of Temporal Information Retrieval and Question Answering**|Bhawna Piryani et.al.|[2505.20243v1](http://arxiv.org/abs/2505.20243v1)|null|
+|**2025-05-26**|**RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models**|Nguyen Thach et.al.|[2505.20242v1](http://arxiv.org/abs/2505.20242v1)|null|
+|**2025-05-26**|**DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning**|Qi Cao et.al.|[2505.20241v1](http://arxiv.org/abs/2505.20241v1)|null|
+|**2025-05-26**|**Hierarchical Bayesian estimation for continual learning during model-informed precision dosing**|Franziska Thoma et.al.|[2505.20240v1](http://arxiv.org/abs/2505.20240v1)|null|
+|**2025-05-26**|**Unleashing 5G Seamless Integration with TSN for Industry 5.0: Frame Forwarding and QoS Treatment**|Oscar Adamuz-Hinojosa et.al.|[2505.20239v1](http://arxiv.org/abs/2505.20239v1)|null|
+|**2025-05-26**|**On Certain Problems in the Theory of Root Clusters**|Shubham Jaiswal et.al.|[2505.20238v1](http://arxiv.org/abs/2505.20238v1)|null|
+|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237v1](http://arxiv.org/abs/2505.20237v1)|null|
+|**2025-05-26**|**Seeing is Believing, but How Much? A Comprehensive Analysis of Verbalized Calibration in Vision-Language Models**|Weihao Xuan et.al.|[2505.20236v1](http://arxiv.org/abs/2505.20236v1)|null|
 |**2025-05-26**|**HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters**|Yi Chen et.al.|[2505.20156v1](http://arxiv.org/abs/2505.20156v1)|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155v1](http://arxiv.org/abs/2505.20155v1)|null|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154v1](http://arxiv.org/abs/2505.20154v1)|null|

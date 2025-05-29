@@ -1,4 +1,4 @@
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 
 ## Adversarial Examples
 
@@ -8,10 +8,10 @@
 |**2025-05-27**|**Breaking Dataset Boundaries: Class-Agnostic Targeted Adversarial Attacks**|Taïga Gonçalves et.al.|[2505.20782v1](http://arxiv.org/abs/2505.20782v1)|null|
 |**2025-05-26**|**Comparing Neural Network Encodings for Logic-based Explainability**|Levi Cordeiro Carvalho et.al.|[2505.20269v1](http://arxiv.org/abs/2505.20269v1)|null|
 |**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911v1](http://arxiv.org/abs/2505.19911v1)|null|
-|**2025-05-26**|**One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP**|Binyan Xu et.al.|[2505.19840v1](http://arxiv.org/abs/2505.19840v1)|null|
+|**2025-05-26**|**One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP**|Binyan Xu et.al.|[2505.19840v1](http://arxiv.org/abs/2505.19840v1)|**[link](https://github.com/binyxu/univintruder)**|
 |**2025-05-24**|**Mal-D2GAN: Double-Detector based GAN for Malware Generation**|Nam Hoang Thanh et.al.|[2505.18806v1](http://arxiv.org/abs/2505.18806v1)|null|
-|**2025-05-24**|**The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems**|Hongru Song et.al.|[2505.18583v1](http://arxiv.org/abs/2505.18583v1)|null|
-|**2025-05-23**|**Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition**|Ping Li et.al.|[2505.17807v1](http://arxiv.org/abs/2505.17807v1)|null|
+|**2025-05-28**|**The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems**|Hongru Song et.al.|[2505.18583v2](http://arxiv.org/abs/2505.18583v2)|null|
+|**2025-05-23**|**Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition**|Ping Li et.al.|[2505.17807v1](http://arxiv.org/abs/2505.17807v1)|**[link](https://github.com/mlvccn/bmtc_transferattackvid)**|
 |**2025-05-23**|**Ownership Verification of DNN Models Using White-Box Adversarial Attacks with Specified Probability Manipulation**|Teruki Sano et.al.|[2505.17579v1](http://arxiv.org/abs/2505.17579v1)|null|
 |**2025-05-23**|**Enhancing Adversarial Robustness of Vision Language Models via Adversarial Mixture Prompt Tuning**|Shiji Zhao et.al.|[2505.17509v1](http://arxiv.org/abs/2505.17509v1)|null|
 |**2025-05-23**|**VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models**|Hefei Mei et.al.|[2505.17440v1](http://arxiv.org/abs/2505.17440v1)|null|

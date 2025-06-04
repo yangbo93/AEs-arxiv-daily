@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Privacy Leaks by Adversaries: Adversarial Iterations for Membership Inference Attack**|Jing Xue et.al.|[2506.02711v1](http://arxiv.org/abs/2506.02711v1)|null|
+|**2025-05-28**|**Are classical deep neural networks weakly adversarially robust?**|Nuolin Sun et.al.|[2506.02016v1](http://arxiv.org/abs/2506.02016v1)|null|
+|**2025-06-02**|**Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**|Yuan Gan et.al.|[2506.01591v1](http://arxiv.org/abs/2506.01591v1)|null|
+|**2025-06-02**|**Enhancing Diffusion-based Unrestricted Adversarial Attacks via Adversary Preferences Alignment**|Kaixun Jiang et.al.|[2506.01511v1](http://arxiv.org/abs/2506.01511v1)|null|
+|**2025-06-01**|**Fighting Fire with Fire (F3): A Training-free and Efficient Visual Adversarial Example Purification Method in LVLMs**|Yudong Zhang et.al.|[2506.01064v1](http://arxiv.org/abs/2506.01064v1)|null|
+|**2025-06-01**|**Breaking Latent Prior Bias in Detectors for Generalizable AIGC Image Detection**|Yue Zhou et.al.|[2506.00874v1](http://arxiv.org/abs/2506.00874v1)|null|
+|**2025-05-31**|**Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities**|Jiahui Geng et.al.|[2506.00548v1](http://arxiv.org/abs/2506.00548v1)|null|
 |**2025-05-28**|**Understanding Adversarial Training with Energy-based Models**|Mujtaba Hussain Mirza et.al.|[2505.22486v1](http://arxiv.org/abs/2505.22486v1)|null|
 |**2025-05-28**|**Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification**|Jun Chen et.al.|[2505.21854v1](http://arxiv.org/abs/2505.21854v1)|null|
 |**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494v1](http://arxiv.org/abs/2505.21494v1)|null|
@@ -928,6 +935,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150v1](http://arxiv.org/abs/2506.03150v1)|null|
+|**2025-06-03**|**Causal Estimation of Tokenisation Bias**|Pietro Lesci et.al.|[2506.03149v1](http://arxiv.org/abs/2506.03149v1)|null|
+|**2025-06-03**|**Self-Supervised Spatial Correspondence Across Modalities**|Ayush Shrivastava et.al.|[2506.03148v1](http://arxiv.org/abs/2506.03148v1)|null|
+|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v1](http://arxiv.org/abs/2506.03147v1)|null|
+|**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke et.al.|[2506.03146v1](http://arxiv.org/abs/2506.03146v1)|null|
+|**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145v1](http://arxiv.org/abs/2506.03145v1)|null|
+|**2025-06-03**|**MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query**|Wei Chow et.al.|[2506.03144v1](http://arxiv.org/abs/2506.03144v1)|null|
+|**2025-06-03**|**GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**|Qianhui Wu et.al.|[2506.03143v1](http://arxiv.org/abs/2506.03143v1)|null|
+|**2025-06-03**|**Not All Tokens Are Meant to Be Forgotten**|Xiangyu Zhou et.al.|[2506.03142v1](http://arxiv.org/abs/2506.03142v1)|null|
+|**2025-06-03**|**Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval**|Jiwen Yu et.al.|[2506.03141v1](http://arxiv.org/abs/2506.03141v1)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877v1](http://arxiv.org/abs/2505.24877v1)|null|
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876v1](http://arxiv.org/abs/2505.24876v1)|null|
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875v1](http://arxiv.org/abs/2505.24875v1)|null|

@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Dynamic Epsilon Scheduling: A Multi-Factor Adaptive Perturbation Budget for Adversarial Training**|Alan Mitkiy et.al.|[2506.04263v1](http://arxiv.org/abs/2506.04263v1)|null|
 |**2025-06-05**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988v2](http://arxiv.org/abs/2506.03988v2)|null|
 |**2025-06-04**|**Prediction Inconsistency Helps Achieve Generalizable Detection of Adversarial Examples**|Sicong Han et.al.|[2506.03765v1](http://arxiv.org/abs/2506.03765v1)|null|
 |**2025-06-04**|**Robustness of Prompting: Enhancing Robustness of Large Language Models Against Prompting Attacks**|Lin Mu et.al.|[2506.03627v1](http://arxiv.org/abs/2506.03627v1)|null|
@@ -938,6 +939,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350v1](http://arxiv.org/abs/2506.05350v1)|null|
+|**2025-06-05**|**VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos**|Hanoona Rasheed et.al.|[2506.05349v1](http://arxiv.org/abs/2506.05349v1)|null|
+|**2025-06-05**|**FreeTimeGS: Free Gaussians at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348v1](http://arxiv.org/abs/2506.05348v1)|null|
+|**2025-06-05**|**Neural Inverse Rendering from Propagating Light**|Anagh Malik et.al.|[2506.05347v1](http://arxiv.org/abs/2506.05347v1)|null|
+|**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346v1](http://arxiv.org/abs/2506.05346v1)|null|
+|**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345v1](http://arxiv.org/abs/2506.05345v1)|null|
+|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344v1](http://arxiv.org/abs/2506.05344v1)|null|
+|**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343v1](http://arxiv.org/abs/2506.05343v1)|null|
+|**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342v1](http://arxiv.org/abs/2506.05342v1)|null|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341v1](http://arxiv.org/abs/2506.05341v1)|null|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228v1](http://arxiv.org/abs/2506.04228v1)|null|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227v1](http://arxiv.org/abs/2506.04227v1)|null|
 |**2025-06-04**|**Efficient Knowledge Editing via Minimal Precomputation**|Akshat Gupta et.al.|[2506.04226v1](http://arxiv.org/abs/2506.04226v1)|null|

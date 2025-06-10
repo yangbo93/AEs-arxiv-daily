@@ -1,4 +1,4 @@
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 
 ## Adversarial Examples
 
@@ -6,12 +6,12 @@
 |---|---|---|---|---|
 |**2025-06-03**|**How stealthy is stealthy? Studying the Efficacy of Black-Box Adversarial Attacks in the Real World**|Francesco Panebianco et.al.|[2506.05382v1](http://arxiv.org/abs/2506.05382v1)|null|
 |**2025-06-03**|**Dynamic Epsilon Scheduling: A Multi-Factor Adaptive Perturbation Budget for Adversarial Training**|Alan Mitkiy et.al.|[2506.04263v1](http://arxiv.org/abs/2506.04263v1)|null|
-|**2025-06-05**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988v2](http://arxiv.org/abs/2506.03988v2)|null|
+|**2025-06-09**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988v3](http://arxiv.org/abs/2506.03988v3)|**[link](https://github.com/pralab/raid)**|
 |**2025-06-04**|**Prediction Inconsistency Helps Achieve Generalizable Detection of Adversarial Examples**|Sicong Han et.al.|[2506.03765v1](http://arxiv.org/abs/2506.03765v1)|null|
 |**2025-06-04**|**Robustness of Prompting: Enhancing Robustness of Large Language Models Against Prompting Attacks**|Lin Mu et.al.|[2506.03627v1](http://arxiv.org/abs/2506.03627v1)|null|
 |**2025-06-03**|**Privacy Leaks by Adversaries: Adversarial Iterations for Membership Inference Attack**|Jing Xue et.al.|[2506.02711v1](http://arxiv.org/abs/2506.02711v1)|null|
 |**2025-05-28**|**Are classical deep neural networks weakly adversarially robust?**|Nuolin Sun et.al.|[2506.02016v1](http://arxiv.org/abs/2506.02016v1)|null|
-|**2025-06-02**|**Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**|Yuan Gan et.al.|[2506.01591v1](http://arxiv.org/abs/2506.01591v1)|null|
+|**2025-06-02**|**Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**|Yuan Gan et.al.|[2506.01591v1](http://arxiv.org/abs/2506.01591v1)|**[link](https://github.com/yuangan/silencer)**|
 |**2025-06-02**|**Enhancing Diffusion-based Unrestricted Adversarial Attacks via Adversary Preferences Alignment**|Kaixun Jiang et.al.|[2506.01511v1](http://arxiv.org/abs/2506.01511v1)|null|
 |**2025-06-01**|**Fighting Fire with Fire (F3): A Training-free and Efficient Visual Adversarial Example Purification Method in LVLMs**|Yudong Zhang et.al.|[2506.01064v1](http://arxiv.org/abs/2506.01064v1)|null|
 |**2025-06-01**|**Breaking Latent Prior Bias in Detectors for Generalizable AIGC Image Detection**|Yue Zhou et.al.|[2506.00874v1](http://arxiv.org/abs/2506.00874v1)|null|
@@ -943,7 +943,7 @@
 |**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281v1](http://arxiv.org/abs/2506.06281v1)|null|
 |**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280v1](http://arxiv.org/abs/2506.06280v1)|null|
 |**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279v1](http://arxiv.org/abs/2506.06279v1)|null|
-|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|null|
+|**2025-06-09**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v2](http://arxiv.org/abs/2506.06278v2)|null|
 |**2025-06-06**|**ExAct: A Video-Language Benchmark for Expert Action Analysis**|Han Yi et.al.|[2506.06277v1](http://arxiv.org/abs/2506.06277v1)|null|
 |**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276v1](http://arxiv.org/abs/2506.06276v1)|null|
 |**2025-06-06**|**Movie Facts and Fibs (MF$^2$): A Benchmark for Long Movie Understanding**|Emmanouil Zaranis et.al.|[2506.06275v1](http://arxiv.org/abs/2506.06275v1)|null|

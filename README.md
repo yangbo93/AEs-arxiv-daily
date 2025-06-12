@@ -1,9 +1,11 @@
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 
 ## Adversarial Examples
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**A look at adversarial attacks on radio waveforms from discrete latent space**|Attanasia Garuso et.al.|[2506.09896v1](http://arxiv.org/abs/2506.09896v1)|null|
+|**2025-06-10**|**Adversarial Text Generation with Dynamic Contextual Perturbation**|Hetvi Waghela et.al.|[2506.09148v1](http://arxiv.org/abs/2506.09148v1)|null|
 |**2025-06-08**|**Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text**|Yize Cheng et.al.|[2506.07001v1](http://arxiv.org/abs/2506.07001v1)|null|
 |**2025-06-08**|**Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**|Yanting Gao et.al.|[2506.06992v1](http://arxiv.org/abs/2506.06992v1)|null|
 |**2025-06-07**|**Rewriting the Budget: A General Framework for Black-Box Attacks Under Cost Asymmetry**|Mahdi Salmani et.al.|[2506.06933v1](http://arxiv.org/abs/2506.06933v1)|null|
@@ -943,6 +945,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998v1](http://arxiv.org/abs/2506.09998v1)|null|
+|**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997v1](http://arxiv.org/abs/2506.09997v1)|null|
+|**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996v1](http://arxiv.org/abs/2506.09996v1)|null|
+|**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995v1](http://arxiv.org/abs/2506.09995v1)|null|
+|**2025-06-11**|**eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures**|Venkatesh Pattabiraman et.al.|[2506.09994v1](http://arxiv.org/abs/2506.09994v1)|null|
+|**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993v1](http://arxiv.org/abs/2506.09993v1)|null|
+|**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992v1](http://arxiv.org/abs/2506.09992v1)|null|
+|**2025-06-11**|**Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**|Xinyu Yang et.al.|[2506.09991v1](http://arxiv.org/abs/2506.09991v1)|null|
+|**2025-06-11**|**Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation**|Wenbo Zhang et.al.|[2506.09990v1](http://arxiv.org/abs/2506.09990v1)|null|
+|**2025-06-11**|**Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes**|Yiming Dou et.al.|[2506.09989v1](http://arxiv.org/abs/2506.09989v1)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049v1](http://arxiv.org/abs/2506.09049v1)|null|
 |**2025-06-10**|**Understanding Task Vectors in In-Context Learning: Emergence, Functionality, and Limitations**|Yuxin Dong et.al.|[2506.09048v1](http://arxiv.org/abs/2506.09048v1)|null|
 |**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047v1](http://arxiv.org/abs/2506.09047v1)|null|

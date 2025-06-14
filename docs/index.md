@@ -12,9 +12,9 @@ layout: default
 |**2025-06-12**|**Boosting Adversarial Transferability for Hyperspectral Image Classification Using 3D Structure-invariant Transformation and Intermediate Feature Distance**|Chun Liu et.al.|[2506.10459v1](http://arxiv.org/abs/2506.10459v1)|null|
 |**2025-06-11**|**A look at adversarial attacks on radio waveforms from discrete latent space**|Attanasia Garuso et.al.|[2506.09896v1](http://arxiv.org/abs/2506.09896v1)|null|
 |**2025-06-10**|**Adversarial Text Generation with Dynamic Contextual Perturbation**|Hetvi Waghela et.al.|[2506.09148v1](http://arxiv.org/abs/2506.09148v1)|null|
-|**2025-06-08**|**Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text**|Yize Cheng et.al.|[2506.07001v1](http://arxiv.org/abs/2506.07001v1)|null|
+|**2025-06-08**|**Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text**|Yize Cheng et.al.|[2506.07001v1](http://arxiv.org/abs/2506.07001v1)|**[link](https://github.com/chengez/adversarial-paraphrasing)**|
 |**2025-06-08**|**Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**|Yanting Gao et.al.|[2506.06992v1](http://arxiv.org/abs/2506.06992v1)|null|
-|**2025-06-07**|**Rewriting the Budget: A General Framework for Black-Box Attacks Under Cost Asymmetry**|Mahdi Salmani et.al.|[2506.06933v1](http://arxiv.org/abs/2506.06933v1)|null|
+|**2025-06-07**|**Rewriting the Budget: A General Framework for Black-Box Attacks Under Cost Asymmetry**|Mahdi Salmani et.al.|[2506.06933v1](http://arxiv.org/abs/2506.06933v1)|**[link](https://github.com/mahdisalmani/asymmetric-attacks)**|
 |**2025-06-03**|**How stealthy is stealthy? Studying the Efficacy of Black-Box Adversarial Attacks in the Real World**|Francesco Panebianco et.al.|[2506.05382v1](http://arxiv.org/abs/2506.05382v1)|null|
 |**2025-06-03**|**Dynamic Epsilon Scheduling: A Multi-Factor Adaptive Perturbation Budget for Adversarial Training**|Alan Mitkiy et.al.|[2506.04263v1](http://arxiv.org/abs/2506.04263v1)|null|
 |**2025-06-09**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988v3](http://arxiv.org/abs/2506.03988v3)|**[link](https://github.com/pralab/raid)**|

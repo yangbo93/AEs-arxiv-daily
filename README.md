@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**A Neural Rejection System Against Universal Adversarial Perturbations in Radio Signal Classification**|Lu Zhang et.al.|[2506.11901v1](http://arxiv.org/abs/2506.11901v1)|null|
+|**2025-06-13**|**Attention-based Adversarial Robust Distillation in Radio Signal Classifications for Low-Power IoT Devices**|Lu Zhang et.al.|[2506.11892v1](http://arxiv.org/abs/2506.11892v1)|null|
 |**2025-06-12**|**Unsourced Adversarial CAPTCHA: A Bi-Phase Adversarial CAPTCHA Framework**|Xia Du et.al.|[2506.10685v1](http://arxiv.org/abs/2506.10685v1)|null|
 |**2025-06-12**|**Boosting Adversarial Transferability for Hyperspectral Image Classification Using 3D Structure-invariant Transformation and Intermediate Feature Distance**|Chun Liu et.al.|[2506.10459v1](http://arxiv.org/abs/2506.10459v1)|null|
 |**2025-06-11**|**A look at adversarial attacks on radio waveforms from discrete latent space**|Attanasia Garuso et.al.|[2506.09896v1](http://arxiv.org/abs/2506.09896v1)|null|
@@ -947,6 +949,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015v1](http://arxiv.org/abs/2506.12015v1)|null|
+|**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014v1](http://arxiv.org/abs/2506.12014v1)|null|
+|**2025-06-13**|**Entropy production in active Rouse polymers**|Sandipan Dutta et.al.|[2506.12013v1](http://arxiv.org/abs/2506.12013v1)|null|
+|**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012v1](http://arxiv.org/abs/2506.12012v1)|null|
+|**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009v1](http://arxiv.org/abs/2506.12009v1)|null|
+|**2025-06-13**|**Reimagining Dance: Real-time Music Co-creation between Dancers and AI**|Olga Vechtomova et.al.|[2506.12008v1](http://arxiv.org/abs/2506.12008v1)|null|
+|**2025-06-13**|**SIMSHIFT: A Benchmark for Adapting Neural Surrogates to Distribution Shifts**|Paul Setinek et.al.|[2506.12007v1](http://arxiv.org/abs/2506.12007v1)|null|
+|**2025-06-13**|**Bayesian and frequentist perspectives agree on dynamical dark energy**|Laura Herold et.al.|[2506.12004v1](http://arxiv.org/abs/2506.12004v1)|null|
+|**2025-06-13**|**Worldvolume Hybrid Monte Carlo algorithm for group manifolds**|Masafumi Fukuma et.al.|[2506.12002v1](http://arxiv.org/abs/2506.12002v1)|null|
+|**2025-06-13**|**No dynamical CPT symmetry restoration in quantum gravity**|Astrid Eichhorn et.al.|[2506.12001v1](http://arxiv.org/abs/2506.12001v1)|null|
 |**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981v1](http://arxiv.org/abs/2506.10981v1)|null|
 |**2025-06-12**|**InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model**|Junqi You et.al.|[2506.10980v1](http://arxiv.org/abs/2506.10980v1)|null|
 |**2025-06-12**|**How Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?**|Sohee Yang et.al.|[2506.10979v1](http://arxiv.org/abs/2506.10979v1)|null|

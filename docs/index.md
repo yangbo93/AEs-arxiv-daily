@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Position: Certified Robustness Does Not (Yet) Imply Model Security**|Andrew C. Cullen et.al.|[2506.13024v1](http://arxiv.org/abs/2506.13024v1)|null|
+|**2025-06-15**|**Intriguing Frequency Interpretation of Adversarial Robustness for CNNs and ViTs**|Lu Chen et.al.|[2506.12875v1](http://arxiv.org/abs/2506.12875v1)|null|
+|**2025-06-14**|**Existence of Adversarial Examples for Random Convolutional Networks via Isoperimetric Inequalities on $\mathbb{so}(d)$**|Amit Daniely et.al.|[2506.12613v1](http://arxiv.org/abs/2506.12613v1)|null|
 |**2025-06-13**|**A Neural Rejection System Against Universal Adversarial Perturbations in Radio Signal Classification**|Lu Zhang et.al.|[2506.11901v1](http://arxiv.org/abs/2506.11901v1)|null|
 |**2025-06-13**|**Attention-based Adversarial Robust Distillation in Radio Signal Classifications for Low-Power IoT Devices**|Lu Zhang et.al.|[2506.11892v1](http://arxiv.org/abs/2506.11892v1)|null|
 |**2025-06-12**|**Unsourced Adversarial CAPTCHA: A Bi-Phase Adversarial CAPTCHA Framework**|Xia Du et.al.|[2506.10685v1](http://arxiv.org/abs/2506.10685v1)|null|
@@ -953,6 +956,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
+|**2025-06-16**|**Generalized Schur partition functions and RG flows**|Anirudh Deb et.al.|[2506.13764v1](http://arxiv.org/abs/2506.13764v1)|null|
+|**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763v1](http://arxiv.org/abs/2506.13763v1)|null|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762v1](http://arxiv.org/abs/2506.13762v1)|null|
+|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761v1](http://arxiv.org/abs/2506.13761v1)|null|
+|**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759v1](http://arxiv.org/abs/2506.13759v1)|null|
+|**2025-06-16**|**AI reconstruction of European weather from the Euro-Atlantic regimes**|A. Camilletti et.al.|[2506.13758v1](http://arxiv.org/abs/2506.13758v1)|null|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757v1](http://arxiv.org/abs/2506.13757v1)|null|
+|**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756v1](http://arxiv.org/abs/2506.13756v1)|null|
+|**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755v1](http://arxiv.org/abs/2506.13755v1)|null|
 |**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015v1](http://arxiv.org/abs/2506.12015v1)|null|
 |**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014v1](http://arxiv.org/abs/2506.12014v1)|null|
 |**2025-06-13**|**Entropy production in active Rouse polymers**|Sandipan Dutta et.al.|[2506.12013v1](http://arxiv.org/abs/2506.12013v1)|null|

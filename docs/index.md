@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Busting the Paper Ballot: Voting Meets Adversarial Machine Learning**|Kaleel Mahmood et.al.|[2506.14582v1](http://arxiv.org/abs/2506.14582v1)|null|
 |**2025-06-16**|**Position: Certified Robustness Does Not (Yet) Imply Model Security**|Andrew C. Cullen et.al.|[2506.13024v1](http://arxiv.org/abs/2506.13024v1)|null|
 |**2025-06-15**|**Intriguing Frequency Interpretation of Adversarial Robustness for CNNs and ViTs**|Lu Chen et.al.|[2506.12875v1](http://arxiv.org/abs/2506.12875v1)|null|
 |**2025-06-14**|**Existence of Adversarial Examples for Random Convolutional Networks via Isoperimetric Inequalities on $\mathbb{so}(d)$**|Amit Daniely et.al.|[2506.12613v1](http://arxiv.org/abs/2506.12613v1)|null|
@@ -956,6 +957,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**GMT: General Motion Tracking for Humanoid Whole-Body Control**|Zixuan Chen et.al.|[2506.14770v1](http://arxiv.org/abs/2506.14770v1)|null|
+|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769v1](http://arxiv.org/abs/2506.14769v1)|null|
+|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767v1](http://arxiv.org/abs/2506.14767v1)|null|
+|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766v1](http://arxiv.org/abs/2506.14766v1)|null|
+|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765v1](http://arxiv.org/abs/2506.14765v1)|null|
+|**2025-06-17**|**Gravitational-wave background detection using machine learning**|Hugo Einsle et.al.|[2506.14764v1](http://arxiv.org/abs/2506.14764v1)|null|
+|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763v1](http://arxiv.org/abs/2506.14763v1)|null|
+|**2025-06-17**|**Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**|Chengyuan Zhang et.al.|[2506.14762v1](http://arxiv.org/abs/2506.14762v1)|null|
+|**2025-06-17**|**From Bytes to Ideas: Language Modeling with Autoregressive U-Nets**|Mathurin Videau et.al.|[2506.14761v1](http://arxiv.org/abs/2506.14761v1)|null|
+|**2025-06-17**|**Geo-Somatic Resonance Theory A Vibrational Framework for Sleep as Planetary Entrainment**|Brathikan Vijayamohan Mankayarkarasi et.al.|[2506.14760v1](http://arxiv.org/abs/2506.14760v1)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
 |**2025-06-16**|**Generalized Schur partition functions and RG flows**|Anirudh Deb et.al.|[2506.13764v1](http://arxiv.org/abs/2506.13764v1)|null|
 |**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763v1](http://arxiv.org/abs/2506.13763v1)|null|

@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 
 ## Adversarial Examples
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-17**|**Busting the Paper Ballot: Voting Meets Adversarial Machine Learning**|Kaleel Mahmood et.al.|[2506.14582v1](http://arxiv.org/abs/2506.14582v1)|null|
+|**2025-06-17**|**Busting the Paper Ballot: Voting Meets Adversarial Machine Learning**|Kaleel Mahmood et.al.|[2506.14582v1](http://arxiv.org/abs/2506.14582v1)|**[link](https://github.com/votercenter/busting-the-ballot)**|
 |**2025-06-16**|**Position: Certified Robustness Does Not (Yet) Imply Model Security**|Andrew C. Cullen et.al.|[2506.13024v1](http://arxiv.org/abs/2506.13024v1)|null|
 |**2025-06-15**|**Intriguing Frequency Interpretation of Adversarial Robustness for CNNs and ViTs**|Lu Chen et.al.|[2506.12875v1](http://arxiv.org/abs/2506.12875v1)|null|
 |**2025-06-14**|**Existence of Adversarial Examples for Random Convolutional Networks via Isoperimetric Inequalities on $\mathbb{so}(d)$**|Amit Daniely et.al.|[2506.12613v1](http://arxiv.org/abs/2506.12613v1)|null|
 |**2025-06-13**|**A Neural Rejection System Against Universal Adversarial Perturbations in Radio Signal Classification**|Lu Zhang et.al.|[2506.11901v1](http://arxiv.org/abs/2506.11901v1)|null|
 |**2025-06-13**|**Attention-based Adversarial Robust Distillation in Radio Signal Classifications for Low-Power IoT Devices**|Lu Zhang et.al.|[2506.11892v1](http://arxiv.org/abs/2506.11892v1)|null|
-|**2025-06-12**|**Unsourced Adversarial CAPTCHA: A Bi-Phase Adversarial CAPTCHA Framework**|Xia Du et.al.|[2506.10685v1](http://arxiv.org/abs/2506.10685v1)|null|
+|**2025-06-18**|**Unsourced Adversarial CAPTCHA: A Bi-Phase Adversarial CAPTCHA Framework**|Xia Du et.al.|[2506.10685v2](http://arxiv.org/abs/2506.10685v2)|null|
 |**2025-06-12**|**Boosting Adversarial Transferability for Hyperspectral Image Classification Using 3D Structure-invariant Transformation and Intermediate Feature Distance**|Chun Liu et.al.|[2506.10459v1](http://arxiv.org/abs/2506.10459v1)|null|
 |**2025-06-11**|**A look at adversarial attacks on radio waveforms from discrete latent space**|Attanasia Garuso et.al.|[2506.09896v1](http://arxiv.org/abs/2506.09896v1)|null|
 |**2025-06-10**|**Adversarial Text Generation with Dynamic Contextual Perturbation**|Hetvi Waghela et.al.|[2506.09148v1](http://arxiv.org/abs/2506.09148v1)|null|
@@ -957,6 +957,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards**|Qingming Liu et.al.|[2506.15684v1](http://arxiv.org/abs/2506.15684v1)|null|
+|**2025-06-18**|**PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning**|Yuhui Shi et.al.|[2506.15683v1](http://arxiv.org/abs/2506.15683v1)|null|
+|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682v1](http://arxiv.org/abs/2506.15682v1)|null|
+|**2025-06-18**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Byung-Kwan Lee et.al.|[2506.15681v1](http://arxiv.org/abs/2506.15681v1)|null|
+|**2025-06-18**|**Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**|Kaifeng Zhang et.al.|[2506.15680v1](http://arxiv.org/abs/2506.15680v1)|null|
+|**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679v1](http://arxiv.org/abs/2506.15679v1)|null|
+|**2025-06-18**|**A universal W-algebra for N=4 super Yang-Mills**|Federico Bonetti et.al.|[2506.15678v1](http://arxiv.org/abs/2506.15678v1)|null|
+|**2025-06-18**|**Gender-Neutral Machine Translation Strategies in Practice**|Hillary Dawkins et.al.|[2506.15676v1](http://arxiv.org/abs/2506.15676v1)|null|
+|**2025-06-18**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675v1](http://arxiv.org/abs/2506.15675v1)|null|
+|**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674v1](http://arxiv.org/abs/2506.15674v1)|null|
 |**2025-06-17**|**GMT: General Motion Tracking for Humanoid Whole-Body Control**|Zixuan Chen et.al.|[2506.14770v1](http://arxiv.org/abs/2506.14770v1)|null|
 |**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769v1](http://arxiv.org/abs/2506.14769v1)|null|
 |**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767v1](http://arxiv.org/abs/2506.14767v1)|null|

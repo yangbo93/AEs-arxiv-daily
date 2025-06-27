@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features**|Shangbo Wu et.al.|[2506.21046v1](http://arxiv.org/abs/2506.21046v1)|null|
+|**2025-06-25**|**Universal and Efficient Detection of Adversarial Data through Nonuniform Impact on Network Layers**|Furkan Mumcu et.al.|[2506.20816v1](http://arxiv.org/abs/2506.20816v1)|null|
+|**2025-06-25**|**On Convolutions, Intrinsic Dimension, and Diffusion Models**|Kin Kwan Leung et.al.|[2506.20705v1](http://arxiv.org/abs/2506.20705v1)|null|
 |**2025-06-23**|**Amplifying Machine Learning Attacks Through Strategic Compositions**|Yugeng Liu et.al.|[2506.18870v1](http://arxiv.org/abs/2506.18870v1)|null|
 |**2025-06-23**|**DUMB and DUMBer: Is Adversarial Training Worth It in the Real World?**|Francesco Marchiori et.al.|[2506.18516v1](http://arxiv.org/abs/2506.18516v1)|null|
 |**2025-06-19**|**MBA: Multimodal Bidirectional Attack for Referring Expression Segmentation Models**|Xingbai Chen et.al.|[2506.16157v1](http://arxiv.org/abs/2506.16157v1)|null|
@@ -961,6 +964,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552v1](http://arxiv.org/abs/2506.21552v1)|null|
+|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551v1](http://arxiv.org/abs/2506.21551v1)|null|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550v1](http://arxiv.org/abs/2506.21550v1)|null|
+|**2025-06-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al.|[2506.21549v1](http://arxiv.org/abs/2506.21549v1)|null|
+|**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547v1](http://arxiv.org/abs/2506.21547v1)|null|
+|**2025-06-26**|**HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation**|Xinzhuo Li et.al.|[2506.21546v1](http://arxiv.org/abs/2506.21546v1)|null|
+|**2025-06-26**|**Data Efficacy for Language Model Training**|Yalun Dai et.al.|[2506.21545v1](http://arxiv.org/abs/2506.21545v1)|null|
+|**2025-06-26**|**DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion**|Yansong Qu et.al.|[2506.21544v1](http://arxiv.org/abs/2506.21544v1)|null|
+|**2025-06-26**|**Detecting weighted hidden cliques**|Urmisha Chatterjee et.al.|[2506.21543v1](http://arxiv.org/abs/2506.21543v1)|null|
+|**2025-06-26**|**Quintessence and phantoms in light of DESI 2025**|Ioannis D. Gialamas et.al.|[2506.21542v1](http://arxiv.org/abs/2506.21542v1)|null|
 |**2025-06-25**|**IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals**|Markus Gross et.al.|[2506.20671v1](http://arxiv.org/abs/2506.20671v1)|null|
 |**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670v1](http://arxiv.org/abs/2506.20670v1)|null|
 |**2025-06-25**|**An iterative CMB lensing estimator minimizing instrumental noise bias**|Louis Legrand et.al.|[2506.20667v1](http://arxiv.org/abs/2506.20667v1)|null|

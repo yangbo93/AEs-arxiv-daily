@@ -960,6 +960,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436v1](http://arxiv.org/abs/2506.22436v1)|null|
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434v1](http://arxiv.org/abs/2506.22434v1)|null|
+|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433v1](http://arxiv.org/abs/2506.22433v1)|null|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432v1](http://arxiv.org/abs/2506.22432v1)|null|
+|**2025-06-27**|**Gravitational redshift from large-scale structure: nonlinearities, anti-symmetries, and the dipole**|Lawrence Dam et.al.|[2506.22431v1](http://arxiv.org/abs/2506.22431v1)|null|
+|**2025-06-27**|**General many-body entanglement swapping protocol**|Santeri Huhtanen et.al.|[2506.22430v1](http://arxiv.org/abs/2506.22430v1)|null|
+|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429v1](http://arxiv.org/abs/2506.22429v1)|null|
+|**2025-06-27**|**Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms**|Roland Andrews et.al.|[2506.22428v1](http://arxiv.org/abs/2506.22428v1)|null|
+|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|null|
+|**2025-06-27**|**Derivation of Tissue Properties from Basis-Vector Model Weights for Dual-Energy CT-Based Monte Carlo Proton Beam Dose Calculations**|Maria Jose Medrano et.al.|[2506.22425v1](http://arxiv.org/abs/2506.22425v1)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552v1](http://arxiv.org/abs/2506.21552v1)|null|
 |**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551v1](http://arxiv.org/abs/2506.21551v1)|null|
 |**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550v1](http://arxiv.org/abs/2506.21550v1)|null|

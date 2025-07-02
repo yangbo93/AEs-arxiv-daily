@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 
 ## Adversarial Examples
 
@@ -970,12 +970,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-30**|**Controlling the false discovery rate under a non-parametric graphical dependence model**|Drew T. Nguyen et.al.|[2506.24126v1](http://arxiv.org/abs/2506.24126v1)|null|
 |**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125v1](http://arxiv.org/abs/2506.24125v1)|null|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124v1](http://arxiv.org/abs/2506.24124v1)|null|
+|**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124v2](http://arxiv.org/abs/2506.24124v2)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123v1](http://arxiv.org/abs/2506.24123v1)|null|
 |**2025-06-30**|**TextMesh4D: High-Quality Text-to-4D Mesh Generation**|Sisi Dai et.al.|[2506.24121v1](http://arxiv.org/abs/2506.24121v1)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120v1](http://arxiv.org/abs/2506.24120v1)|null|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119v1](http://arxiv.org/abs/2506.24119v1)|null|
-|**2025-06-30**|**Computational Detection of Intertextual Parallels in Biblical Hebrew: A Benchmark Study Using Transformer-Based Language Models**|David M. Smiley et.al.|[2506.24117v1](http://arxiv.org/abs/2506.24117v1)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119v2](http://arxiv.org/abs/2506.24119v2)|null|
+|**2025-07-01**|**Intertextual Parallel Detection in Biblical Hebrew: A Transformer-Based Benchmark**|David M. Smiley et.al.|[2506.24117v2](http://arxiv.org/abs/2506.24117v2)|null|
 |**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu et.al.|[2506.24115v1](http://arxiv.org/abs/2506.24115v1)|null|
 |**2025-06-30**|**A Refined Kernel for $d$-Hitting Set**|Yuxi Liu et.al.|[2506.24114v1](http://arxiv.org/abs/2506.24114v1)|null|
 |**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436v1](http://arxiv.org/abs/2506.22436v1)|null|

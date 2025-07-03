@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Boosting Adversarial Transferability Against Defenses via Multi-Scale Transformation**|Zihong Guo et.al.|[2507.01791v1](http://arxiv.org/abs/2507.01791v1)|null|
 |**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676v1](http://arxiv.org/abs/2506.23676v1)|null|
 |**2025-06-30**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661v1](http://arxiv.org/abs/2506.23661v1)|null|
 |**2025-06-28**|**Revisiting CroPA: A Reproducibility Study and Enhancements for Cross-Prompt Adversarial Transferability in Vision-Language Models**|Atharv Mittal et.al.|[2506.22982v1](http://arxiv.org/abs/2506.22982v1)|null|
@@ -964,6 +965,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962v1](http://arxiv.org/abs/2507.01962v1)|null|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|null|
+|**2025-07-02**|**Stabilization of long-range order in low-dimensional nonequilibrium $O(N)$ models**|Oriana K. Diessel et.al.|[2507.01959v1](http://arxiv.org/abs/2507.01959v1)|null|
+|**2025-07-02**|**Parallel-in-Time Preconditioning for Time-Dependent Variational Mean Field Games**|Heidi Wolles Ljósheim et.al.|[2507.01958v1](http://arxiv.org/abs/2507.01958v1)|null|
+|**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957v1](http://arxiv.org/abs/2507.01957v1)|null|
+|**2025-07-02**|**Universal lower bound on the axion decay constant from free streaming effects**|Keisuke Harigaya et.al.|[2507.01956v1](http://arxiv.org/abs/2507.01956v1)|null|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955v1](http://arxiv.org/abs/2507.01955v1)|null|
+|**2025-07-02**|**Dirty Black Holes, Clean Signals: Near-Horizon vs. Environmental Effects on Grey-Body Factors and Hawking Radiation**|Roman A. Konoplya et.al.|[2507.01954v1](http://arxiv.org/abs/2507.01954v1)|null|
+|**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953v1](http://arxiv.org/abs/2507.01953v1)|null|
+|**2025-07-02**|**Test-Time Scaling with Reflective Generative Model**|Zixiao Wang et.al.|[2507.01951v1](http://arxiv.org/abs/2507.01951v1)|null|
 |**2025-06-30**|**Controlling the false discovery rate under a non-parametric graphical dependence model**|Drew T. Nguyen et.al.|[2506.24126v1](http://arxiv.org/abs/2506.24126v1)|null|
 |**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125v1](http://arxiv.org/abs/2506.24125v1)|null|
 |**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124v2](http://arxiv.org/abs/2506.24124v2)|null|

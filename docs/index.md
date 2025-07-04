@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 
 ## Adversarial Examples
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**Boosting Adversarial Transferability Against Defenses via Multi-Scale Transformation**|Zihong Guo et.al.|[2507.01791v1](http://arxiv.org/abs/2507.01791v1)|null|
 |**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676v1](http://arxiv.org/abs/2506.23676v1)|null|
-|**2025-06-30**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661v1](http://arxiv.org/abs/2506.23661v1)|null|
+|**2025-07-03**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661v2](http://arxiv.org/abs/2506.23661v2)|null|
 |**2025-06-28**|**Revisiting CroPA: A Reproducibility Study and Enhancements for Cross-Prompt Adversarial Transferability in Vision-Language Models**|Atharv Mittal et.al.|[2506.22982v1](http://arxiv.org/abs/2506.22982v1)|null|
 |**2025-06-28**|**Kill Two Birds with One Stone! Trajectory enabled Unified Online Detection of Adversarial Examples and Backdoor Attacks**|Anmin Fu et.al.|[2506.22722v1](http://arxiv.org/abs/2506.22722v1)|null|
 |**2025-06-26**|**Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features**|Shangbo Wu et.al.|[2506.21046v1](http://arxiv.org/abs/2506.21046v1)|null|
@@ -970,7 +970,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962v1](http://arxiv.org/abs/2507.01962v1)|null|
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|null|
+|**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|null|
 |**2025-07-02**|**Stabilization of long-range order in low-dimensional nonequilibrium $O(N)$ models**|Oriana K. Diessel et.al.|[2507.01959v1](http://arxiv.org/abs/2507.01959v1)|null|
 |**2025-07-02**|**Parallel-in-Time Preconditioning for Time-Dependent Variational Mean Field Games**|Heidi Wolles Ljósheim et.al.|[2507.01958v1](http://arxiv.org/abs/2507.01958v1)|null|
 |**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957v1](http://arxiv.org/abs/2507.01957v1)|null|

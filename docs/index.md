@@ -969,6 +969,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864v1](http://arxiv.org/abs/2507.02864v1)|null|
+|**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862v1](http://arxiv.org/abs/2507.02862v1)|null|
+|**2025-07-03**|**LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**|Zhening Huang et.al.|[2507.02861v1](http://arxiv.org/abs/2507.02861v1)|null|
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860v1](http://arxiv.org/abs/2507.02860v1)|null|
+|**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859v1](http://arxiv.org/abs/2507.02859v1)|null|
+|**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858v1](http://arxiv.org/abs/2507.02858v1)|null|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857v1](http://arxiv.org/abs/2507.02857v1)|null|
+|**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856v1](http://arxiv.org/abs/2507.02856v1)|null|
+|**2025-07-03**|**Imprints of information scrambling on eigenstates of a quantum chaotic system**|Bikram Pain et.al.|[2507.02853v1](http://arxiv.org/abs/2507.02853v1)|null|
+|**2025-07-03**|**Proof of a magnificent conjecture**|M. Kool et.al.|[2507.02852v1](http://arxiv.org/abs/2507.02852v1)|null|
 |**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962v1](http://arxiv.org/abs/2507.01962v1)|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|null|
 |**2025-07-02**|**Stabilization of long-range order in low-dimensional nonequilibrium $O(N)$ models**|Oriana K. Diessel et.al.|[2507.01959v1](http://arxiv.org/abs/2507.01959v1)|null|

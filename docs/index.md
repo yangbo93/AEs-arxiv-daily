@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776v1](http://arxiv.org/abs/2507.07776v1)|null|
+|**2025-07-10**|**TRIX- Trading Adversarial Fairness via Mixed Adversarial Training**|Tejaswini Medi et.al.|[2507.07768v1](http://arxiv.org/abs/2507.07768v1)|null|
+|**2025-07-09**|**Exploiting Edge Features for Transferable Adversarial Attacks in Distributed Machine Learning**|Giulio Rossolini et.al.|[2507.07259v1](http://arxiv.org/abs/2507.07259v1)|null|
 |**2025-07-08**|**Reward Models Can Improve Themselves: Reward-Guided Adversarial Failure Mode Discovery for Robust Reward Modeling**|Pankayaraj Pathmanathan et.al.|[2507.06419v1](http://arxiv.org/abs/2507.06419v1)|null|
 |**2025-07-08**|**ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models**|Chihan Huang et.al.|[2507.06078v1](http://arxiv.org/abs/2507.06078v1)|null|
 |**2025-07-08**|**RabakBench: Scaling Human Annotations to Construct Localized Multilingual Safety Benchmarks for Low-Resource Languages**|Gabriel Chua et.al.|[2507.05980v1](http://arxiv.org/abs/2507.05980v1)|null|
@@ -976,6 +979,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**|Helen Qu et.al.|[2507.08000v1](http://arxiv.org/abs/2507.08000v1)|null|
+|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999v1](http://arxiv.org/abs/2507.07999v1)|null|
+|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998v1](http://arxiv.org/abs/2507.07998v1)|null|
+|**2025-07-10**|**MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization**|Mingkai Jia et.al.|[2507.07997v1](http://arxiv.org/abs/2507.07997v1)|null|
+|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996v1](http://arxiv.org/abs/2507.07996v1)|null|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993v1](http://arxiv.org/abs/2507.07993v1)|null|
+|**2025-07-10**|**Correlations and quantum circuits with dynamical causal order**|Raphaël Mothe et.al.|[2507.07992v1](http://arxiv.org/abs/2507.07992v1)|null|
+|**2025-07-10**|**Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations**|Michael Kovač et.al.|[2507.07991v1](http://arxiv.org/abs/2507.07991v1)|null|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990v1](http://arxiv.org/abs/2507.07990v1)|null|
+|**2025-07-10**|**Strong converse rate for asymptotic hypothesis testing in type III**|Nicholas Laracuente et.al.|[2507.07989v1](http://arxiv.org/abs/2507.07989v1)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106v1](http://arxiv.org/abs/2507.07106v1)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105v1](http://arxiv.org/abs/2507.07105v1)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104v1](http://arxiv.org/abs/2507.07104v1)|null|

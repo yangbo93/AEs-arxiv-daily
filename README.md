@@ -1,11 +1,11 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 
 ## Adversarial Examples
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-10**|**Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion**|Frederick Shpilevskiy et.al.|[2507.08163v1](http://arxiv.org/abs/2507.08163v1)|null|
-|**2025-07-10**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776v1](http://arxiv.org/abs/2507.07776v1)|null|
+|**2025-07-14**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776v2](http://arxiv.org/abs/2507.07776v2)|null|
 |**2025-07-10**|**TRIX- Trading Adversarial Fairness via Mixed Adversarial Training**|Tejaswini Medi et.al.|[2507.07768v1](http://arxiv.org/abs/2507.07768v1)|null|
 |**2025-07-09**|**Exploiting Edge Features for Transferable Adversarial Attacks in Distributed Machine Learning**|Giulio Rossolini et.al.|[2507.07259v1](http://arxiv.org/abs/2507.07259v1)|null|
 |**2025-07-08**|**Reward Models Can Improve Themselves: Reward-Guided Adversarial Failure Mode Discovery for Robust Reward Modeling**|Pankayaraj Pathmanathan et.al.|[2507.06419v1](http://arxiv.org/abs/2507.06419v1)|null|

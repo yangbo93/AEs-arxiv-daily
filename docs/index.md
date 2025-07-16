@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Crafting Imperceptible On-Manifold Adversarial Attacks for Tabular Data**|Zhipeng He et.al.|[2507.10998v1](http://arxiv.org/abs/2507.10998v1)|null|
+|**2025-07-14**|**REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**|Zhonghao Zhan et.al.|[2507.10836v1](http://arxiv.org/abs/2507.10836v1)|null|
 |**2025-07-10**|**Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion**|Frederick Shpilevskiy et.al.|[2507.08163v1](http://arxiv.org/abs/2507.08163v1)|null|
 |**2025-07-14**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776v2](http://arxiv.org/abs/2507.07776v2)|null|
 |**2025-07-10**|**TRIX- Trading Adversarial Fairness via Mixed Adversarial Training**|Tejaswini Medi et.al.|[2507.07768v1](http://arxiv.org/abs/2507.07768v1)|null|
@@ -980,6 +982,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540v1](http://arxiv.org/abs/2507.11540v1)|null|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539v1](http://arxiv.org/abs/2507.11539v1)|null|
+|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538v1](http://arxiv.org/abs/2507.11538v1)|null|
+|**2025-07-15**|**KPZ equation from open ASEP with general boundary asymmetry**|Kevin Yang et.al.|[2507.11537v1](http://arxiv.org/abs/2507.11537v1)|null|
+|**2025-07-15**|**Understanding Quantum Information and Computation**|John Watrous et.al.|[2507.11536v1](http://arxiv.org/abs/2507.11536v1)|null|
+|**2025-07-15**|**Canonical Bayesian Linear System Identification**|Andrey Bryutkin et.al.|[2507.11535v1](http://arxiv.org/abs/2507.11535v1)|null|
+|**2025-07-15**|**CharaConsist: Fine-Grained Consistent Character Generation**|Mengyu Wang et.al.|[2507.11533v1](http://arxiv.org/abs/2507.11533v1)|null|
+|**2025-07-15**|**Critical and super-critical scatterings in baryogenesis and leptogenesis**|Marcos M. Flores et.al.|[2507.11532v1](http://arxiv.org/abs/2507.11532v1)|null|
+|**2025-07-15**|**Langevin Flows for Modeling Neural Latent Dynamics**|Yue Song et.al.|[2507.11531v1](http://arxiv.org/abs/2507.11531v1)|null|
+|**2025-07-15**|**Intrinsic alignment demographics for next-generation lensing: Revealing galaxy property trends with DESI Y1 direct measurements**|J. Siegel et.al.|[2507.11530v1](http://arxiv.org/abs/2507.11530v1)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548v1](http://arxiv.org/abs/2507.10548v1)|null|
 |**2025-07-14**|**Quantize-then-Rectify: Efficient VQ-VAE Training**|Borui Zhang et.al.|[2507.10547v1](http://arxiv.org/abs/2507.10547v1)|null|
 |**2025-07-14**|**Disentangling Neural Disjunctive Normal Form Models**|Kexin Gu Baugh et.al.|[2507.10546v1](http://arxiv.org/abs/2507.10546v1)|null|

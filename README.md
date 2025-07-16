@@ -1,4 +1,4 @@
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 
 ## Adversarial Examples
 
@@ -982,7 +982,7 @@
 |**2025-07-14**|**Observational biases on rotation curves from IFU data at cosmic noon**|Amanda E. de Araujo-Carvalho et.al.|[2507.10544v1](http://arxiv.org/abs/2507.10544v1)|null|
 |**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543v1](http://arxiv.org/abs/2507.10543v1)|null|
 |**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542v1](http://arxiv.org/abs/2507.10542v1)|null|
-|**2025-07-14**|**REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once**|Zhuoshi Pan et.al.|[2507.10541v1](http://arxiv.org/abs/2507.10541v1)|null|
+|**2025-07-15**|**REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once**|Zhuoshi Pan et.al.|[2507.10541v2](http://arxiv.org/abs/2507.10541v2)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540v1](http://arxiv.org/abs/2507.10540v1)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539v1](http://arxiv.org/abs/2507.10539v1)|null|
 |**2025-07-14**|**Resolving Degeneracies in Complex $\mathbb{R}\times S^3$ and $θ$-KSW**|Manishankar Ailiga et.al.|[2507.10537v1](http://arxiv.org/abs/2507.10537v1)|null|

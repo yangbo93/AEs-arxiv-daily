@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 
 ## Adversarial Examples
 
@@ -983,12 +983,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-16**|**Language Models Improve When Pretraining Data Matches Target Tasks**|David Mizrahi et.al.|[2507.12466v1](http://arxiv.org/abs/2507.12466v1)|null|
-|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465v1](http://arxiv.org/abs/2507.12465v1)|null|
+|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465v2](http://arxiv.org/abs/2507.12465v2)|null|
 |**2025-07-16**|**CytoSAE: Interpretable Cell Embeddings for Hematology**|Muhammed Furkan Dasdelen et.al.|[2507.12464v1](http://arxiv.org/abs/2507.12464v1)|null|
 |**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463v1](http://arxiv.org/abs/2507.12463v1)|null|
 |**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461v1](http://arxiv.org/abs/2507.12461v1)|null|
 |**2025-07-16**|**The BAO-CMB Tension and Implications for Inflation**|Elisa G. M. Ferreira et.al.|[2507.12459v1](http://arxiv.org/abs/2507.12459v1)|null|
-|**2025-07-16**|**Does $K$-fold CV based penalty perform variable selection or does it lead to $n^{1/2}$-consistency in Lasso?**|Mayukh Choudhury et.al.|[2507.12457v1](http://arxiv.org/abs/2507.12457v1)|null|
+|**2025-07-17**|**Does $K$-fold CV based penalty perform variable selection or does it lead to $n^{1/2}$-consistency in Lasso?**|Mayukh Choudhury et.al.|[2507.12457v2](http://arxiv.org/abs/2507.12457v2)|null|
 |**2025-07-16**|**On One-Shot Signatures, Quantum vs Classical Binding, and Obfuscating Permutations**|Omri Shmueli et.al.|[2507.12456v1](http://arxiv.org/abs/2507.12456v1)|null|
 |**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455v1](http://arxiv.org/abs/2507.12455v1)|null|
 |**2025-07-16**|**Cohomology rings of character varieties**|Anton Mellit et.al.|[2507.12454v1](http://arxiv.org/abs/2507.12454v1)|null|

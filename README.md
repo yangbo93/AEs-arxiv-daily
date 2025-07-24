@@ -984,6 +984,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Direct correlation of line intensity mapping and CMB lensing from lightcone evolution**|Delon Shen et.al.|[2507.17752v1](http://arxiv.org/abs/2507.17752v1)|null|
+|**2025-07-23**|**Perturbative renormalization group approach to magic-angle twisted bilayer graphene using topological heavy fermion model**|Yi Huang et.al.|[2507.17751v1](http://arxiv.org/abs/2507.17751v1)|null|
+|**2025-07-23**|**Scaling Properties of Current Fluctuations in Periodic TASEP**|Anastasiia Trofimova et.al.|[2507.17750v1](http://arxiv.org/abs/2507.17750v1)|null|
+|**2025-07-23**|**Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users**|Weixin Chen et.al.|[2507.17749v1](http://arxiv.org/abs/2507.17749v1)|null|
+|**2025-07-23**|**Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility**|Melih Barsbey et.al.|[2507.17748v1](http://arxiv.org/abs/2507.17748v1)|null|
+|**2025-07-23**|**Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach to QA Benchmarks**|Linbo Cao et.al.|[2507.17747v1](http://arxiv.org/abs/2507.17747v1)|null|
+|**2025-07-23**|**Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**|Anisha Gunjal et.al.|[2507.17746v1](http://arxiv.org/abs/2507.17746v1)|null|
+|**2025-07-23**|**Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention**|Yiwen Chen et.al.|[2507.17745v1](http://arxiv.org/abs/2507.17745v1)|null|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744v1](http://arxiv.org/abs/2507.17744v1)|null|
+|**2025-07-23**|**Educational Insights from Code: Mapping Learning Challenges in Object-Oriented Programming through Code-Based Evidence**|Andre Menolli et.al.|[2507.17743v1](http://arxiv.org/abs/2507.17743v1)|null|
 |**2025-07-22**|**Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data**|Yunyi Shen et.al.|[2507.16817v1](http://arxiv.org/abs/2507.16817v1)|null|
 |**2025-07-22**|**Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**|Calvin Leung et.al.|[2507.16816v1](http://arxiv.org/abs/2507.16816v1)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815v1](http://arxiv.org/abs/2507.16815v1)|null|

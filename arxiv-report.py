@@ -1,9 +1,12 @@
-
 import datetime
 import requests
 import json
 import arxiv
 import re
+import os
+import tempfile
+import shutil
+import glob
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
@@ -19,12 +22,10 @@ def del_not_english(string):
 
 
 def get_authors(authors, first_author=False):
-    output = str()
-    if first_author == False:
-        output = ", ".join(str(author) for author in authors)
-    else:
-        output = authors[0]
-    return output
+    # ensure we always return strings (avoid returning Author objects)
+    if first_author:
+        return str(authors[0]) if authors else ""
+    return ", ".join(str(author) for author in authors)
 
 
 def sort_papers(papers):
@@ -34,6 +35,43 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
+
+
+def safe_load_json(path):
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            text = f.read()
+            if not text:
+                return {}
+            return json.loads(text)
+    except FileNotFoundError:
+        return {}
+    except json.JSONDecodeError:
+        # backup corrupted file and return empty dict so script can continue
+        try:
+            backup = f"{path}.corrupt.{int(datetime.datetime.now().timestamp())}"
+            shutil.copyfile(path, backup)
+            print(f"WARNING: JSON decode error reading {path}. Backed up to {backup}. Reinitializing.")
+        except Exception as e:
+            print(f"WARNING: Failed to backup corrupted json {path}: {e}")
+        return {}
+
+
+def safe_write_json(path, data):
+    dirpath = os.path.dirname(path) or "."
+    fd, tmp_path = tempfile.mkstemp(prefix="tmp", dir=dirpath)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp_path, path)
+    finally:
+        if os.path.exists(tmp_path):
+            try:
+                os.remove(tmp_path)
+            except Exception:
+                pass
 
 
 def get_daily_papers(topic, query="AEs", max_results=2):
@@ -46,9 +84,6 @@ def get_daily_papers(topic, query="AEs", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
-
-    # content
-    output = dict()
 
     search_engine = arxiv.Search(
         query=query,
@@ -85,20 +120,23 @@ def get_daily_papers(topic, query="AEs", max_results=2):
             paper_key = paper_id[0:ver_pos]
 
         try:
-            r = requests.get(code_url).json()
-            # source code link
-            if "official" in r and r["official"]:
-                cnt += 1
-                repo_url = r["official"]["url"]
-                content[
-                    paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content_to_web[
-                    paper_key] = f"- **{update_time}**, **{paper_title}**, {paper_first_author} et.al., [PDF:{paper_id}]({paper_url}), **[code]({repo_url})**\n"
+            resp = requests.get(code_url, timeout=10)
+            if resp.status_code == 200:
+                try:
+                    r = resp.json()
+                except Exception:
+                    r = {}
             else:
-                content[
-                    paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
-                content_to_web[
-                    paper_key] = f"- **{update_time}**, **{paper_title}**, {paper_first_author} et.al., [PDF:{paper_id}]({paper_url})\n"
+                r = {}
+            # source code link
+            if isinstance(r, dict) and r.get("official"):
+                cnt += 1
+                repo_url = r["official"].get("url", "")
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+                content_to_web[paper_key] = f"- **{update_time}**, **{paper_title}**, {paper_first_author} et.al., [PDF:{paper_id}]({paper_url}), **[code]({repo_url})**\n"
+            else:
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
+                content_to_web[paper_key] = f"- **{update_time}**, **{paper_title}**, {paper_first_author} et.al., [PDF:{paper_id}]({paper_url})\n"
 
         except Exception as e:
             print(f"exception: {e} with id: {paper_key}")
@@ -109,86 +147,81 @@ def get_daily_papers(topic, query="AEs", max_results=2):
 
 
 def update_json_file(filename, data_all):
-    with open(filename, "r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-
-    json_data = m.copy()
+    """
+    Read filename safely, merge data_all into it, and write it back atomically.
+    data_all is a list of dicts like [{topic: {paper_key: md_line}}...]
+    """
+    json_data = safe_load_json(filename)
 
     # update papers in each keywords
     for data in data_all:
         for keyword in data.keys():
             papers = data[keyword]
-
-            if keyword in json_data.keys():
-                json_data[keyword].update(papers)
+            if keyword in json_data:
+                # ensure both sides are dicts
+                if isinstance(json_data[keyword], dict):
+                    json_data[keyword].update(papers)
+                else:
+                    json_data[keyword] = papers
             else:
                 json_data[keyword] = papers
 
-    with open(filename, "w") as f:
-        json.dump(json_data, f)
+    safe_write_json(filename, json_data)
 
 
-def json_to_md(filename, to_web=False):
-    """
-    @param filename: str
-    @return None
-    """
+def merge_json_files(file_list):
+    merged = {}
+    for p in file_list:
+        d = safe_load_json(p)
+        for k, v in d.items():
+            if k not in merged:
+                merged[k] = {}
+            if isinstance(v, dict):
+                merged[k].update(v)
+    return merged
 
+
+def write_md_from_data(data, to_web=False, md_filename=None):
     DateNow = datetime.date.today()
-    DateNow = str(DateNow)
-    DateNow = DateNow.replace('-', '.')
+    DateNow = str(DateNow).replace('-', '.')
 
-    with open(filename, "r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    if md_filename is None:
+        md_filename = "./docs/index.md" if to_web else "README.md"
 
-    if to_web == False:
-        md_filename = "README.md"
-    else:
-        md_filename = "./docs/index.md"
+    # write content atomically via temp file
+    dirpath = os.path.dirname(md_filename) or "."
+    fd, tmp_path = tempfile.mkstemp(prefix="tmpmd", dir=dirpath)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            if to_web:
+                f.write("---\nlayout: default\n---\n\n")
+            f.write("## Updated on " + DateNow + "\n\n")
 
-        # clean README.md if daily already exist else create it
-    with open(md_filename, "w+") as f:
-        pass
+            for keyword in data.keys():
+                day_content = data[keyword]
+                if not day_content:
+                    continue
+                f.write(f"## {keyword}\n\n")
+                if not to_web:
+                    f.write("|Publish Date|Title|Authors|PDF|Code|\n|---|---|---|---|---|\n")
+                else:
+                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
-    # write data into README.md
-    with open(md_filename, "a+", encoding='utf-8') as f:
-
-        if to_web == True:
-            f.write("---\n" + "layout: default\n" + "---\n\n")
-
-        f.write("## Updated on " + DateNow + "\n\n")
-
-        for keyword in data.keys():
-            day_content = data[keyword]
-            if not day_content:
-                continue
-            # the head of each part
-            f.write(f"## {keyword}\n\n")
-
-            if to_web == False:
-                f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-            else:
-                f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
-
-            # sort papers by date
-            day_content = sort_papers(day_content)
-
-            for _, v in day_content.items():
-                if v is not None:
-                    f.write(v)
-
-            f.write(f"\n")
-
-    print("finished")
+                # sort papers by key (descending)
+                day_content = sort_papers(day_content)
+                for _, v in day_content.items():
+                    if v is not None:
+                        f.write(v)
+                f.write("\n")
+        # atomic replace
+        os.replace(tmp_path, md_filename)
+    finally:
+        if os.path.exists(tmp_path):
+            try:
+                os.remove(tmp_path)
+            except Exception:
+                pass
 
 
 if __name__ == "__main__":
@@ -196,37 +229,44 @@ if __name__ == "__main__":
     data_collector_web = []
 
     keywords = dict()
-    keywords["Adversarial Examples"] = "AEs" + "OR" + "\"adversarial examples\""
-    keywords["Generalization"] = "model training" + "AND" + "\"Generalization\""
-    
-    for topic, keyword in keywords.items():
-        # topic = keyword.replace("\"","")
-        print("Keyword: " + topic)
+    # fix: ensure spaces around boolean operators for arXiv query syntax
+    keywords["Adversarial Examples"] = 'AEs OR "adversarial examples"'
+    keywords["Generalization"] = 'model training AND "Generalization"'
 
+    for topic, keyword in keywords.items():
+        print("Keyword: " + topic)
         data, data_web = get_daily_papers(topic, query=keyword, max_results=10)
         data_collector.append(data)
         data_collector_web.append(data_web)
-
         print("\n")
 
-    # update README.md file
-    json_file = "AEs-arxiv-daily.json"
-    #     if ~os.path.exists(json_file):
-    #         with open(json_file,'w')as a:
-    #             print("create " + json_file)
+    # determine 4-month rolling period id (e.g., 2025-p1, 2025-p2, 2025-p3)
+    today = datetime.date.today()
+    year = today.year
+    period_index = (today.month - 1) // 4 + 1
+    period = f"{year}-p{period_index}"
 
-    # update json data
-    update_json_file(json_file, data_collector)
-    # json data to markdown
-    json_to_md(json_file)
+    # file names for this period
+    root_json = f"AEs-arxiv-daily-{period}.json"
+    docs_json = f"./docs/AEs-arxiv-daily-web-{period}.json"
 
-    # update docs/index.md file
-    json_file = "./docs/AEs-arxiv-daily-web.json"
-    #     if ~os.path.exists(json_file):
-    #         with open(json_file,'w')as a:
-    #             print("create " + json_file)
+    # ensure docs dir exists
+    os.makedirs("./docs", exist_ok=True)
 
-    # update json data
-    update_json_file(json_file, data_collector)
-    # json data to markdown
-    json_to_md(json_file, to_web=True)
+    # update per-period JSON files
+    update_json_file(root_json, data_collector)
+    update_json_file(docs_json, data_collector_web)
+
+    # generate aggregated md files from all period JSONs so the md shows full history
+    root_json_files = sorted(glob.glob("AEs-arxiv-daily-*.json"))
+    docs_json_files = sorted(glob.glob("./docs/AEs-arxiv-daily-web-*.json"))
+
+    merged_root = merge_json_files(root_json_files)
+    merged_docs = merge_json_files(docs_json_files)
+
+    # write README.md (aggregate across all root jsons)
+    write_md_from_data(merged_root, to_web=False, md_filename="README.md")
+    # write docs/index.md (aggregate across all docs jsons)
+    write_md_from_data(merged_docs, to_web=True, md_filename="./docs/index.md")
+
+    print("finished")

@@ -253,6 +253,23 @@ if __name__ == "__main__":
     # ensure docs dir exists
     os.makedirs("./docs", exist_ok=True)
 
+    # --- Backfill legacy files if present and period files do not exist ---
+    legacy_root = "AEs-arxiv-daily.json"
+    legacy_docs = "./docs/AEs-arxiv-daily-web.json"
+    if not os.path.exists(root_json) and os.path.exists(legacy_root):
+        try:
+            shutil.copyfile(legacy_root, root_json)
+            print(f"INFO: Backed up legacy {legacy_root} -> {root_json}")
+        except Exception as e:
+            print(f"WARNING: failed to copy legacy root json: {e}")
+    if not os.path.exists(docs_json) and os.path.exists(legacy_docs):
+        try:
+            shutil.copyfile(legacy_docs, docs_json)
+            print(f"INFO: Backed up legacy {legacy_docs} -> {docs_json}")
+        except Exception as e:
+            print(f"WARNING: failed to copy legacy docs json: {e}")
+    # ------------------------------------------------------------------
+
     # update per-period JSON files
     update_json_file(root_json, data_collector)
     update_json_file(docs_json, data_collector_web)
